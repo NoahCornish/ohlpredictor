@@ -12,6 +12,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const selectedDate = dateSelect.value;
         console.log(`Date selected: ${selectedDate}`);
 
+        // Clear previous games and results
+        gameContainer.innerHTML = '';
+        resultsDiv.innerHTML = '';
+
         if (!selectedDate) {
             gameContainer.innerHTML = '<p>Please select a date to view games.</p>';
             return;
@@ -52,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
             gameBox.classList.add('game-box');
 
             gameBox.innerHTML = `
-                <h3>${prediction.home_team} vs ${prediction.away_team}</h3>
+                <h3>${prediction.home_team} <span>vs</span> ${prediction.away_team}</h3>
                 <button class="select-btn" data-home="${prediction.home_team}" data-away="${prediction.away_team}">SELECT</button>
             `;
 
@@ -79,9 +83,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (gamePrediction) {
             resultsDiv.innerHTML = `
-                <h2>Prediction for ${homeTeam} vs ${awayTeam}</h2>
-                <p><strong>Winner:</strong> ${gamePrediction.winner}</p>
-                <p><strong>Odds:</strong> ${homeTeam}: ${gamePrediction.odds[homeTeam]}, ${awayTeam}: ${gamePrediction.odds[awayTeam]}</p>
+                <h2>${homeTeam} vs ${awayTeam}</h2>
+                <p><strong>Predicted Winner:</strong> <span class="winner">${gamePrediction.winner}</span></p>
+                <p><strong>Odds:</strong> ${homeTeam}: <span class="odds">${gamePrediction.odds[homeTeam]}</span>, 
+                ${awayTeam}: <span class="odds">${gamePrediction.odds[awayTeam]}</span></p>
             `;
         } else {
             resultsDiv.innerHTML = '<p>No prediction data found for this game.</p>';

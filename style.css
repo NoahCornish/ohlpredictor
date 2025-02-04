@@ -1,57 +1,126 @@
+/* General Layout */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
     padding: 20px;
-    background-color: #f4f4f4;
+    margin: 0;
+    line-height: 1.6;
 }
 
 h1 {
-    color: #333;
+    color: #212529;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5em;
 }
 
+/* Date Picker */
 label {
+    font-weight: bold;
     display: block;
-    margin: 10px 0 5px;
+    margin: 15px 0 5px;
+    text-align: center;
+    font-size: 1.1em;
 }
 
 input[type="date"] {
-    padding: 8px;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
     width: 200px;
-    margin-bottom: 20px;
+    text-align: center;
+    display: block;
+    margin: 0 auto 20px;
+    background-color: #fff;
+    color: #495057;
+    font-size: 1em;
 }
 
+/* Game Container */
 #game-container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 20px;
+    padding: 10px;
 }
 
+/* Game Box */
 .game-box {
-    background-color: white;
-    padding: 15px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    width: 250px;
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 20px;
+    width: 280px;
     text-align: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
 
+.game-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.game-box h3 {
+    margin-bottom: 10px;
+    font-size: 1.4em;
+    color: #343a40;
+}
+
+.game-box span {
+    color: #6c757d;
+    font-weight: bold;
+}
+
+/* Select Button */
 .select-btn {
-    padding: 8px 16px;
     background-color: #007bff;
     color: white;
+    padding: 10px 20px;
     border: none;
-    cursor: pointer;
     border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
 }
 
 .select-btn:hover {
     background-color: #0056b3;
 }
 
+/* Results Section */
 #results {
-    margin-top: 20px;
-    background-color: white;
-    padding: 15px;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #ced4da;
+    max-width: 600px;
+    margin: 30px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+#results h2 {
+    margin-top: 0;
+    font-size: 1.8em;
+    color: #495057;
+    text-align: center;
+}
+
+#results p {
+    font-size: 1.1em;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.winner {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.odds {
+    color: #dc3545;
+    font-weight: bold;
 }
