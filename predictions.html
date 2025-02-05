@@ -1,4 +1,3 @@
-<!-- predictions.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,35 +12,35 @@
             <a href="index.html" class="logo">OHL Predictions</a>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
-                <li><a href="predictions.html">Predictor</a></li>
-                <li><a href="accuracy.html">Accuracy</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">Menu ▾</a>
+                    <div class="dropdown-content">
+                        <a href="predictions.html">Predictor</a>
+                        <a href="accuracy.html">Accuracy</a>
+                    </div>
+                </li>
             </ul>
         </div>
     </nav>
 
     <main class="container predictions">
         <h1 class="main-heading">OHL Game Predictor</h1>
-    
+
         <label for="date-select" class="date-label">Select Date:</label>
         <input type="date" id="date-select" class="date-input">
-    
+
         <div id="game-container" class="game-container"></div>
         <div id="results" class="results"></div>
-    
-        <!-- ✅ Disclaimer -->
+
         <p class="disclaimer">
-            Disclaimer: The predictive outputs displayed on this platform are generated through algorithmic models that analyze historical data and statistical trends. 
-            These predictions are for informational purposes only and do not constitute financial advice, 
-            betting recommendations, or any form of legally binding forecast. 
-            The predictive models operate within probabilistic frameworks and are inherently limited by data variability, 
-            model assumptions, and factors beyond analytical control. 
-            Users acknowledge and accept that all outcomes are speculative, 
-            and any actions taken based on these predictions are at the user's sole risk. 
-            The creators, operators, and associated parties explicitly disclaim any liability for losses, 
-            damages, or adverse outcomes arising from the reliance on, or use of, these predictive results.
+        Disclaimer: The predictive outputs displayed on this platform are generated using advanced algorithmic models that analyze historical data, 
+        statistical trends, and other relevant factors. While we strive for accuracy, 
+        no model can guarantee future outcomes, as sports events are influenced by unpredictable variables beyond analytical control. 
+        These predictions are provided for informational purposes only. 
+        Users are solely responsible for any decisions made based on the information provided. 
+        OHL Predictions disclaims all liability for losses or damages arising from the reliance on these predictive results.
         </p>
     </main>
-    
 
     <footer class="footer">
         <p>&copy; 2025 OHL Predictions. All Rights Reserved.</p>

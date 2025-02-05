@@ -1,4 +1,64 @@
 /* 🌐 Base Styles */
+
+/* ✅ Fallback in case JavaScript fails */
+body {
+    display: block !important;
+}
+
+/* ✅ Password-Protected Popup */
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.popup-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 300px;
+    position: relative;
+}
+
+.popup-content h2 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #11172b;
+}
+
+.popup-content input {
+    width: 90%;
+    padding: 0.6rem;
+    margin: 0.5rem 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.popup-content button {
+    background-color: #11172b;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-top: 1rem;
+}
+
+.popup-content button:hover {
+    background-color: #e94560;
+}
+
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
@@ -224,5 +284,366 @@ body {
 
     .navbar, .footer, .game-box, .accuracy-summary {
         font-size: 0.9rem;
+    }
+}
+/* 🌐 Dropdown Menu */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown .dropbtn {
+    background-color: #11172b;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 0.8rem;
+    text-decoration: none;
+    display: block;
+    transition: background 0.3s ease;
+}
+
+.dropdown-content a:hover {
+    background-color: #e94560;
+    color: white;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #e94560;
+}
+
+/* ✂️ Smaller Title Box */
+.hero {
+    background: linear-gradient(to right, #11172b, #e94560);
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.small-hero {
+    padding: 1rem 0; /* Reduced height */
+}
+
+.hero-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.hero-subtitle {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+/* ✅ Popup Modal */
+.popup {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #e94560;
+}
+
+.close-btn:hover {
+    color: red;
+}
+
+/* ✅ Improve Game Selection Buttons */
+.select-btn {
+    background-color: #11172b;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.2rem;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+    display: block;
+    margin: 1rem auto;
+}
+
+.select-btn:hover {
+    background-color: #e94560;
+    transform: scale(1.05);
+}
+/* ✅ Password-Protected Popup */
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.popup-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 300px;
+    position: relative;
+}
+
+.popup-content h2 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #11172b;
+}
+
+.popup-content input {
+    width: 90%;
+    padding: 0.6rem;
+    margin: 0.5rem 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.popup-content button {
+    background-color: #11172b;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-top: 1rem;
+}
+
+.popup-content button:hover {
+    background-color: #e94560;
+}
+
+/* ✅ Base Styles */
+body {
+    display: block !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f8;
+    color: #333;
+    line-height: 1.6;
+    scroll-behavior: smooth;
+    text-align: center;
+}
+
+/* 🔝 Navbar (Compact) */
+.navbar {
+    background-color: #11172b;
+    color: white;
+    padding: 0.5rem 1rem; /* Reduced padding */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    gap: 1rem;
+}
+
+.navbar .logo {
+    font-size: 1.4rem; /* Smaller font size */
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.3rem 0.8rem; /* Smaller padding */
+    transition: background 0.3s ease, color 0.3s ease;
+    border-radius: 5px;
+}
+
+.nav-links a:hover {
+    background-color: #e94560;
+    color: white;
+}
+
+/* 📦 Container */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 1rem;
+}
+
+/* 🎯 Compact Hero Section */
+.hero.compact-hero {
+    background: linear-gradient(to right, #11172b, #e94560);
+    color: white;
+    text-align: center;
+    padding: 1rem 0; /* Reduced padding */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.hero-title {
+    font-size: 1.5rem; /* Smaller title */
+    font-weight: bold;
+    margin: 0.5rem 0;
+}
+
+.btn-primary {
+    background-color: #e94560;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #11172b;
+}
+
+/* 📊 Footer */
+.footer {
+    background-color: #11172b;
+    color: white;
+    text-align: center;
+    padding: 0.5rem 0; /* Reduced footer height */
+    font-size: 0.8rem;
+    margin-top: 1rem;
+}
+
+/* ✅ Clock Styling */
+.clock {
+    background-color: #11172b;
+    color: white;
+    padding: 0.3rem;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    margin: 0.5rem auto;
+    max-width: 250px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* ✅ Password-Protected Popup */
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.popup-content {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 280px;
+    position: relative;
+}
+
+.popup-content h2 {
+    font-size: 1.2rem;
+    color: #11172b;
+}
+
+.popup-content input {
+    width: 90%;
+    padding: 0.5rem;
+    margin: 0.3rem 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.popup-content button {
+    background-color: #11172b;
+    color: white;
+    border: none;
+    padding: 0.6rem 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-top: 0.5rem;
+}
+
+.popup-content button:hover {
+    background-color: #e94560;
+}
+
+/* 📱 Responsive Design */
+@media (max-width: 600px) {
+    .navbar {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .hero-title {
+        font-size: 1.2rem;
+    }
+
+    .btn-primary {
+        padding: 0.4rem 0.8rem;
     }
 }
