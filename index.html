@@ -1,20 +1,36 @@
+<!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OHL Game Predictions</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>OHL Game Predictions</h1>
+    <nav class="navbar sticky">
+        <div class="container">
+            <a href="index.html" class="logo">OHL Predictions</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="predictions.html">Predictor</a></li>
+                <li><a href="accuracy.html">Accuracy</a></li>
+            </ul>
+        </div>
+    </nav>
 
-    <label for="date-select">Select Date:</label>
-    <input type="date" id="date-select">
+    <header class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">Welcome to OHL Game Predictions</h1>
+            <p class="hero-subtitle">Accurate insights powered by data-driven analytics.</p>
+            <a href="predictions.html" class="btn-primary">View Predictions</a>
+        </div>
+    </header>
 
-    <div id="game-container"></div>
-
-    <div id="results"></div>
-
-    <script src="app.js"></script>
+    <footer class="footer">
+        <p>&copy; 2025 OHL Predictions. All Rights Reserved.</p>
+        <div id="clock" class="clock"></div> <!-- ✅ Clock container -->
+    </footer>
+    
 </body>
 </html>

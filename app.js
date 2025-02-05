@@ -1,95 +1,102 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const dateSelect = document.getElementById('date-select');
+    const dateInput = document.getElementById('date-select');
     const gameContainer = document.getElementById('game-container');
     const resultsDiv = document.getElementById('results');
 
-    let predictions = [];
-
-    console.log("App loaded successfully.");
-
-    // Load predictions when a date is selected
-    dateSelect.addEventListener('change', () => {
-        const selectedDate = dateSelect.value;
-        console.log(`Date selected: ${selectedDate}`);
-
-        // Clear previous games and results
-        gameContainer.innerHTML = '';
+    dateInput.addEventListener('change', function () {
+        // ✅ Clear the selected game when the date changes
         resultsDiv.innerHTML = '';
 
-        if (!selectedDate) {
-            gameContainer.innerHTML = '<p>Please select a date to view games.</p>';
-            return;
-        }
+        fetch(`docs/JSON_DATA/${this.value}.json`)
+            .then(response => response.json())
+            .then(games => {
+                gameContainer.innerHTML = '';
 
-        const filePath = `docs/JSON_DATA/${selectedDate}.json`;
-        console.log(`Fetching predictions from: ${filePath}`);
+                games.forEach(game => {
+                    const gameBox = document.createElement('div');
+                    gameBox.className = 'game-box';
 
-        fetch(filePath)
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error(`No predictions available for ${selectedDate}.`);
-                }
-                return response.json();
-            })
-            .then(data => {
-                console.log("Data fetched successfully:", data);
-                predictions = data;
-                displayGames(predictions);
+                    // ✅ Only display the two teams and SELECT button
+                    gameBox.innerHTML = `
+                        <div class="game-row">
+                            <span class="team away-team">${game.away_team}</span>
+                            <span class="vs">vs</span>
+                            <span class="team home-team">${game.home_team}</span>
+                        </div>
+                        <button class="select-btn" data-home="${game.home_team}" data-away="${game.away_team}">SELECT</button>
+                    `;
+
+                    gameContainer.appendChild(gameBox);
+                });
+
+                // ✅ Add event listeners for SELECT buttons
+                document.querySelectorAll('.select-btn').forEach(button => {
+                    button.addEventListener('click', (e) => {
+                        const homeTeam = e.target.dataset.home;
+                        const awayTeam = e.target.dataset.away;
+                        showGameDetails(homeTeam, awayTeam, dateInput.value);
+                    });
+                });
             })
             .catch(error => {
-                console.error("Error fetching data:", error);
-                gameContainer.innerHTML = `<p>${error.message}</p>`;
+                console.error('Error loading game data:', error);
+                gameContainer.innerHTML = '<p>NO GAME DATA AVAILABLE.</p>';
             });
     });
 
-    // Display each game in its own box with a SELECT button
-    function displayGames(predictions) {
-        gameContainer.innerHTML = ''; // Clear previous games
+    // ✅ Show game details when SELECT button is clicked
+    function showGameDetails(homeTeam, awayTeam, selectedDate) {
+        const filePath = `docs/JSON_DATA/${selectedDate}.json`;
 
-        if (predictions.length === 0) {
-            gameContainer.innerHTML = '<p>No games found for the selected date.</p>';
-            return;
-        }
+        fetch(filePath)
+            .then(response => response.json())
+            .then(predictions => {
+                const game = predictions.find(pred => pred.home_team === homeTeam && pred.away_team === awayTeam);
 
-        predictions.forEach(prediction => {
-            const gameBox = document.createElement('div');
-            gameBox.classList.add('game-box');
-
-            gameBox.innerHTML = `
-                <h3>${prediction.home_team} <span>vs</span> ${prediction.away_team}</h3>
-                <button class="select-btn" data-home="${prediction.home_team}" data-away="${prediction.away_team}">SELECT</button>
-            `;
-
-            gameContainer.appendChild(gameBox);
-        });
-
-        // Add event listeners to SELECT buttons
-        document.querySelectorAll('.select-btn').forEach(button => {
-            button.addEventListener('click', (e) => {
-                const homeTeam = e.target.dataset.home;
-                const awayTeam = e.target.dataset.away;
-                showGameDetails(homeTeam, awayTeam);
+                if (game) {
+                    resultsDiv.innerHTML = `
+                        <div class="game-row">
+                            <span class="team away-team">${game.away_team}</span>
+                            <span class="vs">vs</span>
+                            <span class="team home-team">${game.home_team}</span>
+                        </div>
+                        <p><strong>Predicted Winner:</strong> <span class="winner">${game.winner}</span></p>
+                        <p><strong>Odds:</strong> ${game.away_team}: <span class="odds">${game.odds[game.away_team]}</span>, 
+                        ${game.home_team}: <span class="odds">${game.odds[game.home_team]}</span></p>
+                    `;
+                } else {
+                    resultsDiv.innerHTML = '<p>No prediction data available for this game.</p>';
+                }
+            })
+            .catch(error => {
+                console.error("Error loading game details:", error);
+                resultsDiv.innerHTML = '<p>Error loading game details.</p>';
             });
-        });
     }
 
-    // Show detailed game information
-    function showGameDetails(homeTeam, awayTeam) {
-        console.log(`Showing details for: ${homeTeam} vs ${awayTeam}`);
-
-        const gamePrediction = predictions.find(
-            pred => pred.home_team === homeTeam && pred.away_team === awayTeam
-        );
-
-        if (gamePrediction) {
-            resultsDiv.innerHTML = `
-                <h2>${homeTeam} vs ${awayTeam}</h2>
-                <p><strong>Predicted Winner:</strong> <span class="winner">${gamePrediction.winner}</span></p>
-                <p><strong>Odds:</strong> ${homeTeam}: <span class="odds">${gamePrediction.odds[homeTeam]}</span>, 
-                ${awayTeam}: <span class="odds">${gamePrediction.odds[awayTeam]}</span></p>
+    function updateClock() {
+        const now = new Date();
+        const estTime = now.toLocaleString('en-US', { 
+            timeZone: 'America/New_York', 
+            hour: '2-digit', 
+            minute: '2-digit', 
+            second: '2-digit',
+            hour12: true 
+        });
+        const utcTime = now.toUTCString().slice(17, 25);
+    
+        const clockElement = document.getElementById('clock');
+        if (clockElement) {
+            clockElement.innerHTML = `
+                <strong>EST:</strong> ${estTime} | <strong>UTC:</strong> ${utcTime}
             `;
-        } else {
-            resultsDiv.innerHTML = '<p>No prediction data found for this game.</p>';
         }
     }
+    
+    // ✅ Update the clock every second
+    setInterval(updateClock, 1000);
+    updateClock();  // ✅ Initialize immediately
+    
+    
+    
 });

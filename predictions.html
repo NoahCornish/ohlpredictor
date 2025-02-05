@@ -1,0 +1,52 @@
+<!-- predictions.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OHL Predictor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar sticky">
+        <div class="container">
+            <a href="index.html" class="logo">OHL Predictions</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="predictions.html">Predictor</a></li>
+                <li><a href="accuracy.html">Accuracy</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container predictions">
+        <h1 class="main-heading">OHL Game Predictor</h1>
+    
+        <label for="date-select" class="date-label">Select Date:</label>
+        <input type="date" id="date-select" class="date-input">
+    
+        <div id="game-container" class="game-container"></div>
+        <div id="results" class="results"></div>
+    
+        <!-- ✅ Disclaimer -->
+        <p class="disclaimer">
+            Disclaimer: The predictive outputs displayed on this platform are generated through algorithmic models that analyze historical data and statistical trends. 
+            These predictions are for informational purposes only and do not constitute financial advice, 
+            betting recommendations, or any form of legally binding forecast. 
+            The predictive models operate within probabilistic frameworks and are inherently limited by data variability, 
+            model assumptions, and factors beyond analytical control. 
+            Users acknowledge and accept that all outcomes are speculative, 
+            and any actions taken based on these predictions are at the user's sole risk. 
+            The creators, operators, and associated parties explicitly disclaim any liability for losses, 
+            damages, or adverse outcomes arising from the reliance on, or use of, these predictive results.
+        </p>
+    </main>
+    
+
+    <footer class="footer">
+        <p>&copy; 2025 OHL Predictions. All Rights Reserved.</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

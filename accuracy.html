@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Accuracy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar sticky">
+        <div class="container">
+            <a href="index.html" class="logo">OHL Predictions</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="predictions.html">Predictor</a></li>
+                <li><a href="accuracy.html">Accuracy</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <h1 class="main-heading">Prediction Accuracy Since January 29, 2025</h1>
+    
+        <div class="accuracy-summary">
+            <h2>Total Accuracy</h2>
+            <p id="total-accuracy">Loading...</p>
+    
+            <!-- ✅ Date Selection Dropdown -->
+            <label for="date-select">Select Date:</label>
+            <select id="date-select"></select>
+    
+            <p class="disclaimer">
+                Disclaimer: The prediction accuracy shown above is based on historical data and model performance. It does not guarantee future outcomes, as sports results are influenced by many unpredictable factors.
+            </p>
+        </div>
+    
+        <div class="accuracy-list">
+            <h2>Daily Accuracy</h2>
+            <ul id="accuracy-data"></ul>
+        </div>
+    </main>
+    
+    
+    
+
+    <footer class="footer">
+        <p>&copy; 2025 OHL Predictions. All Rights Reserved.</p>
+    </footer>
+
+    <script src="accuracy.js"></script>
+</body>
+</html>

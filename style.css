@@ -1,126 +1,247 @@
-/* General Layout */
+/* 🌐 Base Styles */
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f8f9fa;
-    color: #333;
-    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
+    padding: 0;
+    background-color: #f4f4f8;
+    color: #333;
     line-height: 1.6;
+    scroll-behavior: smooth;
+    text-align: center; /* ✅ Center all text globally */
 }
 
-h1 {
-    color: #212529;
-    text-align: center;
-    margin-bottom: 20px;
-    font-size: 2.5em;
-}
-
-/* Date Picker */
-label {
-    font-weight: bold;
-    display: block;
-    margin: 15px 0 5px;
-    text-align: center;
-    font-size: 1.1em;
-}
-
-input[type="date"] {
-    padding: 10px;
-    border: 1px solid #ced4da;
-    border-radius: 4px;
-    width: 200px;
-    text-align: center;
-    display: block;
-    margin: 0 auto 20px;
-    background-color: #fff;
-    color: #495057;
-    font-size: 1em;
-}
-
-/* Game Container */
-#game-container {
+/* 🔝 Navbar */
+.navbar {
+    background-color: #11172b;
+    color: white;
+    padding: 1rem 2rem;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    padding: 10px;
+    justify-content: center; /* ✅ Center navbar items */
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    gap: 2rem;
 }
 
-/* Game Box */
-.game-box {
-    background-color: #ffffff;
-    border: 1px solid #dee2e6;
-    border-radius: 8px;
-    padding: 20px;
-    width: 280px;
-    text-align: center;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+.navbar .logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: background 0.3s ease, color 0.3s ease;
+    border-radius: 5px;
+}
+
+.nav-links a:hover {
+    background-color: #e94560;
+    color: white;
+}
+
+/* 📦 Container */
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 2rem;
+}
+
+/* 🎯 Game Cards */
+.game-box,
+.results {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin: 1rem auto;
+    transition: transform 0.3s ease;
+    max-width: 400px; /* ✅ Keep content centered and narrower */
 }
 
 .game-box:hover {
     transform: translateY(-5px);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
 }
 
-.game-box h3 {
-    margin-bottom: 10px;
-    font-size: 1.4em;
-    color: #343a40;
-}
-
-.game-box span {
-    color: #6c757d;
-    font-weight: bold;
-}
-
-/* Select Button */
+/* ✅ Modern Button */
 .select-btn {
-    background-color: #007bff;
+    background-color: #11172b;
     color: white;
-    padding: 10px 20px;
     border: none;
-    border-radius: 4px;
-    cursor: pointer;
+    padding: 0.8rem 2rem;
+    border-radius: 10px;
     font-weight: bold;
-    transition: background-color 0.3s ease;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+    margin: 1rem 0;
+    display: inline-block;
+    width: 80%;
 }
 
 .select-btn:hover {
-    background-color: #0056b3;
+    background-color: #e94560;
+    transform: scale(1.05);
 }
 
-/* Results Section */
-#results {
-    background-color: #ffffff;
-    padding: 20px;
+/* ⚽ Game Row Layout */
+.game-row {
+    display: flex;
+    justify-content: center; /* ✅ Center items */
+    align-items: center;
+    gap: 1rem;
+    padding: 0.8rem 1rem;
+    border: 1px solid #ddd;
     border-radius: 8px;
-    border: 1px solid #ced4da;
-    max-width: 600px;
-    margin: 30px auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease-in-out;
-}
-
-#results h2 {
-    margin-top: 0;
-    font-size: 1.8em;
-    color: #495057;
+    background-color: #fafafa;
+    margin-bottom: 0.5rem;
     text-align: center;
 }
 
-#results p {
-    font-size: 1.1em;
-    margin: 10px 0;
+.away-team, .home-team {
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #000; /* ✅ Both teams in black */
+    flex: 1;
+    text-align: center; /* ✅ Center team names */
+}
+
+.vs {
+    font-weight: bold;
+    color: #555;
+    flex: 0.2;
+}
+
+/* ✅ Correct & Incorrect Styling */
+.correct {
+    background-color: #d4edda;
+    color: #155724;
+    border-left: 5px solid #28a745;
+    padding: 0.8rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+}
+
+.incorrect {
+    background-color: #f8d7da;
+    color: #721c24;
+    border-left: 5px solid #dc3545;
+    padding: 0.8rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+}
+
+/* 📊 Accuracy Summary */
+.accuracy-summary {
+    background-color: #11172b;
+    color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    margin: 1.5rem auto;
+    max-width: 400px;
     text-align: center;
 }
 
-.winner {
-    color: #28a745;
-    font-weight: bold;
+.accuracy-list {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin: 1rem auto;
+    max-width: 400px;
 }
 
-.odds {
-    color: #dc3545;
-    font-weight: bold;
+.accuracy-list li {
+    padding: 0.8rem;
+    border-bottom: 1px solid #ddd;
+    transition: background 0.3s ease;
+    text-align: center; /* ✅ Center accuracy items */
 }
+
+.accuracy-list ul {
+    list-style: none;  /* This removes the dots */
+    padding: 0;        /* Removes default padding */
+    margin: 0;         /* Ensures alignment stays clean */
+}
+
+/* ✅ Clock Styling */
+.clock {
+    background-color: #11172b;
+    color: white;
+    padding: 0.5rem;
+    font-size: 0.9rem;
+    border-radius: 8px;
+    margin: 1rem auto;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* ⚠️ Disclaimer */
+.disclaimer {
+    font-size: 0.9rem;
+    color: #6c757d;
+    background-color: #f1f1f1;
+    border-left: 4px solid #ffc107;
+    padding: 1rem;
+    margin: 1rem auto;
+    border-radius: 8px;
+    max-width: 500px;
+    text-align: center; /* ✅ Center disclaimer */
+}
+
+/* ⚡ Footer */
+.footer {
+    background-color: #11172b;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
+
+/* 📱 Responsive Design */
+@media (max-width: 600px) {
+    .nav-links {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .container {
+        padding: 1rem;
+    }
+
+    .game-row {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .select-btn {
+        width: 90%;
+    }
+}
+.clock {
+    background-color: #11172b;
+    color: white;
+    padding: 0.5rem;
+    font-size: 0.9rem;
+    border-radius: 8px;
+    margin: 1rem auto;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
