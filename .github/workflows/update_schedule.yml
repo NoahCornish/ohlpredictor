@@ -1,0 +1,33 @@
+name: Daily OHL Schedule Update
+
+on:
+  schedule:
+    - cron: '20 4 * * *'   # Runs daily at 4:20 AM UTC (11:20 PM EST)
+    - cron: '40 10 * * *'  # Runs daily at 10:40 AM UTC (5:40 AM EST)
+  workflow_dispatch:        # Allows manual trigger from GitHub UI
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install R Packages
+        run: |
+          Rscript -e 'install.packages(c("tidyverse", "jsonlite"), repos="https://cloud.r-project.org")'
+
+      - name: Run R Script
+        run: Rscript get_2024_2025_schedule.R  # Replace with your actual R script filename
+
+      - name: Commit & Push Updated Schedule
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs/OHL_SCHEDULE/OHL_Schedule_2024_2025.csv
+          git commit -m "Update schedule for $(date '+%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git push
