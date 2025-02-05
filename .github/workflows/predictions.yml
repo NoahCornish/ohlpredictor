@@ -25,12 +25,20 @@ jobs:
           pip install pandas numpy
 
       - name: Run Prediction Script
-        run: python monte_carlo_sim.py  # Replace with actual script path
+        run: python monte_carlo_sim.py  # Ensure this script saves to docs/JSON_DATA/
+
+      - name: Check for Changes
+        run: |
+          if git diff --quiet docs/JSON_DATA/; then
+            echo "No changes detected. Exiting gracefully."
+            exit 0
+          fi
 
       - name: Commit & Push Predictions
+        if: success()  # Only run if changes are detected
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add docs/JSON_DATA/*.json
-          git commit -m "Update predictions for $(date '+%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git commit -m "Update predictions for $(date '+%Y-%m-%d %H:%M UTC')"
           git push
