@@ -22,12 +22,20 @@ jobs:
           Rscript -e 'install.packages(c("tidyverse", "jsonlite"), repos="https://cloud.r-project.org")'
 
       - name: Run R Script
-        run: Rscript get_2024_2025_schedule.R  # Replace with your actual R script filename
+        run: Rscript get_2024_2025_schedule.R  # Ensure this script saves to docs/OHL_SCHEDULE/
+
+      - name: Check for Changes
+        run: |
+          if git diff --quiet docs/OHL_SCHEDULE/OHL_Schedule_2024_2025.csv; then
+            echo "No changes detected. Exiting gracefully."
+            exit 0
+          fi
 
       - name: Commit & Push Updated Schedule
+        if: success()  # Only run if changes are detected
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add docs/OHL_SCHEDULE/OHL_Schedule_2024_2025.csv
-          git commit -m "Update schedule for $(date '+%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git commit -m "Update schedule for $(date '+%Y-%m-%d %H:%M UTC')"
           git push
