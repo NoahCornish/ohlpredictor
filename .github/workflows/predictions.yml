@@ -1,4 +1,4 @@
-name: Daily OHL Predictions
+name: Daily OHL Predictions and Accuracy Check
 
 on:
   schedule:
@@ -29,7 +29,10 @@ jobs:
           pip install pandas numpy
 
       - name: Run Prediction Script
-        run: python monte_carlo_sim.py  # ✅ Ensure this script saves to docs/JSON_DATA/
+        run: python monte_carlo_sim.py  # ✅ Runs prediction script
+
+      - name: Run Accuracy Check
+        run: python accuracy_check.py  # ✅ Runs accuracy check script
 
       - name: Check for Changes
         id: check_changes
@@ -41,12 +44,11 @@ jobs:
           else
             echo "Changes detected."
             echo "changed=true" >> $GITHUB_ENV
-          fi
-
-      - name: Commit & Push Predictions
+          
+      - name: Commit & Push Updates
         if: env.changed == 'true'  # ✅ Only commit if changes are detected
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -m "Update predictions for $(date '+%Y-%m-%d %H:%M UTC')"
+          git commit -m "Automated update: OHL predictions and accuracy for $(date '+%Y-%m-%d %H:%M UTC')"
           git push origin main
