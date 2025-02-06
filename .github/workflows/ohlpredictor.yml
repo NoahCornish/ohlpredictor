@@ -1,4 +1,4 @@
-name: Daily OHL Data Update
+name: OHL PREDICTOR UPDATE
 
 on:
   schedule:
