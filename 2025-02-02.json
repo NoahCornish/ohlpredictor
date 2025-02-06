@@ -1,0 +1,65 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Niagara IceDogs",
+        "winner": "Niagara IceDogs",
+        "odds": {
+            "North Bay Battalion": "+297",
+            "Niagara IceDogs": "-133"
+        }
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Owen Sound Attack": "+250",
+            "Brampton Steelheads": "-139"
+        }
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Sudbury Wolves": "+135",
+            "Brantford Bulldogs": "-173"
+        }
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Ottawa 67's",
+        "winner": "Guelph Storm",
+        "odds": {
+            "Guelph Storm": "-195",
+            "Ottawa 67's": "+105"
+        }
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Sarnia Sting": "+269",
+            "Kingston Frontenacs": "-137"
+        }
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Soo Greyhounds",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-147",
+            "Soo Greyhounds": "+210"
+        }
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Windsor Spitfires": "+109",
+            "London Knights": "-190"
+        }
+    }
+]
