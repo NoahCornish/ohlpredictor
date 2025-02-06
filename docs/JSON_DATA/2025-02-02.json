@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "North Bay Battalion": "+297",
-            "Niagara IceDogs": "-133"
+            "North Bay Battalion": "+277",
+            "Niagara IceDogs": "-371"
         }
     },
     {
@@ -13,8 +13,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Owen Sound Attack": "+250",
-            "Brampton Steelheads": "-139"
+            "Owen Sound Attack": "+233",
+            "Brampton Steelheads": "-304"
         }
     },
     {
@@ -22,8 +22,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Sudbury Wolves": "+136",
-            "Brantford Bulldogs": "-173"
+            "Sudbury Wolves": "+124",
+            "Brantford Bulldogs": "-154"
         }
     },
     {
@@ -31,8 +31,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-190",
-            "Ottawa 67's": "+110"
+            "Guelph Storm": "-124",
+            "Ottawa 67's": "-100"
         }
     },
     {
@@ -40,8 +40,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Sarnia Sting": "+270",
-            "Kingston Frontenacs": "-136"
+            "Sarnia Sting": "+252",
+            "Kingston Frontenacs": "-332"
         }
     },
     {
@@ -49,8 +49,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-146",
-            "Soo Greyhounds": "+216"
+            "Saginaw Spirit": "-258",
+            "Soo Greyhounds": "+201"
         }
     },
     {
@@ -58,8 +58,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Windsor Spitfires": "+111",
-            "London Knights": "-189"
+            "Windsor Spitfires": "+101",
+            "London Knights": "-125"
         }
     }
 ]
