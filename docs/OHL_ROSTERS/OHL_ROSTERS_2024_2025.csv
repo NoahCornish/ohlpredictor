@@ -60,6 +60,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9088,Harrison Franssen,Franssen,Harrison,C,R,6.03,190.0,2006-05-06,Oshawa Generals,East Division,12,0
 8412,Ethan Martin,Martin,Ethan,LW,L,6.06,222.0,2005-03-25,Oshawa Generals,East Division,14,0
 9325,Noah Powell,Powell,Noah,RW,R,6.02,205.0,2005-02-02,Oshawa Generals,East Division,15,0
+9127,Brady Blaseg,Blaseg,Brady,D,L,6.03,196.0,2008-07-21,Oshawa Generals,East Division,16,1
 8540,Luke Torrance,Torrance,Luke,LW,L,6.01,201.0,2004-03-30,Oshawa Generals,East Division,17,0
 8543,Luca Marrelli,Marrelli,Luca,D,R,6.02,185.0,2005-10-04,Oshawa Generals,East Division,19,0
 8413,Calum Ritchie,Ritchie,Calum,C,R,6.03,190.0,2005-01-21,Oshawa Generals,East Division,21,0
@@ -79,6 +80,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9019,Josh Brady,Brady,Josh,D,R,6.01,185.0,2006-01-11,Ottawa 67's,East Division,3,0
 8975,Kaleb Dietsch,Dietsch,Kaleb,D,L,6.03,191.0,2007-01-03,Ottawa 67's,East Division,4,1
 8888,Bradley Horner,Horner,Bradley,RW,R,6.00,195.0,2005-06-16,Ottawa 67's,East Division,5,0
+9328,Theo Avila,Avila,Theo,D,R,5.11,176.0,2007-06-17,Ottawa 67's,East Division,6,1
 8715,Frankie Marrelli,Marrelli,Frankie,D,L,5.11,187.0,2006-02-16,Ottawa 67's,East Division,8,0
 8585,Chris Barlas,Barlas,Chris,LW,L,5.10,182.0,2005-01-10,Ottawa 67's,East Division,9,0
 8976,Nic Whitehead,Whitehead,Nic,C,L,5.10,159.0,2007-02-11,Ottawa 67's,East Division,10,0
