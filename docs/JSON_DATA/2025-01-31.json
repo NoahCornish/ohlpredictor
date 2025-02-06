@@ -1,0 +1,65 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Peterborough Petes",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-498",
+            "Peterborough Petes": "+355"
+        }
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Flint Firebirds": "+119",
+            "Kitchener Rangers": "-148"
+        }
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Erie Otters",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-213",
+            "Erie Otters": "+168"
+        }
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Barrie Colts",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Oshawa Generals": "-114",
+            "Barrie Colts": "-108"
+        }
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "North Bay Battalion",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Sudbury Wolves": "-278",
+            "North Bay Battalion": "+215"
+        }
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Sarnia Sting",
+        "winner": "Sarnia Sting",
+        "odds": {
+            "Guelph Storm": "+100",
+            "Sarnia Sting": "-124"
+        }
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Soo Greyhounds": "+193",
+            "Brantford Bulldogs": "-246"
+        }
+    }
+]
