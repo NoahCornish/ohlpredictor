@@ -6,7 +6,6 @@ on:
     - cron: '10 3 * * *'   # Runs daily at 3:10 AM UTC (10:10 PM EST)
     - cron: '0 11 * * *'   # Runs daily at 11:00 AM UTC (6:00 AM EST)
   workflow_dispatch:       # Allows manual trigger from GitHub UI
-
 permissions:
   contents: write  # ✅ Ensures GitHub Actions has push permissions
 
@@ -44,7 +43,8 @@ jobs:
           else
             echo "Changes detected."
             echo "changed=true" >> $GITHUB_ENV
-          
+          fi  # ✅ Closing 'if' statement properly
+
       - name: Commit & Push Updates
         if: env.changed == 'true'  # ✅ Only commit if changes are detected
         run: |
@@ -52,3 +52,4 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git commit -m "Automated update: OHL predictions and accuracy for $(date '+%Y-%m-%d %H:%M UTC')"
           git push origin main
+
