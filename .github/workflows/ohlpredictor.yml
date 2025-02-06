@@ -1,5 +1,4 @@
 name: OHL PREDICTOR UPDATE
-
 on:
   schedule:
     - cron: "0 8 * * *"   # Runs at 3:00 AM EST (8:00 UTC)
@@ -17,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4  # ✅ Uses the latest stable version
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,24 +29,26 @@ jobs:
           pip install pandas requests numpy
 
       - name: Run Schedule Update Script
-        run: python get_2024_2025_schedule.py  # ✅ Updates schedule
+        run: python get_2024_2025_schedule.py | tee -a workflow_summary.log
 
       - name: Run Player Stats Update Script
-        run: python get_ohl_stats.py  # ✅ Updates player stats
+        run: python get_ohl_stats.py | tee -a workflow_summary.log
 
       - name: Run Roster Update Script
-        run: python get_rosters.py  # ✅ Updates team rosters
+        run: python get_rosters.py | tee -a workflow_summary.log
 
       - name: Run Predictions Script
-        run: python monte_carlo_sim.py  # ✅ Runs game predictions
+        run: python monte_carlo_sim.py | tee -a workflow_summary.log
 
       - name: Run Accuracy Check Script
-        run: python accuracy_check.py  # ✅ Evaluates prediction accuracy
+        run: python accuracy_check.py | tee -a workflow_summary.log
 
-      - name: Check for Changes
+      - name: Capture File Changes
         id: check_changes
         run: |
           git add docs/OHL_SCHEDULE/*.csv docs/OHL_STATS/*.csv docs/OHL_ROSTERS/*.csv docs/JSON_DATA/*.json
+          CHANGED_FILES=$(git diff --cached --name-only | wc -l)
+          echo "changed_files=$CHANGED_FILES" >> $GITHUB_ENV
           if git diff --cached --quiet; then
             echo "No changes detected."
             echo "changed=false" >> $GITHUB_ENV
@@ -56,10 +57,30 @@ jobs:
             echo "changed=true" >> $GITHUB_ENV
           fi
 
+      - name: Generate Summary
+        run: |
+          echo "## 📊 OHL Data Update Summary" > docs/JSON_DATA/workflow_summary.md
+          echo "- **Workflow Execution Time:** $(date '+%Y-%m-%d %H:%M UTC')" >> docs/JSON_DATA/workflow_summary.md
+          echo "- **Schedule Updated:** ✅" >> docs/JSON_DATA/workflow_summary.md
+          echo "- **Player Stats Updated:** ✅" >> docs/JSON_DATA/workflow_summary.md
+          echo "- **Rosters Updated:** ✅" >> docs/JSON_DATA/workflow_summary.md
+          echo "- **Predictions Generated:** ✅" >> docs/JSON_DATA/workflow_summary.md
+          echo "- **Accuracy Report Generated:** ✅" >> docs/JSON_DATA/workflow_summary.md
+          echo "- **Total Files Changed:** ${{ env.changed_files }}" >> docs/JSON_DATA/workflow_summary.md
+          if [[ "${{ env.changed }}" == "true" ]]; then
+            echo "- **Updates Pushed to Repository:** ✅" >> docs/JSON_DATA/workflow_summary.md
+          else
+            echo "- **No Updates Needed:** No new data changes" >> docs/JSON_DATA/workflow_summary.md
+          fi
+          echo "" >> docs/JSON_DATA/workflow_summary.md
+          echo "### 🔍 Logs & Performance Summary" >> docs/JSON_DATA/workflow_summary.md
+          cat workflow_summary.log >> docs/JSON_DATA/workflow_summary.md
+
       - name: Commit & Push Updates
-        if: env.changed == 'true'  # ✅ Only commit if changes are detected
+        if: env.changed == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -m "Automated OHL data update for $(date '+%Y-%m-%d %H:%M UTC')"
+          git add docs/JSON_DATA/workflow_summary.md
+          git commit -m "Automated OHL update summary for $(date '+%Y-%m-%d %H:%M UTC')"
           git push origin main
