@@ -2,7 +2,7 @@ name: Daily OHL Schedule Update
 
 on:
   schedule:
-    - cron: '20 4 * * *'   # Runs daily at 4:20 AM UTC (11:20 PM EST)
+    - cron: '00 3 * * *'   # Runs daily at 4:20 AM UTC (10:00 PM EST)
     - cron: '40 10 * * *'  # Runs daily at 10:40 AM UTC (5:40 AM EST)
   workflow_dispatch:        # Allows manual trigger from GitHub UI
 
