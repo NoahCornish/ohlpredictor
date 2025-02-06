@@ -6,9 +6,9 @@
     <title>OHL Game Predictions</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body style="display: none;"> <!-- Hide body until login is successful -->
 
-    <!-- ✅ Password-Protected Popup -->
+    <!-- ✅ Secure Login Popup -->
     <div id="login-popup" class="popup">
         <div class="popup-content">
             <h2>Secure Login</h2>
@@ -19,41 +19,58 @@
         </div>
     </div>
 
+    <!-- ✅ Navigation Bar (Only Home) -->
     <nav class="navbar sticky">
         <div class="container">
             <a href="index.html" class="logo">OHL Predictions</a>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
-                <li class="dropdown">
-                    <a href="#" class="dropbtn">Menu ▾</a>
-                    <div class="dropdown-content">
-                        <a href="predictions.html">Predictor</a>
-                        <a href="accuracy.html">Accuracy</a>
-                    </div>
-                </li>
             </ul>
         </div>
     </nav>
 
+    <!-- ✅ Hero Section 
     <header class="hero compact-hero">
         <div class="hero-content">
             <h1 class="hero-title">OHL Predictions</h1>
+            <p class="hero-subtitle">Accurate, data-driven OHL game predictions.</p>
             <a href="predictions.html" class="btn-primary">View Predictions</a>
         </div>
     </header>
+-->
 
+
+    <!-- ✅ About Our Model -->
+    <section class="about">
+        <div class="container">
+            <h2>How Our Prediction Model Works</h2>
+            <p>
+                Our OHL prediction model uses machine learning and advanced statistical analysis to forecast game outcomes. 
+                By analyzing team performance, player stats, and historical data, we provide data-driven insights into each match-up. 
+                Our predictions refresh automatically every 24 hours to provide the most up-to-date insights.
+            </p>
+            <h3>How to Navigate the Website:</h3>
+            <ul>
+                <li onclick="location.href='predictions.html'">🔍 <strong>Predictions Page:</strong> View detailed forecasts for upcoming games.</li>
+                <li onclick="location.href='accuracy.html'">📊 <strong>Accuracy Page:</strong> See how well our model performs over time.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- ✅ Footer with Live Clock -->
     <footer class="footer">
         <p>&copy; 2025 OHL Predictions. All Rights Reserved.</p>
         <div id="clock" class="clock"></div>
     </footer>
 
+    <!-- ✅ JavaScript for Secure Login & Live Clock -->
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             const loginPopup = document.getElementById('login-popup');
             const loginBtn = document.getElementById('login-btn');
             const errorMsg = document.getElementById('login-error');
 
-            if (sessionStorage.getItem('isLoggedIn') === 'true') {
+            if (localStorage.getItem('isLoggedIn') === 'true') {
                 loginPopup.style.display = 'none';
                 document.body.style.display = 'block';
             } else {
@@ -66,7 +83,7 @@
                 const password = document.getElementById('password').value.trim();
 
                 if (username === 'noahcornish' && password === 'noahcornish') {
-                    sessionStorage.setItem('isLoggedIn', 'true');
+                    localStorage.setItem('isLoggedIn', 'true');
                     loginPopup.style.display = 'none';
                     document.body.style.display = 'block';
                 } else {
@@ -100,5 +117,6 @@
         setInterval(updateClock, 1000);
         updateClock();
     </script>
+
 </body>
 </html>

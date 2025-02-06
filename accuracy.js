@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         </div>
                         <div class="prediction-actual">
                             ${isGameNotStarted 
-                                ? `<div class="game-status">GAME NOT STARTED</div>` 
+                                ? `<div class="game-status">GAME NOT STARTED/FINISHED</div>` 
                                 : `
                                     <div><strong>Predicted:</strong> ${game.predicted_winner}</div>
                                     <div><strong>Actual:</strong> ${game.actual_winner}</div>

@@ -7,18 +7,12 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- ✅ Navigation Bar (Only Home) -->
     <nav class="navbar sticky">
         <div class="container">
             <a href="index.html" class="logo">OHL Predictions</a>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
-                <li class="dropdown">
-                    <a href="#" class="dropbtn">Menu ▾</a>
-                    <div class="dropdown-content">
-                        <a href="predictions.html">Predictor</a>
-                        <a href="accuracy.html">Accuracy</a>
-                    </div>
-                </li>
             </ul>
         </div>
     </nav>
@@ -31,20 +25,19 @@
 
         <div id="game-container" class="game-container"></div>
         <div id="results" class="results"></div>
-
-        <p class="disclaimer">
-        Disclaimer: The predictive outputs displayed on this platform are generated using advanced algorithmic models that analyze historical data, 
-        statistical trends, and other relevant factors. While we strive for accuracy, 
-        no model can guarantee future outcomes, as sports events are influenced by unpredictable variables beyond analytical control. 
-        These predictions are provided for informational purposes only. 
-        Users are solely responsible for any decisions made based on the information provided. 
-        OHL Predictions disclaims all liability for losses or damages arising from the reliance on these predictive results.
-        </p>
     </main>
 
     <footer class="footer">
         <p>&copy; 2025 OHL Predictions. All Rights Reserved.</p>
     </footer>
+
+    <!-- ✅ Game Details Popup -->
+    <div id="game-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-btn" id="close-btn">✖</span> <!-- ✅ Added ID here -->
+            <div id="popup-details"></div>
+        </div>
+    </div>
 
     <script src="app.js"></script>
 </body>
