@@ -2,9 +2,13 @@ name: Daily OHL Schedule Update
 
 on:
   schedule:
-    - cron: '00 3 * * *'   # Runs daily at 4:20 AM UTC (10:00 PM EST)
-    - cron: '40 10 * * *'  # Runs daily at 10:40 AM UTC (5:40 AM EST)
+    - cron: '0 22 * * *'   # Runs at 22:00 UTC (5:00 PM EST)
+    - cron: '40 2 * * *'   # Runs at 02:40 UTC (9:40 PM EST)
+    - cron: '30 10 * * *'  # Runs at 10:30 UTC (5:30 AM EST)
   workflow_dispatch:        # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write  # ✅ Allows GitHub Actions to push changes
 
 jobs:
   update-schedule:
@@ -12,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # ✅ Uses latest stable version
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
@@ -22,20 +26,24 @@ jobs:
           Rscript -e 'install.packages(c("tidyverse", "jsonlite"), repos="https://cloud.r-project.org")'
 
       - name: Run R Script
-        run: Rscript get_2024_2025_schedule.R  # Ensure this script saves to docs/OHL_SCHEDULE/
+        run: Rscript get_2024_2025_schedule.R  # ✅ Ensure this script saves to docs/OHL_SCHEDULE/
 
       - name: Check for Changes
+        id: check_changes
         run: |
-          if git diff --quiet docs/OHL_SCHEDULE/OHL_Schedule_2024_2025.csv; then
-            echo "No changes detected. Exiting gracefully."
-            exit 0
-          fi
+          git add docs/OHL_SCHEDULE/OHL_Schedule_2024_2025.csv
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            echo "changed=false" >> $GITHUB_ENV
+          else
+            echo "Changes detected."
+            echo "changed=true" >> $GITHUB_ENV
+          fi  # ✅ Closing 'if' statement properly
 
       - name: Commit & Push Updated Schedule
-        if: success()  # Only run if changes are detected
+        if: env.changed == 'true'  # ✅ Only commit if changes are detected
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs/OHL_SCHEDULE/OHL_Schedule_2024_2025.csv
           git commit -m "Update schedule for $(date '+%Y-%m-%d %H:%M UTC')"
-          git push
+          git push origin main
