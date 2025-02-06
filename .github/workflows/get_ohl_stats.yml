@@ -27,7 +27,7 @@ jobs:
         run: pip install pandas requests
 
       - name: Run OHL stats script
-        run: python fetch_ohl_stats.py  # Replace with actual script filename
+        run: python get_ohl_stats.py  # Replace with actual script filename
 
       - name: Commit and Push changes
         env:
