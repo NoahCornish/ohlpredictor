@@ -5,6 +5,9 @@ on:
     - cron: "0 3 * * *"  # Runs at 03:00 UTC (10:00 PM EST)
   workflow_dispatch:  # Allows manual execution
 
+permissions:  
+  contents: write  # ✅ Gives GitHub Actions permission to push changes
+
 jobs:
   update_stats:
     runs-on: ubuntu-latest
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ Ensures authentication for push
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -22,15 +27,14 @@ jobs:
         run: pip install pandas requests
 
       - name: Run OHL stats script
-        run: python get_ohl_stats.py  # Replace with your actual script filename
-
-      - name: Configure Git
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+        run: python fetch_ohl_stats.py  # Replace with actual script filename
 
       - name: Commit and Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/OHL_STATS/*.csv
           git commit -m "Automated update: OHL stats for $(date -u +"%Y-%m-%d")" || echo "No changes to commit"
-          git push
+          git push origin main  # ✅ Uses the default authentication token
