@@ -1,0 +1,36 @@
+name: Update OHL Stats Daily
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # Runs at 03:00 UTC (10:00 PM EST)
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  update_stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pandas requests
+
+      - name: Run OHL stats script
+        run: python get_ohl_stats.py  # Replace with your actual script filename
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Commit and Push changes
+        run: |
+          git add docs/OHL_STATS/*.csv
+          git commit -m "Automated update: OHL stats for $(date -u +"%Y-%m-%d")" || echo "No changes to commit"
+          git push
