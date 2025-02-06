@@ -22,7 +22,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Sudbury Wolves": "+135",
+            "Sudbury Wolves": "+136",
             "Brantford Bulldogs": "-173"
         }
     },
@@ -31,8 +31,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-195",
-            "Ottawa 67's": "+105"
+            "Guelph Storm": "-190",
+            "Ottawa 67's": "+110"
         }
     },
     {
@@ -40,8 +40,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Sarnia Sting": "+269",
-            "Kingston Frontenacs": "-137"
+            "Sarnia Sting": "+270",
+            "Kingston Frontenacs": "-136"
         }
     },
     {
@@ -49,8 +49,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-147",
-            "Soo Greyhounds": "+210"
+            "Saginaw Spirit": "-146",
+            "Soo Greyhounds": "+216"
         }
     },
     {
@@ -58,8 +58,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Windsor Spitfires": "+109",
-            "London Knights": "-190"
+            "Windsor Spitfires": "+111",
+            "London Knights": "-189"
         }
     }
 ]

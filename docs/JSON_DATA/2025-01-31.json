@@ -13,7 +13,7 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Flint Firebirds": "+129",
+            "Flint Firebirds": "+130",
             "Kitchener Rangers": "-176"
         }
     },
@@ -22,17 +22,17 @@
         "away_team": "Erie Otters",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-156",
-            "Erie Otters": "+178"
+            "London Knights": "-154",
+            "Erie Otters": "+182"
         }
     },
     {
         "home_team": "Oshawa Generals",
         "away_team": "Barrie Colts",
-        "winner": "Barrie Colts",
+        "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "+100",
-            "Barrie Colts": "-199"
+            "Oshawa Generals": "-197",
+            "Barrie Colts": "+102"
         }
     },
     {
@@ -59,7 +59,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Soo Greyhounds": "+208",
-            "Brantford Bulldogs": "-147"
+            "Brantford Bulldogs": "-148"
         }
     }
 ]
