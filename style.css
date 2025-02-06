@@ -1,65 +1,6 @@
 /* 🌐 Base Styles */
-
-/* ✅ Fallback in case JavaScript fails */
 body {
     display: block !important;
-}
-
-/* ✅ Login Popup Enhancements */
-.popup {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 9999;
-}
-
-.popup-content {
-    background: white;
-    padding: 2rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
-    text-align: center;
-    width: 300px;
-}
-
-.popup-content h2 {
-    margin-bottom: 1rem;
-    font-size: 1.5rem;
-    color: #11172b;
-}
-
-.popup-content input {
-    width: 90%;
-    padding: 0.6rem;
-    margin: 0.5rem 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-.popup-content button {
-    background-color: #11172b;
-    color: white;
-    border: none;
-    padding: 0.8rem 1.5rem;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background 0.3s ease;
-    margin-top: 1rem;
-}
-
-.popup-content button:hover {
-    background-color: #e94560;
-}
-
-
-
-body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
@@ -67,7 +8,7 @@ body {
     color: #333;
     line-height: 1.6;
     scroll-behavior: smooth;
-    text-align: center; /* ✅ Center all text globally */
+    text-align: center;
 }
 
 /* 🔝 Navbar */
@@ -76,7 +17,7 @@ body {
     color: white;
     padding: 1rem 2rem;
     display: flex;
-    justify-content: center; /* ✅ Center navbar items */
+    justify-content: center;
     align-items: center;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
     position: sticky;
@@ -239,19 +180,6 @@ body {
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
-/* ⚠️ Disclaimer */
-.disclaimer {
-    font-size: 0.9rem;
-    color: #6c757d;
-    background-color: #f1f1f1;
-    border-left: 4px solid #ffc107;
-    padding: 1rem;
-    margin: 1rem auto;
-    border-radius: 8px;
-    max-width: 500px;
-    text-align: center;
-}
-
 /* ⚡ Footer */
 .footer {
     background-color: #11172b;
@@ -260,6 +188,89 @@ body {
     padding: 1rem 0;
     margin-top: 2rem;
     font-size: 0.9rem;
+}
+
+/* ✅ About Section */
+.about {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin: 2rem auto;
+    max-width: 800px;
+    text-align: left;
+    line-height: 1.8;
+}
+
+.about h2, .about h3 {
+    color: #11172b;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.about ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.about li {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, background 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 1rem;
+}
+
+.about li:hover {
+    background-color: #e94560;
+    color: white;
+    transform: translateY(-5px);
+    cursor: pointer;
+}
+
+/* ✅ Popup Modal for Game Details */
+.popup {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #e94560;
+}
+
+.close-btn:hover {
+    color: red;
 }
 
 /* 📱 Responsive Design */
@@ -285,421 +296,7 @@ body {
     .navbar, .footer, .game-box, .accuracy-summary {
         font-size: 0.9rem;
     }
-}
-/* 🌐 Dropdown Menu */
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
 
-/* ✅ Dropdown Menu Styling */
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: white;  /* Ensure the background is white */
-    min-width: 160px;
-    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
-    z-index: 1;
-    border-radius: 5px;
-}
-
-/* ✅ Dropdown Links */
-.dropdown-content a {
-    color: black;  /* Set text color to black */
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    transition: background 0.3s ease;
-}
-
-/* ✅ Hover Effect */
-.dropdown-content a:hover {
-    background-color: #f1f1f1;  /* Light gray background on hover */
-    color: black;               /* Keep text black on hover */
-}
-
-/* ✅ Show Dropdown on Hover */
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-
-.dropdown:hover .dropbtn {
-    background-color: #e94560;
-}
-
-/* ✂️ Smaller Title Box */
-.hero {
-    background: linear-gradient(to right, #11172b, #e94560);
-    color: white;
-    text-align: center;
-    padding: 2rem 0;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-}
-
-.small-hero {
-    padding: 1rem 0; /* Reduced height */
-}
-
-.hero-title {
-    font-size: 1.8rem;
-    font-weight: bold;
-}
-
-.hero-subtitle {
-    font-size: 1rem;
-    margin-top: 0.5rem;
-}
-/* ✅ Popup Modal */
-.popup {
-    display: none;
-    position: fixed;
-    z-index: 1000;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.6);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.popup-content {
-    background: white;
-    padding: 2rem;
-    border-radius: 10px;
-    width: 80%;
-    max-width: 400px;
-    text-align: center;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-    position: relative;
-}
-
-.close-btn {
-    position: absolute;
-    top: 10px;
-    right: 15px;
-    font-size: 24px;
-    cursor: pointer;
-    color: #e94560;
-}
-
-.close-btn:hover {
-    color: red;
-}
-
-/* ✅ Improve Game Selection Buttons */
-.select-btn {
-    background-color: #11172b;
-    color: white;
-    border: none;
-    padding: 0.8rem 1.2rem;
-    border-radius: 8px;
-    font-weight: bold;
-    cursor: pointer;
-    transition: background 0.3s ease, transform 0.2s ease;
-    display: block;
-    margin: 1rem auto;
-}
-
-.select-btn:hover {
-    background-color: #e94560;
-    transform: scale(1.05);
-}
-/* ✅ Password-Protected Popup */
-.popup {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 9999;
-}
-
-.popup-content {
-    background: white;
-    padding: 2rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
-    text-align: center;
-    width: 300px;
-    position: relative;
-}
-
-.popup-content h2 {
-    margin-bottom: 1rem;
-    font-size: 1.5rem;
-    color: #11172b;
-}
-
-.popup-content input {
-    width: 90%;
-    padding: 0.6rem;
-    margin: 0.5rem 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-.popup-content button {
-    background-color: #11172b;
-    color: white;
-    border: none;
-    padding: 0.8rem 1.5rem;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background 0.3s ease;
-    margin-top: 1rem;
-}
-
-.popup-content button:hover {
-    background-color: #e94560;
-}
-
-/* ✅ Base Styles */
-body {
-    display: block !important;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f8;
-    color: #333;
-    line-height: 1.6;
-    scroll-behavior: smooth;
-    text-align: center;
-}
-
-/* 🔝 Navbar (Compact) */
-.navbar {
-    background-color: #11172b;
-    color: white;
-    padding: 0.5rem 1rem; /* Reduced padding */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    gap: 1rem;
-}
-
-.navbar .logo {
-    font-size: 1.4rem; /* Smaller font size */
-    font-weight: bold;
-    color: #fff;
-    text-decoration: none;
-}
-
-.nav-links {
-    list-style: none;
-    display: flex;
-    gap: 1rem;
-}
-
-.nav-links a {
-    color: #fff;
-    text-decoration: none;
-    padding: 0.3rem 0.8rem; /* Smaller padding */
-    transition: background 0.3s ease, color 0.3s ease;
-    border-radius: 5px;
-}
-
-.nav-links a:hover {
-    background-color: #e94560;
-    color: white;
-}
-
-/* 📦 Container */
-.container {
-    max-width: 1000px;
-    margin: auto;
-    padding: 1rem;
-}
-
-/* 🎯 Compact Hero Section */
-.hero.compact-hero {
-    background: linear-gradient(to right, #11172b, #e94560);
-    color: white;
-    text-align: center;
-    padding: 1rem 0; /* Reduced padding */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-}
-
-.hero-title {
-    font-size: 1.5rem; /* Smaller title */
-    font-weight: bold;
-    margin: 0.5rem 0;
-}
-
-.btn-primary {
-    background-color: #e94560;
-    color: white;
-    padding: 0.5rem 1rem;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background 0.3s ease;
-}
-
-.btn-primary:hover {
-    background-color: #11172b;
-}
-
-/* 📊 Footer */
-.footer {
-    background-color: #11172b;
-    color: white;
-    text-align: center;
-    padding: 0.5rem 0; /* Reduced footer height */
-    font-size: 0.8rem;
-    margin-top: 1rem;
-}
-
-/* ✅ Clock Styling */
-.clock {
-    background-color: #11172b;
-    color: white;
-    padding: 0.3rem;
-    font-size: 0.8rem;
-    border-radius: 6px;
-    margin: 0.5rem auto;
-    max-width: 250px;
-    text-align: center;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
-}
-
-/* ✅ Password-Protected Popup */
-.popup {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 9999;
-}
-
-.popup-content {
-    background: white;
-    padding: 1.5rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
-    text-align: center;
-    width: 280px;
-    position: relative;
-}
-
-.popup-content h2 {
-    font-size: 1.2rem;
-    color: #11172b;
-}
-
-.popup-content input {
-    width: 90%;
-    padding: 0.5rem;
-    margin: 0.3rem 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-.popup-content button {
-    background-color: #11172b;
-    color: white;
-    border: none;
-    padding: 0.6rem 1rem;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background 0.3s ease;
-    margin-top: 0.5rem;
-}
-
-.popup-content button:hover {
-    background-color: #e94560;
-}
-
-/* 📱 Responsive Design */
-@media (max-width: 600px) {
-    .navbar {
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-
-    .hero-title {
-        font-size: 1.2rem;
-    }
-
-    .btn-primary {
-        padding: 0.4rem 0.8rem;
-    }
-}
-
-/* ✅ About Section */
-.about {
-    background-color: white;
-    padding: 2rem;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    margin: 2rem auto;
-    max-width: 800px;
-    text-align: left;  /* Align text to the left for better readability */
-    line-height: 1.8;
-}
-
-/* ✅ About Section Headings */
-.about h2, .about h3 {
-    color: #11172b;
-    font-weight: bold;
-    margin-bottom: 1rem;
-    text-align: center; /* Center headings */
-}
-
-/* ✅ Navigation List (No Bullet Points) */
-.about ul {
-    list-style: none;   /* Remove bullet points */
-    padding: 0;         /* Remove default padding */
-    margin: 1rem 0;
-}
-
-/* ✅ Navigation List Items */
-.about li {
-    background-color: #f9f9f9;
-    padding: 1rem;
-    margin-bottom: 1rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, background 0.3s ease;
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    font-size: 1rem;
-}
-
-/* ✅ Icon Styling */
-.about li::before {
-    content: "✔️"; /* Custom checkmark icon */
-    font-size: 1.2rem;
-    color: #e94560;
-    flex-shrink: 0;
-}
-
-/* ✅ Hover Effect for List Items */
-.about li:hover {
-    background-color: #e94560;
-    color: white;
-    transform: translateY(-5px);
-    cursor: pointer;
-}
-
-/* ✅ Responsive Design for About Section */
-@media (max-width: 768px) {
     .about {
         padding: 1.5rem;
         margin: 1rem;
@@ -710,41 +307,28 @@ body {
         padding: 0.8rem;
     }
 }
-/* ✅ Game Details Popup */
-.popup {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 9999;
-}
-
-.popup-content {
-    background: white;
-    padding: 2rem;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+/* ⚠️ Disclaimer Styling */
+.disclaimer {
+    background-color: #fff3cd;  /* Light yellow background */
+    color: #856404;             /* Dark gold text */
+    border-left: 5px solid #ffc107;  /* Bold yellow border */
+    padding: 1rem;
+    margin: 1.5rem auto;
+    border-radius: 8px;
+    max-width: 600px;
+    font-size: 0.95rem;
     text-align: center;
-    width: 90%;
-    max-width: 400px;
-    position: relative;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);  /* Subtle shadow */
+    font-weight: bold;
+    line-height: 1.5;
 }
 
-.close-btn {
-    position: absolute;
-    top: 10px;
-    right: 15px;
-    font-size: 24px;
-    cursor: pointer;
-    color: #e94560;
-    z-index: 10000; /* ✅ Ensure it's on top of all elements */
+/* Responsive Design for Disclaimer */
+@media (max-width: 600px) {
+    .disclaimer {
+        font-size: 0.85rem;
+        padding: 0.8rem;
+        max-width: 90%;
+    }
 }
 
-.close-btn:hover {
-    color: red;
-}

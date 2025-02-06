@@ -6,18 +6,7 @@
     <title>OHL Game Predictions</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body style="display: none;"> <!-- Hide body until login is successful -->
-
-    <!-- ✅ Secure Login Popup -->
-    <div id="login-popup" class="popup">
-        <div class="popup-content">
-            <h2>Secure Login</h2>
-            <input type="text" id="username" placeholder="Username" required><br>
-            <input type="password" id="password" placeholder="Password" required><br>
-            <button id="login-btn">Login</button>
-            <p id="login-error" style="color: red; display: none;">Invalid credentials. Try again.</p>
-        </div>
-    </div>
+<body>
 
     <!-- ✅ Navigation Bar (Only Home) -->
     <nav class="navbar sticky">
@@ -28,17 +17,6 @@
             </ul>
         </div>
     </nav>
-
-    <!-- ✅ Hero Section 
-    <header class="hero compact-hero">
-        <div class="hero-content">
-            <h1 class="hero-title">OHL Predictions</h1>
-            <p class="hero-subtitle">Accurate, data-driven OHL game predictions.</p>
-            <a href="predictions.html" class="btn-primary">View Predictions</a>
-        </div>
-    </header>
--->
-
 
     <!-- ✅ About Our Model -->
     <section class="about">
@@ -54,6 +32,12 @@
                 <li onclick="location.href='predictions.html'">🔍 <strong>Predictions Page:</strong> View detailed forecasts for upcoming games.</li>
                 <li onclick="location.href='accuracy.html'">📊 <strong>Accuracy Page:</strong> See how well our model performs over time.</li>
             </ul>
+            <!-- ⚠️ Legal Disclaimer -->
+        <p class="disclaimer">
+            This content is provided solely for informational purposes.<br>
+            It reflects statistical algorithms and historical data.<br>
+            Entertainment purposes only.
+        </p>
         </div>
     </section>
 
@@ -63,41 +47,8 @@
         <div id="clock" class="clock"></div>
     </footer>
 
-    <!-- ✅ JavaScript for Secure Login & Live Clock -->
+    <!-- ✅ JavaScript for Live Clock -->
     <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const loginPopup = document.getElementById('login-popup');
-            const loginBtn = document.getElementById('login-btn');
-            const errorMsg = document.getElementById('login-error');
-
-            if (localStorage.getItem('isLoggedIn') === 'true') {
-                loginPopup.style.display = 'none';
-                document.body.style.display = 'block';
-            } else {
-                loginPopup.style.display = 'flex';
-                document.body.style.display = 'none';
-            }
-
-            loginBtn.addEventListener('click', () => {
-                const username = document.getElementById('username').value.trim();
-                const password = document.getElementById('password').value.trim();
-
-                if (username === 'noahcornish' && password === 'noahcornish') {
-                    localStorage.setItem('isLoggedIn', 'true');
-                    loginPopup.style.display = 'none';
-                    document.body.style.display = 'block';
-                } else {
-                    errorMsg.style.display = 'block';
-                }
-            });
-
-            document.addEventListener('keydown', (event) => {
-                if (event.key === 'Enter') {
-                    loginBtn.click();
-                }
-            });
-        });
-
         function updateClock() {
             const now = new Date();
             const estTime = now.toLocaleString('en-US', { 
