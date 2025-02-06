@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+    <!-- ✅ Navigation Bar -->
     <nav class="navbar sticky">
         <div class="container">
             <a href="index.html" class="logo">OHL Predictions</a>
@@ -16,10 +18,11 @@
         </div>
     </nav>
 
+    <!-- ✅ Main Container -->
     <main class="container">
         <h1 class="main-heading">Player Statistics</h1>
 
-        <!-- ✅ Filter Container -->
+        <!-- ✅ Team & Player Selection -->
         <div class="filter-container">
             <label for="team-select">Select Team:</label>
             <select id="team-select" class="dropdown"></select>
@@ -28,14 +31,16 @@
             <select id="player-select" class="dropdown"></select>
         </div>
 
+        <!-- ✅ Player Card (Image & Info) -->
         <div id="extra-container" class="player-card">
             <img id="player-image" src="" alt="Player Image" class="player-img">
-            <h2 id="player-name"></h2>
+            <h2 id="player-name">Select a Player</h2>
             <p id="player-meta"></p>
             <p id="player-details"></p>
             <p id="player-draft"></p>
         </div>
 
+        <!-- ✅ Player Stats Table -->
         <table class="stats-table">
             <thead>
                 <tr>
@@ -49,11 +54,11 @@
             <tbody id="player-stats"></tbody>
         </table>
 
-        <p class="disclaimer">
-            Stats Updated: <br>00:00 EST Daily
-        </p>
+        <!-- ✅ Stats Updated Notice -->
+        <p class="disclaimer">Stats Updated: <br>00:00 EST Daily</p>
     </main>
 
+    <!-- ✅ Footer -->
     <footer class="footer">
         <p>&copy; 2025 OHL Predictions. All Rights Reserved.</p>
     </footer>
