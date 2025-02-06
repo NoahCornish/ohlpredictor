@@ -67,6 +67,22 @@ def calculate_team_records(schedule_df):
 
     return team_records
 
+def convert_prob_to_odds(prob, margin=0.05):
+    """Convert probability to American odds with a sportsbook margin applied."""
+    
+    # Step 1: Adjust probability by applying vig (so it doesn’t sum to 100%)
+    adjusted_prob = prob / (1 - margin)  # Increasing favorite probability slightly
+    adjusted_prob = max(0.02, min(0.98, adjusted_prob))  # Keep within 2% - 98%
+
+    # Step 2: Convert to American odds
+    if adjusted_prob >= 0.5:
+        odds = -round((adjusted_prob / (1 - adjusted_prob)) * 100)  # Negative for favorites
+    else:
+        odds = round(((1 - adjusted_prob) / adjusted_prob) * 100)  # Positive for underdogs
+    
+    return f"{odds:+d}"  # Ensures formatting like "+170" or "-200"
+
+
 def predict_game_winner(home_team, away_team, team_stats, team_records):
     """Predict the winner of a game based on team stats and records."""
     home_stats = team_stats.loc[home_team]
@@ -88,8 +104,8 @@ def predict_game_winner(home_team, away_team, team_stats, team_records):
     home_prob = home_strength / total_strength
     away_prob = away_strength / total_strength
 
-    home_odds = f"+{int(100 * (1 - home_prob) / home_prob)}" if home_prob < 0.5 else f"-{int(100 / home_prob)}"
-    away_odds = f"+{int(100 * (1 - away_prob) / away_prob)}" if away_prob < 0.5 else f"-{int(100 / away_prob)}"
+    home_odds = convert_prob_to_odds(home_prob)
+    away_odds = convert_prob_to_odds(away_prob)
 
     winner = home_team if home_prob > away_prob else away_team
 
