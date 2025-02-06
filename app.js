@@ -62,9 +62,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (game) {
                     const popupDetails = document.getElementById('popup-details');
                     popupDetails.innerHTML = `
-                        <h2>${game.away_team} vs ${game.home_team}</h2>
-                        <p><strong>Predicted Winner:</strong> ${game.winner}</p>
-                        <p><strong>Odds:</strong> ${game.away_team}: ${game.odds[game.away_team]}, 
+                        <h2>${game.away_team}<br> vs<br> ${game.home_team}</h2>
+                        <p><strong>Predicted Winner:<br></strong> ${game.winner}</p>
+                        <p><strong>Odds:<br></strong> ${game.away_team}: ${game.odds[game.away_team]}<br> 
                         ${game.home_team}: ${game.odds[game.home_team]}</p>
                     `;
 
