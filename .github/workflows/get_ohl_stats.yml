@@ -3,6 +3,7 @@ name: Update OHL Stats Daily
 on:
   schedule:
     - cron: "0 3 * * *"  # Runs at 03:00 UTC (10:00 PM EST)
+    - cron: "0 22 * * *" # Runs at 22:00 UTC (5:00 PM EST)
   workflow_dispatch:  # Allows manual execution
 
 permissions:  
