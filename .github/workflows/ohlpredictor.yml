@@ -1,0 +1,65 @@
+name: Daily OHL Data Update
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # Runs at 3:00 AM EST (8:00 UTC)
+    - cron: "0 15 * * *"  # Runs at 10:00 AM EST (15:00 UTC)
+    - cron: "30 22 * * *" # Runs at 5:30 PM EST (22:30 UTC)
+    - cron: "15 3 * * *"  # Runs at 10:15 PM EST (3:15 UTC next day)
+  workflow_dispatch:      # Allows manual execution from GitHub UI
+
+permissions:
+  contents: write  # ✅ Allows GitHub Actions to commit and push changes
+
+jobs:
+  update-ohl-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4  # ✅ Uses the latest stable version
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests numpy
+
+      - name: Run Schedule Update Script
+        run: python get_2024_2025_schedule.py  # ✅ Updates schedule
+
+      - name: Run Player Stats Update Script
+        run: python get_ohl_stats.py  # ✅ Updates player stats
+
+      - name: Run Roster Update Script
+        run: python get_rosters.py  # ✅ Updates team rosters
+
+      - name: Run Predictions Script
+        run: python monte_carlo_sim.py  # ✅ Runs game predictions
+
+      - name: Run Accuracy Check Script
+        run: python accuracy_check.py  # ✅ Evaluates prediction accuracy
+
+      - name: Check for Changes
+        id: check_changes
+        run: |
+          git add docs/OHL_SCHEDULE/*.csv docs/OHL_STATS/*.csv docs/OHL_ROSTERS/*.csv docs/JSON_DATA/*.json
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            echo "changed=false" >> $GITHUB_ENV
+          else
+            echo "Changes detected."
+            echo "changed=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit & Push Updates
+        if: env.changed == 'true'  # ✅ Only commit if changes are detected
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Automated OHL data update for $(date '+%Y-%m-%d %H:%M UTC')"
+          git push origin main
