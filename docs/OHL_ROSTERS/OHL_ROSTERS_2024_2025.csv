@@ -8,7 +8,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8807,Owen Protz,Protz,Owen,D,L,6.02,207.0,2006-02-07,Brantford Bulldogs,East Division,12,0
 9004,Calvin Crombie,Crombie,Calvin,RW,R,6.00,186.0,2005-09-03,Brantford Bulldogs,East Division,14,0
 8350,Nick Lardis,Lardis,Nick,RW,L,5.11,185.0,2005-07-08,Brantford Bulldogs,East Division,16,0
-8670,Braeden O'Keefe,O'Keefe,Braeden,C,L,5.09,170.0,2005-06-08,Brantford Bulldogs,East Division,17,0
+9150,Patrick Babin,Babin,Patrick,D,R,5.11,168.0,2008-01-30,Brantford Bulldogs,East Division,17,1
 8967,Dylan Tsherna,Tsherna,Dylan,RW,R,6.00,177.0,2007-02-22,Brantford Bulldogs,East Division,18,0
 9151,Nikolas Rossetto,Rossetto,Nikolas,RW,R,5.09,156.0,2008-08-02,Brantford Bulldogs,East Division,19,1
 9149,Aiden O'Donnell,O'Donnell,Aiden,LW,L,6.01,172.0,2008-01-03,Brantford Bulldogs,East Division,22,1
@@ -60,7 +60,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9088,Harrison Franssen,Franssen,Harrison,C,R,6.03,190.0,2006-05-06,Oshawa Generals,East Division,12,0
 8412,Ethan Martin,Martin,Ethan,LW,L,6.06,222.0,2005-03-25,Oshawa Generals,East Division,14,0
 9325,Noah Powell,Powell,Noah,RW,R,6.02,205.0,2005-02-02,Oshawa Generals,East Division,15,0
-9127,Brady Blaseg,Blaseg,Brady,D,L,6.03,196.0,2008-07-21,Oshawa Generals,East Division,16,1
 8540,Luke Torrance,Torrance,Luke,LW,L,6.01,201.0,2004-03-30,Oshawa Generals,East Division,17,0
 8543,Luca Marrelli,Marrelli,Luca,D,R,6.02,185.0,2005-10-04,Oshawa Generals,East Division,19,0
 8413,Calum Ritchie,Ritchie,Calum,C,R,6.03,190.0,2005-01-21,Oshawa Generals,East Division,21,0
@@ -193,8 +192,8 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9063,Grant Spada,Spada,Grant,D,L,6.04,185.0,2007-06-24,Guelph Storm,Midwest Division,21,1
 8562,Charlie Paquette,Paquette,Charlie,RW,R,6.02,207.0,2005-12-06,Guelph Storm,Midwest Division,23,0
 8520,Max Namestnikov,Namestnikov,Max,LW,L,5.08,184.0,2004-02-06,Guelph Storm,Midwest Division,26,0
-9277,Lucas Teixeira,Teixeira,Lucas,C,R,6.01,185.0,2007-01-28,Guelph Storm,Midwest Division,27,1
 9216,Jimmy Sutherland,Sutherland,Jimmy,LW,L,5.09,160.0,2007-02-14,Guelph Storm,Midwest Division,29,1
+9225,Liam Conway,Conway,Liam,G,L,6.00,175.0,2007-06-19,Guelph Storm,Midwest Division,30,0
 9167,Zachary Jovanovski,Jovanovski,Zachary,G,L,6.02,170.0,2007-10-07,Guelph Storm,Midwest Division,30,1
 9291,Lev Katzin,Katzin,Lev,C,L,5.8,176.0,2007-05-13,Guelph Storm,Midwest Division,33,1
 9338,Kayden Newton,Newton,Kayden,G,R,6.03,150.0,2007-11-20,Guelph Storm,Midwest Division,34,1
@@ -229,7 +228,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8947,Luca Romano,Romano,Luca,C,R,5.11,168.0,2007-06-25,Kitchener Rangers,Midwest Division,86,0
 9162,Alexander Bilecki,Bilecki,Alexander,LD,R,6.01,155.0,2008-05-09,Kitchener Rangers,Midwest Division,89,1
 9165,Jack LaBrash,LaBrash,Jack,C,L,6.05,196.0,2007-03-04,Kitchener Rangers,Midwest Division,93,1
-9311,Jacob Xu,Xu,Jacob,D,L,6.02,181.0,2008-03-13,Kitchener Rangers,Midwest Division,96,0
 8740,Braedyn Rogers,Rogers,Braedyn,RD,R,6.00,180.0,2006-11-22,Owen Sound Attack,Midwest Division,2,0
 9190,Elliot Arnett,Arnett,Elliot,LD,L,6.01,189.0,2008-03-12,Owen Sound Attack,Midwest Division,4,1
 9032,Gabriel Smith,Smith,Gabriel,LD,L,6.03,198.0,2007-01-01,Owen Sound Attack,Midwest Division,5,1

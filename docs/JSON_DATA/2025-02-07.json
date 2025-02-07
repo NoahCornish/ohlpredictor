@@ -31,8 +31,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-272",
-            "Owen Sound Attack": "+211"
+            "Kitchener Rangers": "-276",
+            "Owen Sound Attack": "+214"
         }
     },
     {
@@ -58,8 +58,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-291",
-            "Ottawa 67's": "+224"
+            "Oshawa Generals": "-292",
+            "Ottawa 67's": "+225"
         }
     },
     {
@@ -76,8 +76,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-154",
-            "North Bay Battalion": "+124"
+            "Guelph Storm": "-151",
+            "North Bay Battalion": "+122"
         }
     }
 ]
