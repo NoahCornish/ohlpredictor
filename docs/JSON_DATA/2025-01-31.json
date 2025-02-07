@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-498",
-            "Peterborough Petes": "+355"
+            "Brampton Steelheads": "-552",
+            "Peterborough Petes": "+385"
         }
     },
     {
@@ -13,8 +13,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Flint Firebirds": "+119",
-            "Kitchener Rangers": "-148"
+            "Flint Firebirds": "+112",
+            "Kitchener Rangers": "-139"
         }
     },
     {
@@ -40,8 +40,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-278",
-            "North Bay Battalion": "+215"
+            "Sudbury Wolves": "-271",
+            "North Bay Battalion": "+210"
         }
     },
     {
@@ -58,8 +58,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Soo Greyhounds": "+193",
-            "Brantford Bulldogs": "-246"
+            "Soo Greyhounds": "+175",
+            "Brantford Bulldogs": "-221"
         }
     }
 ]

@@ -13,8 +13,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "North Bay Battalion": "+295",
-            "Brantford Bulldogs": "-399"
+            "North Bay Battalion": "+288",
+            "Brantford Bulldogs": "-388"
         }
     },
     {
@@ -22,8 +22,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Peterborough Petes": "+355",
-            "Brampton Steelheads": "-498"
+            "Peterborough Petes": "+385",
+            "Brampton Steelheads": "-552"
         }
     },
     {
@@ -40,8 +40,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-204",
-            "Flint Firebirds": "+162"
+            "Windsor Spitfires": "-192",
+            "Flint Firebirds": "+153"
         }
     }
 ]

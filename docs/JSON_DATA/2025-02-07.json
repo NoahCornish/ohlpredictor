@@ -22,8 +22,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-225",
-            "Flint Firebirds": "+178"
+            "Kingston Frontenacs": "-212",
+            "Flint Firebirds": "+168"
         }
     },
     {
@@ -40,8 +40,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-753",
-            "Peterborough Petes": "+489"
+            "London Knights": "-844",
+            "Peterborough Petes": "+531"
         }
     },
     {
@@ -76,8 +76,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-158",
-            "North Bay Battalion": "+127"
+            "Guelph Storm": "-154",
+            "North Bay Battalion": "+124"
         }
     }
 ]
