@@ -33,12 +33,7 @@
                 <li onclick="location.href='predictions.html'">🔍 <strong>Predictions Page:</strong> View detailed forecasts for upcoming games.</li>
                 <li onclick="location.href='accuracy.html'">📊 <strong>Accuracy Page:</strong> See how well our model performs over time.</li>
             </ul>
-            <!-- ⚠️ Legal Disclaimer -->
-        <p class="disclaimer">
-            <!--This content is provided solely for informational purposes.<br>
-            It reflects statistical algorithms and historical data.<br>-->
-            Entertainment purposes only.
-        </p>
+            <p class="disclaimer">Entertainment purposes only.</p>
         </div>
     </section>
 
@@ -48,7 +43,31 @@
         <div id="clock" class="clock"></div>
     </footer>
 
-    <!-- ✅ JavaScript for Live Clock -->
+<!-- ⚠️ Maintenance Popup -->
+<div id="maintenance-popup" class="popup">
+    <div class="popup-content">
+        <span class="close-btn" id="close-btn">✖</span>
+        <h2>Website Down for Updates</h2>
+        <p>'OHL Predictons' is currently down for scheduled data updates.<br>
+            Please refer to the update schedule below:</p>
+        <ul style="text-align: left;">
+            <li><strong>Daily Update Times (Monday to Sunday):</strong></li>
+            <ul>
+                <li>3:00 AM – 3:30 AM EST</li>
+                <li>10:00 AM – 10:30 AM EST</li>
+                <li>5:30 PM – 6:00 PM EST</li>
+                <li>10:15 PM – 10:45 PM EST</li>
+                <li>11:30 PM – 12:00 AM EST</li>
+            </ul>
+        </ul>
+        <p>Thank you for your patience and understanding.</p>
+    </div>
+</div>
+
+
+
+
+    <script src="maintenance.js"></script>
     <script>
         function updateClock() {
             const now = new Date();
@@ -69,6 +88,5 @@
         setInterval(updateClock, 1000);
         updateClock();
     </script>
-
 </body>
 </html>

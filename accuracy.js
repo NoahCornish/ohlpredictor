@@ -53,9 +53,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     gameItem.innerHTML = `
                         <div class="game-row">
-                            <span class="away-team">${game.away_team}</span>
+                            <div>
+                                <span class="away-team">${game.away_team}</span>
+                                <span class="score">(${game.away_score ?? ''})</span>
+                            </div>
                             <span class="vs">vs</span>
-                            <span class="home-team">${game.home_team}</span>
+                            <div>
+                                <span class="home-team">${game.home_team}</span>
+                                <span class="score">(${game.home_score ?? ''})</span>
+                            </div>
                         </div>
                         <div class="prediction-actual">
                             ${isGameNotStarted 
@@ -63,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                 : `
                                     <div><strong>Predicted:</strong> ${game.predicted_winner}</div>
                                     <div><strong>Actual:</strong> ${game.actual_winner}</div>
-                                `
+                                  `
                             }
                         </div>
                     `;

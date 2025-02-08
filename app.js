@@ -63,9 +63,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     const popupDetails = document.getElementById('popup-details');
                     popupDetails.innerHTML = `
                         <h2>${game.away_team}<br> vs<br> ${game.home_team}</h2>
+                        <hr>
                         <p><strong>Predicted Winner:<br></strong> ${game.winner}</p>
+                        <hr>
                         <p><strong>Odds:<br></strong> ${game.away_team}: ${game.odds[game.away_team]}<br> 
                         ${game.home_team}: ${game.odds[game.home_team]}</p>
+                        <hr>
+                        
                     `;
 
                     // ✅ Show the popup
@@ -85,3 +89,4 @@ document.addEventListener('DOMContentLoaded', () => {
         popup.style.display = 'none';
     }
 });
+
