@@ -4,8 +4,8 @@
         "away_team": "Erie Otters",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-151",
-            "Erie Otters": "+121"
+            "Brampton Steelheads": "-162",
+            "Erie Otters": "+130"
         }
     },
     {
@@ -13,8 +13,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Brantford Bulldogs": "-106",
-            "Saginaw Spirit": "-116"
+            "Brantford Bulldogs": "-108",
+            "Saginaw Spirit": "-114"
         }
     },
     {
@@ -22,8 +22,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-211",
-            "Flint Firebirds": "+167"
+            "Kingston Frontenacs": "-217",
+            "Flint Firebirds": "+172"
         }
     },
     {
@@ -31,8 +31,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-276",
-            "Owen Sound Attack": "+214"
+            "Kitchener Rangers": "-280",
+            "Owen Sound Attack": "+217"
         }
     },
     {
@@ -40,8 +40,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-844",
-            "Peterborough Petes": "+531"
+            "London Knights": "-909",
+            "Peterborough Petes": "+559"
         }
     },
     {
@@ -49,8 +49,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-145",
-            "Sudbury Wolves": "+117"
+            "Niagara IceDogs": "-136",
+            "Sudbury Wolves": "+110"
         }
     },
     {
@@ -58,8 +58,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-292",
-            "Ottawa 67's": "+225"
+            "Oshawa Generals": "-309",
+            "Ottawa 67's": "+236"
         }
     },
     {
@@ -67,8 +67,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-300",
-            "Sarnia Sting": "+230"
+            "Windsor Spitfires": "-327",
+            "Sarnia Sting": "+248"
         }
     },
     {
@@ -76,8 +76,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-151",
-            "North Bay Battalion": "+122"
+            "Guelph Storm": "-155",
+            "North Bay Battalion": "+125"
         }
     }
 ]

@@ -4,8 +4,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-283",
-            "Ottawa 67's": "+218"
+            "Barrie Colts": "-289",
+            "Ottawa 67's": "+223"
         }
     },
     {
@@ -13,8 +13,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "North Bay Battalion": "+288",
-            "Brantford Bulldogs": "-388"
+            "North Bay Battalion": "+283",
+            "Brantford Bulldogs": "-380"
         }
     },
     {
@@ -22,8 +22,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Peterborough Petes": "+385",
-            "Brampton Steelheads": "-552"
+            "Peterborough Petes": "+432",
+            "Brampton Steelheads": "-638"
         }
     },
     {
@@ -31,8 +31,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Saginaw Spirit": "+115",
-            "Kingston Frontenacs": "-143"
+            "Saginaw Spirit": "+117",
+            "Kingston Frontenacs": "-145"
         }
     },
     {
@@ -40,8 +40,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-192",
-            "Flint Firebirds": "+153"
+            "Windsor Spitfires": "-202",
+            "Flint Firebirds": "+161"
         }
     }
 ]

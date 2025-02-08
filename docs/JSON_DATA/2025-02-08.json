@@ -4,17 +4,17 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Brampton Steelheads": "+122",
-            "Kingston Frontenacs": "-152"
+            "Brampton Steelheads": "+116",
+            "Kingston Frontenacs": "-143"
         }
     },
     {
         "home_team": "Erie Otters",
         "away_team": "Sudbury Wolves",
-        "winner": "Erie Otters",
+        "winner": "Sudbury Wolves",
         "odds": {
-            "Erie Otters": "-112",
-            "Sudbury Wolves": "-110"
+            "Erie Otters": "-105",
+            "Sudbury Wolves": "-117"
         }
     },
     {
@@ -22,8 +22,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-116",
-            "Kitchener Rangers": "-107"
+            "Niagara IceDogs": "-112",
+            "Kitchener Rangers": "-110"
         }
     },
     {
@@ -31,8 +31,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-136",
-            "North Bay Battalion": "+110"
+            "Owen Sound Attack": "-134",
+            "North Bay Battalion": "+108"
         }
     },
     {
@@ -40,8 +40,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sarnia Sting",
         "odds": {
-            "Sarnia Sting": "-240",
-            "Peterborough Petes": "+188"
+            "Sarnia Sting": "-242",
+            "Peterborough Petes": "+190"
         }
     },
     {
@@ -49,8 +49,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-136",
-            "Brantford Bulldogs": "+110"
+            "Windsor Spitfires": "-139",
+            "Brantford Bulldogs": "+112"
         }
     },
     {
@@ -58,8 +58,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Guelph Storm": "+224",
-            "Saginaw Spirit": "-290"
+            "Guelph Storm": "+211",
+            "Saginaw Spirit": "-272"
         }
     },
     {

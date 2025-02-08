@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-552",
-            "Peterborough Petes": "+385"
+            "Brampton Steelheads": "-638",
+            "Peterborough Petes": "+432"
         }
     },
     {
@@ -13,8 +13,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Flint Firebirds": "+113",
-            "Kitchener Rangers": "-140"
+            "Flint Firebirds": "+118",
+            "Kitchener Rangers": "-147"
         }
     },
     {
@@ -22,8 +22,8 @@
         "away_team": "Erie Otters",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-213",
-            "Erie Otters": "+168"
+            "London Knights": "-215",
+            "Erie Otters": "+170"
         }
     },
     {
@@ -31,8 +31,8 @@
         "away_team": "Barrie Colts",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-115",
-            "Barrie Colts": "-108"
+            "Oshawa Generals": "-118",
+            "Barrie Colts": "-105"
         }
     },
     {
@@ -40,8 +40,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-271",
-            "North Bay Battalion": "+210"
+            "Sudbury Wolves": "-278",
+            "North Bay Battalion": "+216"
         }
     },
     {
@@ -49,8 +49,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Sarnia Sting",
         "odds": {
-            "Guelph Storm": "+102",
-            "Sarnia Sting": "-126"
+            "Guelph Storm": "-108",
+            "Sarnia Sting": "-114"
         }
     },
     {
@@ -58,8 +58,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Soo Greyhounds": "+175",
-            "Brantford Bulldogs": "-221"
+            "Soo Greyhounds": "+179",
+            "Brantford Bulldogs": "-227"
         }
     }
 ]
