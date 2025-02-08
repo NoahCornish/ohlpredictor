@@ -12,12 +12,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Maintenance Windows
         const maintenanceWindows = [
-            { start: { hour: 3, minute: 0 }, duration: 30 },   // 3:00 AM – 3:30 AM EST
-            { start: { hour: 10, minute: 0 }, duration: 30 },  // 10:00 AM – 10:30 AM EST
-            { start: { hour: 17, minute: 30 }, duration: 30 }, // 5:30 PM – 6:00 PM EST
-            { start: { hour: 22, minute: 15 }, duration: 30 }, // 10:15 PM – 10:45 PM EST
-            { start: { hour: 23, minute: 30 }, duration: 30 }  // 11:30 PM – 12:00 AM EST
+            { start: { hour: 3, minute: 0 }, duration: 15 },   // 3:00 AM – 3:15 AM EST
+            { start: { hour: 10, minute: 0 }, duration: 15 },  // 10:00 AM – 10:15 AM EST
+            { start: { hour: 18, minute: 50 }, duration: 15 }, // 6:50 PM – 7:05 PM EST
+            { start: { hour: 22, minute: 15 }, duration: 15 }  // 10:15 PM – 10:30 PM EST
         ];
+        
 
         for (const window of maintenanceWindows) {
             const startTime = window.start.hour * 60 + window.start.minute;

@@ -4,20 +4,29 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultsDiv = document.getElementById('results');
     const closeBtn = document.getElementById('close-btn'); 
     const popup = document.getElementById('game-popup');
-    
 
-    // ✅ Attach event listener to the close button
     if (closeBtn) {
         closeBtn.addEventListener('click', closePopup);
     }
 
     dateInput.addEventListener('change', function () {
         resultsDiv.innerHTML = ''; // Clear previous results
-
-        fetch(`docs/JSON_DATA/${this.value}.json`)
-            .then(response => response.json())
+        const selectedDate = this.value;
+        
+        fetch(`docs/JSON_DATA/${selectedDate}.json`)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("No predictions available for the selected date!");
+                }
+                return response.json();
+            })
             .then(games => {
-                gameContainer.innerHTML = '';
+                gameContainer.innerHTML = ''; // Clear game container
+
+                if (games.length === 0) {
+                    gameContainer.innerHTML = '<p>No games available for this date.</p>';
+                    return;
+                }
 
                 games.forEach(game => {
                     const gameBox = document.createElement('div');
@@ -29,28 +38,27 @@ document.addEventListener('DOMContentLoaded', () => {
                             <span class="vs">vs</span>
                             <span class="team home-team">${game.home_team}</span>
                         </div>
+                        <div class="game-time">Game Time: ${game.game_time || 'TBD'}</div>
                         <button class="select-btn" data-home="${game.home_team}" data-away="${game.away_team}">SELECT</button>
                     `;
 
                     gameContainer.appendChild(gameBox);
                 });
 
-                // ✅ Add event listeners for SELECT buttons
                 document.querySelectorAll('.select-btn').forEach(button => {
                     button.addEventListener('click', (e) => {
                         const homeTeam = e.target.dataset.home;
                         const awayTeam = e.target.dataset.away;
-                        showGameDetails(homeTeam, awayTeam, dateInput.value);
+                        showGameDetails(homeTeam, awayTeam, selectedDate);
                     });
                 });
             })
             .catch(error => {
                 console.error('Error loading game data:', error);
-                gameContainer.innerHTML = '<p>NO GAME DATA AVAILABLE.</p>';
+                gameContainer.innerHTML = `<p>${error.message}</p>`;
             });
     });
 
-    // ✅ Show game details when SELECT button is clicked
     function showGameDetails(homeTeam, awayTeam, selectedDate) {
         const filePath = `docs/JSON_DATA/${selectedDate}.json`;
 
@@ -64,15 +72,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     popupDetails.innerHTML = `
                         <h2>${game.away_team}<br> vs<br> ${game.home_team}</h2>
                         <hr>
-                        <p><strong>Predicted Winner:<br></strong> ${game.winner}</p>
+                        <p><strong>Game Time:</strong> ${game.game_time || 'TBD'}</p>
                         <hr>
-                        <p><strong>Odds:<br></strong> ${game.away_team}: ${game.odds[game.away_team]}<br> 
-                        ${game.home_team}: ${game.odds[game.home_team]}</p>
+                        <p><strong>Predicted Winner:</strong> ${game.winner}</p>
                         <hr>
-                        
+                        <p><strong>Odds:</strong><br> ${game.away_team}: ${game.odds[game.away_team]}<br> ${game.home_team}: ${game.odds[game.home_team]}</p>
                     `;
 
-                    // ✅ Show the popup
                     popup.style.display = 'flex';
                 } else {
                     alert('No prediction data available for this game.');
@@ -84,9 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
     }
 
-    // ✅ Close Popup Function
     function closePopup() {
         popup.style.display = 'none';
     }
 });
-

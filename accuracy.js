@@ -11,22 +11,33 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
 
-            // ✅ Show total accuracy only for completed games
             totalAccuracyEl.textContent = `${data.total_accuracy.toFixed(1)}% (${data.total_correct}/${data.total_games} correct)`;
 
-            data.daily_accuracies.forEach(item => {
+            // Filter dates where all games have non-zero scores
+            const completedDates = data.daily_accuracies.filter(item => 
+                item.game_details.every(game => 
+                    game.home_score !== null && game.away_score !== null && 
+                    (game.home_score > 0 || game.away_score > 0) // Ensure scores are not 0-0
+                )
+            );
+
+            completedDates.forEach(item => {
                 const option = document.createElement('option');
                 option.value = item.date;
                 option.textContent = item.date;
                 dateSelectEl.appendChild(option);
             });
 
+            if (completedDates.length > 0) {
+                displayAccuracyForDate(completedDates[0].date, data.daily_accuracies);
+            } else {
+                accuracyListEl.innerHTML = '<p>No completed games to display.</p>';
+            }
+
             dateSelectEl.addEventListener('change', (event) => {
                 const selectedDate = event.target.value;
                 displayAccuracyForDate(selectedDate, data.daily_accuracies);
             });
-
-            displayAccuracyForDate(data.daily_accuracies[0].date, data.daily_accuracies);
         })
         .catch(error => {
             console.error('Error loading accuracy data:', error);
@@ -49,8 +60,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     const isCorrect = game.predicted_winner === game.actual_winner;
                     gameItem.classList.add(isCorrect ? 'correct' : 'incorrect');
 
-                    const isGameNotStarted = game.actual_winner === "Not Started";
-
                     gameItem.innerHTML = `
                         <div class="game-row">
                             <div>
@@ -64,13 +73,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             </div>
                         </div>
                         <div class="prediction-actual">
-                            ${isGameNotStarted 
-                                ? `<div class="game-status">GAME NOT STARTED/FINISHED</div>` 
-                                : `
-                                    <div><strong>Predicted:</strong> ${game.predicted_winner}</div>
-                                    <div><strong>Actual:</strong> ${game.actual_winner}</div>
-                                  `
-                            }
+                            <div><strong>Predicted:</strong> ${game.predicted_winner}</div>
+                            <div><strong>Actual:</strong> ${game.actual_winner}</div>
                         </div>
                     `;
                     gameDetails.appendChild(gameItem);
