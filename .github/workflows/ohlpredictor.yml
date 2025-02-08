@@ -4,46 +4,72 @@ on:
   schedule:
     - cron: "0 8 * * *"   # 3:00 AM EST
     - cron: "0 15 * * *"  # 10:00 AM EST
-    - cron: "50 23 * * *" # 6:50 PM EST (23:50 UTC)
-    - cron: "15 3 * * *"  # 10:15 PM EST (3:15 UTC next day)
+    - cron: "50 23 * * *" # 6:50 PM EST (11:50 PM UTC)
+    - cron: "15 3 * * *"  # 10:15 PM EST (3:15 AM UTC next day)
   workflow_dispatch:       # Allows manual execution from GitHub UI
 
 permissions:
-  contents: write  # ✅ Allows GitHub Actions to commit and push changes
+  contents: write  # ✅ Gives permission to commit and push changes
 
 jobs:
   update-ohl-data:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Use the latest version of Ubuntu for the workflow runner
 
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v4
+        # This ensures the workflow can access the repository’s content
 
+      # Step 2: Deploy a temporary maintenance page
+      - name: Deploy Maintenance Page
+        run: |
+          echo "Deploying maintenance page"
+          cp maintenance.html docs/index.html  # Replace the current index.html with maintenance.html
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html
+          git commit -m "Deploy maintenance page"
+          git push origin main  # Push the maintenance page to GitHub Pages
+
+      # Step 3: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.12"
+          python-version: "3.12"  # Use Python 3.12 for the scripts
 
+      # Step 4: Install necessary Python packages
       - name: Install Python Dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install pandas requests numpy
+          python -m pip install --upgrade pip  # Upgrade pip
+          pip install pandas requests numpy     # Install required packages
 
+      # Step 5: Run the schedule update script
       - name: Run Schedule Update Script
         run: python get_2024_2025_schedule.py | tee -a workflow_summary.log
+        # This script updates the game schedule for the 2024-2025 season
 
+      # Step 6: Run the player stats update script
       - name: Run Player Stats Update Script
         run: python get_ohl_stats.py | tee -a workflow_summary.log
+        # This script updates player statistics
 
+      # Step 7: Run the roster update script
       - name: Run Roster Update Script
         run: python get_rosters.py | tee -a workflow_summary.log
+        # This script updates the team rosters
 
+      # Step 8: Run the predictions script
       - name: Run Predictions Script
         run: python monte_carlo_sim.py | tee -a workflow_summary.log
+        # This script generates predictions using a Monte Carlo simulation
 
+      # Step 9: Run the accuracy check script
       - name: Run Accuracy Check Script
         run: python accuracy_check.py | tee -a workflow_summary.log
+        # This script checks the accuracy of previous predictions
 
+      # Step 10: Check for changes in data files
       - name: Capture File Changes
         id: check_changes
         run: |
@@ -55,7 +81,9 @@ jobs:
             echo "Changes detected."
             echo "changed=true" >> $GITHUB_ENV
           fi
+        # This checks if there are any new changes in the data files
 
+      # Step 11: Generate a workflow summary
       - name: Generate Summary
         run: |
           echo "## 📊 OHL Data Update Summary" > docs/JSON_DATA/workflow_summary.md
@@ -69,8 +97,9 @@ jobs:
             echo "- **Updates Pushed to Repository:** ✅" >> docs/JSON_DATA/workflow_summary.md
           else
             echo "- **No Updates Needed:** No new data changes" >> docs/JSON_DATA/workflow_summary.md
-          fi
+        # This step creates a summary of the workflow’s execution
 
+      # Step 12: Commit and push the updates if changes were detected
       - name: Commit & Push Updates
         if: env.changed == 'true'
         run: |
@@ -79,3 +108,13 @@ jobs:
           git add docs/JSON_DATA/workflow_summary.md
           git commit -m "Automated OHL update summary for $(date '+%Y-%m-%d %H:%M UTC')"
           git push origin main
+        # This pushes the new data and summary to the repository if there were changes
+
+      # Step 13: Restore the original website
+      - name: Restore Website
+        run: |
+          echo "Restoring main website"
+          git checkout main -- docs/index.html  # Revert index.html to the original website content
+          git commit -m "Restore main website"
+          git push origin main
+        # This restores the original index.html, ending the maintenance mode
