@@ -120,7 +120,7 @@ def predict_game_winner(home_team, away_team, team_stats, team_records):
     }
 
 def process_games_for_date(selected_date, stats_df, schedule_df, team_stats, team_records):
-    """Process all games on the selected date and save predictions as JSON."""
+    """Process all games on the selected date and save predictions with game times as JSON."""
     games_on_date = schedule_df[schedule_df['Date'] == selected_date]
     if games_on_date.empty:
         return
@@ -129,8 +129,10 @@ def process_games_for_date(selected_date, stats_df, schedule_df, team_stats, tea
     for _, game in games_on_date.iterrows():
         home_team = game['HomeTeam']
         away_team = game['AwayTeam']
+        game_time = game['Time']  # Extract game time from the schedule
 
         prediction = predict_game_winner(home_team, away_team, team_stats, team_records)
+        prediction["game_time"] = game_time  # Add game time to the prediction
         all_predictions.append(prediction)
 
     output_path = os.path.join(output_dir, f"{selected_date}.json")

@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Maintenance Windows
         const maintenanceWindows = [
+
             { start: { hour: 3, minute: 0 }, duration: 15 },   // 3:00 AM – 3:15 AM EST
             { start: { hour: 10, minute: 0 }, duration: 15 },  // 10:00 AM – 10:15 AM EST
             { start: { hour: 18, minute: 50 }, duration: 15 }, // 6:50 PM – 7:05 PM EST

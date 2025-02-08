@@ -32,6 +32,7 @@
                 <li onclick="location.href='player_stats.html'">🏆 <strong>Player Stats:</strong> View detailed player statistics for the 2024-2025 season.</li>
                 <li onclick="location.href='predictions.html'">🔍 <strong>Predictions Page:</strong> View detailed forecasts for upcoming games.</li>
                 <li onclick="location.href='accuracy.html'">📊 <strong>Accuracy Page:</strong> See how well our model performs over time.</li>
+                <li onclick="location.href='about.html'">❓<strong>About:</strong> Learn more about 'OHL Predictions'.</li>
             </ul>
             <p class="disclaimer">Entertainment purposes only.</p>
         </div>
@@ -43,29 +44,19 @@
         <div id="clock" class="clock"></div>
     </footer>
 
-<!-- ⚠️ Maintenance Popup -->
-<div id="maintenance-popup" class="popup">
-    <div class="popup-content">
-        <span class="close-btn" id="close-btn">✖</span>
-        <h2>Website Down for Updates</h2>
-        <p>'OHL Predictons' is currently down for scheduled data updates.<br>
-            Please refer to the update schedule below:</p>
-        <ul style="text-align: left;">
-            <li><strong>Daily Update Times (Monday to Sunday):</strong></li>
-            <ul>
-                <li>3:00 AM – 3:30 AM EST</li>
-                <li>10:00 AM – 10:30 AM EST</li>
-                <li>5:30 PM – 6:00 PM EST</li>
-                <li>10:15 PM – 10:45 PM EST</li>
-                <li>11:30 PM – 12:00 AM EST</li>
-            </ul>
-        </ul>
-        <p>Thank you for your patience and understanding.</p>
+    <!-- ⚠️ Legal Disclaimer Popup -->
+    <div id="legal-popup" class="popup">
+        <div class="popup-content">
+            <h2>Legal Disclaimer</h2>
+            <p>
+                By using this site, you agree that OHL Predictions is for informational and entertainment purposes only. 
+                We do not promote gambling or betting activities. All predictions are based on statistical analysis, and outcomes may vary. 
+                Users are responsible for their actions, and we are not liable for any decisions made based on the information provided.
+            </p>
+            <p>Please read and accept this disclaimer to proceed.</p>
+            <button id="accept-btn" class="select-btn">I Accept</button>
+        </div>
     </div>
-</div>
-
-
-
 
     <script src="maintenance.js"></script>
     <script>
@@ -79,7 +70,7 @@
                 hour12: true 
             });
             const utcTime = now.toUTCString().slice(17, 25);
-
+    
             const clockElement = document.getElementById('clock');
             if (clockElement) {
                 clockElement.innerHTML = `<strong>EST:</strong> ${estTime} | <strong>UTC:</strong> ${utcTime}`;
@@ -87,6 +78,24 @@
         }
         setInterval(updateClock, 1000);
         updateClock();
+    
+        // ⚠️ Legal Disclaimer Popup Script
+        document.addEventListener('DOMContentLoaded', () => {
+            const legalPopup = document.getElementById('legal-popup');
+            const acceptBtn = document.getElementById('accept-btn');
+    
+            if (!sessionStorage.getItem('legalAccepted')) {
+                // Show the popup if it's the first visit in this session
+                legalPopup.style.display = 'flex';
+            }
+    
+            acceptBtn.addEventListener('click', () => {
+                sessionStorage.setItem('legalAccepted', 'true');  // Store acceptance for this session
+                legalPopup.style.display = 'none';
+            });
+        });
     </script>
+    
+    
 </body>
 </html>
