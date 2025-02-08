@@ -8,7 +8,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8807,Owen Protz,Protz,Owen,D,L,6.02,207.0,2006-02-07,Brantford Bulldogs,East Division,12,0
 9004,Calvin Crombie,Crombie,Calvin,RW,R,6.00,186.0,2005-09-03,Brantford Bulldogs,East Division,14,0
 8350,Nick Lardis,Lardis,Nick,RW,L,5.11,185.0,2005-07-08,Brantford Bulldogs,East Division,16,0
-9150,Patrick Babin,Babin,Patrick,D,R,5.11,168.0,2008-01-30,Brantford Bulldogs,East Division,17,1
+8670,Braeden O'Keefe,O'Keefe,Braeden,C,L,5.09,170.0,2005-06-08,Brantford Bulldogs,East Division,17,0
 8967,Dylan Tsherna,Tsherna,Dylan,RW,R,6.00,177.0,2007-02-22,Brantford Bulldogs,East Division,18,0
 9151,Nikolas Rossetto,Rossetto,Nikolas,RW,R,5.09,156.0,2008-08-02,Brantford Bulldogs,East Division,19,1
 9149,Aiden O'Donnell,O'Donnell,Aiden,LW,L,6.01,172.0,2008-01-03,Brantford Bulldogs,East Division,22,1
@@ -33,7 +33,6 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9140,Emil Pieniniemi,Pieniniemi,Emil,D,L,6.03,177.0,2005-03-02,Kingston Frontenacs,East Division,7,0
 8978,Tuomas Uronen,Uronen,Tuomas,RW,R,6.00,194.0,2005-03-19,Kingston Frontenacs,East Division,8,0
 8599,Gage Heyes,Heyes,Gage,RW,R,6.00,172.0,2004-04-21,Kingston Frontenacs,East Division,9,0
-9300,Kieren Dervin,Dervin,Kieren,C,L,6.02,181.0,2007-03-31,Kingston Frontenacs,East Division,10,1
 8702,Maleek McGowan,McGowan,Maleek,D,L,6.00,190.0,2005-06-13,Kingston Frontenacs,East Division,11,0
 8676,Ben Pickell,Pickell,Ben,C,L,5.09,186.0,2005-07-20,Kingston Frontenacs,East Division,12,0
 8770,Joey Willis,Willis,Joey,C,L,5.11,185.0,2005-03-14,Kingston Frontenacs,East Division,14,0
@@ -368,6 +367,7 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9299,Chase Reid,Reid,Chase,D,R,6.02,185.0,2007-12-30,Soo Greyhounds,West Division,25,1
 8577,Marco Mignosa,Mignosa,Marco,RW,R,5.11,170.0,2005-04-13,Soo Greyhounds,West Division,26,0
 9279,Jordan Charron,Charron,Jordan,RW,R,6.02,190.0,2007-06-21,Soo Greyhounds,West Division,27,1
+9219,Reid Thomas,Thomas,Reid,G,R,6.02,180.0,2007-06-07,Soo Greyhounds,West Division,30,1
 8809,Landon Miller,Miller,Landon,G,R,6.04.5,203.0,2006-01-03,Soo Greyhounds,West Division,36,0
 9265,Noel Nordh,Nordh,Noel,LW,L,6.02,198.0,2005-01-25,Soo Greyhounds,West Division,43,0
 9018,Brady Martin,Martin,Brady,C,R,6.00,174.0,2007-03-16,Soo Greyhounds,West Division,44,0
