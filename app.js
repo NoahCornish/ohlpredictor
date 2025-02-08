@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const dateInput = document.getElementById('date-select');
     const gameContainer = document.getElementById('game-container');
     const resultsDiv = document.getElementById('results');
-    const closeBtn = document.getElementById('close-btn'); 
+    const closeBtn = document.getElementById('close-btn');
     const popup = document.getElementById('game-popup');
 
     if (closeBtn) {
@@ -10,9 +10,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     dateInput.addEventListener('change', function () {
-        resultsDiv.innerHTML = ''; // Clear previous results
+        resultsDiv.innerHTML = ''; 
         const selectedDate = this.value;
-        
+
         fetch(`docs/JSON_DATA/${selectedDate}.json`)
             .then(response => {
                 if (!response.ok) {
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 return response.json();
             })
             .then(games => {
-                gameContainer.innerHTML = ''; // Clear game container
+                gameContainer.innerHTML = ''; 
 
                 if (games.length === 0) {
                     gameContainer.innerHTML = '<p>No games available for this date.</p>';
@@ -32,13 +32,30 @@ document.addEventListener('DOMContentLoaded', () => {
                     const gameBox = document.createElement('div');
                     gameBox.className = 'game-box';
 
+                    // Convert game_time to Date object for comparison
+                    const gameTimeParts = game.game_time.split(/[: ]/);
+                    const hours = parseInt(gameTimeParts[0]) + (gameTimeParts[2] === 'pm' && gameTimeParts[0] !== '12' ? 12 : 0);
+                    const minutes = parseInt(gameTimeParts[1]);
+                    const gameTime = new Date(`${selectedDate}T${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:00`);
+                    
+                    const now = new Date();
+                    let timeDisplay = `Game Time: ${game.game_time}`;
+
+                    // Determine if the game should be marked as "Live"
+                    const timeDiff = now - gameTime;
+                    if (timeDiff >= 0 && timeDiff <= 3 * 60 * 60 * 1000) {
+                        timeDisplay = 'Live Game';
+                    } else if (timeDiff > 3 * 60 * 60 * 1000) {
+                        timeDisplay = 'Game Finished';
+                    }
+
                     gameBox.innerHTML = `
                         <div class="game-row">
                             <span class="team away-team">${game.away_team}</span>
                             <span class="vs">vs</span>
                             <span class="team home-team">${game.home_team}</span>
                         </div>
-                        <div class="game-time">Game Time: ${game.game_time || 'TBD'}</div>
+                        <div class="game-time">${timeDisplay}</div>
                         <button class="select-btn" data-home="${game.home_team}" data-away="${game.away_team}">SELECT</button>
                     `;
 
