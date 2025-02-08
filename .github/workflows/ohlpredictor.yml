@@ -2,11 +2,11 @@ name: OHL PREDICTOR UPDATE
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # Runs at 3:00 AM EST (8:00 UTC)
-    - cron: "0 15 * * *"  # Runs at 10:00 AM EST (15:00 UTC)
-    - cron: "30 22 * * *" # Runs at 5:30 PM EST (22:30 UTC)
-    - cron: "15 3 * * *"  # Runs at 10:15 PM EST (3:15 UTC next day)
-  workflow_dispatch:      # Allows manual execution from GitHub UI
+    - cron: "0 8 * * *"   # 3:00 AM EST
+    - cron: "0 15 * * *"  # 10:00 AM EST
+    - cron: "50 23 * * *" # 6:50 PM EST (23:50 UTC)
+    - cron: "15 3 * * *"  # 10:15 PM EST (3:15 UTC next day)
+  workflow_dispatch:       # Allows manual execution from GitHub UI
 
 permissions:
   contents: write  # ✅ Allows GitHub Actions to commit and push changes
