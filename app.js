@@ -29,35 +29,52 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
 
                 games.forEach(game => {
+                    if (!game.game_time) {
+                        console.warn(`Missing game_time for game between ${game.home_team} and ${game.away_team}`);
+                        return;
+                    }
+
                     const gameBox = document.createElement('div');
                     gameBox.className = 'game-box';
 
-                    // Convert game_time to Date object for comparison
-                    const gameTimeParts = game.game_time.split(/[: ]/);
-                    const hours = parseInt(gameTimeParts[0]) + (gameTimeParts[2] === 'pm' && gameTimeParts[0] !== '12' ? 12 : 0);
-                    const minutes = parseInt(gameTimeParts[1]);
-                    const gameTime = new Date(`${selectedDate}T${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:00`);
-                    
-                    const now = new Date();
-                    let timeDisplay = `Game Time: ${game.game_time}`;
+                    try {
+                        // Convert game_time to Date object for comparison
+                        const gameTimeParts = game.game_time.split(/[: ]/);
+                        const hours = parseInt(gameTimeParts[0]) + (gameTimeParts[2] === 'pm' && gameTimeParts[0] !== '12' ? 12 : 0);
+                        const minutes = parseInt(gameTimeParts[1]);
+                        const gameTime = new Date(`${selectedDate}T${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:00`);
+                        
+                        const now = new Date();
+                        let timeDisplay = `Game Time: ${game.game_time}`;
 
-                    // Determine if the game should be marked as "Live"
-                    const timeDiff = now - gameTime;
-                    if (timeDiff >= 0 && timeDiff <= 3 * 60 * 60 * 1000) {
-                        timeDisplay = 'Live Game';
-                    } else if (timeDiff > 3 * 60 * 60 * 1000) {
-                        timeDisplay = 'Game Finished';
+                        // Determine if the game should be marked as "Live"
+                        const timeDiff = now - gameTime;
+                        if (timeDiff >= 0 && timeDiff <= 3 * 60 * 60 * 1000) {
+                            timeDisplay = 'Live Game';
+                        } else if (timeDiff > 3 * 60 * 60 * 1000) {
+                            timeDisplay = 'Game Finished';
+                        }
+
+                        gameBox.innerHTML = `
+                            <div class="game-row">
+                                <span class="team away-team">${game.away_team}</span>
+                                <span class="vs">vs</span>
+                                <span class="team home-team">${game.home_team}</span>
+                            </div>
+                            <div class="game-time">${timeDisplay}</div>
+                            <button class="select-btn" data-home="${game.home_team}" data-away="${game.away_team}">SELECT</button>
+                        `;
+                    } catch (error) {
+                        console.error('Error processing game time:', error);
+                        gameBox.innerHTML = `
+                            <div class="game-row">
+                                <span class="team away-team">${game.away_team}</span>
+                                <span class="vs">vs</span>
+                                <span class="team home-team">${game.home_team}</span>
+                            </div>
+                            <div class="game-time">Time unavailable</div>
+                        `;
                     }
-
-                    gameBox.innerHTML = `
-                        <div class="game-row">
-                            <span class="team away-team">${game.away_team}</span>
-                            <span class="vs">vs</span>
-                            <span class="team home-team">${game.home_team}</span>
-                        </div>
-                        <div class="game-time">${timeDisplay}</div>
-                        <button class="select-btn" data-home="${game.home_team}" data-away="${game.away_team}">SELECT</button>
-                    `;
 
                     gameContainer.appendChild(gameBox);
                 });
