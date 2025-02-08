@@ -32,15 +32,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     const gameBox = document.createElement('div');
                     gameBox.className = 'game-box';
 
-                    let timeDisplay = `Game Time: ${game.game_time || 'TBD'}`;  // Default to 'TBD' if game_time is missing
-
                     gameBox.innerHTML = `
                         <div class="game-row">
                             <span class="team away-team">${game.away_team}</span>
                             <span class="vs">vs</span>
                             <span class="team home-team">${game.home_team}</span>
                         </div>
-                        <div class="game-time">${timeDisplay}</div>
                         <button class="select-btn" data-home="${game.home_team}" data-away="${game.away_team}">SELECT</button>
                     `;
 
@@ -73,8 +70,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     const popupDetails = document.getElementById('popup-details');
                     popupDetails.innerHTML = `
                         <h2>${game.away_team}<br> vs<br> ${game.home_team}</h2>
-                        <hr>
-                        <p><strong>Game Time:</strong> ${game.game_time || 'TBD'}</p>
                         <hr>
                         <p><strong>Predicted Winner:</strong> ${game.winner}</p>
                         <hr>
