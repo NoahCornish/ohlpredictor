@@ -1,4 +1,5 @@
 # **OHL Predictor**
+[![pages-build-deployment](https://github.com/NoahCornish/ohlpredictor/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/NoahCornish/ohlpredictor/actions/workflows/pages/pages-build-deployment)
 
 **OHL Predictor** is an advanced prediction model and web-based tool for forecasting Ontario Hockey League (OHL) game outcomes using statistical analysis and machine learning. This project provides accurate, data-driven predictions and insights for every OHL game, allowing users to track accuracy and player statistics in real time.
 
