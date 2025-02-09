@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const minutes = estDate.getMinutes();
 
         // Maintenance Windows (Commented Out)
-        /*
+        
         const maintenanceWindows = [
             { start: { hour: 3, minute: 0 }, duration: 15 },   // 3:00 AM – 3:15 AM EST
             { start: { hour: 10, minute: 0 }, duration: 15 },  // 10:00 AM – 10:15 AM EST
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 return true;  // Within a maintenance window
             }
         }
-        */
+        
 
         return false;  // Always return false since maintenance times are disabled
     }
