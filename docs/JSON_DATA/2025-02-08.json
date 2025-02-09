@@ -4,8 +4,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Brampton Steelheads": "+109",
-            "Kingston Frontenacs": "-135"
+            "Brampton Steelheads": "+112",
+            "Kingston Frontenacs": "-139"
         },
         "game_time": "4:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-147",
+            "Owen Sound Attack": "-148",
             "North Bay Battalion": "+119"
         },
         "game_time": "7:00 pm"
@@ -74,8 +74,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-207",
-            "Soo Greyhounds": "+164"
+            "Barrie Colts": "-218",
+            "Soo Greyhounds": "+173"
         },
         "game_time": "7:30 pm"
     }
