@@ -8,10 +8,11 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 8807,Owen Protz,Protz,Owen,D,L,6.02,207.0,2006-02-07,Brantford Bulldogs,East Division,12,0
 9004,Calvin Crombie,Crombie,Calvin,RW,R,6.00,186.0,2005-09-03,Brantford Bulldogs,East Division,14,0
 8350,Nick Lardis,Lardis,Nick,RW,L,5.11,185.0,2005-07-08,Brantford Bulldogs,East Division,16,0
-8670,Braeden O'Keefe,O'Keefe,Braeden,C,L,5.09,170.0,2005-06-08,Brantford Bulldogs,East Division,17,0
+9150,Patrick Babin,Babin,Patrick,D,R,5.11,168.0,2008-01-30,Brantford Bulldogs,East Division,17,1
 8967,Dylan Tsherna,Tsherna,Dylan,RW,R,6.00,177.0,2007-02-22,Brantford Bulldogs,East Division,18,0
 9151,Nikolas Rossetto,Rossetto,Nikolas,RW,R,5.09,156.0,2008-08-02,Brantford Bulldogs,East Division,19,1
 9149,Aiden O'Donnell,O'Donnell,Aiden,LW,L,6.01,172.0,2008-01-03,Brantford Bulldogs,East Division,22,1
+8670,Braeden O'Keefe,O'Keefe,Braeden,C,L,5.09,170.0,2005-06-08,Brantford Bulldogs,East Division,23,0
 8377,Thomas Budnick,Budnick,Thomas,D,L,6.01,210.0,2004-02-14,Brantford Bulldogs,East Division,24,0
 9003,Daniel Chen,Chen,Daniel,D,R,6.05,196.0,2006-08-04,Brantford Bulldogs,East Division,27,0
 9337,Layne Gallacher,Gallacher,Layne,C,L,6.01,165.0,2008-02-16,Brantford Bulldogs,East Division,29,1
@@ -59,12 +60,12 @@ player_id,full_name,last_name,first_name,pos,shoots,height,weight,birthdate,team
 9088,Harrison Franssen,Franssen,Harrison,C,R,6.03,190.0,2006-05-06,Oshawa Generals,East Division,12,0
 8412,Ethan Martin,Martin,Ethan,LW,L,6.06,222.0,2005-03-25,Oshawa Generals,East Division,14,0
 9325,Noah Powell,Powell,Noah,RW,R,6.02,205.0,2005-02-02,Oshawa Generals,East Division,15,0
+9127,Brady Blaseg,Blaseg,Brady,D,L,6.03,196.0,2008-07-21,Oshawa Generals,East Division,16,1
 8540,Luke Torrance,Torrance,Luke,LW,L,6.01,201.0,2004-03-30,Oshawa Generals,East Division,17,0
 8543,Luca Marrelli,Marrelli,Luca,D,R,6.02,185.0,2005-10-04,Oshawa Generals,East Division,19,0
 8413,Calum Ritchie,Ritchie,Calum,C,R,6.03,190.0,2005-01-21,Oshawa Generals,East Division,21,0
 9096,Tyler O'Toole,O'Toole,Tyler,RW,R,6.01,198.0,2006-06-28,Oshawa Generals,East Division,23,0
 9128,David Svozil,Svozil,David,D,L,6.02,177.0,2006-03-07,Oshawa Generals,East Division,29,0
-8937,Hayden Sabourin,Sabourin,Hayden,G,L,5.11,183.0,2005-05-27,Oshawa Generals,East Division,30,0
 8567,Jacob Oster,Oster,Jacob,G,L,6.03,190.0,2004-03-26,Oshawa Generals,East Division,38,0
 8388,Colby Barlow,Barlow,Colby,LW,L,6.01,190.0,2005-02-14,Oshawa Generals,East Division,39,0
 9129,Lauri Sinivuori,Sinivuori,Lauri,LW,L,6.01,180.0,2006-04-28,Oshawa Generals,East Division,42,0

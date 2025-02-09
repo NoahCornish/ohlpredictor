@@ -4,53 +4,59 @@
         "away_team": "Ottawa 67's",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-114",
-            "Ottawa 67's": "-108"
-        }
+            "Owen Sound Attack": "-123",
+            "Ottawa 67's": "-100"
+        },
+        "game_time": "4:00 pm"
     },
     {
         "home_team": "Flint Firebirds",
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Flint Firebirds": "+174",
-            "Kingston Frontenacs": "-220"
-        }
+            "Flint Firebirds": "+170",
+            "Kingston Frontenacs": "-214"
+        },
+        "game_time": "7:00 pm"
     },
     {
         "home_team": "Peterborough Petes",
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Peterborough Petes": "+405",
-            "Oshawa Generals": "-587"
-        }
+            "Peterborough Petes": "+398",
+            "Oshawa Generals": "-575"
+        },
+        "game_time": "7:05 pm"
     },
     {
         "home_team": "Saginaw Spirit",
         "away_team": "Kitchener Rangers",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-125",
-            "Kitchener Rangers": "+101"
-        }
+            "Saginaw Spirit": "-123",
+            "Kitchener Rangers": "-100"
+        },
+        "game_time": "7:05 pm"
     },
     {
         "home_team": "Sarnia Sting",
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Sarnia Sting": "+145",
-            "Erie Otters": "-181"
-        }
+            "Sarnia Sting": "+151",
+            "Erie Otters": "-189"
+        },
+        "game_time": "7:05 pm"
     },
     {
         "home_team": "Barrie Colts",
         "away_team": "Niagara IceDogs",
-        "winner": "Niagara IceDogs",
+        "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-110",
-            "Niagara IceDogs": "-112"
-        }
+            "Barrie Colts": "-114",
+            "Niagara IceDogs": "-108"
+        },
+        "game_time": "7:30 pm"
     }
 ]

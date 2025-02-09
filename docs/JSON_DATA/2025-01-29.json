@@ -4,17 +4,19 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Owen Sound Attack": "+171",
-            "Erie Otters": "-216"
-        }
+            "Owen Sound Attack": "+169",
+            "Erie Otters": "-213"
+        },
+        "game_time": "7:00 pm"
     },
     {
         "home_team": "Soo Greyhounds",
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Soo Greyhounds": "+164",
-            "Kitchener Rangers": "-206"
-        }
+            "Soo Greyhounds": "+171",
+            "Kitchener Rangers": "-217"
+        },
+        "game_time": "7:07 pm"
     }
 ]

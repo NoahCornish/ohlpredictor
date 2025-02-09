@@ -4,17 +4,19 @@
         "away_team": "Soo Greyhounds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "North Bay Battalion": "+144",
-            "Soo Greyhounds": "-180"
-        }
+            "North Bay Battalion": "+150",
+            "Soo Greyhounds": "-188"
+        },
+        "game_time": "7:00 pm"
     },
     {
         "home_team": "Peterborough Petes",
         "away_team": "Flint Firebirds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Peterborough Petes": "+293",
-            "Flint Firebirds": "-395"
-        }
+            "Peterborough Petes": "+289",
+            "Flint Firebirds": "-389"
+        },
+        "game_time": "7:05 pm"
     }
 ]
