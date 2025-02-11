@@ -1,5 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const totalAccuracyEl = document.getElementById('total-accuracy');
+    const tossupAccuracyEl = document.getElementById('tossup-accuracy');
+    const nonTossupAccuracyEl = document.getElementById('non-tossup-accuracy');
     const accuracyListEl = document.getElementById('accuracy-data');
     const dateSelectEl = document.getElementById('date-select');
 
@@ -8,17 +10,19 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(data => {
             if (!data.daily_accuracies || data.daily_accuracies.length === 0) {
                 totalAccuracyEl.textContent = "No accuracy data available.";
+                tossupAccuracyEl.textContent = "No toss-up accuracy data available.";
+                nonTossupAccuracyEl.textContent = "No non-toss-up accuracy data available.";
                 return;
             }
 
+            // Display overall accuracies
             totalAccuracyEl.textContent = `${data.total_accuracy.toFixed(1)}% (${data.total_correct}/${data.total_games} correct)`;
+            tossupAccuracyEl.textContent = `${data.tossup_accuracy.toFixed(1)}% (${data.tossup_correct}/${data.tossup_games} correct)`;
+            nonTossupAccuracyEl.textContent = `${data.non_tossup_accuracy.toFixed(1)}% (${data.non_tossup_correct}/${data.non_tossup_games} correct)`;
 
-            // Filter dates where all games have non-zero scores
+            // Populate date dropdown with dates that have completed games
             const completedDates = data.daily_accuracies.filter(item => 
-                item.game_details.every(game => 
-                    game.home_score !== null && game.away_score !== null && 
-                    (game.home_score > 0 || game.away_score > 0) // Ensure scores are not 0-0
-                )
+                item.game_details.every(game => game.home_score !== null && game.away_score !== null)
             );
 
             completedDates.forEach(item => {
@@ -42,6 +46,8 @@ document.addEventListener('DOMContentLoaded', () => {
         .catch(error => {
             console.error('Error loading accuracy data:', error);
             totalAccuracyEl.textContent = "Error loading data.";
+            tossupAccuracyEl.textContent = "Error loading data.";
+            nonTossupAccuracyEl.textContent = "Error loading data.";
         });
 
     function displayAccuracyForDate(date, dailyAccuracies) {

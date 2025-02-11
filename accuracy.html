@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- ✅ Navigation Bar (Only Home) -->
+    <!-- ✅ Navigation Bar -->
     <nav class="navbar sticky">
         <div class="container">
             <a href="index.html" class="logo">OHL Predictions</a>
@@ -24,6 +24,12 @@
             <h2>Total Accuracy</h2>
             <p id="total-accuracy">Loading...</p>
 
+            <h2>Toss-Up Accuracy*</h2>
+            <p id="tossup-accuracy">Loading...</p>
+
+            <h2>Non-Toss-Up Accuracy</h2>
+            <p id="non-tossup-accuracy">Loading...</p>
+
             <label for="date-select">Select Date:</label>
             <select id="date-select"></select>
         </div>
@@ -35,9 +41,10 @@
 
         <!-- ⚠️ Legal Disclaimer -->
         <p class="disclaimer">
-           <!-- This content is provided solely for informational purposes.<br>
-            It reflects statistical algorithms and historical data.<br>-->
-            Entertainment purposes only.
+            Entertainment purposes only. All predictions are based on statistical algorithms.
+        </p>
+        <p class="disclaimer">
+            *A toss-up game is when both teams have negative American odds, indicating no clear favorite.
         </p>
     </main>
 
