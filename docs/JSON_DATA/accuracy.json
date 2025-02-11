@@ -543,6 +543,54 @@
                     "away_score": 0
                 }
             ]
+        },
+        {
+            "date": "2025-02-12",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Erie Otters",
+                    "away_team": "Niagara IceDogs",
+                    "predicted_winner": "Niagara IceDogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Ottawa 67's",
+                    "away_team": "Peterborough Petes",
+                    "predicted_winner": "Ottawa 67's",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Sarnia Sting",
+                    "away_team": "Guelph Storm",
+                    "predicted_winner": "Guelph Storm",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Sudbury Wolves",
+                    "away_team": "Brampton Steelheads",
+                    "predicted_winner": "Brampton Steelheads",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Soo Greyhounds",
+                    "away_team": "Saginaw Spirit",
+                    "predicted_winner": "Saginaw Spirit",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
         }
     ],
     "total_accuracy": 70.9,
