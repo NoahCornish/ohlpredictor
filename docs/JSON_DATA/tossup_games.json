@@ -1,19 +1,6 @@
 [
     {
         "date": "2025-01-31",
-        "home_team": "Oshawa Generals",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Oshawa Generals": "-123",
-            "Barrie Colts": "-100"
-        }
-    },
-    {
-        "date": "2025-01-31",
         "home_team": "Guelph Storm",
         "away_team": "Sarnia Sting",
         "predicted_winner": "Guelph Storm",
@@ -34,8 +21,8 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Saginaw Spirit": "-123",
-            "Kitchener Rangers": "-100"
+            "Saginaw Spirit": "-122",
+            "Kitchener Rangers": "-101"
         }
     },
     {
@@ -99,8 +86,21 @@
         "home_score": 1,
         "away_score": 9,
         "odds": {
-            "Niagara IceDogs": "-102",
-            "Kitchener Rangers": "-121"
+            "Niagara IceDogs": "-101",
+            "Kitchener Rangers": "-123"
+        }
+    },
+    {
+        "date": "2025-02-11",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Kitchener Rangers": "-104",
+            "Oshawa Generals": "-119"
         }
     }
 ]

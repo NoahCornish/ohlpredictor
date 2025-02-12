@@ -530,17 +530,17 @@
         },
         {
             "date": "2025-02-11",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 100.0,
+            "correct_predictions": 1,
+            "total_games": 1,
             "game_details": [
                 {
                     "home_team": "Kitchener Rangers",
                     "away_team": "Oshawa Generals",
                     "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Oshawa Generals",
+                    "home_score": 3,
+                    "away_score": 4
                 }
             ]
         },
@@ -591,15 +591,55 @@
                     "away_score": 0
                 }
             ]
+        },
+        {
+            "date": "2025-02-13",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Barrie Colts",
+                    "away_team": "London Knights",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "North Bay Battalion",
+                    "away_team": "Brampton Steelheads",
+                    "predicted_winner": "Brampton Steelheads",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Peterborough Petes",
+                    "away_team": "Ottawa 67's",
+                    "predicted_winner": "Ottawa 67's",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Windsor Spitfires",
+                    "away_team": "Sarnia Sting",
+                    "predicted_winner": "Windsor Spitfires",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
         }
     ],
-    "total_accuracy": 70.9,
+    "total_accuracy": 71.4,
     "tossup_accuracy": 50.0,
-    "non_tossup_accuracy": 74.5,
-    "total_correct": 39,
-    "total_games": 55,
+    "non_tossup_accuracy": 75.0,
+    "total_correct": 40,
+    "total_games": 56,
     "tossup_correct": 4,
     "tossup_games": 8,
-    "non_tossup_correct": 35,
-    "non_tossup_games": 47
+    "non_tossup_correct": 36,
+    "non_tossup_games": 48
 }

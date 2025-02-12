@@ -21,8 +21,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Soo Greyhounds": "+182",
-            "Kitchener Rangers": "-231"
+            "Soo Greyhounds": "+184",
+            "Kitchener Rangers": "-234"
         }
     },
     {
@@ -112,8 +112,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "+119",
-            "Kitchener Rangers": "-148"
+            "Flint Firebirds": "+121",
+            "Kitchener Rangers": "-150"
         }
     },
     {
@@ -127,6 +127,19 @@
         "odds": {
             "London Knights": "-201",
             "Erie Otters": "+160"
+        }
+    },
+    {
+        "date": "2025-01-31",
+        "home_team": "Oshawa Generals",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Oshawa Generals": "-127",
+            "Barrie Colts": "+103"
         }
     },
     {
@@ -190,8 +203,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+424",
-            "Oshawa Generals": "-624"
+            "Peterborough Petes": "+436",
+            "Oshawa Generals": "-646"
         }
     },
     {
@@ -307,8 +320,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "London Knights": "-155",
-            "Kitchener Rangers": "+125"
+            "London Knights": "-153",
+            "Kitchener Rangers": "+123"
         }
     },
     {
@@ -346,8 +359,8 @@
         "home_score": 1,
         "away_score": 8,
         "odds": {
-            "Ottawa 67's": "+256",
-            "Oshawa Generals": "-338"
+            "Ottawa 67's": "+263",
+            "Oshawa Generals": "-349"
         }
     },
     {
@@ -424,8 +437,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-277",
-            "Owen Sound Attack": "+215"
+            "Kitchener Rangers": "-281",
+            "Owen Sound Attack": "+218"
         }
     },
     {
@@ -463,8 +476,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-338",
-            "Ottawa 67's": "+256"
+            "Oshawa Generals": "-349",
+            "Ottawa 67's": "+263"
         }
     },
     {
@@ -606,8 +619,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Oshawa Generals": "-244",
-            "Soo Greyhounds": "+191"
+            "Oshawa Generals": "-251",
+            "Soo Greyhounds": "+196"
         }
     }
 ]
