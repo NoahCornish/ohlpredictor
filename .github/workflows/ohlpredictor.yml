@@ -31,6 +31,9 @@ jobs:
 
       - name: Run Schedule Update Script
         run: python get_2024_2025_schedule.py | tee -a workflow_summary.log
+      
+      - name: Run Summary Script
+        run: python profit_margin.py | tee -a workflow_summary.log
 
       - name: Run Player Stats Update Script
         run: python get_ohl_stats.py | tee -a workflow_summary.log
@@ -64,6 +67,7 @@ jobs:
           echo "- **Player Stats Updated:** ✅" >> docs/JSON_DATA/workflow_summary.md
           echo "- **Rosters Updated:** ✅" >> docs/JSON_DATA/workflow_summary.md
           echo "- **Predictions Generated:** ✅" >> docs/JSON_DATA/workflow_summary.md
+          echo "- **Profit Summary Generated:** ✅" >> docs/JSON_DATA/workflow_summary.md
           echo "- **Accuracy Report Generated:** ✅" >> docs/JSON_DATA/workflow_summary.md
           if [[ "${{ env.changed }}" == "true" ]]; then
             echo "- **Updates Pushed to Repository:** ✅" >> docs/JSON_DATA/workflow_summary.md
