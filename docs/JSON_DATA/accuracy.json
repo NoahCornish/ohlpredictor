@@ -426,8 +426,8 @@
         },
         {
             "date": "2025-02-08",
-            "accuracy": 62.5,
-            "correct_predictions": 5,
+            "accuracy": 75.0,
+            "correct_predictions": 6,
             "total_games": 8,
             "game_details": [
                 {
@@ -441,7 +441,7 @@
                 {
                     "home_team": "Erie Otters",
                     "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Sudbury Wolves",
+                    "predicted_winner": "Erie Otters",
                     "actual_winner": "Erie Otters",
                     "home_score": 7,
                     "away_score": 4
@@ -633,12 +633,12 @@
             ]
         }
     ],
-    "total_accuracy": 71.4,
-    "tossup_accuracy": 50.0,
+    "total_accuracy": 73.2,
+    "tossup_accuracy": 62.5,
     "non_tossup_accuracy": 75.0,
-    "total_correct": 40,
+    "total_correct": 41,
     "total_games": 56,
-    "tossup_correct": 4,
+    "tossup_correct": 5,
     "tossup_games": 8,
     "non_tossup_correct": 36,
     "non_tossup_games": 48
