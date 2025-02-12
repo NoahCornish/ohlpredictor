@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profit Summary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- ✅ Navigation Bar -->
+    <nav class="navbar sticky">
+        <div class="container">
+            <a href="index.html" class="logo">OHL Predictions</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- ✅ Main Content -->
+    <main class="container">
+        <h1 class="main-heading">Profit Summary</h1>
+
+        <!-- ✅ Profit Summary Table -->
+        <div class="profit-summary">
+            <h2>Total Summary</h2>
+            <table class="stats-table">
+                <thead>
+                    <tr>
+                        <th>Total Wagered</th>
+                        <th>Total Return</th>
+                        <th>Total Profit/Loss</th>
+                    </tr>
+                </thead>
+                <tbody id="total-summary">
+                    <!-- Populated by JavaScript -->
+                </tbody>
+            </table>
+            
+
+            <h2>Daily Summary</h2>
+            <table class="stats-table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Total Bet</th>
+                        <th>Profit/Loss</th>
+                    </tr>
+                </thead>
+                <tbody id="daily-summary">
+                    <!-- Populated by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <!-- ✅ Footer -->
+    <footer class="footer">
+        <p>| &copy; 2025 OHL Predictions |<br>| Version 1.0.0 |</p>
+        <div id="clock" class="clock"></div>
+    </footer>
+
+    <script src="profit_summary.js"></script>
+</body>
+</html>
