@@ -687,6 +687,14 @@
                     "away_score": 0
                 },
                 {
+                    "home_team": "Peterborough Petes",
+                    "away_team": "Ottawa 67's",
+                    "predicted_winner": "Ottawa 67's",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
                     "home_team": "Guelph Storm",
                     "away_team": "Oshawa Generals",
                     "predicted_winner": "Oshawa Generals",

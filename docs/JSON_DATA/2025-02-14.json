@@ -60,6 +60,16 @@
         "game_time": "7:05 pm"
     },
     {
+        "home_team": "Peterborough Petes",
+        "away_team": "Ottawa 67's",
+        "winner": "Ottawa 67's",
+        "odds": {
+            "Peterborough Petes": "+172",
+            "Ottawa 67's": "-218"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
         "home_team": "Guelph Storm",
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
