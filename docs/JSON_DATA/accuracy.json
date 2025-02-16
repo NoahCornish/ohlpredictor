@@ -770,25 +770,25 @@
         },
         {
             "date": "2025-02-16",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 100.0,
+            "correct_predictions": 2,
+            "total_games": 2,
             "game_details": [
                 {
                     "home_team": "Niagara IceDogs",
                     "away_team": "Brantford Bulldogs",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Brantford Bulldogs",
+                    "home_score": 4,
+                    "away_score": 5
                 },
                 {
                     "home_team": "Ottawa 67's",
                     "away_team": "Kitchener Rangers",
                     "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Kitchener Rangers",
+                    "home_score": 1,
+                    "away_score": 5
                 }
             ]
         },
@@ -810,14 +810,6 @@
                     "home_team": "Brantford Bulldogs",
                     "away_team": "Soo Greyhounds",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Kingston Frontenacs",
                     "actual_winner": "Not Started",
                     "home_score": 0,
                     "away_score": 0
@@ -877,17 +869,25 @@
                     "actual_winner": "Not Started",
                     "home_score": 0,
                     "away_score": 0
+                },
+                {
+                    "home_team": "Kingston Frontenacs",
+                    "away_team": "Barrie Colts",
+                    "predicted_winner": "Kingston Frontenacs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
                 }
             ]
         }
     ],
-    "total_accuracy": 73.1,
-    "tossup_accuracy": 55.6,
-    "non_tossup_accuracy": 75.4,
-    "total_correct": 57,
-    "total_games": 78,
-    "tossup_correct": 5,
-    "tossup_games": 9,
-    "non_tossup_correct": 52,
+    "total_accuracy": 73.8,
+    "tossup_accuracy": 54.5,
+    "non_tossup_accuracy": 76.8,
+    "total_correct": 59,
+    "total_games": 80,
+    "tossup_correct": 6,
+    "tossup_games": 11,
+    "non_tossup_correct": 53,
     "non_tossup_games": 69
 }
