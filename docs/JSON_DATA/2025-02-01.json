@@ -4,8 +4,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-128",
-            "Ottawa 67's": "+103"
+            "Owen Sound Attack": "-124",
+            "Ottawa 67's": "+101"
         },
         "game_time": "4:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Flint Firebirds": "+161",
-            "Kingston Frontenacs": "-203"
+            "Flint Firebirds": "+163",
+            "Kingston Frontenacs": "-205"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Peterborough Petes": "+489",
-            "Oshawa Generals": "-753"
+            "Peterborough Petes": "+432",
+            "Oshawa Generals": "-639"
         },
         "game_time": "7:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-129",
-            "Kitchener Rangers": "+105"
+            "Saginaw Spirit": "-137",
+            "Kitchener Rangers": "+111"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Sarnia Sting": "+164",
-            "Erie Otters": "-206"
+            "Sarnia Sting": "+161",
+            "Erie Otters": "-202"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-119",
-            "Niagara IceDogs": "-104"
+            "Barrie Colts": "-123",
+            "Niagara IceDogs": "-100"
         },
         "game_time": "7:30 pm"
     }

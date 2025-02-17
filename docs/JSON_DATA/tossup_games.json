@@ -8,8 +8,8 @@
         "home_score": 5,
         "away_score": 9,
         "odds": {
-            "Saginaw Spirit": "-101",
-            "Kingston Frontenacs": "-122"
+            "Saginaw Spirit": "-106",
+            "Kingston Frontenacs": "-116"
         }
     },
     {
@@ -21,8 +21,8 @@
         "home_score": 7,
         "away_score": 6,
         "odds": {
-            "Barrie Colts": "-119",
-            "Niagara IceDogs": "-104"
+            "Barrie Colts": "-123",
+            "Niagara IceDogs": "-100"
         }
     },
     {
@@ -34,8 +34,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-100",
-            "London Knights": "-123"
+            "Windsor Spitfires": "-101",
+            "London Knights": "-122"
         }
     },
     {
@@ -47,8 +47,21 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Windsor Spitfires": "-121",
-            "Saginaw Spirit": "-102"
+            "Windsor Spitfires": "-118",
+            "Saginaw Spirit": "-104"
+        }
+    },
+    {
+        "date": "2025-02-07",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 3,
+        "away_score": 7,
+        "odds": {
+            "Niagara IceDogs": "-119",
+            "Sudbury Wolves": "-104"
         }
     },
     {
@@ -60,8 +73,8 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-115",
-            "Sudbury Wolves": "-107"
+            "Erie Otters": "-112",
+            "Sudbury Wolves": "-110"
         }
     },
     {
@@ -73,8 +86,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "-104",
-            "Oshawa Generals": "-119"
+            "Kitchener Rangers": "-102",
+            "Oshawa Generals": "-121"
         }
     },
     {
@@ -86,8 +99,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Erie Otters": "-101",
-            "Niagara IceDogs": "-122"
+            "Erie Otters": "-105",
+            "Niagara IceDogs": "-118"
         }
     },
     {
@@ -99,8 +112,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "-106",
-            "Sudbury Wolves": "-116"
+            "Flint Firebirds": "-102",
+            "Sudbury Wolves": "-121"
         }
     },
     {
@@ -112,8 +125,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Saginaw Spirit": "-102",
-            "Windsor Spitfires": "-121"
+            "Saginaw Spirit": "-104",
+            "Windsor Spitfires": "-118"
         }
     },
     {
@@ -125,8 +138,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-107",
-            "Brampton Steelheads": "-115"
+            "Oshawa Generals": "-105",
+            "Brampton Steelheads": "-118"
         }
     }
 ]
