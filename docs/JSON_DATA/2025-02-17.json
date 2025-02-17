@@ -50,16 +50,6 @@
         "game_time": "2:05 pm"
     },
     {
-        "home_team": "Peterborough Petes",
-        "away_team": "Kitchener Rangers",
-        "winner": "Kitchener Rangers",
-        "odds": {
-            "Peterborough Petes": "+460",
-            "Kitchener Rangers": "-693"
-        },
-        "game_time": "2:05 pm"
-    },
-    {
         "home_team": "Sarnia Sting",
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
@@ -88,6 +78,16 @@
             "Sudbury Wolves": "-171"
         },
         "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Peterborough Petes": "+460",
+            "Kitchener Rangers": "-693"
+        },
+        "game_time": "3:05 pm"
     },
     {
         "home_team": "Kingston Frontenacs",

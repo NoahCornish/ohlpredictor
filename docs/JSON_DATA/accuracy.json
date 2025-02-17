@@ -839,14 +839,6 @@
                     "away_score": 0
                 },
                 {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
-                },
-                {
                     "home_team": "Sarnia Sting",
                     "away_team": "Saginaw Spirit",
                     "predicted_winner": "Saginaw Spirit",
@@ -866,6 +858,14 @@
                     "home_team": "Guelph Storm",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Sudbury Wolves",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Peterborough Petes",
+                    "away_team": "Kitchener Rangers",
+                    "predicted_winner": "Kitchener Rangers",
                     "actual_winner": "Not Started",
                     "home_score": 0,
                     "away_score": 0
