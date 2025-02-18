@@ -895,6 +895,22 @@
                     "away_score": 0
                 }
             ]
+        },
+        {
+            "date": "2025-02-19",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Brampton Steelheads",
+                    "away_team": "Oshawa Generals",
+                    "predicted_winner": "Brampton Steelheads",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
         }
     ],
     "total_accuracy": 73.0,
