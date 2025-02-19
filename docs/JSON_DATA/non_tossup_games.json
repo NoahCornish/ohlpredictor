@@ -47,8 +47,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "North Bay Battalion": "+271",
-            "Brantford Bulldogs": "-361"
+            "North Bay Battalion": "+283",
+            "Brantford Bulldogs": "-380"
         }
     },
     {
@@ -164,8 +164,8 @@
         "home_score": 4,
         "away_score": 6,
         "odds": {
-            "Soo Greyhounds": "+185",
-            "Brantford Bulldogs": "-235"
+            "Soo Greyhounds": "+193",
+            "Brantford Bulldogs": "-247"
         }
     },
     {
@@ -281,8 +281,8 @@
         "home_score": 3,
         "away_score": 9,
         "odds": {
-            "Sudbury Wolves": "+127",
-            "Brantford Bulldogs": "-157"
+            "Sudbury Wolves": "+133",
+            "Brantford Bulldogs": "-165"
         }
     },
     {
@@ -372,8 +372,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-157",
-            "Sudbury Wolves": "+127"
+            "Brantford Bulldogs": "-165",
+            "Sudbury Wolves": "+133"
         }
     },
     {
@@ -426,19 +426,6 @@
         "odds": {
             "Brampton Steelheads": "-165",
             "Erie Otters": "+132"
-        }
-    },
-    {
-        "date": "2025-02-07",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Saginaw Spirit",
-        "predicted_winner": "Saginaw Spirit",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Brantford Bulldogs": "+102",
-            "Saginaw Spirit": "-126"
         }
     },
     {
@@ -580,8 +567,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-134",
-            "Brantford Bulldogs": "+109"
+            "Windsor Spitfires": "-128",
+            "Brantford Bulldogs": "+104"
         }
     },
     {
@@ -749,8 +736,8 @@
         "home_score": 10,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-147",
-            "Niagara IceDogs": "+118"
+            "Brantford Bulldogs": "-154",
+            "Niagara IceDogs": "+124"
         }
     },
     {
@@ -892,8 +879,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Niagara IceDogs": "+118",
-            "Brantford Bulldogs": "-147"
+            "Niagara IceDogs": "+124",
+            "Brantford Bulldogs": "-154"
         }
     },
     {
@@ -931,8 +918,8 @@
         "home_score": 8,
         "away_score": 6,
         "odds": {
-            "Brantford Bulldogs": "-235",
-            "Soo Greyhounds": "+185"
+            "Brantford Bulldogs": "-247",
+            "Soo Greyhounds": "+193"
         }
     },
     {

@@ -40,6 +40,19 @@
     },
     {
         "date": "2025-02-07",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Saginaw Spirit",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-103",
+            "Saginaw Spirit": "-120"
+        }
+    },
+    {
+        "date": "2025-02-07",
         "home_team": "Niagara IceDogs",
         "away_team": "Sudbury Wolves",
         "predicted_winner": "Niagara IceDogs",
