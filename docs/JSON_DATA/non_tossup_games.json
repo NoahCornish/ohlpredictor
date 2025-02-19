@@ -34,8 +34,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-262",
-            "Ottawa 67's": "+204"
+            "Barrie Colts": "-265",
+            "Ottawa 67's": "+206"
         }
     },
     {
@@ -125,8 +125,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-133",
-            "Barrie Colts": "+108"
+            "Oshawa Generals": "-131",
+            "Barrie Colts": "+106"
         }
     },
     {
@@ -190,8 +190,8 @@
         "home_score": 4,
         "away_score": 7,
         "odds": {
-            "Flint Firebirds": "+163",
-            "Kingston Frontenacs": "-205"
+            "Flint Firebirds": "+168",
+            "Kingston Frontenacs": "-212"
         }
     },
     {
@@ -231,6 +231,19 @@
         "odds": {
             "Sarnia Sting": "+161",
             "Erie Otters": "-202"
+        }
+    },
+    {
+        "date": "2025-02-01",
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 7,
+        "away_score": 6,
+        "odds": {
+            "Barrie Colts": "-124",
+            "Niagara IceDogs": "+100"
         }
     },
     {
@@ -294,8 +307,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Sarnia Sting": "+262",
-            "Kingston Frontenacs": "-348"
+            "Sarnia Sting": "+270",
+            "Kingston Frontenacs": "-360"
         }
     },
     {
@@ -346,8 +359,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Barrie Colts": "+127",
-            "Kingston Frontenacs": "-158"
+            "Barrie Colts": "+130",
+            "Kingston Frontenacs": "-161"
         }
     },
     {
@@ -437,8 +450,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-205",
-            "Flint Firebirds": "+163"
+            "Kingston Frontenacs": "-212",
+            "Flint Firebirds": "+168"
         }
     },
     {
@@ -515,8 +528,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Brampton Steelheads": "+101",
-            "Kingston Frontenacs": "-125"
+            "Brampton Steelheads": "+104",
+            "Kingston Frontenacs": "-129"
         }
     },
     {
@@ -593,8 +606,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Barrie Colts": "-194",
-            "Soo Greyhounds": "+155"
+            "Barrie Colts": "-197",
+            "Soo Greyhounds": "+157"
         }
     },
     {
@@ -619,8 +632,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "+257",
-            "Kingston Frontenacs": "-340"
+            "Owen Sound Attack": "+265",
+            "Kingston Frontenacs": "-352"
         }
     },
     {
@@ -697,8 +710,8 @@
         "home_score": 4,
         "away_score": 8,
         "odds": {
-            "Barrie Colts": "+143",
-            "London Knights": "-178"
+            "Barrie Colts": "+141",
+            "London Knights": "-176"
         }
     },
     {
@@ -749,8 +762,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-143",
-            "Kitchener Rangers": "+116"
+            "Kingston Frontenacs": "-148",
+            "Kitchener Rangers": "+119"
         }
     },
     {
@@ -827,8 +840,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+509",
-            "Kingston Frontenacs": "-797"
+            "Peterborough Petes": "+525",
+            "Kingston Frontenacs": "-831"
         }
     },
     {
@@ -866,8 +879,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-296",
-            "North Bay Battalion": "+227"
+            "Barrie Colts": "-300",
+            "North Bay Battalion": "+230"
         }
     },
     {
@@ -1011,6 +1024,19 @@
         "odds": {
             "Peterborough Petes": "+400",
             "Kitchener Rangers": "-578"
+        }
+    },
+    {
+        "date": "2025-02-18",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 6,
+        "away_score": 4,
+        "odds": {
+            "Kingston Frontenacs": "-161",
+            "Barrie Colts": "+130"
         }
     }
 ]

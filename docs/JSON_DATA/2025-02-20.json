@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Owen Sound Attack",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-236",
+            "Owen Sound Attack": "+185"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Peterborough Petes": "+433",
+            "Brantford Bulldogs": "-641"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "North Bay Battalion",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-416",
+            "North Bay Battalion": "+306"
+        },
+        "game_time": "7:05 pm"
+    }
+]
