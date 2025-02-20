@@ -60,8 +60,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+456",
-            "Brampton Steelheads": "-686"
+            "Peterborough Petes": "+466",
+            "Brampton Steelheads": "-706"
         }
     },
     {
@@ -86,8 +86,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Brampton Steelheads": "-686",
-            "Peterborough Petes": "+456"
+            "Brampton Steelheads": "-706",
+            "Peterborough Petes": "+466"
         }
     },
     {
@@ -204,7 +204,7 @@
         "away_score": 2,
         "odds": {
             "Peterborough Petes": "+432",
-            "Oshawa Generals": "-639"
+            "Oshawa Generals": "-638"
         }
     },
     {
@@ -268,8 +268,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Owen Sound Attack": "+230",
-            "Brampton Steelheads": "-299"
+            "Owen Sound Attack": "+235",
+            "Brampton Steelheads": "-307"
         }
     },
     {
@@ -424,8 +424,8 @@
         "home_score": 10,
         "away_score": 3,
         "odds": {
-            "Brampton Steelheads": "-165",
-            "Erie Otters": "+132"
+            "Brampton Steelheads": "-169",
+            "Erie Otters": "+135"
         }
     },
     {
@@ -515,8 +515,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Brampton Steelheads": "+104",
-            "Kingston Frontenacs": "-129"
+            "Brampton Steelheads": "+102",
+            "Kingston Frontenacs": "-126"
         }
     },
     {
@@ -671,8 +671,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Sudbury Wolves": "+134",
-            "Brampton Steelheads": "-166"
+            "Sudbury Wolves": "+137",
+            "Brampton Steelheads": "-170"
         }
     },
     {
@@ -710,8 +710,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "+286",
-            "Brampton Steelheads": "-384"
+            "North Bay Battalion": "+292",
+            "Brampton Steelheads": "-393"
         }
     },
     {
@@ -905,8 +905,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Brampton Steelheads": "-155",
-            "Niagara IceDogs": "+125"
+            "Brampton Steelheads": "-159",
+            "Niagara IceDogs": "+128"
         }
     },
     {
@@ -957,7 +957,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Oshawa Generals": "-156",
+            "Oshawa Generals": "-155",
             "Erie Otters": "+125"
         }
     },

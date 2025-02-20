@@ -86,8 +86,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "-102",
-            "Oshawa Generals": "-121"
+            "Kitchener Rangers": "-103",
+            "Oshawa Generals": "-120"
         }
     },
     {
@@ -138,8 +138,21 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-105",
-            "Brampton Steelheads": "-118"
+            "Oshawa Generals": "-103",
+            "Brampton Steelheads": "-120"
+        }
+    },
+    {
+        "date": "2025-02-19",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Brampton Steelheads": "-120",
+            "Oshawa Generals": "-103"
         }
     }
 ]
