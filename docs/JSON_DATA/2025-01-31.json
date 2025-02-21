@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-706",
-            "Peterborough Petes": "+466"
+            "Brampton Steelheads": "-656",
+            "Peterborough Petes": "+441"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Barrie Colts",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-131",
-            "Barrie Colts": "+106"
+            "Oshawa Generals": "-132",
+            "Barrie Colts": "+107"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-249",
-            "North Bay Battalion": "+195"
+            "Sudbury Wolves": "-258",
+            "North Bay Battalion": "+201"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Soo Greyhounds": "+193",
-            "Brantford Bulldogs": "-247"
+            "Soo Greyhounds": "+196",
+            "Brantford Bulldogs": "-250"
         },
         "game_time": "7:07 pm"
     }

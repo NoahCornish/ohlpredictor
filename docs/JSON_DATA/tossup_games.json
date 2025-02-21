@@ -8,8 +8,21 @@
         "home_score": 5,
         "away_score": 9,
         "odds": {
-            "Saginaw Spirit": "-103",
-            "Kingston Frontenacs": "-120"
+            "Saginaw Spirit": "-106",
+            "Kingston Frontenacs": "-116"
+        }
+    },
+    {
+        "date": "2025-02-01",
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Barrie Colts",
+        "home_score": 7,
+        "away_score": 6,
+        "odds": {
+            "Barrie Colts": "-123",
+            "Niagara IceDogs": "-101"
         }
     },
     {
@@ -34,8 +47,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Windsor Spitfires": "-118",
-            "Saginaw Spirit": "-104"
+            "Windsor Spitfires": "-115",
+            "Saginaw Spirit": "-108"
         }
     },
     {
@@ -47,8 +60,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-103",
-            "Saginaw Spirit": "-120"
+            "Brantford Bulldogs": "-101",
+            "Saginaw Spirit": "-123"
         }
     },
     {
@@ -125,8 +138,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Saginaw Spirit": "-104",
-            "Windsor Spitfires": "-118"
+            "Saginaw Spirit": "-108",
+            "Windsor Spitfires": "-115"
         }
     },
     {
