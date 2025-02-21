@@ -61,7 +61,7 @@
         "away_score": 2,
         "odds": {
             "Brantford Bulldogs": "-101",
-            "Saginaw Spirit": "-123"
+            "Saginaw Spirit": "-122"
         }
     },
     {
@@ -125,8 +125,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "-101",
-            "Sudbury Wolves": "-122"
+            "Flint Firebirds": "-102",
+            "Sudbury Wolves": "-121"
         }
     },
     {
@@ -151,8 +151,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-103",
-            "Brampton Steelheads": "-120"
+            "Oshawa Generals": "-102",
+            "Brampton Steelheads": "-121"
         }
     },
     {
@@ -164,8 +164,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brampton Steelheads": "-120",
-            "Oshawa Generals": "-103"
+            "Brampton Steelheads": "-121",
+            "Oshawa Generals": "-102"
         }
     }
 ]

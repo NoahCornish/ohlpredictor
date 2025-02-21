@@ -14,8 +14,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-234",
-            "North Bay Battalion": "+184"
+            "Flint Firebirds": "-235",
+            "North Bay Battalion": "+185"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-128",
-            "Brantford Bulldogs": "+104"
+            "Kingston Frontenacs": "-127",
+            "Brantford Bulldogs": "+103"
         },
         "game_time": "7:00 pm"
     },
@@ -85,7 +85,7 @@
         "winner": "Guelph Storm",
         "odds": {
             "Soo Greyhounds": "-109",
-            "Guelph Storm": "-114"
+            "Guelph Storm": "-113"
         },
         "game_time": "7:07 pm"
     }
