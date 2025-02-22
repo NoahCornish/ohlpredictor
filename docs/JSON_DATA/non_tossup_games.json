@@ -8,8 +8,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "+146",
-            "Erie Otters": "-182"
+            "Owen Sound Attack": "+155",
+            "Erie Otters": "-194"
         }
     },
     {
@@ -21,8 +21,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Soo Greyhounds": "+170",
-            "Kitchener Rangers": "-214"
+            "Soo Greyhounds": "+165",
+            "Kitchener Rangers": "-207"
         }
     },
     {
@@ -34,8 +34,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-265",
-            "Ottawa 67's": "+206"
+            "Barrie Colts": "-238",
+            "Ottawa 67's": "+187"
         }
     },
     {
@@ -47,8 +47,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "North Bay Battalion": "+298",
-            "Brantford Bulldogs": "-403"
+            "North Bay Battalion": "+279",
+            "Brantford Bulldogs": "-374"
         }
     },
     {
@@ -60,8 +60,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+441",
-            "Brampton Steelheads": "-657"
+            "Peterborough Petes": "+445",
+            "Brampton Steelheads": "-664"
         }
     },
     {
@@ -73,8 +73,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Windsor Spitfires": "-209",
-            "Flint Firebirds": "+166"
+            "Windsor Spitfires": "-217",
+            "Flint Firebirds": "+171"
         }
     },
     {
@@ -86,8 +86,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Brampton Steelheads": "-657",
-            "Peterborough Petes": "+441"
+            "Brampton Steelheads": "-664",
+            "Peterborough Petes": "+445"
         }
     },
     {
@@ -99,8 +99,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "+127",
-            "Kitchener Rangers": "-158"
+            "Flint Firebirds": "+132",
+            "Kitchener Rangers": "-165"
         }
     },
     {
@@ -112,8 +112,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "London Knights": "-209",
-            "Erie Otters": "+166"
+            "London Knights": "-212",
+            "Erie Otters": "+168"
         }
     },
     {
@@ -125,8 +125,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-131",
-            "Barrie Colts": "+106"
+            "Oshawa Generals": "-135",
+            "Barrie Colts": "+109"
         }
     },
     {
@@ -138,8 +138,8 @@
         "home_score": 8,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "-258",
-            "North Bay Battalion": "+201"
+            "Sudbury Wolves": "-262",
+            "North Bay Battalion": "+204"
         }
     },
     {
@@ -151,8 +151,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "-138",
-            "Sarnia Sting": "+111"
+            "Guelph Storm": "-131",
+            "Sarnia Sting": "+106"
         }
     },
     {
@@ -164,21 +164,8 @@
         "home_score": 4,
         "away_score": 6,
         "odds": {
-            "Soo Greyhounds": "+196",
-            "Brantford Bulldogs": "-250"
-        }
-    },
-    {
-        "date": "2025-02-01",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 3,
-        "away_score": 1,
-        "odds": {
-            "Owen Sound Attack": "-134",
-            "Ottawa 67's": "+109"
+            "Soo Greyhounds": "+186",
+            "Brantford Bulldogs": "-237"
         }
     },
     {
@@ -190,8 +177,8 @@
         "home_score": 4,
         "away_score": 7,
         "odds": {
-            "Flint Firebirds": "+172",
-            "Kingston Frontenacs": "-217"
+            "Flint Firebirds": "+178",
+            "Kingston Frontenacs": "-226"
         }
     },
     {
@@ -203,8 +190,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+408",
-            "Oshawa Generals": "-594"
+            "Peterborough Petes": "+415",
+            "Oshawa Generals": "-607"
         }
     },
     {
@@ -216,8 +203,8 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Saginaw Spirit": "-141",
-            "Kitchener Rangers": "+114"
+            "Saginaw Spirit": "-138",
+            "Kitchener Rangers": "+112"
         }
     },
     {
@@ -229,8 +216,8 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Sarnia Sting": "+161",
-            "Erie Otters": "-202"
+            "Sarnia Sting": "+151",
+            "Erie Otters": "-189"
         }
     },
     {
@@ -242,8 +229,8 @@
         "home_score": 7,
         "away_score": 6,
         "odds": {
-            "Barrie Colts": "-124",
-            "Niagara IceDogs": "+100"
+            "Barrie Colts": "-125",
+            "Niagara IceDogs": "+101"
         }
     },
     {
@@ -255,8 +242,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "North Bay Battalion": "+215",
-            "Niagara IceDogs": "-277"
+            "North Bay Battalion": "+197",
+            "Niagara IceDogs": "-252"
         }
     },
     {
@@ -268,8 +255,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Owen Sound Attack": "+218",
-            "Brampton Steelheads": "-282"
+            "Owen Sound Attack": "+232",
+            "Brampton Steelheads": "-303"
         }
     },
     {
@@ -281,8 +268,8 @@
         "home_score": 3,
         "away_score": 9,
         "odds": {
-            "Sudbury Wolves": "+134",
-            "Brantford Bulldogs": "-167"
+            "Sudbury Wolves": "+124",
+            "Brantford Bulldogs": "-154"
         }
     },
     {
@@ -294,8 +281,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "-151",
-            "Ottawa 67's": "+122"
+            "Guelph Storm": "-141",
+            "Ottawa 67's": "+114"
         }
     },
     {
@@ -307,8 +294,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Sarnia Sting": "+278",
-            "Kingston Frontenacs": "-371"
+            "Sarnia Sting": "+264",
+            "Kingston Frontenacs": "-350"
         }
     },
     {
@@ -320,8 +307,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Saginaw Spirit": "-277",
-            "Soo Greyhounds": "+214"
+            "Saginaw Spirit": "-261",
+            "Soo Greyhounds": "+203"
         }
     },
     {
@@ -333,8 +320,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Erie Otters": "-162",
-            "Guelph Storm": "+130"
+            "Erie Otters": "-159",
+            "Guelph Storm": "+128"
         }
     },
     {
@@ -346,7 +333,7 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "London Knights": "-161",
+            "London Knights": "-160",
             "Kitchener Rangers": "+129"
         }
     },
@@ -359,8 +346,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Barrie Colts": "+133",
-            "Kingston Frontenacs": "-166"
+            "Barrie Colts": "+137",
+            "Kingston Frontenacs": "-171"
         }
     },
     {
@@ -372,8 +359,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-167",
-            "Sudbury Wolves": "+134"
+            "Brantford Bulldogs": "-154",
+            "Sudbury Wolves": "+124"
         }
     },
     {
@@ -385,8 +372,8 @@
         "home_score": 1,
         "away_score": 8,
         "odds": {
-            "Ottawa 67's": "+242",
-            "Oshawa Generals": "-317"
+            "Ottawa 67's": "+226",
+            "Oshawa Generals": "-293"
         }
     },
     {
@@ -398,8 +385,8 @@
         "home_score": 4,
         "away_score": 7,
         "odds": {
-            "North Bay Battalion": "+138",
-            "Soo Greyhounds": "-173"
+            "North Bay Battalion": "+136",
+            "Soo Greyhounds": "-170"
         }
     },
     {
@@ -411,8 +398,8 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Peterborough Petes": "+271",
-            "Flint Firebirds": "-361"
+            "Peterborough Petes": "+267",
+            "Flint Firebirds": "-354"
         }
     },
     {
@@ -437,8 +424,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-217",
-            "Flint Firebirds": "+172"
+            "Kingston Frontenacs": "-226",
+            "Flint Firebirds": "+178"
         }
     },
     {
@@ -450,8 +437,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-238",
-            "Owen Sound Attack": "+187"
+            "Kitchener Rangers": "-259",
+            "Owen Sound Attack": "+202"
         }
     },
     {
@@ -463,8 +450,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "London Knights": "-860",
-            "Peterborough Petes": "+538"
+            "London Knights": "-881",
+            "Peterborough Petes": "+547"
         }
     },
     {
@@ -476,8 +463,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-317",
-            "Ottawa 67's": "+242"
+            "Oshawa Generals": "-293",
+            "Ottawa 67's": "+226"
         }
     },
     {
@@ -489,8 +476,8 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-356",
-            "Sarnia Sting": "+268"
+            "Windsor Spitfires": "-335",
+            "Sarnia Sting": "+254"
         }
     },
     {
@@ -502,8 +489,8 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "-176",
-            "North Bay Battalion": "+141"
+            "Guelph Storm": "-167",
+            "North Bay Battalion": "+134"
         }
     },
     {
@@ -515,8 +502,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Brampton Steelheads": "+104",
-            "Kingston Frontenacs": "-129"
+            "Brampton Steelheads": "+106",
+            "Kingston Frontenacs": "-131"
         }
     },
     {
@@ -528,8 +515,8 @@
         "home_score": 1,
         "away_score": 9,
         "odds": {
-            "Niagara IceDogs": "+109",
-            "Kitchener Rangers": "-135"
+            "Niagara IceDogs": "+114",
+            "Kitchener Rangers": "-141"
         }
     },
     {
@@ -541,8 +528,8 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-156",
-            "North Bay Battalion": "+126"
+            "Owen Sound Attack": "-137",
+            "North Bay Battalion": "+111"
         }
     },
     {
@@ -554,8 +541,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Sarnia Sting": "-212",
-            "Peterborough Petes": "+168"
+            "Sarnia Sting": "-229",
+            "Peterborough Petes": "+180"
         }
     },
     {
@@ -567,8 +554,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-126",
-            "Brantford Bulldogs": "+102"
+            "Windsor Spitfires": "-128",
+            "Brantford Bulldogs": "+103"
         }
     },
     {
@@ -580,8 +567,8 @@
         "home_score": 7,
         "away_score": 10,
         "odds": {
-            "Guelph Storm": "+211",
-            "Saginaw Spirit": "-272"
+            "Guelph Storm": "+206",
+            "Saginaw Spirit": "-265"
         }
     },
     {
@@ -593,8 +580,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Barrie Colts": "-196",
-            "Soo Greyhounds": "+156"
+            "Barrie Colts": "-183",
+            "Soo Greyhounds": "+146"
         }
     },
     {
@@ -606,8 +593,8 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+160",
-            "Flint Firebirds": "-201"
+            "Ottawa 67's": "+144",
+            "Flint Firebirds": "-180"
         }
     },
     {
@@ -619,8 +606,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "+252",
-            "Kingston Frontenacs": "-332"
+            "Owen Sound Attack": "+272",
+            "Kingston Frontenacs": "-362"
         }
     },
     {
@@ -632,8 +619,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Oshawa Generals": "-233",
-            "Soo Greyhounds": "+183"
+            "Oshawa Generals": "-224",
+            "Soo Greyhounds": "+177"
         }
     },
     {
@@ -645,8 +632,8 @@
         "home_score": 3,
         "away_score": 0,
         "odds": {
-            "Ottawa 67's": "-193",
-            "Peterborough Petes": "+154"
+            "Ottawa 67's": "-212",
+            "Peterborough Petes": "+168"
         }
     },
     {
@@ -658,8 +645,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Sarnia Sting": "+111",
-            "Guelph Storm": "-138"
+            "Sarnia Sting": "+106",
+            "Guelph Storm": "-131"
         }
     },
     {
@@ -671,8 +658,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Sudbury Wolves": "+136",
-            "Brampton Steelheads": "-170"
+            "Sudbury Wolves": "+126",
+            "Brampton Steelheads": "-157"
         }
     },
     {
@@ -684,8 +671,8 @@
         "home_score": 4,
         "away_score": 8,
         "odds": {
-            "Soo Greyhounds": "+214",
-            "Saginaw Spirit": "-277"
+            "Soo Greyhounds": "+203",
+            "Saginaw Spirit": "-261"
         }
     },
     {
@@ -697,8 +684,8 @@
         "home_score": 4,
         "away_score": 8,
         "odds": {
-            "Barrie Colts": "+141",
-            "London Knights": "-176"
+            "Barrie Colts": "+145",
+            "London Knights": "-181"
         }
     },
     {
@@ -710,8 +697,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "+302",
-            "Brampton Steelheads": "-410"
+            "North Bay Battalion": "+284",
+            "Brampton Steelheads": "-382"
         }
     },
     {
@@ -723,8 +710,8 @@
         "home_score": 8,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-356",
-            "Sarnia Sting": "+268"
+            "Windsor Spitfires": "-335",
+            "Sarnia Sting": "+254"
         }
     },
     {
@@ -736,8 +723,21 @@
         "home_score": 10,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-157",
-            "Niagara IceDogs": "+126"
+            "Brantford Bulldogs": "-160",
+            "Niagara IceDogs": "+129"
+        }
+    },
+    {
+        "date": "2025-02-14",
+        "home_team": "Flint Firebirds",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Flint Firebirds": "+109",
+            "Sudbury Wolves": "-135"
         }
     },
     {
@@ -749,7 +749,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-152",
+            "Kingston Frontenacs": "-151",
             "Kitchener Rangers": "+122"
         }
     },
@@ -762,8 +762,8 @@
         "home_score": 7,
         "away_score": 3,
         "odds": {
-            "London Knights": "-318",
-            "Soo Greyhounds": "+242"
+            "London Knights": "-305",
+            "Soo Greyhounds": "+234"
         }
     },
     {
@@ -775,8 +775,8 @@
         "home_score": 8,
         "away_score": 5,
         "odds": {
-            "Owen Sound Attack": "+146",
-            "Erie Otters": "-182"
+            "Owen Sound Attack": "+155",
+            "Erie Otters": "-194"
         }
     },
     {
@@ -788,8 +788,8 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+154",
-            "Ottawa 67's": "-193"
+            "Peterborough Petes": "+168",
+            "Ottawa 67's": "-212"
         }
     },
     {
@@ -801,8 +801,8 @@
         "home_score": 5,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "+180",
-            "Oshawa Generals": "-229"
+            "Guelph Storm": "+179",
+            "Oshawa Generals": "-228"
         }
     },
     {
@@ -814,8 +814,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "+146",
-            "Erie Otters": "-182"
+            "Owen Sound Attack": "+155",
+            "Erie Otters": "-194"
         }
     },
     {
@@ -827,8 +827,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+509",
-            "Kingston Frontenacs": "-797"
+            "Peterborough Petes": "+519",
+            "Kingston Frontenacs": "-818"
         }
     },
     {
@@ -840,8 +840,8 @@
         "home_score": 8,
         "away_score": 3,
         "odds": {
-            "Saginaw Spirit": "-184",
-            "Sudbury Wolves": "+147"
+            "Saginaw Spirit": "-169",
+            "Sudbury Wolves": "+136"
         }
     },
     {
@@ -853,8 +853,8 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "Sarnia Sting": "+110",
-            "Soo Greyhounds": "-136"
+            "Sarnia Sting": "+108",
+            "Soo Greyhounds": "-133"
         }
     },
     {
@@ -866,8 +866,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-311",
-            "North Bay Battalion": "+238"
+            "Barrie Colts": "-285",
+            "North Bay Battalion": "+220"
         }
     },
     {
@@ -879,8 +879,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Niagara IceDogs": "+126",
-            "Brantford Bulldogs": "-157"
+            "Niagara IceDogs": "+129",
+            "Brantford Bulldogs": "-160"
         }
     },
     {
@@ -892,8 +892,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+224",
-            "Kitchener Rangers": "-291"
+            "Ottawa 67's": "+210",
+            "Kitchener Rangers": "-271"
         }
     },
     {
@@ -905,8 +905,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Brampton Steelheads": "-159",
-            "Niagara IceDogs": "+128"
+            "Brampton Steelheads": "-163",
+            "Niagara IceDogs": "+131"
         }
     },
     {
@@ -918,8 +918,8 @@
         "home_score": 8,
         "away_score": 6,
         "odds": {
-            "Brantford Bulldogs": "-250",
-            "Soo Greyhounds": "+196"
+            "Brantford Bulldogs": "-237",
+            "Soo Greyhounds": "+186"
         }
     },
     {
@@ -931,8 +931,8 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "London Knights": "-231",
-            "Flint Firebirds": "+182"
+            "London Knights": "-240",
+            "Flint Firebirds": "+188"
         }
     },
     {
@@ -944,8 +944,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-129",
-            "North Bay Battalion": "+104"
+            "Ottawa 67's": "-132",
+            "North Bay Battalion": "+106"
         }
     },
     {
@@ -957,8 +957,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Oshawa Generals": "-155",
-            "Erie Otters": "+125"
+            "Oshawa Generals": "-157",
+            "Erie Otters": "+127"
         }
     },
     {
@@ -970,8 +970,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Sarnia Sting": "+260",
-            "Saginaw Spirit": "-343"
+            "Sarnia Sting": "+242",
+            "Saginaw Spirit": "-317"
         }
     },
     {
@@ -983,8 +983,8 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-319",
-            "Owen Sound Attack": "+243"
+            "Windsor Spitfires": "-346",
+            "Owen Sound Attack": "+261"
         }
     },
     {
@@ -996,8 +996,8 @@
         "home_score": 7,
         "away_score": 6,
         "odds": {
-            "Guelph Storm": "+130",
-            "Sudbury Wolves": "-161"
+            "Guelph Storm": "+138",
+            "Sudbury Wolves": "-172"
         }
     },
     {
@@ -1009,8 +1009,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+379",
-            "Kitchener Rangers": "-540"
+            "Peterborough Petes": "+387",
+            "Kitchener Rangers": "-556"
         }
     },
     {
@@ -1022,8 +1022,8 @@
         "home_score": 6,
         "away_score": 4,
         "odds": {
-            "Kingston Frontenacs": "-166",
-            "Barrie Colts": "+133"
+            "Kingston Frontenacs": "-171",
+            "Barrie Colts": "+137"
         }
     },
     {
@@ -1035,8 +1035,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-217",
-            "Owen Sound Attack": "+172"
+            "Barrie Colts": "-228",
+            "Owen Sound Attack": "+180"
         }
     },
     {
@@ -1048,8 +1048,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+436",
-            "Brantford Bulldogs": "-646"
+            "Peterborough Petes": "+437",
+            "Brantford Bulldogs": "-649"
         }
     },
     {
@@ -1061,8 +1061,112 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Saginaw Spirit": "-449",
-            "North Bay Battalion": "+326"
+            "Saginaw Spirit": "-414",
+            "North Bay Battalion": "+305"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Erie Otters",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Erie Otters": "+127",
+            "Oshawa Generals": "-157"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Flint Firebirds",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 1,
+        "away_score": 4,
+        "odds": {
+            "Flint Firebirds": "-214",
+            "North Bay Battalion": "+170"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Kingston Frontenacs": "-133",
+            "Brantford Bulldogs": "+108"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Kitchener Rangers": "-125",
+            "Barrie Colts": "+101"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "London Knights",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "London Knights": "-138",
+            "Brampton Steelheads": "+112"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Ottawa 67's",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 6,
+        "away_score": 2,
+        "odds": {
+            "Ottawa 67's": "+167",
+            "Niagara IceDogs": "-211"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Sarnia Sting",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Sarnia Sting",
+        "home_score": 6,
+        "away_score": 5,
+        "odds": {
+            "Sarnia Sting": "+254",
+            "Windsor Spitfires": "-335"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Sudbury Wolves",
+        "away_team": "Owen Sound Attack",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 8,
+        "away_score": 1,
+        "odds": {
+            "Sudbury Wolves": "-210",
+            "Owen Sound Attack": "+167"
         }
     }
 ]
