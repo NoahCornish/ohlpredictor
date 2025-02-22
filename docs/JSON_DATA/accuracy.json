@@ -1026,25 +1026,25 @@
         },
         {
             "date": "2025-02-22",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 100.0,
+            "correct_predictions": 2,
+            "total_games": 2,
             "game_details": [
                 {
                     "home_team": "Brampton Steelheads",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Brampton Steelheads",
+                    "home_score": 8,
+                    "away_score": 1
                 },
                 {
                     "home_team": "Kingston Frontenacs",
                     "away_team": "Niagara IceDogs",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Kingston Frontenacs",
+                    "home_score": 6,
+                    "away_score": 3
                 },
                 {
                     "home_team": "Erie Otters",
@@ -1137,13 +1137,13 @@
             ]
         }
     ],
-    "total_accuracy": 72.8,
-    "tossup_accuracy": 53.8,
-    "non_tossup_accuracy": 75.6,
-    "total_correct": 75,
-    "total_games": 103,
-    "tossup_correct": 7,
-    "tossup_games": 13,
-    "non_tossup_correct": 68,
-    "non_tossup_games": 90
+    "total_accuracy": 73.3,
+    "tossup_accuracy": 40.0,
+    "non_tossup_accuracy": 76.8,
+    "total_correct": 77,
+    "total_games": 105,
+    "tossup_correct": 4,
+    "tossup_games": 10,
+    "non_tossup_correct": 73,
+    "non_tossup_games": 95
 }

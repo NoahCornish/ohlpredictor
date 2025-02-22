@@ -60,8 +60,21 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+445",
-            "Brampton Steelheads": "-664"
+            "Peterborough Petes": "+465",
+            "Brampton Steelheads": "-703"
+        }
+    },
+    {
+        "date": "2025-01-30",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 5,
+        "away_score": 9,
+        "odds": {
+            "Saginaw Spirit": "+102",
+            "Kingston Frontenacs": "-126"
         }
     },
     {
@@ -86,8 +99,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Brampton Steelheads": "-664",
-            "Peterborough Petes": "+445"
+            "Brampton Steelheads": "-703",
+            "Peterborough Petes": "+465"
         }
     },
     {
@@ -138,8 +151,8 @@
         "home_score": 8,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "-262",
-            "North Bay Battalion": "+204"
+            "Sudbury Wolves": "-258",
+            "North Bay Battalion": "+201"
         }
     },
     {
@@ -177,8 +190,8 @@
         "home_score": 4,
         "away_score": 7,
         "odds": {
-            "Flint Firebirds": "+178",
-            "Kingston Frontenacs": "-226"
+            "Flint Firebirds": "+184",
+            "Kingston Frontenacs": "-234"
         }
     },
     {
@@ -242,8 +255,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "North Bay Battalion": "+197",
-            "Niagara IceDogs": "-252"
+            "North Bay Battalion": "+196",
+            "Niagara IceDogs": "-251"
         }
     },
     {
@@ -255,8 +268,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Owen Sound Attack": "+232",
-            "Brampton Steelheads": "-303"
+            "Owen Sound Attack": "+243",
+            "Brampton Steelheads": "-318"
         }
     },
     {
@@ -268,8 +281,8 @@
         "home_score": 3,
         "away_score": 9,
         "odds": {
-            "Sudbury Wolves": "+124",
-            "Brantford Bulldogs": "-154"
+            "Sudbury Wolves": "+126",
+            "Brantford Bulldogs": "-157"
         }
     },
     {
@@ -294,8 +307,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Sarnia Sting": "+264",
-            "Kingston Frontenacs": "-350"
+            "Sarnia Sting": "+273",
+            "Kingston Frontenacs": "-363"
         }
     },
     {
@@ -346,8 +359,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Barrie Colts": "+137",
-            "Kingston Frontenacs": "-171"
+            "Barrie Colts": "+142",
+            "Kingston Frontenacs": "-177"
         }
     },
     {
@@ -359,8 +372,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-154",
-            "Sudbury Wolves": "+124"
+            "Brantford Bulldogs": "-157",
+            "Sudbury Wolves": "+126"
         }
     },
     {
@@ -411,8 +424,8 @@
         "home_score": 10,
         "away_score": 3,
         "odds": {
-            "Brampton Steelheads": "-169",
-            "Erie Otters": "+136"
+            "Brampton Steelheads": "-178",
+            "Erie Otters": "+142"
         }
     },
     {
@@ -424,8 +437,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-226",
-            "Flint Firebirds": "+178"
+            "Kingston Frontenacs": "-234",
+            "Flint Firebirds": "+184"
         }
     },
     {
@@ -502,8 +515,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Brampton Steelheads": "+106",
-            "Kingston Frontenacs": "-131"
+            "Brampton Steelheads": "+104",
+            "Kingston Frontenacs": "-129"
         }
     },
     {
@@ -516,7 +529,7 @@
         "away_score": 9,
         "odds": {
             "Niagara IceDogs": "+114",
-            "Kitchener Rangers": "-141"
+            "Kitchener Rangers": "-142"
         }
     },
     {
@@ -606,8 +619,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "+272",
-            "Kingston Frontenacs": "-362"
+            "Owen Sound Attack": "+280",
+            "Kingston Frontenacs": "-376"
         }
     },
     {
@@ -658,8 +671,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Sudbury Wolves": "+126",
-            "Brampton Steelheads": "-157"
+            "Sudbury Wolves": "+134",
+            "Brampton Steelheads": "-167"
         }
     },
     {
@@ -697,8 +710,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "+284",
-            "Brampton Steelheads": "-382"
+            "North Bay Battalion": "+297",
+            "Brampton Steelheads": "-402"
         }
     },
     {
@@ -723,7 +736,7 @@
         "home_score": 10,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-160",
+            "Brantford Bulldogs": "-161",
             "Niagara IceDogs": "+129"
         }
     },
@@ -736,8 +749,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "+109",
-            "Sudbury Wolves": "-135"
+            "Flint Firebirds": "+107",
+            "Sudbury Wolves": "-132"
         }
     },
     {
@@ -749,8 +762,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-151",
-            "Kitchener Rangers": "+122"
+            "Kingston Frontenacs": "-156",
+            "Kitchener Rangers": "+126"
         }
     },
     {
@@ -820,6 +833,19 @@
     },
     {
         "date": "2025-02-15",
+        "home_team": "Oshawa Generals",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "Oshawa Generals": "+101",
+            "Brampton Steelheads": "-125"
+        }
+    },
+    {
+        "date": "2025-02-15",
         "home_team": "Peterborough Petes",
         "away_team": "Kingston Frontenacs",
         "predicted_winner": "Kingston Frontenacs",
@@ -827,8 +853,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+519",
-            "Kingston Frontenacs": "-818"
+            "Peterborough Petes": "+536",
+            "Kingston Frontenacs": "-856"
         }
     },
     {
@@ -840,8 +866,8 @@
         "home_score": 8,
         "away_score": 3,
         "odds": {
-            "Saginaw Spirit": "-169",
-            "Sudbury Wolves": "+136"
+            "Saginaw Spirit": "-172",
+            "Sudbury Wolves": "+138"
         }
     },
     {
@@ -880,7 +906,7 @@
         "away_score": 5,
         "odds": {
             "Niagara IceDogs": "+129",
-            "Brantford Bulldogs": "-160"
+            "Brantford Bulldogs": "-161"
         }
     },
     {
@@ -905,8 +931,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Brampton Steelheads": "-163",
-            "Niagara IceDogs": "+131"
+            "Brampton Steelheads": "-172",
+            "Niagara IceDogs": "+138"
         }
     },
     {
@@ -996,8 +1022,8 @@
         "home_score": 7,
         "away_score": 6,
         "odds": {
-            "Guelph Storm": "+138",
-            "Sudbury Wolves": "-172"
+            "Guelph Storm": "+135",
+            "Sudbury Wolves": "-169"
         }
     },
     {
@@ -1022,8 +1048,21 @@
         "home_score": 6,
         "away_score": 4,
         "odds": {
-            "Kingston Frontenacs": "-171",
-            "Barrie Colts": "+137"
+            "Kingston Frontenacs": "-177",
+            "Barrie Colts": "+142"
+        }
+    },
+    {
+        "date": "2025-02-19",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Brampton Steelheads": "-125",
+            "Oshawa Generals": "+101"
         }
     },
     {
@@ -1100,8 +1139,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-133",
-            "Brantford Bulldogs": "+108"
+            "Kingston Frontenacs": "-138",
+            "Brantford Bulldogs": "+111"
         }
     },
     {
@@ -1126,8 +1165,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "London Knights": "-138",
-            "Brampton Steelheads": "+112"
+            "London Knights": "-132",
+            "Brampton Steelheads": "+107"
         }
     },
     {
@@ -1139,8 +1178,8 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "+167",
-            "Niagara IceDogs": "-211"
+            "Ottawa 67's": "+166",
+            "Niagara IceDogs": "-210"
         }
     },
     {
@@ -1165,8 +1204,34 @@
         "home_score": 8,
         "away_score": 1,
         "odds": {
-            "Sudbury Wolves": "-210",
-            "Owen Sound Attack": "+167"
+            "Sudbury Wolves": "-207",
+            "Owen Sound Attack": "+164"
+        }
+    },
+    {
+        "date": "2025-02-22",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 8,
+        "away_score": 1,
+        "odds": {
+            "Brampton Steelheads": "-167",
+            "Sudbury Wolves": "+134"
+        }
+    },
+    {
+        "date": "2025-02-22",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 6,
+        "away_score": 3,
+        "odds": {
+            "Kingston Frontenacs": "-200",
+            "Niagara IceDogs": "+159"
         }
     }
 ]
