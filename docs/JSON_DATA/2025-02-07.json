@@ -14,8 +14,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Brantford Bulldogs": "-102",
-            "Saginaw Spirit": "-121"
+            "Brantford Bulldogs": "-106",
+            "Saginaw Spirit": "-117"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-225",
-            "Flint Firebirds": "+178"
+            "Kingston Frontenacs": "-227",
+            "Flint Firebirds": "+179"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-259",
-            "Owen Sound Attack": "+202"
+            "Kitchener Rangers": "-254",
+            "Owen Sound Attack": "+198"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-867",
-            "Peterborough Petes": "+541"
+            "London Knights": "-863",
+            "Peterborough Petes": "+539"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-293",
-            "Ottawa 67's": "+226"
+            "Oshawa Generals": "-302",
+            "Ottawa 67's": "+232"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-338",
-            "Sarnia Sting": "+256"
+            "Windsor Spitfires": "-359",
+            "Sarnia Sting": "+270"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-177",
-            "North Bay Battalion": "+142"
+            "Guelph Storm": "-164",
+            "North Bay Battalion": "+132"
         },
         "game_time": "7:07 pm"
     }

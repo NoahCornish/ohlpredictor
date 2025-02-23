@@ -4,8 +4,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Owen Sound Attack": "+153",
-            "Erie Otters": "-192"
+            "Owen Sound Attack": "+147",
+            "Erie Otters": "-184"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Peterborough Petes": "+518",
-            "Kingston Frontenacs": "-816"
+            "Peterborough Petes": "+521",
+            "Kingston Frontenacs": "-823"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-171",
-            "Sudbury Wolves": "+137"
+            "Saginaw Spirit": "-170",
+            "Sudbury Wolves": "+136"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Sarnia Sting": "+108",
-            "Soo Greyhounds": "-133"
+            "Sarnia Sting": "+114",
+            "Soo Greyhounds": "-141"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-291",
-            "North Bay Battalion": "+224"
+            "Barrie Colts": "-269",
+            "North Bay Battalion": "+209"
         },
         "game_time": "7:30 pm"
     }

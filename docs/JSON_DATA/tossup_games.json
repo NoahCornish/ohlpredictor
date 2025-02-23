@@ -1,15 +1,15 @@
 [
     {
-        "date": "2025-02-01",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 3,
-        "away_score": 1,
+        "date": "2025-02-02",
+        "home_team": "Windsor Spitfires",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 4,
+        "away_score": 3,
         "odds": {
-            "Owen Sound Attack": "-116",
-            "Ottawa 67's": "-107"
+            "Windsor Spitfires": "-103",
+            "London Knights": "-120"
         }
     },
     {
@@ -21,8 +21,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Windsor Spitfires": "-118",
-            "Saginaw Spirit": "-105"
+            "Windsor Spitfires": "-122",
+            "Saginaw Spirit": "-101"
         }
     },
     {
@@ -34,8 +34,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-102",
-            "Saginaw Spirit": "-121"
+            "Brantford Bulldogs": "-106",
+            "Saginaw Spirit": "-117"
         }
     },
     {
@@ -73,8 +73,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "-103",
-            "Oshawa Generals": "-120"
+            "Kitchener Rangers": "-105",
+            "Oshawa Generals": "-117"
         }
     },
     {
@@ -99,21 +99,21 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Saginaw Spirit": "-105",
-            "Windsor Spitfires": "-118"
+            "Saginaw Spirit": "-101",
+            "Windsor Spitfires": "-122"
         }
     },
     {
-        "date": "2025-02-21",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 4,
-        "away_score": 1,
+        "date": "2025-02-17",
+        "home_team": "Ottawa 67's",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Ottawa 67's",
+        "actual_winner": "North Bay Battalion",
+        "home_score": 2,
+        "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-123",
-            "Barrie Colts": "-100"
+            "Ottawa 67's": "-119",
+            "North Bay Battalion": "-104"
         }
     },
     {
@@ -125,8 +125,21 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-107",
-            "Guelph Storm": "-116"
+            "Soo Greyhounds": "-110",
+            "Guelph Storm": "-112"
+        }
+    },
+    {
+        "date": "2025-02-23",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 7,
+        "away_score": 3,
+        "odds": {
+            "Windsor Spitfires": "-122",
+            "Saginaw Spirit": "-101"
         }
     }
 ]
