@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Erie Otters": "-108",
-            "Niagara IceDogs": "-115"
+            "Erie Otters": "-106",
+            "Niagara IceDogs": "-116"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-212",
-            "Peterborough Petes": "+168"
+            "Ottawa 67's": "-205",
+            "Peterborough Petes": "+163"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Guelph Storm",
         "winner": "Guelph Storm",
         "odds": {
-            "Sarnia Sting": "+106",
-            "Guelph Storm": "-131"
+            "Sarnia Sting": "+112",
+            "Guelph Storm": "-139"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Soo Greyhounds": "+203",
-            "Saginaw Spirit": "-261"
+            "Soo Greyhounds": "+202",
+            "Saginaw Spirit": "-260"
         },
         "game_time": "7:07 pm"
     }

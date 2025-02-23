@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-240",
-            "Flint Firebirds": "+188"
+            "London Knights": "-236",
+            "Flint Firebirds": "+186"
         },
         "game_time": "2:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Erie Otters",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-157",
-            "Erie Otters": "+127"
+            "Oshawa Generals": "-160",
+            "Erie Otters": "+128"
         },
         "game_time": "2:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Sarnia Sting": "+242",
-            "Saginaw Spirit": "-317"
+            "Sarnia Sting": "+241",
+            "Saginaw Spirit": "-316"
         },
         "game_time": "2:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-346",
-            "Owen Sound Attack": "+261"
+            "Windsor Spitfires": "-349",
+            "Owen Sound Attack": "+263"
         },
         "game_time": "2:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Guelph Storm": "+135",
-            "Sudbury Wolves": "-169"
+            "Guelph Storm": "+128",
+            "Sudbury Wolves": "-160"
         },
         "game_time": "2:07 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Peterborough Petes": "+387",
-            "Kitchener Rangers": "-556"
+            "Peterborough Petes": "+375",
+            "Kitchener Rangers": "-532"
         },
         "game_time": "3:05 pm"
     },
@@ -94,8 +94,8 @@
         "away_team": "Barrie Colts",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-177",
-            "Barrie Colts": "+142"
+            "Kingston Frontenacs": "-173",
+            "Barrie Colts": "+139"
         },
         "game_time": "7:00 pm"
     }

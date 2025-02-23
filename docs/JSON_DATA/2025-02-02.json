@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-141",
-            "Ottawa 67's": "+114"
+            "Guelph Storm": "-149",
+            "Ottawa 67's": "+120"
         },
         "game_time": "2:07 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-261",
-            "Soo Greyhounds": "+203"
+            "Saginaw Spirit": "-260",
+            "Soo Greyhounds": "+202"
         },
         "game_time": "5:30 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Windsor Spitfires": "-101",
-            "London Knights": "-122"
+            "Windsor Spitfires": "+100",
+            "London Knights": "-124"
         },
         "game_time": "7:00 pm"
     }

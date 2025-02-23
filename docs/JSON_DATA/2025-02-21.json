@@ -4,8 +4,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Erie Otters": "+127",
-            "Oshawa Generals": "-157"
+            "Erie Otters": "+128",
+            "Oshawa Generals": "-160"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-214",
-            "North Bay Battalion": "+170"
+            "Flint Firebirds": "-223",
+            "North Bay Battalion": "+176"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Barrie Colts",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-125",
-            "Barrie Colts": "+101"
+            "Kitchener Rangers": "-123",
+            "Barrie Colts": "-100"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-132",
-            "Brampton Steelheads": "+107"
+            "London Knights": "-135",
+            "Brampton Steelheads": "+109"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Sarnia Sting": "+254",
-            "Windsor Spitfires": "-335"
+            "Sarnia Sting": "+256",
+            "Windsor Spitfires": "-338"
         },
         "game_time": "7:05 pm"
     },
@@ -82,10 +82,10 @@
     {
         "home_team": "Soo Greyhounds",
         "away_team": "Guelph Storm",
-        "winner": "Soo Greyhounds",
+        "winner": "Guelph Storm",
         "odds": {
-            "Soo Greyhounds": "-113",
-            "Guelph Storm": "-109"
+            "Soo Greyhounds": "-107",
+            "Guelph Storm": "-116"
         },
         "game_time": "7:07 pm"
     }
