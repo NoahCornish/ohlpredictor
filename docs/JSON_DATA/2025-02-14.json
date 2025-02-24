@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-155",
-            "Kitchener Rangers": "+124"
+            "Kingston Frontenacs": "-152",
+            "Kitchener Rangers": "+122"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-301",
-            "Soo Greyhounds": "+231"
+            "London Knights": "-306",
+            "Soo Greyhounds": "+235"
         },
         "game_time": "7:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Guelph Storm": "+170",
-            "Oshawa Generals": "-215"
+            "Guelph Storm": "+176",
+            "Oshawa Generals": "-222"
         },
         "game_time": "7:07 pm"
     }

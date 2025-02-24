@@ -8,8 +8,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-103",
-            "London Knights": "-120"
+            "Windsor Spitfires": "-101",
+            "London Knights": "-122"
         }
     },
     {
@@ -73,8 +73,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "-105",
-            "Oshawa Generals": "-117"
+            "Kitchener Rangers": "-102",
+            "Oshawa Generals": "-121"
         }
     },
     {
@@ -104,6 +104,19 @@
         }
     },
     {
+        "date": "2025-02-15",
+        "home_team": "Oshawa Generals",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "Oshawa Generals": "-102",
+            "Brampton Steelheads": "-121"
+        }
+    },
+    {
         "date": "2025-02-17",
         "home_team": "Ottawa 67's",
         "away_team": "North Bay Battalion",
@@ -114,6 +127,19 @@
         "odds": {
             "Ottawa 67's": "-119",
             "North Bay Battalion": "-104"
+        }
+    },
+    {
+        "date": "2025-02-19",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Brampton Steelheads": "-121",
+            "Oshawa Generals": "-102"
         }
     },
     {
