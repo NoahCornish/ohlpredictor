@@ -1138,17 +1138,17 @@
         },
         {
             "date": "2025-02-24",
-            "accuracy": 0,
+            "accuracy": 0.0,
             "correct_predictions": 0,
-            "total_games": 0,
+            "total_games": 1,
             "game_details": [
                 {
                     "home_team": "Erie Otters",
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Erie Otters",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Flint Firebirds",
+                    "home_score": 1,
+                    "away_score": 2
                 }
             ]
         },
@@ -1175,15 +1175,55 @@
                     "away_score": 0
                 }
             ]
+        },
+        {
+            "date": "2025-02-26",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Guelph Storm",
+                    "away_team": "Barrie Colts",
+                    "predicted_winner": "Barrie Colts",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Owen Sound Attack",
+                    "away_team": "Niagara IceDogs",
+                    "predicted_winner": "Niagara IceDogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Flint Firebirds",
+                    "away_team": "Sarnia Sting",
+                    "predicted_winner": "Flint Firebirds",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Soo Greyhounds",
+                    "away_team": "Sudbury Wolves",
+                    "predicted_winner": "Sudbury Wolves",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
         }
     ],
-    "total_accuracy": 69.6,
-    "tossup_accuracy": 40.0,
+    "total_accuracy": 69.0,
+    "tossup_accuracy": 36.4,
     "non_tossup_accuracy": 72.4,
     "total_correct": 80,
-    "total_games": 115,
+    "total_games": 116,
     "tossup_correct": 4,
-    "tossup_games": 10,
+    "tossup_games": 11,
     "non_tossup_correct": 76,
     "non_tossup_games": 105
 }
