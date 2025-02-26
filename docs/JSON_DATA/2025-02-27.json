@@ -1,11 +1,21 @@
 [
     {
         "home_team": "Barrie Colts",
-        "away_team": "London Knights",
-        "winner": "London Knights",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
         "odds": {
-            "Barrie Colts": "+147",
-            "London Knights": "-184"
+            "Barrie Colts": "+120",
+            "Saginaw Spirit": "-149"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Erie Otters",
+        "winner": "Niagara IceDogs",
+        "odds": {
+            "Niagara IceDogs": "-117",
+            "Erie Otters": "-106"
         },
         "game_time": "7:00 pm"
     },
@@ -21,21 +31,11 @@
     },
     {
         "home_team": "Peterborough Petes",
-        "away_team": "Ottawa 67's",
-        "winner": "Ottawa 67's",
-        "odds": {
-            "Peterborough Petes": "+156",
-            "Ottawa 67's": "-196"
-        },
-        "game_time": "7:05 pm"
-    },
-    {
-        "home_team": "Windsor Spitfires",
-        "away_team": "Sarnia Sting",
+        "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-359",
-            "Sarnia Sting": "+270"
+            "Peterborough Petes": "+500",
+            "Windsor Spitfires": "-777"
         },
         "game_time": "7:05 pm"
     }

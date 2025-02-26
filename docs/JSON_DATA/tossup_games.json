@@ -60,8 +60,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "-102",
-            "Oshawa Generals": "-121"
+            "Kitchener Rangers": "-107",
+            "Oshawa Generals": "-116"
         }
     },
     {
@@ -99,8 +99,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-117",
-            "North Bay Battalion": "-105"
+            "Ottawa 67's": "-115",
+            "North Bay Battalion": "-108"
         }
     },
     {
@@ -120,13 +120,13 @@
         "date": "2025-02-21",
         "home_team": "Soo Greyhounds",
         "away_team": "Guelph Storm",
-        "predicted_winner": "Guelph Storm",
+        "predicted_winner": "Soo Greyhounds",
         "actual_winner": "Soo Greyhounds",
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-110",
-            "Guelph Storm": "-112"
+            "Soo Greyhounds": "-121",
+            "Guelph Storm": "-102"
         }
     },
     {
