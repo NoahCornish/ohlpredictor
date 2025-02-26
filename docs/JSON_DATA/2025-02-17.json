@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-241",
-            "Flint Firebirds": "+189"
+            "London Knights": "-243",
+            "Flint Firebirds": "+190"
         },
         "game_time": "2:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-115",
-            "North Bay Battalion": "-108"
+            "Ottawa 67's": "-117",
+            "North Bay Battalion": "-106"
         },
         "game_time": "2:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Guelph Storm": "+131",
+            "Guelph Storm": "+132",
             "Sudbury Wolves": "-164"
         },
         "game_time": "2:07 pm"
