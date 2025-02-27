@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-172",
-            "Niagara IceDogs": "+138"
+            "Brampton Steelheads": "-174",
+            "Niagara IceDogs": "+140"
         },
         "game_time": "2:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-219",
-            "Soo Greyhounds": "+173"
+            "Brantford Bulldogs": "-205",
+            "Soo Greyhounds": "+163"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-243",
-            "Flint Firebirds": "+190"
+            "London Knights": "-230",
+            "Flint Firebirds": "+181"
         },
         "game_time": "2:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Sarnia Sting": "+243",
-            "Saginaw Spirit": "-319"
+            "Saginaw Spirit": "-318"
         },
         "game_time": "2:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-346",
-            "Owen Sound Attack": "+261"
+            "Windsor Spitfires": "-320",
+            "Owen Sound Attack": "+244"
         },
         "game_time": "2:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Guelph Storm": "+132",
-            "Sudbury Wolves": "-164"
+            "Guelph Storm": "+128",
+            "Sudbury Wolves": "-159"
         },
         "game_time": "2:07 pm"
     },
@@ -94,8 +94,8 @@
         "away_team": "Barrie Colts",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-171",
-            "Barrie Colts": "+137"
+            "Kingston Frontenacs": "-168",
+            "Barrie Colts": "+135"
         },
         "game_time": "7:00 pm"
     }

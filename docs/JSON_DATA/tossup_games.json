@@ -34,8 +34,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Niagara IceDogs": "-108",
-            "Sudbury Wolves": "-114"
+            "Niagara IceDogs": "-107",
+            "Sudbury Wolves": "-115"
         }
     },
     {
@@ -73,8 +73,21 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Erie Otters": "-106",
-            "Niagara IceDogs": "-117"
+            "Erie Otters": "-107",
+            "Niagara IceDogs": "-115"
+        }
+    },
+    {
+        "date": "2025-02-14",
+        "home_team": "Flint Firebirds",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Flint Firebirds": "-101",
+            "Sudbury Wolves": "-123"
         }
     },
     {
@@ -117,19 +130,6 @@
         }
     },
     {
-        "date": "2025-02-21",
-        "home_team": "Soo Greyhounds",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Soo Greyhounds",
-        "actual_winner": "Soo Greyhounds",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Soo Greyhounds": "-122",
-            "Guelph Storm": "-102"
-        }
-    },
-    {
         "date": "2025-02-24",
         "home_team": "Erie Otters",
         "away_team": "Flint Firebirds",
@@ -138,8 +138,8 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-120",
-            "Flint Firebirds": "-103"
+            "Erie Otters": "-114",
+            "Flint Firebirds": "-109"
         }
     }
 ]

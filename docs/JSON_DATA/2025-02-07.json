@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-225",
-            "Flint Firebirds": "+178"
+            "Kingston Frontenacs": "-213",
+            "Flint Firebirds": "+169"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-268",
-            "Owen Sound Attack": "+208"
+            "Kitchener Rangers": "-248",
+            "Owen Sound Attack": "+194"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Niagara IceDogs": "-108",
-            "Sudbury Wolves": "-114"
+            "Niagara IceDogs": "-107",
+            "Sudbury Wolves": "-115"
         },
         "game_time": "7:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-359",
-            "Sarnia Sting": "+270"
+            "Windsor Spitfires": "-358",
+            "Sarnia Sting": "+269"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-159",
-            "North Bay Battalion": "+128"
+            "Guelph Storm": "-164",
+            "North Bay Battalion": "+132"
         },
         "game_time": "7:07 pm"
     }
