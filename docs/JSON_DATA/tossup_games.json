@@ -8,8 +8,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-101",
-            "London Knights": "-122"
+            "Windsor Spitfires": "-105",
+            "London Knights": "-117"
         }
     },
     {
@@ -22,7 +22,7 @@
         "away_score": 2,
         "odds": {
             "Brantford Bulldogs": "-107",
-            "Saginaw Spirit": "-115"
+            "Saginaw Spirit": "-116"
         }
     },
     {
@@ -34,8 +34,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Niagara IceDogs": "-107",
-            "Sudbury Wolves": "-115"
+            "Niagara IceDogs": "-109",
+            "Sudbury Wolves": "-114"
         }
     },
     {
@@ -47,8 +47,8 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-103",
-            "Sudbury Wolves": "-120"
+            "Erie Otters": "-107",
+            "Sudbury Wolves": "-116"
         }
     },
     {
@@ -73,8 +73,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Erie Otters": "-107",
-            "Niagara IceDogs": "-115"
+            "Erie Otters": "-109",
+            "Niagara IceDogs": "-113"
         }
     },
     {
@@ -99,8 +99,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-102",
-            "Brampton Steelheads": "-121"
+            "Oshawa Generals": "-101",
+            "Brampton Steelheads": "-122"
         }
     },
     {
@@ -112,7 +112,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-115",
+            "Ottawa 67's": "-116",
             "North Bay Battalion": "-107"
         }
     },
@@ -125,8 +125,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brampton Steelheads": "-121",
-            "Oshawa Generals": "-102"
+            "Brampton Steelheads": "-122",
+            "Oshawa Generals": "-101"
         }
     },
     {
@@ -138,8 +138,21 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-114",
-            "Flint Firebirds": "-109"
+            "Erie Otters": "-118",
+            "Flint Firebirds": "-105"
+        }
+    },
+    {
+        "date": "2025-02-27",
+        "home_team": "Niagara IceDogs",
+        "away_team": "Erie Otters",
+        "predicted_winner": "Niagara IceDogs",
+        "actual_winner": "Erie Otters",
+        "home_score": 4,
+        "away_score": 5,
+        "odds": {
+            "Niagara IceDogs": "-113",
+            "Erie Otters": "-109"
         }
     }
 ]

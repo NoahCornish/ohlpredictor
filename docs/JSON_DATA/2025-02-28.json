@@ -12,10 +12,10 @@
     {
         "home_team": "Kingston Frontenacs",
         "away_team": "Windsor Spitfires",
-        "winner": "Kingston Frontenacs",
+        "winner": "Windsor Spitfires",
         "odds": {
-            "Kingston Frontenacs": "-114",
-            "Windsor Spitfires": "-108"
+            "Kingston Frontenacs": "-109",
+            "Windsor Spitfires": "-113"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-115",
+            "Ottawa 67's": "-116",
             "North Bay Battalion": "-107"
         },
         "game_time": "7:00 pm"
@@ -55,7 +55,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Sudbury Wolves": "+135",
-            "Saginaw Spirit": "-168"
+            "Saginaw Spirit": "-169"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Soo Greyhounds": "+169",
-            "Brampton Steelheads": "-213"
+            "Soo Greyhounds": "+170",
+            "Brampton Steelheads": "-214"
         },
         "game_time": "7:07 pm"
     }
