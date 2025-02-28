@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-159",
-            "Niagara IceDogs": "+128"
+            "Brantford Bulldogs": "-165",
+            "Niagara IceDogs": "+133"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Flint Firebirds": "-101",
-            "Sudbury Wolves": "-123"
+            "Sudbury Wolves": "-122"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "Peterborough Petes": "+178",
-            "Ottawa 67's": "-226"
+            "Peterborough Petes": "+180",
+            "Ottawa 67's": "-229"
         },
         "game_time": "7:05 pm"
     },
