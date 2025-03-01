@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-165",
-            "Niagara IceDogs": "+133"
+            "Brantford Bulldogs": "-171",
+            "Niagara IceDogs": "+137"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Flint Firebirds": "-101",
-            "Sudbury Wolves": "-122"
+            "Flint Firebirds": "-106",
+            "Sudbury Wolves": "-117"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-265",
-            "Soo Greyhounds": "+206"
+            "London Knights": "-273",
+            "Soo Greyhounds": "+212"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Owen Sound Attack": "+142",
-            "Erie Otters": "-177"
+            "Owen Sound Attack": "+148",
+            "Erie Otters": "-185"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Saginaw Spirit": "+103",
-            "Windsor Spitfires": "-127"
+            "Saginaw Spirit": "+101",
+            "Windsor Spitfires": "-124"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "Peterborough Petes": "+180",
-            "Ottawa 67's": "-229"
+            "Peterborough Petes": "+196",
+            "Ottawa 67's": "-251"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Guelph Storm": "+175",
-            "Oshawa Generals": "-221"
+            "Guelph Storm": "+173",
+            "Oshawa Generals": "-219"
         },
         "game_time": "7:07 pm"
     }

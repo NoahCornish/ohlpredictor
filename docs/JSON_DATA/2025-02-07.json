@@ -4,8 +4,8 @@
         "away_team": "Erie Otters",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-176",
-            "Erie Otters": "+141"
+            "Brampton Steelheads": "-180",
+            "Erie Otters": "+144"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-213",
-            "Flint Firebirds": "+169"
+            "Kingston Frontenacs": "-212",
+            "Flint Firebirds": "+168"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-248",
-            "Owen Sound Attack": "+194"
+            "Kitchener Rangers": "-267",
+            "Owen Sound Attack": "+207"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-1067",
-            "Peterborough Petes": "+623"
+            "London Knights": "-1142",
+            "Peterborough Petes": "+651"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Niagara IceDogs": "-109",
-            "Sudbury Wolves": "-113"
+            "Niagara IceDogs": "-111",
+            "Sudbury Wolves": "-111"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-314",
-            "Ottawa 67's": "+240"
+            "Oshawa Generals": "-287",
+            "Ottawa 67's": "+221"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-371",
-            "Sarnia Sting": "+278"
+            "Windsor Spitfires": "-367",
+            "Sarnia Sting": "+275"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-163",
-            "North Bay Battalion": "+131"
+            "Guelph Storm": "-170",
+            "North Bay Battalion": "+136"
         },
         "game_time": "7:07 pm"
     }
