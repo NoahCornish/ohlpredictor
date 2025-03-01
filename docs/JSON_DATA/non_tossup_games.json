@@ -385,7 +385,7 @@
         "home_score": 1,
         "away_score": 8,
         "odds": {
-            "Ottawa 67's": "+221",
+            "Ottawa 67's": "+222",
             "Oshawa Generals": "-287"
         }
     },
@@ -490,7 +490,7 @@
         "away_score": 2,
         "odds": {
             "Oshawa Generals": "-287",
-            "Ottawa 67's": "+221"
+            "Ottawa 67's": "+222"
         }
     },
     {
@@ -619,7 +619,7 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+151",
+            "Ottawa 67's": "+152",
             "Flint Firebirds": "-190"
         }
     },
@@ -658,7 +658,7 @@
         "home_score": 3,
         "away_score": 0,
         "odds": {
-            "Ottawa 67's": "-251",
+            "Ottawa 67's": "-250",
             "Peterborough Petes": "+196"
         }
     },
@@ -815,7 +815,7 @@
         "away_score": 4,
         "odds": {
             "Peterborough Petes": "+196",
-            "Ottawa 67's": "-251"
+            "Ottawa 67's": "-250"
         }
     },
     {
@@ -931,8 +931,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+217",
-            "Kitchener Rangers": "-281"
+            "Ottawa 67's": "+218",
+            "Kitchener Rangers": "-282"
         }
     },
     {
@@ -983,7 +983,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-132",
+            "Ottawa 67's": "-131",
             "North Bay Battalion": "+106"
         }
     },
@@ -1321,8 +1321,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+239",
-            "Brantford Bulldogs": "-313"
+            "Ottawa 67's": "+240",
+            "Brantford Bulldogs": "-314"
         }
     },
     {
@@ -1542,7 +1542,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "-132",
+            "Ottawa 67's": "-131",
             "North Bay Battalion": "+106"
         }
     },
