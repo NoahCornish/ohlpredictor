@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sarnia Sting",
         "odds": {
-            "Sarnia Sting": "-212",
-            "Peterborough Petes": "+168"
+            "Sarnia Sting": "-210",
+            "Peterborough Petes": "+166"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-126",
-            "Brantford Bulldogs": "+102"
+            "Windsor Spitfires": "-125",
+            "Brantford Bulldogs": "+101"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Guelph Storm": "+195",
-            "Saginaw Spirit": "-249"
+            "Guelph Storm": "+196",
+            "Saginaw Spirit": "-251"
         },
         "game_time": "7:07 pm"
     },

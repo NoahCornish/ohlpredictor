@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-673",
-            "Peterborough Petes": "+449"
+            "Brampton Steelheads": "-666",
+            "Peterborough Petes": "+446"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-142",
-            "Sarnia Sting": "+115"
+            "Guelph Storm": "-141",
+            "Sarnia Sting": "+114"
         },
         "game_time": "7:07 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Soo Greyhounds": "+170",
+            "Soo Greyhounds": "+171",
             "Brantford Bulldogs": "-215"
         },
         "game_time": "7:07 pm"
