@@ -4,8 +4,8 @@
         "away_team": "Erie Otters",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-180",
-            "Erie Otters": "+144"
+            "Brampton Steelheads": "-179",
+            "Erie Otters": "+143"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Brantford Bulldogs": "-108",
-            "Saginaw Spirit": "-114"
+            "Brantford Bulldogs": "-110",
+            "Saginaw Spirit": "-112"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-212",
-            "Flint Firebirds": "+168"
+            "Kingston Frontenacs": "-203",
+            "Flint Firebirds": "+162"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-267",
-            "Owen Sound Attack": "+207"
+            "Kitchener Rangers": "-265",
+            "Owen Sound Attack": "+206"
         },
         "game_time": "7:00 pm"
     },
@@ -44,18 +44,18 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-1142",
-            "Peterborough Petes": "+651"
+            "London Knights": "-910",
+            "Peterborough Petes": "+559"
         },
         "game_time": "7:00 pm"
     },
     {
         "home_team": "Niagara IceDogs",
         "away_team": "Sudbury Wolves",
-        "winner": "Sudbury Wolves",
+        "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-111",
-            "Sudbury Wolves": "-111"
+            "Niagara IceDogs": "-115",
+            "Sudbury Wolves": "-107"
         },
         "game_time": "7:00 pm"
     },

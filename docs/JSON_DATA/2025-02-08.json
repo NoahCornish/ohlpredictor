@@ -5,7 +5,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Brampton Steelheads": "+102",
-            "Kingston Frontenacs": "-126"
+            "Kingston Frontenacs": "-127"
         },
         "game_time": "4:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Erie Otters": "-109",
-            "Sudbury Wolves": "-114"
+            "Sudbury Wolves": "-113"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Niagara IceDogs": "+125",
-            "Kitchener Rangers": "-155"
+            "Niagara IceDogs": "+121",
+            "Kitchener Rangers": "-150"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-138",
-            "North Bay Battalion": "+112"
+            "Owen Sound Attack": "-141",
+            "North Bay Battalion": "+114"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sarnia Sting",
         "odds": {
-            "Sarnia Sting": "-252",
-            "Peterborough Petes": "+197"
+            "Sarnia Sting": "-212",
+            "Peterborough Petes": "+168"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-127",
-            "Brantford Bulldogs": "+103"
+            "Windsor Spitfires": "-126",
+            "Brantford Bulldogs": "+102"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-162",
-            "Soo Greyhounds": "+130"
+            "Barrie Colts": "-167",
+            "Soo Greyhounds": "+134"
         },
         "game_time": "7:30 pm"
     }
