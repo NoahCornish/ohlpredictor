@@ -126,7 +126,7 @@
         "away_score": 3,
         "odds": {
             "Flint Firebirds": "-108",
-            "Sudbury Wolves": "-115"
+            "Sudbury Wolves": "-114"
         }
     },
     {
@@ -164,8 +164,8 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-116",
-            "Flint Firebirds": "-106"
+            "Erie Otters": "-115",
+            "Flint Firebirds": "-107"
         }
     },
     {
@@ -203,8 +203,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Erie Otters": "-116",
-            "Flint Firebirds": "-106"
+            "Erie Otters": "-115",
+            "Flint Firebirds": "-107"
         }
     }
 ]
