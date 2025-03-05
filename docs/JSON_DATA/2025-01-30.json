@@ -14,8 +14,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "North Bay Battalion": "+294",
-            "Brantford Bulldogs": "-396"
+            "North Bay Battalion": "+299",
+            "Brantford Bulldogs": "-406"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Peterborough Petes": "+524",
-            "Brampton Steelheads": "-829"
+            "Peterborough Petes": "+515",
+            "Brampton Steelheads": "-809"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-204",
-            "Flint Firebirds": "+162"
+            "Windsor Spitfires": "-205",
+            "Flint Firebirds": "+163"
         },
         "game_time": "7:05 pm"
     }

@@ -1434,17 +1434,17 @@
         },
         {
             "date": "2025-03-05",
-            "accuracy": 0,
+            "accuracy": 0.0,
             "correct_predictions": 0,
-            "total_games": 0,
+            "total_games": 1,
             "game_details": [
                 {
                     "home_team": "Brampton Steelheads",
                     "away_team": "Oshawa Generals",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "Oshawa Generals",
                     "home_score": 0,
-                    "away_score": 0
+                    "away_score": 4
                 },
                 {
                     "home_team": "Brantford Bulldogs",
@@ -1513,13 +1513,13 @@
             ]
         }
     ],
-    "total_accuracy": 67.6,
-    "tossup_accuracy": 37.5,
-    "non_tossup_accuracy": 71.3,
+    "total_accuracy": 67.1,
+    "tossup_accuracy": 45.0,
+    "non_tossup_accuracy": 70.6,
     "total_correct": 98,
-    "total_games": 145,
-    "tossup_correct": 6,
-    "tossup_games": 16,
-    "non_tossup_correct": 92,
-    "non_tossup_games": 129
+    "total_games": 146,
+    "tossup_correct": 9,
+    "tossup_games": 20,
+    "non_tossup_correct": 89,
+    "non_tossup_games": 126
 }
