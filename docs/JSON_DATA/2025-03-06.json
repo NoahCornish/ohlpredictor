@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Niagara IceDogs",
+        "winner": "Niagara IceDogs",
+        "odds": {
+            "North Bay Battalion": "+197",
+            "Niagara IceDogs": "-251"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Ottawa 67's",
+        "winner": "Ottawa 67's",
+        "odds": {
+            "Peterborough Petes": "+204",
+            "Ottawa 67's": "-262"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Barrie Colts",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-154",
+            "Barrie Colts": "+124"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-112",
+            "Kingston Frontenacs": "-110"
+        },
+        "game_time": "7:05 pm"
+    }
+]
