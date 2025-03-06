@@ -14,8 +14,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Brantford Bulldogs": "-103",
-            "Saginaw Spirit": "-120"
+            "Brantford Bulldogs": "+101",
+            "Saginaw Spirit": "-125"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-203",
-            "Flint Firebirds": "+161"
+            "Kingston Frontenacs": "-200",
+            "Flint Firebirds": "+159"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-1148",
-            "Peterborough Petes": "+653"
+            "London Knights": "-1184",
+            "Peterborough Petes": "+666"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-113",
-            "Sudbury Wolves": "-109"
+            "Niagara IceDogs": "-112",
+            "Sudbury Wolves": "-111"
         },
         "game_time": "7:00 pm"
     },
