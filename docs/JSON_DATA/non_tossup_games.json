@@ -190,8 +190,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+478",
-            "Oshawa Generals": "-731"
+            "Peterborough Petes": "+479",
+            "Oshawa Generals": "-733"
         }
     },
     {
@@ -386,7 +386,7 @@
         "away_score": 8,
         "odds": {
             "Ottawa 67's": "+215",
-            "Oshawa Generals": "-277"
+            "Oshawa Generals": "-278"
         }
     },
     {
@@ -489,7 +489,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-277",
+            "Oshawa Generals": "-278",
             "Ottawa 67's": "+215"
         }
     },
@@ -814,8 +814,8 @@
         "home_score": 5,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "+182",
-            "Oshawa Generals": "-231"
+            "Guelph Storm": "+183",
+            "Oshawa Generals": "-232"
         }
     },
     {
@@ -971,7 +971,7 @@
         "away_score": 1,
         "odds": {
             "Oshawa Generals": "-156",
-            "Erie Otters": "+125"
+            "Erie Otters": "+126"
         }
     },
     {
@@ -1087,7 +1087,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Erie Otters": "+125",
+            "Erie Otters": "+126",
             "Oshawa Generals": "-156"
         }
     },
@@ -1334,7 +1334,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Oshawa Generals": "+112",
+            "Oshawa Generals": "+111",
             "Kingston Frontenacs": "-138"
         }
     },
@@ -1660,7 +1660,7 @@
         "away_score": 4,
         "odds": {
             "Oshawa Generals": "+127",
-            "London Knights": "-158"
+            "London Knights": "-157"
         }
     },
     {
