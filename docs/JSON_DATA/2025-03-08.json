@@ -1,0 +1,52 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Peterborough Petes",
+        "winner": "Ottawa 67's",
+        "odds": {
+            "Ottawa 67's": "-234",
+            "Peterborough Petes": "+184"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Owen Sound Attack",
+        "winner": "Erie Otters",
+        "odds": {
+            "Erie Otters": "-193",
+            "Owen Sound Attack": "+154"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Sarnia Sting",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Flint Firebirds": "-190",
+            "Sarnia Sting": "+152"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-129",
+            "Brantford Bulldogs": "+104"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Soo Greyhounds": "+157",
+            "Oshawa Generals": "-197"
+        },
+        "game_time": "7:07 pm"
+    }
+]
