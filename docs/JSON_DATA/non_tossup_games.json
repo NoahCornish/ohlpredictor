@@ -34,8 +34,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-231",
-            "Ottawa 67's": "+182"
+            "Barrie Colts": "-221",
+            "Ottawa 67's": "+174"
         }
     },
     {
@@ -60,8 +60,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+457",
-            "Brampton Steelheads": "-688"
+            "Peterborough Petes": "+432",
+            "Brampton Steelheads": "-639"
         }
     },
     {
@@ -86,8 +86,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Brampton Steelheads": "-688",
-            "Peterborough Petes": "+457"
+            "Brampton Steelheads": "-639",
+            "Peterborough Petes": "+432"
         }
     },
     {
@@ -177,8 +177,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+422",
-            "Oshawa Generals": "-619"
+            "Peterborough Petes": "+399",
+            "Oshawa Generals": "-576"
         }
     },
     {
@@ -257,19 +257,6 @@
         "odds": {
             "Sudbury Wolves": "+131",
             "Brantford Bulldogs": "-163"
-        }
-    },
-    {
-        "date": "2025-02-02",
-        "home_team": "Guelph Storm",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "Guelph Storm": "-125",
-            "Ottawa 67's": "+101"
         }
     },
     {
@@ -359,8 +346,8 @@
         "home_score": 1,
         "away_score": 8,
         "odds": {
-            "Ottawa 67's": "+210",
-            "Oshawa Generals": "-270"
+            "Ottawa 67's": "+201",
+            "Oshawa Generals": "-258"
         }
     },
     {
@@ -385,8 +372,8 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Peterborough Petes": "+297",
-            "Flint Firebirds": "-402"
+            "Peterborough Petes": "+281",
+            "Flint Firebirds": "-376"
         }
     },
     {
@@ -450,8 +437,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "London Knights": "-985",
-            "Peterborough Petes": "+591"
+            "London Knights": "-908",
+            "Peterborough Petes": "+559"
         }
     },
     {
@@ -463,8 +450,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-270",
-            "Ottawa 67's": "+210"
+            "Oshawa Generals": "-258",
+            "Ottawa 67's": "+201"
         }
     },
     {
@@ -541,8 +528,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Sarnia Sting": "-239",
-            "Peterborough Petes": "+188"
+            "Sarnia Sting": "-225",
+            "Peterborough Petes": "+178"
         }
     },
     {
@@ -593,8 +580,8 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+147",
-            "Flint Firebirds": "-184"
+            "Ottawa 67's": "+141",
+            "Flint Firebirds": "-176"
         }
     },
     {
@@ -632,8 +619,8 @@
         "home_score": 3,
         "away_score": 0,
         "odds": {
-            "Ottawa 67's": "-234",
-            "Peterborough Petes": "+184"
+            "Ottawa 67's": "-230",
+            "Peterborough Petes": "+181"
         }
     },
     {
@@ -762,8 +749,8 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+184",
-            "Ottawa 67's": "-234"
+            "Peterborough Petes": "+181",
+            "Ottawa 67's": "-230"
         }
     },
     {
@@ -801,8 +788,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+513",
-            "Kingston Frontenacs": "-805"
+            "Peterborough Petes": "+485",
+            "Kingston Frontenacs": "-745"
         }
     },
     {
@@ -866,8 +853,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+209",
-            "Kitchener Rangers": "-269"
+            "Ottawa 67's": "+201",
+            "Kitchener Rangers": "-257"
         }
     },
     {
@@ -918,8 +905,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-144",
-            "North Bay Battalion": "+117"
+            "Ottawa 67's": "-151",
+            "North Bay Battalion": "+121"
         }
     },
     {
@@ -983,8 +970,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+420",
-            "Kitchener Rangers": "-617"
+            "Peterborough Petes": "+398",
+            "Kitchener Rangers": "-574"
         }
     },
     {
@@ -1022,8 +1009,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+458",
-            "Brantford Bulldogs": "-691"
+            "Peterborough Petes": "+433",
+            "Brantford Bulldogs": "-642"
         }
     },
     {
@@ -1113,8 +1100,8 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "+156",
-            "Niagara IceDogs": "-195"
+            "Ottawa 67's": "+149",
+            "Niagara IceDogs": "-187"
         }
     },
     {
@@ -1230,8 +1217,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-518",
-            "Peterborough Petes": "+366"
+            "Barrie Colts": "-483",
+            "Peterborough Petes": "+346"
         }
     },
     {
@@ -1243,8 +1230,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+228",
-            "Brantford Bulldogs": "-297"
+            "Ottawa 67's": "+219",
+            "Brantford Bulldogs": "-283"
         }
     },
     {
@@ -1412,8 +1399,8 @@
         "home_score": 1,
         "away_score": 7,
         "odds": {
-            "Peterborough Petes": "+538",
-            "Windsor Spitfires": "-861"
+            "Peterborough Petes": "+509",
+            "Windsor Spitfires": "-796"
         }
     },
     {
@@ -1451,8 +1438,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "-144",
-            "North Bay Battalion": "+117"
+            "Ottawa 67's": "-151",
+            "North Bay Battalion": "+121"
         }
     },
     {
@@ -1503,8 +1490,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-691",
-            "Peterborough Petes": "+458"
+            "Brantford Bulldogs": "-642",
+            "Peterborough Petes": "+433"
         }
     },
     {
@@ -1568,8 +1555,8 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Ottawa 67's": "+268",
-            "Windsor Spitfires": "-357"
+            "Ottawa 67's": "+258",
+            "Windsor Spitfires": "-340"
         }
     },
     {
@@ -1594,8 +1581,8 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-428",
-            "Peterborough Petes": "+313"
+            "Erie Otters": "-400",
+            "Peterborough Petes": "+296"
         }
     },
     {
@@ -1659,8 +1646,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+184",
-            "Ottawa 67's": "-234"
+            "Peterborough Petes": "+181",
+            "Ottawa 67's": "-230"
         }
     },
     {
@@ -1765,6 +1752,19 @@
         "odds": {
             "Soo Greyhounds": "+135",
             "Barrie Colts": "-168"
+        }
+    },
+    {
+        "date": "2025-03-08",
+        "home_team": "Ottawa 67's",
+        "away_team": "Peterborough Petes",
+        "predicted_winner": "Ottawa 67's",
+        "actual_winner": "Peterborough Petes",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Ottawa 67's": "-230",
+            "Peterborough Petes": "+181"
         }
     }
 ]

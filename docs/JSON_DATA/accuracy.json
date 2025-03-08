@@ -1586,17 +1586,17 @@
         },
         {
             "date": "2025-03-08",
-            "accuracy": 0,
+            "accuracy": 0.0,
             "correct_predictions": 0,
-            "total_games": 0,
+            "total_games": 1,
             "game_details": [
                 {
                     "home_team": "Ottawa 67's",
                     "away_team": "Peterborough Petes",
                     "predicted_winner": "Ottawa 67's",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Peterborough Petes",
+                    "home_score": 3,
+                    "away_score": 4
                 },
                 {
                     "home_team": "Erie Otters",
@@ -1681,13 +1681,13 @@
             ]
         }
     ],
-    "total_accuracy": 65.8,
-    "tossup_accuracy": 40.0,
+    "total_accuracy": 65.4,
+    "tossup_accuracy": 38.5,
     "non_tossup_accuracy": 70.6,
     "total_correct": 106,
-    "total_games": 161,
+    "total_games": 162,
     "tossup_correct": 10,
-    "tossup_games": 25,
+    "tossup_games": 26,
     "non_tossup_correct": 96,
     "non_tossup_games": 136
 }
