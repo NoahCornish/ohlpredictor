@@ -4,8 +4,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Guelph Storm": "+157",
-            "Barrie Colts": "-198"
+            "Guelph Storm": "+162",
+            "Barrie Colts": "-204"
         },
         "game_time": "6:37 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Owen Sound Attack": "+159",
-            "Niagara IceDogs": "-199"
+            "Owen Sound Attack": "+161",
+            "Niagara IceDogs": "-202"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-190",
-            "Sarnia Sting": "+152"
+            "Flint Firebirds": "-180",
+            "Sarnia Sting": "+144"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Soo Greyhounds": "+114",
-            "Sudbury Wolves": "-141"
+            "Soo Greyhounds": "+117",
+            "Sudbury Wolves": "-145"
         },
         "game_time": "7:07 pm"
     }

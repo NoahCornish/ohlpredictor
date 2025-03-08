@@ -4,8 +4,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-119",
-            "Oshawa Generals": "-104"
+            "Brantford Bulldogs": "-121",
+            "Oshawa Generals": "-102"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Kingston Frontenacs": "-106",
-            "Windsor Spitfires": "-116"
+            "Windsor Spitfires": "-117"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-271",
-            "Sarnia Sting": "+211"
+            "Kitchener Rangers": "-263",
+            "Sarnia Sting": "+205"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-402",
-            "Owen Sound Attack": "+297"
+            "London Knights": "-414",
+            "Owen Sound Attack": "+304"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-140",
-            "North Bay Battalion": "+113"
+            "Ottawa 67's": "-144",
+            "North Bay Battalion": "+117"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Sudbury Wolves": "+154",
-            "Saginaw Spirit": "-193"
+            "Sudbury Wolves": "+148",
+            "Saginaw Spirit": "-186"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Guelph Storm": "+128",
-            "Flint Firebirds": "-158"
+            "Guelph Storm": "+131",
+            "Flint Firebirds": "-163"
         },
         "game_time": "7:07 pm"
     },

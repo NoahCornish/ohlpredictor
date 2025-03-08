@@ -5,7 +5,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Brampton Steelheads": "+102",
-            "Kingston Frontenacs": "-127"
+            "Kingston Frontenacs": "-125"
         },
         "game_time": "4:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Erie Otters": "-110",
-            "Sudbury Wolves": "-112"
+            "Erie Otters": "-109",
+            "Sudbury Wolves": "-113"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Niagara IceDogs": "+118",
-            "Kitchener Rangers": "-146"
+            "Niagara IceDogs": "+122",
+            "Kitchener Rangers": "-151"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-138",
-            "North Bay Battalion": "+111"
+            "Owen Sound Attack": "-140",
+            "North Bay Battalion": "+113"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sarnia Sting",
         "odds": {
-            "Sarnia Sting": "-224",
-            "Peterborough Petes": "+177"
+            "Sarnia Sting": "-239",
+            "Peterborough Petes": "+188"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-133",
-            "Brantford Bulldogs": "+108"
+            "Windsor Spitfires": "-131",
+            "Brantford Bulldogs": "+106"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Guelph Storm": "+225",
-            "Saginaw Spirit": "-292"
+            "Guelph Storm": "+230",
+            "Saginaw Spirit": "-300"
         },
         "game_time": "7:07 pm"
     },

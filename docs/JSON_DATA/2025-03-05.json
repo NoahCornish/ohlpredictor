@@ -4,8 +4,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-120",
-            "Oshawa Generals": "-103"
+            "Brampton Steelheads": "-121",
+            "Oshawa Generals": "-102"
         },
         "game_time": "11:00 am"
     },
@@ -14,8 +14,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Brantford Bulldogs": "+118",
-            "London Knights": "-147"
+            "Brantford Bulldogs": "+117",
+            "London Knights": "-145"
         },
         "game_time": "7:00 pm"
     },
@@ -24,18 +24,18 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Flint Firebirds": "+160",
-            "Saginaw Spirit": "-201"
+            "Flint Firebirds": "+159",
+            "Saginaw Spirit": "-200"
         },
         "game_time": "7:00 pm"
     },
     {
         "home_team": "Sudbury Wolves",
         "away_team": "Niagara IceDogs",
-        "winner": "Niagara IceDogs",
+        "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-108",
-            "Niagara IceDogs": "-114"
+            "Sudbury Wolves": "-113",
+            "Niagara IceDogs": "-110"
         },
         "game_time": "7:05 pm"
     }

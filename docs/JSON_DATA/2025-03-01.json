@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-673",
-            "Peterborough Petes": "+450"
+            "Brantford Bulldogs": "-691",
+            "Peterborough Petes": "+458"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-115",
-            "Flint Firebirds": "-108"
+            "Erie Otters": "-117",
+            "Flint Firebirds": "-105"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Niagara IceDogs": "+171",
-            "London Knights": "-216"
+            "Niagara IceDogs": "+172",
+            "London Knights": "-218"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Owen Sound Attack": "+207",
-            "Kitchener Rangers": "-266"
+            "Owen Sound Attack": "+216",
+            "Kitchener Rangers": "-279"
         },
         "game_time": "7:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Barrie Colts": "+128",
-            "Kingston Frontenacs": "-160"
+            "Kingston Frontenacs": "-159"
         },
         "game_time": "7:30 pm"
     }

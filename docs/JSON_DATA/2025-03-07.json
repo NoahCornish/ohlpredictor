@@ -4,8 +4,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-378",
-            "North Bay Battalion": "+282"
+            "Brampton Steelheads": "-395",
+            "North Bay Battalion": "+292"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-193",
-            "Owen Sound Attack": "+154"
+            "Erie Otters": "-202",
+            "Owen Sound Attack": "+160"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Flint Firebirds": "+139",
-            "Brantford Bulldogs": "-173"
+            "Flint Firebirds": "+141",
+            "Brantford Bulldogs": "-176"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Kitchener Rangers": "+119",
-            "Windsor Spitfires": "-148"
+            "Kitchener Rangers": "+116",
+            "Windsor Spitfires": "-144"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-128",
-            "Kingston Frontenacs": "+103"
+            "London Knights": "-129",
+            "Kingston Frontenacs": "+104"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Sudbury Wolves": "+125",
-            "Oshawa Generals": "-155"
+            "Sudbury Wolves": "+120",
+            "Oshawa Generals": "-149"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-133",
-            "Sarnia Sting": "+107"
+            "Guelph Storm": "-122",
+            "Sarnia Sting": "-101"
         },
         "game_time": "7:07 pm"
     },
