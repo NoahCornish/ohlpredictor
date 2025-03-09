@@ -4,8 +4,8 @@
         "away_team": "Guelph Storm",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-238",
-            "Guelph Storm": "+187"
+            "Kitchener Rangers": "-236",
+            "Guelph Storm": "+186"
         },
         "game_time": "2:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Niagara IceDogs": "+149",
-            "Kingston Frontenacs": "-187"
+            "Niagara IceDogs": "+151",
+            "Kingston Frontenacs": "-189"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "North Bay Battalion": "+121",
-            "Ottawa 67's": "-151"
+            "North Bay Battalion": "+113",
+            "Ottawa 67's": "-140"
         },
         "game_time": "2:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Sarnia Sting": "+289",
-            "London Knights": "-390"
+            "Sarnia Sting": "+312",
+            "London Knights": "-425"
         },
         "game_time": "2:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Sudbury Wolves": "+104",
-            "Barrie Colts": "-128"
+            "Sudbury Wolves": "-103",
+            "Barrie Colts": "-120"
         },
         "game_time": "2:05 pm"
     }

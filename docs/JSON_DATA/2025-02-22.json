@@ -4,8 +4,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-163",
-            "Sudbury Wolves": "+131"
+            "Brampton Steelheads": "-153",
+            "Sudbury Wolves": "+123"
         },
         "game_time": "4:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-187",
-            "Niagara IceDogs": "+149"
+            "Kingston Frontenacs": "-189",
+            "Niagara IceDogs": "+151"
         },
         "game_time": "4:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Erie Otters": "+165",
-            "London Knights": "-208"
+            "Erie Otters": "+168",
+            "London Knights": "-213"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Guelph Storm",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-298",
-            "Guelph Storm": "+229"
+            "Saginaw Spirit": "-291",
+            "Guelph Storm": "+224"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-483",
-            "Peterborough Petes": "+346"
+            "Barrie Colts": "-479",
+            "Peterborough Petes": "+344"
         },
         "game_time": "7:30 pm"
     }
