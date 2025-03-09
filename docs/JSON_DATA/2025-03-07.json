@@ -14,8 +14,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-202",
-            "Owen Sound Attack": "+160"
+            "Erie Otters": "-211",
+            "Owen Sound Attack": "+167"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Flint Firebirds": "+141",
-            "Brantford Bulldogs": "-176"
+            "Flint Firebirds": "+145",
+            "Brantford Bulldogs": "-182"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Sudbury Wolves": "+120",
-            "Oshawa Generals": "-149"
+            "Sudbury Wolves": "+122",
+            "Oshawa Generals": "-151"
         },
         "game_time": "7:05 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-122",
+            "Guelph Storm": "-123",
             "Sarnia Sting": "-101"
         },
         "game_time": "7:07 pm"
@@ -74,8 +74,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Soo Greyhounds": "+135",
-            "Barrie Colts": "-168"
+            "Soo Greyhounds": "+130",
+            "Barrie Colts": "-162"
         },
         "game_time": "7:07 pm"
     }
