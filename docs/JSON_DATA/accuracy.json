@@ -1682,41 +1682,41 @@
         },
         {
             "date": "2025-03-11",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 75.0,
+            "correct_predictions": 3,
+            "total_games": 4,
             "game_details": [
                 {
                     "home_team": "Brampton Steelheads",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Brampton Steelheads",
+                    "home_score": 3,
+                    "away_score": 2
                 },
                 {
                     "home_team": "London Knights",
                     "away_team": "Guelph Storm",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Guelph Storm",
+                    "home_score": 1,
+                    "away_score": 1
                 },
                 {
                     "home_team": "Niagara IceDogs",
                     "away_team": "Barrie Colts",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 1,
+                    "away_score": 1
                 },
                 {
                     "home_team": "Windsor Spitfires",
                     "away_team": "Erie Otters",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Windsor Spitfires",
+                    "home_score": 5,
+                    "away_score": 1
                 }
             ]
         },
@@ -1769,13 +1769,13 @@
             ]
         }
     ],
-    "total_accuracy": 66.7,
-    "tossup_accuracy": 48.0,
-    "non_tossup_accuracy": 69.9,
-    "total_correct": 114,
-    "total_games": 171,
-    "tossup_correct": 12,
+    "total_accuracy": 66.9,
+    "tossup_accuracy": 44.0,
+    "non_tossup_accuracy": 70.7,
+    "total_correct": 117,
+    "total_games": 175,
+    "tossup_correct": 11,
     "tossup_games": 25,
-    "non_tossup_correct": 102,
-    "non_tossup_games": 146
+    "non_tossup_correct": 106,
+    "non_tossup_games": 150
 }

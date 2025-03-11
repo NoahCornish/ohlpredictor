@@ -4,8 +4,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-363",
-            "North Bay Battalion": "+272"
+            "Brampton Steelheads": "-368",
+            "North Bay Battalion": "+275"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Erie Otters",
         "odds": {
             "Erie Otters": "-202",
-            "Owen Sound Attack": "+161"
+            "Owen Sound Attack": "+160"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Kitchener Rangers": "+114",
-            "Windsor Spitfires": "-141"
+            "Kitchener Rangers": "+117",
+            "Windsor Spitfires": "-145"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-128",
-            "Kingston Frontenacs": "+104"
+            "London Knights": "-129",
+            "Kingston Frontenacs": "+105"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Sudbury Wolves": "+114",
-            "Oshawa Generals": "-142"
+            "Sudbury Wolves": "+113",
+            "Oshawa Generals": "-140"
         },
         "game_time": "7:05 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Guelph Storm",
         "odds": {
             "Guelph Storm": "-133",
-            "Sarnia Sting": "+107"
+            "Sarnia Sting": "+108"
         },
         "game_time": "7:07 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Soo Greyhounds": "+129",
-            "Barrie Colts": "-161"
+            "Soo Greyhounds": "+130",
+            "Barrie Colts": "-162"
         },
         "game_time": "7:07 pm"
     }

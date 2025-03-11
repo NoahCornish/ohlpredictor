@@ -8,8 +8,8 @@
         "home_score": 5,
         "away_score": 9,
         "odds": {
-            "Saginaw Spirit": "-107",
-            "Kingston Frontenacs": "-115"
+            "Saginaw Spirit": "-109",
+            "Kingston Frontenacs": "-114"
         }
     },
     {
@@ -34,8 +34,21 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "-122",
+            "Guelph Storm": "-123",
             "Ottawa 67's": "-101"
+        }
+    },
+    {
+        "date": "2025-02-02",
+        "home_team": "Windsor Spitfires",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Windsor Spitfires": "-102",
+            "London Knights": "-121"
         }
     },
     {
@@ -47,8 +60,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Windsor Spitfires": "-118",
-            "Saginaw Spirit": "-105"
+            "Windsor Spitfires": "-121",
+            "Saginaw Spirit": "-102"
         }
     },
     {
@@ -86,21 +99,8 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-108",
-            "Sudbury Wolves": "-115"
-        }
-    },
-    {
-        "date": "2025-02-08",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Windsor Spitfires": "-122",
-            "Brantford Bulldogs": "-101"
+            "Erie Otters": "-106",
+            "Sudbury Wolves": "-116"
         }
     },
     {
@@ -125,7 +125,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Erie Otters": "-115",
+            "Erie Otters": "-114",
             "Niagara IceDogs": "-108"
         }
     },
@@ -138,8 +138,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "-101",
-            "Sudbury Wolves": "-122"
+            "Flint Firebirds": "-100",
+            "Sudbury Wolves": "-124"
         }
     },
     {
@@ -151,8 +151,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Saginaw Spirit": "-105",
-            "Windsor Spitfires": "-118"
+            "Saginaw Spirit": "-102",
+            "Windsor Spitfires": "-121"
         }
     },
     {
@@ -164,8 +164,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-103",
-            "Brampton Steelheads": "-120"
+            "Oshawa Generals": "-102",
+            "Brampton Steelheads": "-121"
         }
     },
     {
@@ -177,8 +177,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brampton Steelheads": "-120",
-            "Oshawa Generals": "-103"
+            "Brampton Steelheads": "-121",
+            "Oshawa Generals": "-102"
         }
     },
     {
@@ -190,8 +190,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-119",
-            "Brantford Bulldogs": "-104"
+            "Kingston Frontenacs": "-118",
+            "Brantford Bulldogs": "-105"
         }
     },
     {
@@ -203,8 +203,8 @@
         "home_score": 7,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-118",
-            "Saginaw Spirit": "-105"
+            "Windsor Spitfires": "-121",
+            "Saginaw Spirit": "-102"
         }
     },
     {
@@ -217,7 +217,7 @@
         "away_score": 2,
         "odds": {
             "Erie Otters": "-118",
-            "Flint Firebirds": "-104"
+            "Flint Firebirds": "-105"
         }
     },
     {
@@ -230,7 +230,7 @@
         "away_score": 5,
         "odds": {
             "Niagara IceDogs": "-108",
-            "Erie Otters": "-115"
+            "Erie Otters": "-114"
         }
     },
     {
@@ -242,8 +242,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-108",
-            "Windsor Spitfires": "-114"
+            "Kingston Frontenacs": "-104",
+            "Windsor Spitfires": "-118"
         }
     },
     {
@@ -256,7 +256,7 @@
         "away_score": 6,
         "odds": {
             "Erie Otters": "-118",
-            "Flint Firebirds": "-104"
+            "Flint Firebirds": "-105"
         }
     },
     {
@@ -268,8 +268,8 @@
         "home_score": 0,
         "away_score": 4,
         "odds": {
-            "Brampton Steelheads": "-120",
-            "Oshawa Generals": "-103"
+            "Brampton Steelheads": "-121",
+            "Oshawa Generals": "-102"
         }
     },
     {
@@ -294,8 +294,8 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-114",
-            "Kingston Frontenacs": "-108"
+            "Windsor Spitfires": "-118",
+            "Kingston Frontenacs": "-104"
         }
     },
     {
@@ -321,7 +321,7 @@
         "away_score": 2,
         "odds": {
             "Sudbury Wolves": "-103",
-            "Barrie Colts": "-120"
+            "Barrie Colts": "-119"
         }
     }
 ]
