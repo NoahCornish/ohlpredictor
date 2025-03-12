@@ -34,8 +34,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "-123",
-            "Ottawa 67's": "-101"
+            "Guelph Storm": "-122",
+            "Ottawa 67's": "-102"
         }
     },
     {
@@ -47,8 +47,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-102",
-            "London Knights": "-121"
+            "Windsor Spitfires": "-100",
+            "London Knights": "-123"
         }
     },
     {
@@ -60,8 +60,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Windsor Spitfires": "-121",
-            "Saginaw Spirit": "-102"
+            "Windsor Spitfires": "-122",
+            "Saginaw Spirit": "-101"
         }
     },
     {
@@ -86,8 +86,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Niagara IceDogs": "-104",
-            "Sudbury Wolves": "-119"
+            "Niagara IceDogs": "-100",
+            "Sudbury Wolves": "-123"
         }
     },
     {
@@ -99,8 +99,8 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-106",
-            "Sudbury Wolves": "-116"
+            "Erie Otters": "-105",
+            "Sudbury Wolves": "-118"
         }
     },
     {
@@ -125,21 +125,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Erie Otters": "-114",
-            "Niagara IceDogs": "-108"
-        }
-    },
-    {
-        "date": "2025-02-14",
-        "home_team": "Flint Firebirds",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Sudbury Wolves",
-        "actual_winner": "Sudbury Wolves",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Flint Firebirds": "-100",
-            "Sudbury Wolves": "-124"
+            "Erie Otters": "-116",
+            "Niagara IceDogs": "-106"
         }
     },
     {
@@ -151,8 +138,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Saginaw Spirit": "-102",
-            "Windsor Spitfires": "-121"
+            "Saginaw Spirit": "-101",
+            "Windsor Spitfires": "-122"
         }
     },
     {
@@ -203,8 +190,8 @@
         "home_score": 7,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-121",
-            "Saginaw Spirit": "-102"
+            "Windsor Spitfires": "-122",
+            "Saginaw Spirit": "-101"
         }
     },
     {
@@ -216,8 +203,8 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-118",
-            "Flint Firebirds": "-105"
+            "Erie Otters": "-121",
+            "Flint Firebirds": "-102"
         }
     },
     {
@@ -229,8 +216,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Niagara IceDogs": "-108",
-            "Erie Otters": "-114"
+            "Niagara IceDogs": "-106",
+            "Erie Otters": "-116"
         }
     },
     {
@@ -243,7 +230,7 @@
         "away_score": 2,
         "odds": {
             "Kingston Frontenacs": "-104",
-            "Windsor Spitfires": "-118"
+            "Windsor Spitfires": "-119"
         }
     },
     {
@@ -255,8 +242,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Erie Otters": "-118",
-            "Flint Firebirds": "-105"
+            "Erie Otters": "-121",
+            "Flint Firebirds": "-102"
         }
     },
     {
@@ -281,8 +268,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Sudbury Wolves": "-119",
-            "Niagara IceDogs": "-104"
+            "Sudbury Wolves": "-123",
+            "Niagara IceDogs": "-100"
         }
     },
     {
@@ -294,7 +281,7 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-118",
+            "Windsor Spitfires": "-119",
             "Kingston Frontenacs": "-104"
         }
     },
@@ -321,7 +308,7 @@
         "away_score": 2,
         "odds": {
             "Sudbury Wolves": "-103",
-            "Barrie Colts": "-119"
+            "Barrie Colts": "-120"
         }
     }
 ]

@@ -15,7 +15,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Kingston Frontenacs": "-104",
-            "Windsor Spitfires": "-118"
+            "Windsor Spitfires": "-119"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-401",
-            "Owen Sound Attack": "+296"
+            "London Knights": "-411",
+            "Owen Sound Attack": "+303"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Sudbury Wolves": "+136",
-            "Saginaw Spirit": "-169"
+            "Sudbury Wolves": "+130",
+            "Saginaw Spirit": "-162"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Guelph Storm": "+133",
-            "Flint Firebirds": "-165"
+            "Guelph Storm": "+134",
+            "Flint Firebirds": "-167"
         },
         "game_time": "7:07 pm"
     },

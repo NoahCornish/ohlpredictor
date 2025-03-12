@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "North Bay Battalion": "+292",
+            "Brantford Bulldogs": "-394"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Soo Greyhounds",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-255",
+            "Soo Greyhounds": "+199"
+        },
+        "game_time": "7:05 pm"
+    }
+]
