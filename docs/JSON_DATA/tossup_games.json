@@ -8,21 +8,34 @@
         "home_score": 5,
         "away_score": 9,
         "odds": {
-            "Saginaw Spirit": "-109",
+            "Saginaw Spirit": "-108",
             "Kingston Frontenacs": "-114"
+        }
+    },
+    {
+        "date": "2025-01-31",
+        "home_team": "Oshawa Generals",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Oshawa Generals": "-124",
+            "Barrie Colts": "-100"
         }
     },
     {
         "date": "2025-02-01",
         "home_team": "Owen Sound Attack",
         "away_team": "Ottawa 67's",
-        "predicted_winner": "Ottawa 67's",
+        "predicted_winner": "Owen Sound Attack",
         "actual_winner": "Owen Sound Attack",
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-107",
-            "Ottawa 67's": "-115"
+            "Owen Sound Attack": "-112",
+            "Ottawa 67's": "-110"
         }
     },
     {
@@ -35,20 +48,7 @@
         "away_score": 4,
         "odds": {
             "Guelph Storm": "-122",
-            "Ottawa 67's": "-102"
-        }
-    },
-    {
-        "date": "2025-02-02",
-        "home_team": "Windsor Spitfires",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Windsor Spitfires": "-100",
-            "London Knights": "-123"
+            "Ottawa 67's": "-101"
         }
     },
     {
@@ -100,7 +100,7 @@
         "away_score": 4,
         "odds": {
             "Erie Otters": "-105",
-            "Sudbury Wolves": "-118"
+            "Sudbury Wolves": "-117"
         }
     },
     {
@@ -113,7 +113,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "-112",
-            "Oshawa Generals": "-111"
+            "Oshawa Generals": "-110"
         }
     },
     {
@@ -125,7 +125,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Erie Otters": "-116",
+            "Erie Otters": "-117",
             "Niagara IceDogs": "-106"
         }
     },
@@ -151,8 +151,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-102",
-            "Brampton Steelheads": "-121"
+            "Oshawa Generals": "-101",
+            "Brampton Steelheads": "-123"
         }
     },
     {
@@ -164,8 +164,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brampton Steelheads": "-121",
-            "Oshawa Generals": "-102"
+            "Brampton Steelheads": "-123",
+            "Oshawa Generals": "-101"
         }
     },
     {
@@ -177,8 +177,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-118",
-            "Brantford Bulldogs": "-105"
+            "Kingston Frontenacs": "-119",
+            "Brantford Bulldogs": "-104"
         }
     },
     {
@@ -203,8 +203,8 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-121",
-            "Flint Firebirds": "-102"
+            "Erie Otters": "-123",
+            "Flint Firebirds": "-100"
         }
     },
     {
@@ -217,7 +217,7 @@
         "away_score": 5,
         "odds": {
             "Niagara IceDogs": "-106",
-            "Erie Otters": "-116"
+            "Erie Otters": "-117"
         }
     },
     {
@@ -230,7 +230,7 @@
         "away_score": 2,
         "odds": {
             "Kingston Frontenacs": "-104",
-            "Windsor Spitfires": "-119"
+            "Windsor Spitfires": "-118"
         }
     },
     {
@@ -242,8 +242,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Erie Otters": "-121",
-            "Flint Firebirds": "-102"
+            "Erie Otters": "-123",
+            "Flint Firebirds": "-100"
         }
     },
     {
@@ -255,8 +255,8 @@
         "home_score": 0,
         "away_score": 4,
         "odds": {
-            "Brampton Steelheads": "-121",
-            "Oshawa Generals": "-102"
+            "Brampton Steelheads": "-123",
+            "Oshawa Generals": "-101"
         }
     },
     {
@@ -281,7 +281,7 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-119",
+            "Windsor Spitfires": "-118",
             "Kingston Frontenacs": "-104"
         }
     },
