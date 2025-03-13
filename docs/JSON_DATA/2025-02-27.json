@@ -14,8 +14,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Niagara IceDogs": "-106",
-            "Erie Otters": "-117"
+            "Niagara IceDogs": "-104",
+            "Erie Otters": "-119"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "North Bay Battalion": "+277",
-            "Brampton Steelheads": "-371"
+            "North Bay Battalion": "+285",
+            "Brampton Steelheads": "-382"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Peterborough Petes": "+553",
-            "Windsor Spitfires": "-895"
+            "Peterborough Petes": "+511",
+            "Windsor Spitfires": "-801"
         },
         "game_time": "7:05 pm"
     }
