@@ -24,8 +24,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-336",
-            "North Bay Battalion": "+255"
+            "Kitchener Rangers": "-338",
+            "North Bay Battalion": "+256"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Sarnia Sting": "+124",
-            "Soo Greyhounds": "-155"
+            "Sarnia Sting": "+127",
+            "Soo Greyhounds": "-158"
         },
         "game_time": "7:05 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Sudbury Wolves": "+126",
+            "Sudbury Wolves": "+125",
             "Brantford Bulldogs": "-156"
         },
         "game_time": "7:05 pm"
