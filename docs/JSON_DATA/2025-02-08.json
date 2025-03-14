@@ -34,7 +34,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-146",
+            "Owen Sound Attack": "-147",
             "North Bay Battalion": "+118"
         },
         "game_time": "7:00 pm"
@@ -54,8 +54,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-128",
-            "Brantford Bulldogs": "+103"
+            "Windsor Spitfires": "-129",
+            "Brantford Bulldogs": "+105"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-167",
-            "Soo Greyhounds": "+134"
+            "Barrie Colts": "-168",
+            "Soo Greyhounds": "+135"
         },
         "game_time": "7:30 pm"
     }

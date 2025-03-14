@@ -39,16 +39,16 @@
         }
     },
     {
-        "date": "2025-02-05",
+        "date": "2025-02-02",
         "home_team": "Windsor Spitfires",
-        "away_team": "Saginaw Spirit",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Saginaw Spirit",
-        "home_score": 3,
-        "away_score": 6,
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 4,
+        "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-123",
-            "Saginaw Spirit": "-100"
+            "Windsor Spitfires": "-101",
+            "London Knights": "-123"
         }
     },
     {
@@ -60,8 +60,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-107",
-            "Saginaw Spirit": "-115"
+            "Brantford Bulldogs": "-108",
+            "Saginaw Spirit": "-114"
         }
     },
     {
@@ -117,19 +117,6 @@
         }
     },
     {
-        "date": "2025-02-14",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Saginaw Spirit",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Saginaw Spirit": "-100",
-            "Windsor Spitfires": "-123"
-        }
-    },
-    {
         "date": "2025-02-21",
         "home_team": "Kingston Frontenacs",
         "away_team": "Brantford Bulldogs",
@@ -138,21 +125,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-122",
-            "Brantford Bulldogs": "-101"
-        }
-    },
-    {
-        "date": "2025-02-23",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Saginaw Spirit",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 7,
-        "away_score": 3,
-        "odds": {
-            "Windsor Spitfires": "-123",
-            "Saginaw Spirit": "-100"
+            "Kingston Frontenacs": "-121",
+            "Brantford Bulldogs": "-102"
         }
     },
     {
@@ -177,8 +151,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-106",
-            "Windsor Spitfires": "-116"
+            "Kingston Frontenacs": "-104",
+            "Windsor Spitfires": "-118"
         }
     },
     {
@@ -203,8 +177,8 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-116",
-            "Kingston Frontenacs": "-106"
+            "Windsor Spitfires": "-118",
+            "Kingston Frontenacs": "-104"
         }
     },
     {
@@ -216,8 +190,8 @@
         "home_score": 3,
         "away_score": 11,
         "odds": {
-            "Saginaw Spirit": "-115",
-            "Brantford Bulldogs": "-107"
+            "Saginaw Spirit": "-114",
+            "Brantford Bulldogs": "-108"
         }
     },
     {
