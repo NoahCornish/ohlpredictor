@@ -5,7 +5,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Erie Otters": "+112",
-            "Oshawa Generals": "-138"
+            "Oshawa Generals": "-139"
         },
         "game_time": "7:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-236",
+            "Flint Firebirds": "-237",
             "North Bay Battalion": "+186"
         },
         "game_time": "7:00 pm"
@@ -45,7 +45,7 @@
         "winner": "London Knights",
         "odds": {
             "London Knights": "-148",
-            "Brampton Steelheads": "+119"
+            "Brampton Steelheads": "+120"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Ottawa 67's": "+156",
-            "Niagara IceDogs": "-195"
+            "Ottawa 67's": "+154",
+            "Niagara IceDogs": "-193"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Sarnia Sting": "+281",
-            "Windsor Spitfires": "-377"
+            "Sarnia Sting": "+272",
+            "Windsor Spitfires": "-363"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-206",
-            "Owen Sound Attack": "+163"
+            "Sudbury Wolves": "-196",
+            "Owen Sound Attack": "+156"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Guelph Storm",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-137",
-            "Guelph Storm": "+111"
+            "Soo Greyhounds": "-138",
+            "Guelph Storm": "+112"
         },
         "game_time": "7:07 pm"
     }
