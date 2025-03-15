@@ -24,8 +24,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-379",
-            "North Bay Battalion": "+283"
+            "Kitchener Rangers": "-373",
+            "North Bay Battalion": "+279"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Ottawa 67's": "+198",
-            "Oshawa Generals": "-253"
+            "Ottawa 67's": "+199",
+            "Oshawa Generals": "-255"
         },
         "game_time": "7:00 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Sudbury Wolves": "+133",
-            "Brantford Bulldogs": "-165"
+            "Brantford Bulldogs": "-166"
         },
         "game_time": "7:05 pm"
     },
