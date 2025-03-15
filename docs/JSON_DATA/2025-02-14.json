@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-177",
-            "Niagara IceDogs": "+141"
+            "Brantford Bulldogs": "-181",
+            "Niagara IceDogs": "+145"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Flint Firebirds": "+104",
-            "Sudbury Wolves": "-128"
+            "Flint Firebirds": "+102",
+            "Sudbury Wolves": "-127"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-143",
+            "Kingston Frontenacs": "-142",
             "Kitchener Rangers": "+115"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-291",
-            "Soo Greyhounds": "+224"
+            "London Knights": "-277",
+            "Soo Greyhounds": "+215"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Owen Sound Attack": "+151",
-            "Erie Otters": "-189"
+            "Owen Sound Attack": "+147",
+            "Erie Otters": "-184"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Saginaw Spirit": "-100",
-            "Windsor Spitfires": "-123"
+            "Saginaw Spirit": "+100",
+            "Windsor Spitfires": "-124"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "Peterborough Petes": "+175",
-            "Ottawa 67's": "-221"
+            "Peterborough Petes": "+180",
+            "Ottawa 67's": "-229"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Guelph Storm": "+187",
-            "Oshawa Generals": "-238"
+            "Guelph Storm": "+186",
+            "Oshawa Generals": "-237"
         },
         "game_time": "7:07 pm"
     }

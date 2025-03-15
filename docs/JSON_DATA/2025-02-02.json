@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "North Bay Battalion": "+193",
-            "Niagara IceDogs": "-247"
+            "North Bay Battalion": "+204",
+            "Niagara IceDogs": "-262"
         },
         "game_time": "1:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Owen Sound Attack": "+211",
-            "Brampton Steelheads": "-272"
+            "Owen Sound Attack": "+210",
+            "Brampton Steelheads": "-271"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Sudbury Wolves": "+128",
-            "Brantford Bulldogs": "-159"
+            "Sudbury Wolves": "+133",
+            "Brantford Bulldogs": "-165"
         },
         "game_time": "2:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-122",
-            "Ottawa 67's": "-101"
+            "Guelph Storm": "-118",
+            "Ottawa 67's": "-104"
         },
         "game_time": "2:07 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Sarnia Sting": "+262",
-            "Kingston Frontenacs": "-347"
+            "Sarnia Sting": "+268",
+            "Kingston Frontenacs": "-357"
         },
         "game_time": "4:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-231",
-            "Soo Greyhounds": "+182"
+            "Saginaw Spirit": "-217",
+            "Soo Greyhounds": "+172"
         },
         "game_time": "5:30 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Windsor Spitfires": "+101",
-            "London Knights": "-124"
+            "Windsor Spitfires": "+102",
+            "London Knights": "-126"
         },
         "game_time": "7:00 pm"
     }
