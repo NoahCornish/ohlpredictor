@@ -4,8 +4,8 @@
         "away_team": "Guelph Storm",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-245",
-            "Guelph Storm": "+192"
+            "Kitchener Rangers": "-246",
+            "Guelph Storm": "+193"
         },
         "game_time": "2:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Niagara IceDogs": "+160",
-            "Kingston Frontenacs": "-201"
+            "Kingston Frontenacs": "-202"
         },
         "game_time": "2:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Sarnia Sting": "+303",
-            "London Knights": "-411"
+            "Sarnia Sting": "+297",
+            "London Knights": "-402"
         },
         "game_time": "2:05 pm"
     },

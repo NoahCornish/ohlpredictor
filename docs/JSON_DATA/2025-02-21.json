@@ -15,7 +15,7 @@
         "winner": "Flint Firebirds",
         "odds": {
             "Flint Firebirds": "-251",
-            "North Bay Battalion": "+197"
+            "North Bay Battalion": "+196"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Barrie Colts",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-129",
-            "Barrie Colts": "+105"
+            "Kitchener Rangers": "-131",
+            "Barrie Colts": "+106"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Sarnia Sting": "+269",
-            "Windsor Spitfires": "-358"
+            "Sarnia Sting": "+263",
+            "Windsor Spitfires": "-348"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Guelph Storm",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-146",
-            "Guelph Storm": "+118"
+            "Soo Greyhounds": "-148",
+            "Guelph Storm": "+119"
         },
         "game_time": "7:07 pm"
     }

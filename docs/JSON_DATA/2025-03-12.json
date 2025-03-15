@@ -24,7 +24,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Owen Sound Attack": "+133",
+            "Owen Sound Attack": "+132",
             "Flint Firebirds": "-165"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Peterborough Petes": "+448",
-            "Brampton Steelheads": "-669"
+            "Peterborough Petes": "+438",
+            "Brampton Steelheads": "-650"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Sarnia Sting": "+163",
-            "Erie Otters": "-205"
+            "Sarnia Sting": "+160",
+            "Erie Otters": "-201"
         },
         "game_time": "7:05 pm"
     }
