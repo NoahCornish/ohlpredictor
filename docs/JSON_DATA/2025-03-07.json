@@ -14,8 +14,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-184",
-            "Owen Sound Attack": "+147"
+            "Erie Otters": "-182",
+            "Owen Sound Attack": "+146"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Kitchener Rangers": "+116",
-            "Windsor Spitfires": "-143"
+            "Kitchener Rangers": "+117",
+            "Windsor Spitfires": "-144"
         },
         "game_time": "7:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Sudbury Wolves": "+111",
-            "Oshawa Generals": "-138"
+            "Oshawa Generals": "-137"
         },
         "game_time": "7:05 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-119",
+            "Guelph Storm": "-118",
             "Sarnia Sting": "-104"
         },
         "game_time": "7:07 pm"
@@ -74,8 +74,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Soo Greyhounds": "+125",
-            "Barrie Colts": "-155"
+            "Soo Greyhounds": "+124",
+            "Barrie Colts": "-154"
         },
         "game_time": "7:07 pm"
     }

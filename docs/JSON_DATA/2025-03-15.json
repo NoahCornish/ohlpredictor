@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-119",
-            "Niagara IceDogs": "-104"
+            "Erie Otters": "-114",
+            "Niagara IceDogs": "-108"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-125",
-            "Soo Greyhounds": "+101"
+            "Flint Firebirds": "-121",
+            "Soo Greyhounds": "-102"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Owen Sound Attack": "+190",
-            "Kitchener Rangers": "-242"
+            "Owen Sound Attack": "+192",
+            "Kitchener Rangers": "-245"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Peterborough Petes": "+313",
-            "Sudbury Wolves": "-428"
+            "Peterborough Petes": "+323",
+            "Sudbury Wolves": "-444"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Saginaw Spirit": "-101",
-            "Windsor Spitfires": "-122"
+            "Saginaw Spirit": "-100",
+            "Windsor Spitfires": "-123"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-223",
-            "Sarnia Sting": "+176"
+            "Barrie Colts": "-230",
+            "Sarnia Sting": "+181"
         },
         "game_time": "7:30 pm"
     }

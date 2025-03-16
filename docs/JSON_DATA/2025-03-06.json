@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "North Bay Battalion": "+204",
-            "Niagara IceDogs": "-262"
+            "North Bay Battalion": "+210",
+            "Niagara IceDogs": "-270"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "Peterborough Petes": "+176",
-            "Ottawa 67's": "-223"
+            "Peterborough Petes": "+181",
+            "Ottawa 67's": "-230"
         },
         "game_time": "7:05 pm"
     },
@@ -24,18 +24,18 @@
         "away_team": "Barrie Colts",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-153",
-            "Barrie Colts": "+123"
+            "Saginaw Spirit": "-150",
+            "Barrie Colts": "+121"
         },
         "game_time": "7:05 pm"
     },
     {
         "home_team": "Windsor Spitfires",
         "away_team": "Kingston Frontenacs",
-        "winner": "Kingston Frontenacs",
+        "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-111",
-            "Kingston Frontenacs": "-112"
+            "Windsor Spitfires": "-113",
+            "Kingston Frontenacs": "-109"
         },
         "game_time": "7:05 pm"
     }

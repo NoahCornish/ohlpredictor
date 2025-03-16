@@ -12,10 +12,10 @@
     {
         "home_team": "Kingston Frontenacs",
         "away_team": "Windsor Spitfires",
-        "winner": "Kingston Frontenacs",
+        "winner": "Windsor Spitfires",
         "odds": {
-            "Kingston Frontenacs": "-112",
-            "Windsor Spitfires": "-111"
+            "Kingston Frontenacs": "-109",
+            "Windsor Spitfires": "-113"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-265",
-            "Sarnia Sting": "+206"
+            "Kitchener Rangers": "-267",
+            "Sarnia Sting": "+207"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-366",
-            "Owen Sound Attack": "+274"
+            "London Knights": "-367",
+            "Owen Sound Attack": "+275"
         },
         "game_time": "7:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Soo Greyhounds": "+162",
-            "Brampton Steelheads": "-204"
+            "Soo Greyhounds": "+156",
+            "Brampton Steelheads": "-196"
         },
         "game_time": "7:07 pm"
     }

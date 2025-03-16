@@ -4,8 +4,8 @@
         "away_team": "Barrie Colts",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-145",
-            "Barrie Colts": "+117"
+            "Brampton Steelheads": "-141",
+            "Barrie Colts": "+114"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-787",
-            "Peterborough Petes": "+505"
+            "Kingston Frontenacs": "-816",
+            "Peterborough Petes": "+518"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-375",
-            "North Bay Battalion": "+280"
+            "Kitchener Rangers": "-380",
+            "North Bay Battalion": "+283"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-139",
-            "Saginaw Spirit": "+112"
+            "London Knights": "-137",
+            "Saginaw Spirit": "+111"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Sarnia Sting": "+128",
-            "Soo Greyhounds": "-159"
+            "Sarnia Sting": "+132",
+            "Soo Greyhounds": "-164"
         },
         "game_time": "7:05 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Sudbury Wolves": "+133",
-            "Brantford Bulldogs": "-166"
+            "Brantford Bulldogs": "-165"
         },
         "game_time": "7:05 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Guelph Storm": "-109",
+            "Guelph Storm": "-110",
             "Owen Sound Attack": "-113"
         },
         "game_time": "7:07 pm"

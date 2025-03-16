@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-650",
-            "Peterborough Petes": "+438"
+            "Brampton Steelheads": "-672",
+            "Peterborough Petes": "+449"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Flint Firebirds": "+130",
-            "Kitchener Rangers": "-161"
+            "Flint Firebirds": "+131",
+            "Kitchener Rangers": "-163"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Erie Otters",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-213",
-            "Erie Otters": "+169"
+            "London Knights": "-217",
+            "Erie Otters": "+171"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Barrie Colts",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-127",
-            "Barrie Colts": "+103"
+            "Oshawa Generals": "-123",
+            "Barrie Colts": "-101"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-287",
-            "North Bay Battalion": "+222"
+            "Sudbury Wolves": "-289",
+            "North Bay Battalion": "+223"
         },
         "game_time": "7:05 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-119",
+            "Guelph Storm": "-118",
             "Sarnia Sting": "-104"
         },
         "game_time": "7:07 pm"
@@ -64,8 +64,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Soo Greyhounds": "+170",
-            "Brantford Bulldogs": "-215"
+            "Soo Greyhounds": "+164",
+            "Brantford Bulldogs": "-206"
         },
         "game_time": "7:07 pm"
     }

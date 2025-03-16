@@ -8,8 +8,21 @@
         "home_score": 5,
         "away_score": 9,
         "odds": {
-            "Saginaw Spirit": "-101",
-            "Kingston Frontenacs": "-123"
+            "Saginaw Spirit": "-102",
+            "Kingston Frontenacs": "-121"
+        }
+    },
+    {
+        "date": "2025-01-31",
+        "home_team": "Oshawa Generals",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Oshawa Generals": "-123",
+            "Barrie Colts": "-101"
         }
     },
     {
@@ -21,7 +34,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "-119",
+            "Guelph Storm": "-118",
             "Sarnia Sting": "-104"
         }
     },
@@ -60,8 +73,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Windsor Spitfires": "-122",
-            "Saginaw Spirit": "-101"
+            "Windsor Spitfires": "-123",
+            "Saginaw Spirit": "-100"
         }
     },
     {
@@ -73,8 +86,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-111",
-            "Saginaw Spirit": "-111"
+            "Brantford Bulldogs": "-110",
+            "Saginaw Spirit": "-113"
         }
     },
     {
@@ -86,8 +99,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Niagara IceDogs": "-102",
-            "Sudbury Wolves": "-121"
+            "Niagara IceDogs": "-104",
+            "Sudbury Wolves": "-118"
         }
     },
     {
@@ -99,21 +112,8 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-109",
-            "Sudbury Wolves": "-113"
-        }
-    },
-    {
-        "date": "2025-02-08",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Windsor Spitfires": "-122",
-            "Brantford Bulldogs": "-101"
+            "Erie Otters": "-107",
+            "Sudbury Wolves": "-115"
         }
     },
     {
@@ -125,8 +125,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "-114",
-            "Oshawa Generals": "-108"
+            "Kitchener Rangers": "-116",
+            "Oshawa Generals": "-107"
         }
     },
     {
@@ -138,8 +138,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Erie Otters": "-119",
-            "Niagara IceDogs": "-104"
+            "Erie Otters": "-114",
+            "Niagara IceDogs": "-108"
         }
     },
     {
@@ -152,7 +152,7 @@
         "away_score": 4,
         "odds": {
             "Sarnia Sting": "-104",
-            "Guelph Storm": "-119"
+            "Guelph Storm": "-118"
         }
     },
     {
@@ -164,8 +164,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Saginaw Spirit": "-101",
-            "Windsor Spitfires": "-122"
+            "Saginaw Spirit": "-100",
+            "Windsor Spitfires": "-123"
         }
     },
     {
@@ -190,8 +190,21 @@
         "home_score": 7,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-122",
-            "Saginaw Spirit": "-101"
+            "Windsor Spitfires": "-123",
+            "Saginaw Spirit": "-100"
+        }
+    },
+    {
+        "date": "2025-02-24",
+        "home_team": "Erie Otters",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 1,
+        "away_score": 2,
+        "odds": {
+            "Erie Otters": "-122",
+            "Flint Firebirds": "-101"
         }
     },
     {
@@ -203,21 +216,34 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Niagara IceDogs": "-104",
-            "Erie Otters": "-119"
+            "Niagara IceDogs": "-108",
+            "Erie Otters": "-114"
         }
     },
     {
         "date": "2025-02-28",
         "home_team": "Kingston Frontenacs",
         "away_team": "Windsor Spitfires",
-        "predicted_winner": "Kingston Frontenacs",
+        "predicted_winner": "Windsor Spitfires",
         "actual_winner": "Kingston Frontenacs",
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-112",
-            "Windsor Spitfires": "-111"
+            "Kingston Frontenacs": "-109",
+            "Windsor Spitfires": "-113"
+        }
+    },
+    {
+        "date": "2025-03-01",
+        "home_team": "Erie Otters",
+        "away_team": "Flint Firebirds",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Flint Firebirds",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Erie Otters": "-122",
+            "Flint Firebirds": "-101"
         }
     },
     {
@@ -230,7 +256,7 @@
         "away_score": 1,
         "odds": {
             "Sarnia Sting": "-104",
-            "Guelph Storm": "-119"
+            "Guelph Storm": "-118"
         }
     },
     {
@@ -242,21 +268,21 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Sudbury Wolves": "-121",
-            "Niagara IceDogs": "-102"
+            "Sudbury Wolves": "-118",
+            "Niagara IceDogs": "-104"
         }
     },
     {
         "date": "2025-03-06",
         "home_team": "Windsor Spitfires",
         "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
+        "predicted_winner": "Windsor Spitfires",
         "actual_winner": "Windsor Spitfires",
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-111",
-            "Kingston Frontenacs": "-112"
+            "Windsor Spitfires": "-113",
+            "Kingston Frontenacs": "-109"
         }
     },
     {
@@ -268,7 +294,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Guelph Storm": "-119",
+            "Guelph Storm": "-118",
             "Sarnia Sting": "-104"
         }
     },
@@ -281,21 +307,8 @@
         "home_score": 3,
         "away_score": 11,
         "odds": {
-            "Saginaw Spirit": "-111",
-            "Brantford Bulldogs": "-111"
-        }
-    },
-    {
-        "date": "2025-03-09",
-        "home_team": "Sudbury Wolves",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Barrie Colts",
-        "actual_winner": "Sudbury Wolves",
-        "home_score": 7,
-        "away_score": 2,
-        "odds": {
-            "Sudbury Wolves": "-102",
-            "Barrie Colts": "-121"
+            "Saginaw Spirit": "-113",
+            "Brantford Bulldogs": "-110"
         }
     },
     {
@@ -307,8 +320,34 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "-109",
+            "Guelph Storm": "-110",
             "Owen Sound Attack": "-113"
+        }
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "Erie Otters",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Erie Otters",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 2,
+        "away_score": 5,
+        "odds": {
+            "Erie Otters": "-114",
+            "Niagara IceDogs": "-108"
+        }
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "Flint Firebirds",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Flint Firebirds",
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Flint Firebirds": "-121",
+            "Soo Greyhounds": "-102"
         }
     },
     {
@@ -317,11 +356,11 @@
         "away_team": "Windsor Spitfires",
         "predicted_winner": "Windsor Spitfires",
         "actual_winner": "Saginaw Spirit",
-        "home_score": 2,
-        "away_score": 0,
+        "home_score": 6,
+        "away_score": 5,
         "odds": {
-            "Saginaw Spirit": "-101",
-            "Windsor Spitfires": "-122"
+            "Saginaw Spirit": "-100",
+            "Windsor Spitfires": "-123"
         }
     }
 ]

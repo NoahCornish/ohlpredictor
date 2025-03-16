@@ -4,8 +4,8 @@
         "away_team": "Guelph Storm",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-187",
-            "Guelph Storm": "+150"
+            "Erie Otters": "-185",
+            "Guelph Storm": "+148"
         },
         "game_time": "11:00 am"
     },
@@ -14,8 +14,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-163",
-            "Kitchener Rangers": "+131"
+            "London Knights": "-161",
+            "Kitchener Rangers": "+130"
         },
         "game_time": "6:30 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Barrie Colts": "+136",
-            "Kingston Frontenacs": "-169"
+            "Barrie Colts": "+132",
+            "Kingston Frontenacs": "-164"
         },
         "game_time": "7:00 pm"
     }
