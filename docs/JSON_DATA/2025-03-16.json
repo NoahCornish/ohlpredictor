@@ -4,8 +4,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Niagara IceDogs": "+134",
-            "Brampton Steelheads": "-167"
+            "Niagara IceDogs": "+140",
+            "Brampton Steelheads": "-175"
         },
         "game_time": "2:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "North Bay Battalion": "+248",
-            "Barrie Colts": "-326"
+            "North Bay Battalion": "+244",
+            "Barrie Colts": "-320"
         },
         "game_time": "2:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Guelph Storm",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-185",
-            "Guelph Storm": "+148"
+            "Erie Otters": "-189",
+            "Guelph Storm": "+151"
         },
         "game_time": "4:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Windsor Spitfires": "+100",
-            "London Knights": "-124"
+            "Windsor Spitfires": "-102",
+            "London Knights": "-121"
         },
         "game_time": "4:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-137",
-            "Sudbury Wolves": "+111"
+            "Oshawa Generals": "-141",
+            "Sudbury Wolves": "+114"
         },
         "game_time": "6:05 pm"
     }

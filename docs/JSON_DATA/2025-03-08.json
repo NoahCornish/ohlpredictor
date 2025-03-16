@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-230",
-            "Peterborough Petes": "+181"
+            "Ottawa 67's": "-234",
+            "Peterborough Petes": "+184"
         },
         "game_time": "3:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-182",
-            "Owen Sound Attack": "+146"
+            "Erie Otters": "-190",
+            "Owen Sound Attack": "+152"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Soo Greyhounds": "+137",
-            "Oshawa Generals": "-171"
+            "Soo Greyhounds": "+141",
+            "Oshawa Generals": "-175"
         },
         "game_time": "7:07 pm"
     }

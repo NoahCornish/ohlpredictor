@@ -426,8 +426,8 @@
         },
         {
             "date": "2025-02-08",
-            "accuracy": 62.5,
-            "correct_predictions": 5,
+            "accuracy": 75.0,
+            "correct_predictions": 6,
             "total_games": 8,
             "game_details": [
                 {
@@ -441,7 +441,7 @@
                 {
                     "home_team": "Erie Otters",
                     "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Sudbury Wolves",
+                    "predicted_winner": "Erie Otters",
                     "actual_winner": "Erie Otters",
                     "home_score": 7,
                     "away_score": 4
@@ -1794,8 +1794,8 @@
         },
         {
             "date": "2025-03-14",
-            "accuracy": 87.5,
-            "correct_predictions": 7,
+            "accuracy": 75.0,
+            "correct_predictions": 6,
             "total_games": 8,
             "game_details": [
                 {
@@ -1857,7 +1857,7 @@
                 {
                     "home_team": "Guelph Storm",
                     "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Owen Sound Attack",
+                    "predicted_winner": "Guelph Storm",
                     "actual_winner": "Owen Sound Attack",
                     "home_score": 2,
                     "away_score": 7
@@ -1922,68 +1922,68 @@
         },
         {
             "date": "2025-03-16",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 83.3,
+            "correct_predictions": 5,
+            "total_games": 6,
             "game_details": [
                 {
                     "home_team": "Niagara IceDogs",
                     "away_team": "Brampton Steelheads",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Brampton Steelheads",
+                    "home_score": 2,
+                    "away_score": 6
                 },
                 {
                     "home_team": "North Bay Battalion",
                     "away_team": "Barrie Colts",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 4,
+                    "away_score": 5
                 },
                 {
                     "home_team": "Ottawa 67's",
                     "away_team": "Kingston Frontenacs",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Kingston Frontenacs",
+                    "home_score": 2,
+                    "away_score": 3
                 },
                 {
                     "home_team": "Erie Otters",
                     "away_team": "Guelph Storm",
                     "predicted_winner": "Erie Otters",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Erie Otters",
+                    "home_score": 6,
+                    "away_score": 4
                 },
                 {
                     "home_team": "Windsor Spitfires",
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Windsor Spitfires",
+                    "home_score": 8,
+                    "away_score": 5
                 },
                 {
                     "home_team": "Oshawa Generals",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Oshawa Generals",
+                    "home_score": 3,
+                    "away_score": 1
                 }
             ]
         }
     ],
-    "total_accuracy": 68.4,
-    "tossup_accuracy": 42.9,
-    "non_tossup_accuracy": 72.6,
-    "total_correct": 134,
-    "total_games": 196,
-    "tossup_correct": 12,
-    "tossup_games": 28,
-    "non_tossup_correct": 122,
-    "non_tossup_games": 168
+    "total_accuracy": 68.8,
+    "tossup_accuracy": 43.5,
+    "non_tossup_accuracy": 72.1,
+    "total_correct": 139,
+    "total_games": 202,
+    "tossup_correct": 10,
+    "tossup_games": 23,
+    "non_tossup_correct": 129,
+    "non_tossup_games": 179
 }
