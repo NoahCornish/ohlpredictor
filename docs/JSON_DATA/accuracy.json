@@ -1972,7 +1972,31 @@
                     "predicted_winner": "Oshawa Generals",
                     "actual_winner": "Oshawa Generals",
                     "home_score": 3,
-                    "away_score": 1
+                    "away_score": 2
+                }
+            ]
+        },
+        {
+            "date": "2025-03-18",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Flint Firebirds",
+                    "away_team": "Guelph Storm",
+                    "predicted_winner": "Flint Firebirds",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Kitchener Rangers",
+                    "away_team": "London Knights",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
                 }
             ]
         }

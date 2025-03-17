@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Guelph Storm",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Flint Firebirds": "-164",
+            "Guelph Storm": "+131"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Kitchener Rangers": "+131",
+            "London Knights": "-163"
+        },
+        "game_time": "7:00 pm"
+    }
+]
