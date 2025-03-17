@@ -14,20 +14,10 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "North Bay Battalion": "+309",
-            "Brampton Steelheads": "-421"
+            "North Bay Battalion": "+308",
+            "Brampton Steelheads": "-420"
         },
         "game_time": "7:00 pm"
-    },
-    {
-        "home_team": "Peterborough Petes",
-        "away_team": "Ottawa 67's",
-        "winner": "Ottawa 67's",
-        "odds": {
-            "Peterborough Petes": "+184",
-            "Ottawa 67's": "-234"
-        },
-        "game_time": "7:05 pm"
     },
     {
         "home_team": "Windsor Spitfires",

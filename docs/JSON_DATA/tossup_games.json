@@ -8,7 +8,7 @@
         "home_score": 5,
         "away_score": 9,
         "odds": {
-            "Saginaw Spirit": "-101",
+            "Saginaw Spirit": "-100",
             "Kingston Frontenacs": "-123"
         }
     },
@@ -100,7 +100,7 @@
         "away_score": 7,
         "odds": {
             "Niagara IceDogs": "-103",
-            "Sudbury Wolves": "-119"
+            "Sudbury Wolves": "-120"
         }
     },
     {
@@ -112,7 +112,7 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-112",
+            "Erie Otters": "-111",
             "Sudbury Wolves": "-111"
         }
     },
@@ -203,7 +203,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Sudbury Wolves": "-119",
+            "Sudbury Wolves": "-120",
             "Niagara IceDogs": "-103"
         }
     },
