@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-113",
+            "Brampton Steelheads": "-110"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Soo Greyhounds",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Sudbury Wolves": "-139",
+            "Soo Greyhounds": "+112"
+        },
+        "game_time": "7:05 pm"
+    }
+]

@@ -1975,6 +1975,30 @@
                     "away_score": 0
                 }
             ]
+        },
+        {
+            "date": "2025-03-19",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Brantford Bulldogs",
+                    "away_team": "Brampton Steelheads",
+                    "predicted_winner": "Brantford Bulldogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Sudbury Wolves",
+                    "away_team": "Soo Greyhounds",
+                    "predicted_winner": "Sudbury Wolves",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
         }
     ],
     "total_accuracy": 68.8,
