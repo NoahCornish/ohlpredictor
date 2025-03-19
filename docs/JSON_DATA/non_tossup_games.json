@@ -47,8 +47,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "North Bay Battalion": "+312",
-            "Brantford Bulldogs": "-427"
+            "North Bay Battalion": "+304",
+            "Brantford Bulldogs": "-413"
         }
     },
     {
@@ -125,8 +125,8 @@
         "home_score": 8,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "-278",
-            "North Bay Battalion": "+215"
+            "Sudbury Wolves": "-279",
+            "North Bay Battalion": "+216"
         }
     },
     {
@@ -138,8 +138,8 @@
         "home_score": 4,
         "away_score": 6,
         "odds": {
-            "Soo Greyhounds": "+164",
-            "Brantford Bulldogs": "-206"
+            "Soo Greyhounds": "+159",
+            "Brantford Bulldogs": "-200"
         }
     },
     {
@@ -242,8 +242,8 @@
         "home_score": 3,
         "away_score": 9,
         "odds": {
-            "Sudbury Wolves": "+132",
-            "Brantford Bulldogs": "-164"
+            "Sudbury Wolves": "+128",
+            "Brantford Bulldogs": "-159"
         }
     },
     {
@@ -333,8 +333,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-164",
-            "Sudbury Wolves": "+132"
+            "Brantford Bulldogs": "-159",
+            "Sudbury Wolves": "+128"
         }
     },
     {
@@ -541,8 +541,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-129",
-            "Brantford Bulldogs": "+104"
+            "Windsor Spitfires": "-133",
+            "Brantford Bulldogs": "+107"
         }
     },
     {
@@ -633,7 +633,7 @@
         "away_score": 7,
         "odds": {
             "Sudbury Wolves": "+130",
-            "Brampton Steelheads": "-162"
+            "Brampton Steelheads": "-161"
         }
     },
     {
@@ -697,8 +697,8 @@
         "home_score": 10,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-177",
-            "Niagara IceDogs": "+142"
+            "Brantford Bulldogs": "-172",
+            "Niagara IceDogs": "+138"
         }
     },
     {
@@ -840,8 +840,8 @@
         "home_score": 8,
         "away_score": 3,
         "odds": {
-            "Saginaw Spirit": "-167",
-            "Sudbury Wolves": "+134"
+            "Saginaw Spirit": "-166",
+            "Sudbury Wolves": "+133"
         }
     },
     {
@@ -879,8 +879,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Niagara IceDogs": "+142",
-            "Brantford Bulldogs": "-177"
+            "Niagara IceDogs": "+138",
+            "Brantford Bulldogs": "-172"
         }
     },
     {
@@ -918,8 +918,8 @@
         "home_score": 8,
         "away_score": 6,
         "odds": {
-            "Brantford Bulldogs": "-206",
-            "Soo Greyhounds": "+164"
+            "Brantford Bulldogs": "-200",
+            "Soo Greyhounds": "+159"
         }
     },
     {
@@ -1061,8 +1061,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+491",
-            "Brantford Bulldogs": "-757"
+            "Peterborough Petes": "+478",
+            "Brantford Bulldogs": "-730"
         }
     },
     {
@@ -1102,6 +1102,19 @@
         "odds": {
             "Flint Firebirds": "-239",
             "North Bay Battalion": "+187"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Kingston Frontenacs": "-127",
+            "Brantford Bulldogs": "+103"
         }
     },
     {
@@ -1165,8 +1178,8 @@
         "home_score": 8,
         "away_score": 1,
         "odds": {
-            "Sudbury Wolves": "-188",
-            "Owen Sound Attack": "+150"
+            "Sudbury Wolves": "-189",
+            "Owen Sound Attack": "+151"
         }
     },
     {
@@ -1191,7 +1204,7 @@
         "home_score": 8,
         "away_score": 1,
         "odds": {
-            "Brampton Steelheads": "-162",
+            "Brampton Steelheads": "-161",
             "Sudbury Wolves": "+130"
         }
     },
@@ -1269,8 +1282,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+235",
-            "Brantford Bulldogs": "-307"
+            "Ottawa 67's": "+229",
+            "Brantford Bulldogs": "-298"
         }
     },
     {
@@ -1477,8 +1490,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-131",
-            "Oshawa Generals": "+106"
+            "Brantford Bulldogs": "-127",
+            "Oshawa Generals": "+103"
         }
     },
     {
@@ -1529,8 +1542,8 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Sudbury Wolves": "+134",
-            "Saginaw Spirit": "-167"
+            "Sudbury Wolves": "+133",
+            "Saginaw Spirit": "-166"
         }
     },
     {
@@ -1568,8 +1581,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-757",
-            "Peterborough Petes": "+491"
+            "Brantford Bulldogs": "-730",
+            "Peterborough Petes": "+478"
         }
     },
     {
@@ -1660,7 +1673,7 @@
         "away_score": 2,
         "odds": {
             "Sudbury Wolves": "+130",
-            "Brampton Steelheads": "-162"
+            "Brampton Steelheads": "-161"
         }
     },
     {
@@ -1711,8 +1724,8 @@
         "home_score": 0,
         "away_score": 5,
         "odds": {
-            "Brantford Bulldogs": "+116",
-            "London Knights": "-144"
+            "Brantford Bulldogs": "+119",
+            "London Knights": "-148"
         }
     },
     {
@@ -1802,8 +1815,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Flint Firebirds": "+152",
-            "Brantford Bulldogs": "-190"
+            "Flint Firebirds": "+148",
+            "Brantford Bulldogs": "-185"
         }
     },
     {
@@ -1984,7 +1997,7 @@
         "home_score": 6,
         "away_score": 8,
         "odds": {
-            "Brampton Steelheads": "-162",
+            "Brampton Steelheads": "-161",
             "Sudbury Wolves": "+130"
         }
     },
@@ -2101,8 +2114,8 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "+312",
-            "Brantford Bulldogs": "-427"
+            "North Bay Battalion": "+304",
+            "Brantford Bulldogs": "-413"
         }
     },
     {
@@ -2205,8 +2218,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Sudbury Wolves": "+132",
-            "Brantford Bulldogs": "-164"
+            "Sudbury Wolves": "+128",
+            "Brantford Bulldogs": "-159"
         }
     },
     {
@@ -2231,8 +2244,8 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+339",
-            "Sudbury Wolves": "-471"
+            "Peterborough Petes": "+340",
+            "Sudbury Wolves": "-472"
         }
     },
     {

@@ -24,8 +24,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-123",
-            "Brantford Bulldogs": "-100"
+            "Kingston Frontenacs": "-127",
+            "Brantford Bulldogs": "+103"
         },
         "game_time": "7:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-188",
-            "Owen Sound Attack": "+150"
+            "Sudbury Wolves": "-189",
+            "Owen Sound Attack": "+151"
         },
         "game_time": "7:05 pm"
     },

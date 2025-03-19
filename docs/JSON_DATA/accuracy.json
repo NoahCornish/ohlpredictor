@@ -426,8 +426,8 @@
         },
         {
             "date": "2025-02-08",
-            "accuracy": 75.0,
-            "correct_predictions": 6,
+            "accuracy": 62.5,
+            "correct_predictions": 5,
             "total_games": 8,
             "game_details": [
                 {
@@ -441,7 +441,7 @@
                 {
                     "home_team": "Erie Otters",
                     "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Erie Otters",
+                    "predicted_winner": "Sudbury Wolves",
                     "actual_winner": "Erie Otters",
                     "home_score": 7,
                     "away_score": 4
@@ -1985,7 +1985,7 @@
                 {
                     "home_team": "Brantford Bulldogs",
                     "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brantford Bulldogs",
+                    "predicted_winner": "Brampton Steelheads",
                     "actual_winner": "Not Started",
                     "home_score": 0,
                     "away_score": 0
@@ -2057,13 +2057,13 @@
             ]
         }
     ],
-    "total_accuracy": 68.6,
-    "tossup_accuracy": 50.0,
-    "non_tossup_accuracy": 70.9,
-    "total_correct": 140,
+    "total_accuracy": 68.1,
+    "tossup_accuracy": 42.9,
+    "non_tossup_accuracy": 71.0,
+    "total_correct": 139,
     "total_games": 204,
-    "tossup_correct": 11,
-    "tossup_games": 22,
-    "non_tossup_correct": 129,
-    "non_tossup_games": 182
+    "tossup_correct": 9,
+    "tossup_games": 21,
+    "non_tossup_correct": 130,
+    "non_tossup_games": 183
 }
