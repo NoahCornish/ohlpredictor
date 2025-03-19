@@ -4,7 +4,7 @@
         "away_team": "Barrie Colts",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-142",
+            "Brampton Steelheads": "-141",
             "Barrie Colts": "+114"
         },
         "game_time": "7:00 pm"
@@ -35,7 +35,7 @@
         "winner": "London Knights",
         "odds": {
             "London Knights": "-142",
-            "Saginaw Spirit": "+114"
+            "Saginaw Spirit": "+115"
         },
         "game_time": "7:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-113",
-            "Owen Sound Attack": "-110"
+            "Guelph Storm": "-112",
+            "Owen Sound Attack": "-111"
         },
         "game_time": "7:07 pm"
     }
