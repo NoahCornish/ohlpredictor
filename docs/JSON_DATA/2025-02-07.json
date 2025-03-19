@@ -4,8 +4,8 @@
         "away_team": "Erie Otters",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-161",
-            "Erie Otters": "+130"
+            "Brampton Steelheads": "-163",
+            "Erie Otters": "+131"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Brantford Bulldogs": "-106",
-            "Saginaw Spirit": "-116"
+            "Saginaw Spirit": "-117"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Niagara IceDogs": "-103",
-            "Sudbury Wolves": "-120"
+            "Niagara IceDogs": "-102",
+            "Sudbury Wolves": "-121"
         },
         "game_time": "7:00 pm"
     },

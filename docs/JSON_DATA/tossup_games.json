@@ -74,7 +74,7 @@
         "away_score": 2,
         "odds": {
             "Brantford Bulldogs": "-106",
-            "Saginaw Spirit": "-116"
+            "Saginaw Spirit": "-117"
         }
     },
     {
@@ -86,8 +86,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Niagara IceDogs": "-103",
-            "Sudbury Wolves": "-120"
+            "Niagara IceDogs": "-102",
+            "Sudbury Wolves": "-121"
         }
     },
     {
@@ -99,8 +99,8 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-111",
-            "Sudbury Wolves": "-111"
+            "Erie Otters": "-110",
+            "Sudbury Wolves": "-112"
         }
     },
     {
@@ -190,8 +190,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Sudbury Wolves": "-120",
-            "Niagara IceDogs": "-103"
+            "Sudbury Wolves": "-121",
+            "Niagara IceDogs": "-102"
         }
     },
     {
@@ -229,7 +229,7 @@
         "home_score": 3,
         "away_score": 11,
         "odds": {
-            "Saginaw Spirit": "-116",
+            "Saginaw Spirit": "-117",
             "Brantford Bulldogs": "-106"
         }
     },
@@ -270,6 +270,19 @@
         "odds": {
             "Flint Firebirds": "-120",
             "Soo Greyhounds": "-103"
+        }
+    },
+    {
+        "date": "2025-03-19",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Brampton Steelheads",
+        "predicted_winner": "Brampton Steelheads",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 0,
+        "away_score": 3,
+        "odds": {
+            "Brantford Bulldogs": "-108",
+            "Brampton Steelheads": "-115"
         }
     }
 ]
