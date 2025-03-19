@@ -35,7 +35,7 @@
         "away_score": 4,
         "odds": {
             "Guelph Storm": "-122",
-            "Sarnia Sting": "-102"
+            "Sarnia Sting": "-101"
         }
     },
     {
@@ -138,7 +138,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Sarnia Sting": "-102",
+            "Sarnia Sting": "-101",
             "Guelph Storm": "-122"
         }
     },
@@ -190,7 +190,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Sarnia Sting": "-102",
+            "Sarnia Sting": "-101",
             "Guelph Storm": "-122"
         }
     },
@@ -230,7 +230,7 @@
         "away_score": 5,
         "odds": {
             "Guelph Storm": "-122",
-            "Sarnia Sting": "-102"
+            "Sarnia Sting": "-101"
         }
     },
     {
@@ -255,7 +255,7 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "-112",
+            "Guelph Storm": "-113",
             "Owen Sound Attack": "-110"
         }
     },
@@ -281,8 +281,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Flint Firebirds": "-121",
-            "Soo Greyhounds": "-102"
+            "Flint Firebirds": "-120",
+            "Soo Greyhounds": "-103"
         }
     }
 ]

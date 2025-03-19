@@ -14,8 +14,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Flint Firebirds": "+130",
-            "Kitchener Rangers": "-162"
+            "Flint Firebirds": "+132",
+            "Kitchener Rangers": "-164"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "London Knights",
         "odds": {
             "London Knights": "-214",
-            "Erie Otters": "+170"
+            "Erie Otters": "+169"
         },
         "game_time": "7:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Guelph Storm",
         "odds": {
             "Guelph Storm": "-122",
-            "Sarnia Sting": "-102"
+            "Sarnia Sting": "-101"
         },
         "game_time": "7:07 pm"
     },
