@@ -426,8 +426,8 @@
         },
         {
             "date": "2025-02-08",
-            "accuracy": 62.5,
-            "correct_predictions": 5,
+            "accuracy": 75.0,
+            "correct_predictions": 6,
             "total_games": 8,
             "game_details": [
                 {
@@ -441,7 +441,7 @@
                 {
                     "home_team": "Erie Otters",
                     "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Sudbury Wolves",
+                    "predicted_winner": "Erie Otters",
                     "actual_winner": "Erie Otters",
                     "home_score": 7,
                     "away_score": 4
@@ -2002,49 +2002,49 @@
         },
         {
             "date": "2025-03-20",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 60.0,
+            "correct_predictions": 3,
+            "total_games": 5,
             "game_details": [
                 {
                     "home_team": "Guelph Storm",
                     "away_team": "Erie Otters",
                     "predicted_winner": "Erie Otters",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Erie Otters",
+                    "home_score": 1,
+                    "away_score": 2
                 },
                 {
                     "home_team": "Barrie Colts",
                     "away_team": "Owen Sound Attack",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "Owen Sound Attack",
                     "home_score": 0,
-                    "away_score": 0
+                    "away_score": 1
                 },
                 {
                     "home_team": "Niagara IceDogs",
                     "away_team": "Ottawa 67's",
                     "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
+                    "actual_winner": "Niagara IceDogs",
+                    "home_score": 1,
                     "away_score": 0
                 },
                 {
                     "home_team": "North Bay Battalion",
                     "away_team": "Oshawa Generals",
                     "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
+                    "actual_winner": "North Bay Battalion",
+                    "home_score": 1,
                     "away_score": 0
                 },
                 {
                     "home_team": "Peterborough Petes",
                     "away_team": "Kingston Frontenacs",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "Kingston Frontenacs",
                     "home_score": 0,
-                    "away_score": 0
+                    "away_score": 1
                 },
                 {
                     "home_team": "Windsor Spitfires",
@@ -2129,13 +2129,13 @@
             ]
         }
     ],
-    "total_accuracy": 68.0,
-    "tossup_accuracy": 40.0,
-    "non_tossup_accuracy": 71.8,
-    "total_correct": 140,
-    "total_games": 206,
-    "tossup_correct": 10,
+    "total_accuracy": 68.2,
+    "tossup_accuracy": 44.0,
+    "non_tossup_accuracy": 71.5,
+    "total_correct": 144,
+    "total_games": 211,
+    "tossup_correct": 11,
     "tossup_games": 25,
-    "non_tossup_correct": 130,
-    "non_tossup_games": 181
+    "non_tossup_correct": 133,
+    "non_tossup_games": 186
 }

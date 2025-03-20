@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-172",
-            "Niagara IceDogs": "+138"
+            "Brantford Bulldogs": "-170",
+            "Niagara IceDogs": "+136"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-142",
-            "Kitchener Rangers": "+115"
+            "Kingston Frontenacs": "-143",
+            "Kitchener Rangers": "+116"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Owen Sound Attack": "+158",
+            "Owen Sound Attack": "+159",
             "Erie Otters": "-199"
         },
         "game_time": "7:00 pm"
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "Peterborough Petes": "+191",
-            "Ottawa 67's": "-244"
+            "Peterborough Petes": "+179",
+            "Ottawa 67's": "-227"
         },
         "game_time": "7:05 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Guelph Storm": "+186",
-            "Oshawa Generals": "-237"
+            "Oshawa Generals": "-236"
         },
         "game_time": "7:07 pm"
     }

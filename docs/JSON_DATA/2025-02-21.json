@@ -4,8 +4,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Erie Otters": "+112",
-            "Oshawa Generals": "-138"
+            "Erie Otters": "+109",
+            "Oshawa Generals": "-135"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-239",
-            "North Bay Battalion": "+187"
+            "Flint Firebirds": "-232",
+            "North Bay Battalion": "+183"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-127",
-            "Brantford Bulldogs": "+103"
+            "Kingston Frontenacs": "-128",
+            "Brantford Bulldogs": "+104"
         },
         "game_time": "7:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Kitchener Rangers": "-124",
-            "Barrie Colts": "+100"
+            "Barrie Colts": "+101"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Ottawa 67's": "+150",
-            "Niagara IceDogs": "-188"
+            "Ottawa 67's": "+152",
+            "Niagara IceDogs": "-191"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Sarnia Sting": "+277",
-            "Windsor Spitfires": "-371"
+            "Sarnia Sting": "+278",
+            "Windsor Spitfires": "-372"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-200",
-            "Owen Sound Attack": "+159"
+            "Sudbury Wolves": "-196",
+            "Owen Sound Attack": "+156"
         },
         "game_time": "7:05 pm"
     },

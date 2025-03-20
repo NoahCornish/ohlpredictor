@@ -4,8 +4,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-126",
-            "Oshawa Generals": "+102"
+            "Brantford Bulldogs": "-127",
+            "Oshawa Generals": "+103"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Kingston Frontenacs": "-105",
-            "Windsor Spitfires": "-118"
+            "Windsor Spitfires": "-117"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-396",
-            "Owen Sound Attack": "+293"
+            "London Knights": "-388",
+            "Owen Sound Attack": "+288"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-150",
-            "North Bay Battalion": "+121"
+            "Ottawa 67's": "-145",
+            "North Bay Battalion": "+117"
         },
         "game_time": "7:00 pm"
     },

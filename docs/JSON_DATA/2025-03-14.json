@@ -4,8 +4,8 @@
         "away_team": "Barrie Colts",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-145",
-            "Barrie Colts": "+117"
+            "Brampton Steelheads": "-146",
+            "Barrie Colts": "+118"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-870",
-            "Peterborough Petes": "+542"
+            "Kingston Frontenacs": "-803",
+            "Peterborough Petes": "+512"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-363",
-            "North Bay Battalion": "+272"
+            "Kitchener Rangers": "-352",
+            "North Bay Battalion": "+265"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Sarnia Sting": "+134",
-            "Soo Greyhounds": "-167"
+            "Sarnia Sting": "+135",
+            "Soo Greyhounds": "-168"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-117",
-            "Owen Sound Attack": "-106"
+            "Guelph Storm": "-115",
+            "Owen Sound Attack": "-108"
         },
         "game_time": "7:07 pm"
     }
