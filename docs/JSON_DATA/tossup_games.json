@@ -47,8 +47,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-120",
-            "Ottawa 67's": "-103"
+            "Owen Sound Attack": "-114",
+            "Ottawa 67's": "-108"
         }
     },
     {
@@ -74,7 +74,7 @@
         "away_score": 2,
         "odds": {
             "Brantford Bulldogs": "-106",
-            "Saginaw Spirit": "-117"
+            "Saginaw Spirit": "-116"
         }
     },
     {
@@ -88,6 +88,19 @@
         "odds": {
             "Niagara IceDogs": "-102",
             "Sudbury Wolves": "-121"
+        }
+    },
+    {
+        "date": "2025-02-08",
+        "home_team": "Brampton Steelheads",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Brampton Steelheads",
+        "home_score": 6,
+        "away_score": 0,
+        "odds": {
+            "Brampton Steelheads": "-101",
+            "Kingston Frontenacs": "-122"
         }
     },
     {
@@ -229,7 +242,7 @@
         "home_score": 3,
         "away_score": 11,
         "odds": {
-            "Saginaw Spirit": "-117",
+            "Saginaw Spirit": "-116",
             "Brantford Bulldogs": "-106"
         }
     },
@@ -242,8 +255,8 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "-112",
-            "Owen Sound Attack": "-111"
+            "Guelph Storm": "-117",
+            "Owen Sound Attack": "-106"
         }
     },
     {
@@ -268,8 +281,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Flint Firebirds": "-120",
-            "Soo Greyhounds": "-103"
+            "Flint Firebirds": "-117",
+            "Soo Greyhounds": "-105"
         }
     },
     {
@@ -278,11 +291,11 @@
         "away_team": "Brampton Steelheads",
         "predicted_winner": "Brampton Steelheads",
         "actual_winner": "Brampton Steelheads",
-        "home_score": 0,
-        "away_score": 3,
+        "home_score": 2,
+        "away_score": 7,
         "odds": {
-            "Brantford Bulldogs": "-108",
-            "Brampton Steelheads": "-115"
+            "Brantford Bulldogs": "-106",
+            "Brampton Steelheads": "-116"
         }
     }
 ]

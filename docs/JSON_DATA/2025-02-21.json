@@ -24,7 +24,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-128",
+            "Kingston Frontenacs": "-127",
             "Brantford Bulldogs": "+103"
         },
         "game_time": "7:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-144",
-            "Brampton Steelheads": "+116"
+            "London Knights": "-142",
+            "Brampton Steelheads": "+115"
         },
         "game_time": "7:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-191",
-            "Owen Sound Attack": "+152"
+            "Sudbury Wolves": "-200",
+            "Owen Sound Attack": "+159"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Guelph Storm",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-149",
-            "Guelph Storm": "+120"
+            "Soo Greyhounds": "-153",
+            "Guelph Storm": "+123"
         },
         "game_time": "7:07 pm"
     }
