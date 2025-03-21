@@ -4,8 +4,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Erie Otters": "+109",
-            "Oshawa Generals": "-135"
+            "Erie Otters": "+108",
+            "Oshawa Generals": "-134"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-232",
-            "North Bay Battalion": "+183"
+            "Flint Firebirds": "-219",
+            "North Bay Battalion": "+173"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-128",
-            "Brantford Bulldogs": "+104"
+            "Kingston Frontenacs": "-132",
+            "Brantford Bulldogs": "+106"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Ottawa 67's": "+152",
-            "Niagara IceDogs": "-191"
+            "Ottawa 67's": "+146",
+            "Niagara IceDogs": "-182"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Sarnia Sting": "+278",
-            "Windsor Spitfires": "-372"
+            "Sarnia Sting": "+291",
+            "Windsor Spitfires": "-392"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-196",
-            "Owen Sound Attack": "+156"
+            "Sudbury Wolves": "-194",
+            "Owen Sound Attack": "+155"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Guelph Storm",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-153",
-            "Guelph Storm": "+123"
+            "Soo Greyhounds": "-142",
+            "Guelph Storm": "+115"
         },
         "game_time": "7:07 pm"
     }

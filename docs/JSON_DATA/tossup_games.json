@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-01-30",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 5,
-        "away_score": 9,
-        "odds": {
-            "Saginaw Spirit": "-101",
-            "Kingston Frontenacs": "-122"
-        }
-    },
-    {
         "date": "2025-01-31",
         "home_team": "Oshawa Generals",
         "away_team": "Barrie Colts",
@@ -21,21 +8,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-122",
+            "Oshawa Generals": "-120",
             "Barrie Colts": "-102"
-        }
-    },
-    {
-        "date": "2025-01-31",
-        "home_team": "Guelph Storm",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Sarnia Sting",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "Guelph Storm": "-122",
-            "Sarnia Sting": "-102"
         }
     },
     {
@@ -47,21 +21,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-117",
-            "Ottawa 67's": "-106"
-        }
-    },
-    {
-        "date": "2025-02-02",
-        "home_team": "Guelph Storm",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "Guelph Storm": "-121",
-            "Ottawa 67's": "-102"
+            "Owen Sound Attack": "-115",
+            "Ottawa 67's": "-107"
         }
     },
     {
@@ -73,8 +34,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-101",
-            "London Knights": "-122"
+            "Windsor Spitfires": "-103",
+            "London Knights": "-119"
         }
     },
     {
@@ -99,21 +60,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Niagara IceDogs": "-103",
-            "Sudbury Wolves": "-120"
-        }
-    },
-    {
-        "date": "2025-02-08",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 6,
-        "away_score": 0,
-        "odds": {
-            "Brampton Steelheads": "-101",
-            "Kingston Frontenacs": "-122"
+            "Niagara IceDogs": "-101",
+            "Sudbury Wolves": "-122"
         }
     },
     {
@@ -125,8 +73,8 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-113",
-            "Sudbury Wolves": "-109"
+            "Erie Otters": "-112",
+            "Sudbury Wolves": "-110"
         }
     },
     {
@@ -138,47 +86,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "-114",
-            "Oshawa Generals": "-109"
-        }
-    },
-    {
-        "date": "2025-02-12",
-        "home_team": "Erie Otters",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Erie Otters",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "Erie Otters": "-122",
-            "Niagara IceDogs": "-101"
-        }
-    },
-    {
-        "date": "2025-02-12",
-        "home_team": "Sarnia Sting",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Guelph Storm",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "Sarnia Sting": "-102",
-            "Guelph Storm": "-122"
-        }
-    },
-    {
-        "date": "2025-02-27",
-        "home_team": "Niagara IceDogs",
-        "away_team": "Erie Otters",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Erie Otters",
-        "home_score": 4,
-        "away_score": 5,
-        "odds": {
-            "Niagara IceDogs": "-101",
-            "Erie Otters": "-122"
+            "Kitchener Rangers": "-115",
+            "Oshawa Generals": "-108"
         }
     },
     {
@@ -190,21 +99,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-105",
+            "Kingston Frontenacs": "-106",
             "Windsor Spitfires": "-117"
-        }
-    },
-    {
-        "date": "2025-03-02",
-        "home_team": "Sarnia Sting",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Sarnia Sting",
-        "home_score": 3,
-        "away_score": 1,
-        "odds": {
-            "Sarnia Sting": "-102",
-            "Guelph Storm": "-122"
         }
     },
     {
@@ -216,8 +112,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Sudbury Wolves": "-120",
-            "Niagara IceDogs": "-103"
+            "Sudbury Wolves": "-122",
+            "Niagara IceDogs": "-101"
         }
     },
     {
@@ -230,20 +126,7 @@
         "away_score": 1,
         "odds": {
             "Windsor Spitfires": "-117",
-            "Kingston Frontenacs": "-105"
-        }
-    },
-    {
-        "date": "2025-03-07",
-        "home_team": "Guelph Storm",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Sarnia Sting",
-        "home_score": 1,
-        "away_score": 5,
-        "odds": {
-            "Guelph Storm": "-122",
-            "Sarnia Sting": "-102"
+            "Kingston Frontenacs": "-106"
         }
     },
     {
@@ -268,21 +151,8 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "-115",
-            "Owen Sound Attack": "-108"
-        }
-    },
-    {
-        "date": "2025-03-15",
-        "home_team": "Erie Otters",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Niagara IceDogs",
-        "home_score": 2,
-        "away_score": 5,
-        "odds": {
-            "Erie Otters": "-122",
-            "Niagara IceDogs": "-101"
+            "Guelph Storm": "-122",
+            "Owen Sound Attack": "-102"
         }
     },
     {
@@ -307,8 +177,8 @@
         "home_score": 8,
         "away_score": 5,
         "odds": {
-            "Windsor Spitfires": "-101",
-            "London Knights": "-122"
+            "Windsor Spitfires": "-103",
+            "London Knights": "-119"
         }
     },
     {
