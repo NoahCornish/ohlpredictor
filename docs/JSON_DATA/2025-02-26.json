@@ -14,8 +14,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Owen Sound Attack": "+141",
-            "Niagara IceDogs": "-176"
+            "Owen Sound Attack": "+142",
+            "Niagara IceDogs": "-177"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-182",
-            "Sarnia Sting": "+146"
+            "Flint Firebirds": "-176",
+            "Sarnia Sting": "+141"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Soo Greyhounds": "+111",
-            "Sudbury Wolves": "-137"
+            "Soo Greyhounds": "+107",
+            "Sudbury Wolves": "-133"
         },
         "game_time": "7:07 pm"
     }

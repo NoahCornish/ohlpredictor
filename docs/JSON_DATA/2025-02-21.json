@@ -4,8 +4,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Erie Otters": "+108",
-            "Oshawa Generals": "-134"
+            "Erie Otters": "+110",
+            "Oshawa Generals": "-136"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-219",
-            "North Bay Battalion": "+173"
+            "Flint Firebirds": "-215",
+            "North Bay Battalion": "+170"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-132",
-            "Brantford Bulldogs": "+106"
+            "Kingston Frontenacs": "-129",
+            "Brantford Bulldogs": "+105"
         },
         "game_time": "7:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Kitchener Rangers": "-124",
-            "Barrie Colts": "+101"
+            "Barrie Colts": "+100"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Ottawa 67's": "+146",
-            "Niagara IceDogs": "-182"
+            "Ottawa 67's": "+147",
+            "Niagara IceDogs": "-183"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Sarnia Sting": "+291",
-            "Windsor Spitfires": "-392"
+            "Sarnia Sting": "+283",
+            "Windsor Spitfires": "-379"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Guelph Storm",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-142",
-            "Guelph Storm": "+115"
+            "Soo Greyhounds": "-147",
+            "Guelph Storm": "+118"
         },
         "game_time": "7:07 pm"
     }

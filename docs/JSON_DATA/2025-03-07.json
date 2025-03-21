@@ -4,8 +4,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-394",
-            "North Bay Battalion": "+292"
+            "Brampton Steelheads": "-392",
+            "North Bay Battalion": "+291"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-196",
-            "Owen Sound Attack": "+156"
+            "Erie Otters": "-197",
+            "Owen Sound Attack": "+157"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Flint Firebirds": "+147",
-            "Brantford Bulldogs": "-184"
+            "Flint Firebirds": "+149",
+            "Brantford Bulldogs": "-187"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-126",
-            "Kingston Frontenacs": "+102"
+            "London Knights": "-127",
+            "Kingston Frontenacs": "+103"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Sudbury Wolves": "+110",
-            "Oshawa Generals": "-136"
+            "Sudbury Wolves": "+112",
+            "Oshawa Generals": "-138"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-134",
-            "Sarnia Sting": "+108"
+            "Guelph Storm": "-130",
+            "Sarnia Sting": "+105"
         },
         "game_time": "7:07 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Soo Greyhounds": "+125",
-            "Barrie Colts": "-155"
+            "Soo Greyhounds": "+121",
+            "Barrie Colts": "-150"
         },
         "game_time": "7:07 pm"
     }
