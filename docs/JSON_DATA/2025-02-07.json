@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-249",
-            "Owen Sound Attack": "+195"
+            "Kitchener Rangers": "-246",
+            "Owen Sound Attack": "+192"
         },
         "game_time": "7:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Niagara IceDogs": "-104",
-            "Sudbury Wolves": "-119"
+            "Sudbury Wolves": "-118"
         },
         "game_time": "7:00 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-252",
+            "Oshawa Generals": "-251",
             "Ottawa 67's": "+197"
         },
         "game_time": "7:05 pm"
@@ -74,8 +74,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-366",
-            "Sarnia Sting": "+274"
+            "Windsor Spitfires": "-365",
+            "Sarnia Sting": "+273"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-148",
-            "North Bay Battalion": "+119"
+            "Guelph Storm": "-149",
+            "North Bay Battalion": "+120"
         },
         "game_time": "7:07 pm"
     }

@@ -4,7 +4,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-116",
+            "Owen Sound Attack": "-117",
             "Ottawa 67's": "-106"
         },
         "game_time": "4:00 pm"
@@ -44,7 +44,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Sarnia Sting": "+162",
+            "Sarnia Sting": "+161",
             "Erie Otters": "-203"
         },
         "game_time": "7:05 pm"
@@ -54,8 +54,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-136",
-            "Niagara IceDogs": "+110"
+            "Barrie Colts": "-135",
+            "Niagara IceDogs": "+109"
         },
         "game_time": "7:30 pm"
     }
