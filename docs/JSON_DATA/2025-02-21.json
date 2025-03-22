@@ -4,8 +4,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Erie Otters": "+110",
-            "Oshawa Generals": "-136"
+            "Erie Otters": "+111",
+            "Oshawa Generals": "-137"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-202",
-            "North Bay Battalion": "+161"
+            "Flint Firebirds": "-203",
+            "North Bay Battalion": "+162"
         },
         "game_time": "7:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Niagara IceDogs",
         "odds": {
             "Ottawa 67's": "+148",
-            "Niagara IceDogs": "-185"
+            "Niagara IceDogs": "-186"
         },
         "game_time": "7:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-188",
-            "Owen Sound Attack": "+150"
+            "Sudbury Wolves": "-185",
+            "Owen Sound Attack": "+148"
         },
         "game_time": "7:05 pm"
     },
@@ -85,7 +85,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "Soo Greyhounds": "-151",
-            "Guelph Storm": "+122"
+            "Guelph Storm": "+121"
         },
         "game_time": "7:07 pm"
     }

@@ -12,10 +12,10 @@
     {
         "home_team": "Flint Firebirds",
         "away_team": "Soo Greyhounds",
-        "winner": "Soo Greyhounds",
+        "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-110",
-            "Soo Greyhounds": "-112"
+            "Flint Firebirds": "-111",
+            "Soo Greyhounds": "-111"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Owen Sound Attack": "+192",
-            "Kitchener Rangers": "-246"
+            "Owen Sound Attack": "+190",
+            "Kitchener Rangers": "-242"
         },
         "game_time": "7:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Saginaw Spirit": "+106",
-            "Windsor Spitfires": "-132"
+            "Windsor Spitfires": "-131"
         },
         "game_time": "7:05 pm"
     },
