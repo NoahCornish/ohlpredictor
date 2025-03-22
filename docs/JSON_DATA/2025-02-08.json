@@ -4,8 +4,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Brampton Steelheads": "+100",
-            "Kingston Frontenacs": "-124"
+            "Brampton Steelheads": "-102",
+            "Kingston Frontenacs": "-121"
         },
         "game_time": "4:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-113",
+            "Erie Otters": "-114",
             "Sudbury Wolves": "-109"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Niagara IceDogs": "+123",
-            "Kitchener Rangers": "-153"
+            "Niagara IceDogs": "+124",
+            "Kitchener Rangers": "-154"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-143",
-            "North Bay Battalion": "+115"
+            "Owen Sound Attack": "-136",
+            "North Bay Battalion": "+110"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sarnia Sting",
         "odds": {
-            "Sarnia Sting": "-225",
-            "Peterborough Petes": "+177"
+            "Sarnia Sting": "-237",
+            "Peterborough Petes": "+186"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-136",
-            "Brantford Bulldogs": "+110"
+            "Windsor Spitfires": "-135",
+            "Brantford Bulldogs": "+109"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Guelph Storm": "+205",
-            "Saginaw Spirit": "-263"
+            "Guelph Storm": "+207",
+            "Saginaw Spirit": "-266"
         },
         "game_time": "7:07 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-150",
-            "Soo Greyhounds": "+121"
+            "Barrie Colts": "-146",
+            "Soo Greyhounds": "+118"
         },
         "game_time": "7:30 pm"
     }

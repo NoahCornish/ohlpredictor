@@ -4,8 +4,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-128",
-            "Oshawa Generals": "+104"
+            "Brantford Bulldogs": "-129",
+            "Oshawa Generals": "+105"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Kingston Frontenacs": "-105",
-            "Windsor Spitfires": "-117"
+            "Windsor Spitfires": "-118"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-264",
-            "Sarnia Sting": "+206"
+            "Kitchener Rangers": "-260",
+            "Sarnia Sting": "+203"
         },
         "game_time": "7:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-389",
+            "London Knights": "-390",
             "Owen Sound Attack": "+289"
         },
         "game_time": "7:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-138",
-            "North Bay Battalion": "+112"
+            "Ottawa 67's": "-130",
+            "North Bay Battalion": "+105"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Sudbury Wolves": "+132",
-            "Saginaw Spirit": "-164"
+            "Sudbury Wolves": "+134",
+            "Saginaw Spirit": "-166"
         },
         "game_time": "7:05 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Flint Firebirds",
         "odds": {
             "Guelph Storm": "+121",
-            "Flint Firebirds": "-151"
+            "Flint Firebirds": "-150"
         },
         "game_time": "7:07 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Soo Greyhounds": "+159",
-            "Brampton Steelheads": "-200"
+            "Brampton Steelheads": "-199"
         },
         "game_time": "7:07 pm"
     }
