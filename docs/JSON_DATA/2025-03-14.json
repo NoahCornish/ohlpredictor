@@ -4,8 +4,8 @@
         "away_team": "Barrie Colts",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-151",
-            "Barrie Colts": "+122"
+            "Brampton Steelheads": "-143",
+            "Barrie Colts": "+116"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Ottawa 67's": "+197",
-            "Oshawa Generals": "-252"
+            "Ottawa 67's": "+186",
+            "Oshawa Generals": "-237"
         },
         "game_time": "7:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-118",
-            "Owen Sound Attack": "-105"
+            "Guelph Storm": "-113",
+            "Owen Sound Attack": "-109"
         },
         "game_time": "7:07 pm"
     }

@@ -8,8 +8,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-122",
-            "Barrie Colts": "-101"
+            "Oshawa Generals": "-116",
+            "Barrie Colts": "-106"
         }
     },
     {
@@ -21,7 +21,20 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-119",
+            "Owen Sound Attack": "-117",
+            "Ottawa 67's": "-106"
+        }
+    },
+    {
+        "date": "2025-02-02",
+        "home_team": "Guelph Storm",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Guelph Storm",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 3,
+        "away_score": 4,
+        "odds": {
+            "Guelph Storm": "-119",
             "Ottawa 67's": "-104"
         }
     },
@@ -60,8 +73,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Niagara IceDogs": "-104",
-            "Sudbury Wolves": "-118"
+            "Niagara IceDogs": "-102",
+            "Sudbury Wolves": "-121"
         }
     },
     {
@@ -112,8 +125,34 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Erie Otters": "-121",
-            "Niagara IceDogs": "-102"
+            "Erie Otters": "-123",
+            "Niagara IceDogs": "-101"
+        }
+    },
+    {
+        "date": "2025-02-14",
+        "home_team": "Flint Firebirds",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Flint Firebirds": "-100",
+            "Sudbury Wolves": "-123"
+        }
+    },
+    {
+        "date": "2025-02-21",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Kitchener Rangers",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 4,
+        "away_score": 1,
+        "odds": {
+            "Kitchener Rangers": "-120",
+            "Barrie Colts": "-103"
         }
     },
     {
@@ -125,8 +164,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Niagara IceDogs": "-102",
-            "Erie Otters": "-121"
+            "Niagara IceDogs": "-101",
+            "Erie Otters": "-123"
         }
     },
     {
@@ -151,8 +190,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Sudbury Wolves": "-118",
-            "Niagara IceDogs": "-104"
+            "Sudbury Wolves": "-121",
+            "Niagara IceDogs": "-102"
         }
     },
     {
@@ -190,8 +229,8 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "-118",
-            "Owen Sound Attack": "-105"
+            "Guelph Storm": "-113",
+            "Owen Sound Attack": "-109"
         }
     },
     {
@@ -203,8 +242,8 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Erie Otters": "-121",
-            "Niagara IceDogs": "-102"
+            "Erie Otters": "-123",
+            "Niagara IceDogs": "-101"
         }
     },
     {
@@ -216,8 +255,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Flint Firebirds": "-111",
-            "Soo Greyhounds": "-111"
+            "Flint Firebirds": "-115",
+            "Soo Greyhounds": "-107"
         }
     },
     {
@@ -264,12 +303,12 @@
         "home_team": "Owen Sound Attack",
         "away_team": "Guelph Storm",
         "predicted_winner": "Guelph Storm",
-        "actual_winner": "Guelph Storm",
-        "home_score": 1,
-        "away_score": 1,
+        "actual_winner": "Owen Sound Attack",
+        "home_score": 4,
+        "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "-105",
-            "Guelph Storm": "-118"
+            "Owen Sound Attack": "-109",
+            "Guelph Storm": "-113"
         }
     }
 ]
