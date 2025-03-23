@@ -14,8 +14,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-211",
-            "North Bay Battalion": "+167"
+            "Flint Firebirds": "-208",
+            "North Bay Battalion": "+165"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Barrie Colts",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-120",
-            "Barrie Colts": "-103"
+            "Kitchener Rangers": "-117",
+            "Barrie Colts": "-106"
         },
         "game_time": "7:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-177",
+            "Sudbury Wolves": "-178",
             "Owen Sound Attack": "+142"
         },
         "game_time": "7:05 pm"
