@@ -4,8 +4,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Guelph Storm": "+167",
-            "Barrie Colts": "-210"
+            "Guelph Storm": "+164",
+            "Barrie Colts": "-206"
         },
         "game_time": "6:37 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-178",
+            "Flint Firebirds": "-177",
             "Sarnia Sting": "+142"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Soo Greyhounds": "+104",
-            "Sudbury Wolves": "-128"
+            "Soo Greyhounds": "-103",
+            "Sudbury Wolves": "-120"
         },
         "game_time": "7:07 pm"
     }

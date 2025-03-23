@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-187",
-            "Niagara IceDogs": "+150"
+            "Brampton Steelheads": "-191",
+            "Niagara IceDogs": "+152"
         },
         "game_time": "2:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-188",
-            "Soo Greyhounds": "+150"
+            "Brantford Bulldogs": "-183",
+            "Soo Greyhounds": "+146"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-245",
-            "Flint Firebirds": "+192"
+            "London Knights": "-233",
+            "Flint Firebirds": "+183"
         },
         "game_time": "2:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-136",
-            "North Bay Battalion": "+110"
+            "Ottawa 67's": "-122",
+            "North Bay Battalion": "-101"
         },
         "game_time": "2:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Erie Otters",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-137",
-            "Erie Otters": "+111"
+            "Oshawa Generals": "-133",
+            "Erie Otters": "+108"
         },
         "game_time": "2:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Sarnia Sting": "+233",
-            "Saginaw Spirit": "-304"
+            "Sarnia Sting": "+242",
+            "Saginaw Spirit": "-317"
         },
         "game_time": "2:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Guelph Storm": "+140",
-            "Sudbury Wolves": "-175"
+            "Guelph Storm": "+135",
+            "Sudbury Wolves": "-169"
         },
         "game_time": "2:07 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Peterborough Petes": "+404",
-            "Kitchener Rangers": "-585"
+            "Peterborough Petes": "+401",
+            "Kitchener Rangers": "-580"
         },
         "game_time": "3:05 pm"
     }
