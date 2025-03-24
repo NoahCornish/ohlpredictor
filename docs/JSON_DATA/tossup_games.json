@@ -26,19 +26,6 @@
         }
     },
     {
-        "date": "2025-02-01",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 3,
-        "away_score": 1,
-        "odds": {
-            "Owen Sound Attack": "-121",
-            "Ottawa 67's": "-102"
-        }
-    },
-    {
         "date": "2025-02-02",
         "home_team": "Windsor Spitfires",
         "away_team": "London Knights",
@@ -74,7 +61,7 @@
         "away_score": 7,
         "odds": {
             "Niagara IceDogs": "-104",
-            "Sudbury Wolves": "-119"
+            "Sudbury Wolves": "-118"
         }
     },
     {
@@ -125,7 +112,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "-100",
+            "Flint Firebirds": "-101",
             "Sudbury Wolves": "-123"
         }
     },
@@ -178,7 +165,7 @@
         "away_score": 3,
         "odds": {
             "Soo Greyhounds": "-103",
-            "Sudbury Wolves": "-120"
+            "Sudbury Wolves": "-119"
         }
     },
     {
@@ -216,7 +203,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Sudbury Wolves": "-119",
+            "Sudbury Wolves": "-118",
             "Niagara IceDogs": "-104"
         }
     },
@@ -281,8 +268,8 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "-116",
-            "Owen Sound Attack": "-107"
+            "Guelph Storm": "-111",
+            "Owen Sound Attack": "-111"
         }
     },
     {
@@ -333,7 +320,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "-120",
+            "Sudbury Wolves": "-119",
             "Soo Greyhounds": "-103"
         }
     },
@@ -359,8 +346,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "-107",
-            "Guelph Storm": "-116"
+            "Owen Sound Attack": "-111",
+            "Guelph Storm": "-111"
         }
     },
     {
