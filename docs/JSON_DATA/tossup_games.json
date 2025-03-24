@@ -34,8 +34,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-122",
-            "Ottawa 67's": "-101"
+            "Owen Sound Attack": "-121",
+            "Ottawa 67's": "-102"
         }
     },
     {
@@ -138,8 +138,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-122",
-            "North Bay Battalion": "-101"
+            "Ottawa 67's": "-123",
+            "North Bay Battalion": "-100"
         }
     },
     {
@@ -152,7 +152,7 @@
         "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-115",
-            "Barrie Colts": "-107"
+            "Barrie Colts": "-108"
         }
     },
     {
@@ -164,8 +164,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "-120",
-            "North Bay Battalion": "-103"
+            "Sarnia Sting": "-121",
+            "North Bay Battalion": "-102"
         }
     },
     {
@@ -203,8 +203,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "-122",
-            "North Bay Battalion": "-101"
+            "Ottawa 67's": "-123",
+            "North Bay Battalion": "-100"
         }
     },
     {
@@ -268,8 +268,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-101",
-            "Ottawa 67's": "-122"
+            "North Bay Battalion": "-100",
+            "Ottawa 67's": "-123"
         }
     },
     {
@@ -281,7 +281,7 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "-115",
+            "Guelph Storm": "-116",
             "Owen Sound Attack": "-107"
         }
     },
@@ -320,7 +320,7 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Brantford Bulldogs": "-106",
+            "Brantford Bulldogs": "-105",
             "Brampton Steelheads": "-117"
         }
     },
@@ -360,7 +360,7 @@
         "away_score": 2,
         "odds": {
             "Owen Sound Attack": "-107",
-            "Guelph Storm": "-115"
+            "Guelph Storm": "-116"
         }
     },
     {

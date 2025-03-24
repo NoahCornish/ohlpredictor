@@ -4,7 +4,7 @@
         "away_team": "Barrie Colts",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-146",
+            "Brampton Steelheads": "-147",
             "Barrie Colts": "+118"
         },
         "game_time": "7:00 pm"
@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-844",
-            "Peterborough Petes": "+531"
+            "Kingston Frontenacs": "-838",
+            "Peterborough Petes": "+528"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-270",
+            "Kitchener Rangers": "-271",
             "North Bay Battalion": "+210"
         },
         "game_time": "7:00 pm"
@@ -35,7 +35,7 @@
         "winner": "London Knights",
         "odds": {
             "London Knights": "-132",
-            "Saginaw Spirit": "+107"
+            "Saginaw Spirit": "+106"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Ottawa 67's": "+200",
-            "Oshawa Generals": "-256"
+            "Ottawa 67's": "+198",
+            "Oshawa Generals": "-254"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Sarnia Sting": "+145",
-            "Soo Greyhounds": "-181"
+            "Sarnia Sting": "+144",
+            "Soo Greyhounds": "-180"
         },
         "game_time": "7:05 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-115",
+            "Guelph Storm": "-116",
             "Owen Sound Attack": "-107"
         },
         "game_time": "7:07 pm"
