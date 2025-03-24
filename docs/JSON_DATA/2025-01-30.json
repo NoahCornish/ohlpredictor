@@ -24,8 +24,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Peterborough Petes": "+503",
-            "Brampton Steelheads": "-784"
+            "Peterborough Petes": "+502",
+            "Brampton Steelheads": "-781"
         },
         "game_time": "7:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Saginaw Spirit": "-103",
-            "Kingston Frontenacs": "-120"
+            "Saginaw Spirit": "-104",
+            "Kingston Frontenacs": "-119"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-223",
-            "Flint Firebirds": "+176"
+            "Windsor Spitfires": "-224",
+            "Flint Firebirds": "+177"
         },
         "game_time": "7:05 pm"
     }

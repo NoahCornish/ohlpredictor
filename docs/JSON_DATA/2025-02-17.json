@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-233",
-            "Flint Firebirds": "+183"
+            "London Knights": "-235",
+            "Flint Firebirds": "+184"
         },
         "game_time": "2:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Erie Otters",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-133",
-            "Erie Otters": "+108"
+            "Oshawa Generals": "-135",
+            "Erie Otters": "+109"
         },
         "game_time": "2:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Sarnia Sting": "+242",
-            "Saginaw Spirit": "-317"
+            "Sarnia Sting": "+243",
+            "Saginaw Spirit": "-318"
         },
         "game_time": "2:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Peterborough Petes": "+401",
-            "Kitchener Rangers": "-580"
+            "Peterborough Petes": "+399",
+            "Kitchener Rangers": "-577"
         },
         "game_time": "3:05 pm"
     }
