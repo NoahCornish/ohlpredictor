@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-139",
+            "Niagara IceDogs": "+112"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Soo Greyhounds",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-207",
+            "Soo Greyhounds": "+164"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Erie Otters",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-160",
+            "Erie Otters": "+129"
+        },
+        "game_time": "7:05 pm"
+    }
+]
