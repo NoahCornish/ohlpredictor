@@ -1412,8 +1412,8 @@
         "home_score": 1,
         "away_score": 7,
         "odds": {
-            "Peterborough Petes": "+478",
-            "Windsor Spitfires": "-731"
+            "Peterborough Petes": "+479",
+            "Windsor Spitfires": "-733"
         }
     },
     {
@@ -1582,7 +1582,7 @@
         "away_score": 4,
         "odds": {
             "Ottawa 67's": "+243",
-            "Windsor Spitfires": "-318"
+            "Windsor Spitfires": "-319"
         }
     },
     {
@@ -1959,7 +1959,7 @@
         "away_score": 5,
         "odds": {
             "Windsor Spitfires": "-178",
-            "Erie Otters": "+142"
+            "Erie Otters": "+143"
         }
     },
     {
@@ -2050,7 +2050,7 @@
         "away_score": 3,
         "odds": {
             "Windsor Spitfires": "-207",
-            "Soo Greyhounds": "+164"
+            "Soo Greyhounds": "+165"
         }
     },
     {
@@ -2584,6 +2584,32 @@
         "odds": {
             "Oshawa Generals": "-509",
             "Peterborough Petes": "+361"
+        }
+    },
+    {
+        "date": "2025-03-27",
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "predicted_winner": "Barrie Colts",
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 1,
+        "away_score": 1,
+        "odds": {
+            "Barrie Colts": "-139",
+            "Niagara IceDogs": "+112"
+        }
+    },
+    {
+        "date": "2025-03-27",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Soo Greyhounds",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 2,
+        "away_score": 0,
+        "odds": {
+            "Windsor Spitfires": "-207",
+            "Soo Greyhounds": "+165"
         }
     }
 ]
