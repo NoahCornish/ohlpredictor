@@ -2242,33 +2242,33 @@
         },
         {
             "date": "2025-03-27",
-            "accuracy": 50.0,
-            "correct_predictions": 1,
-            "total_games": 2,
+            "accuracy": 66.7,
+            "correct_predictions": 2,
+            "total_games": 3,
             "game_details": [
                 {
                     "home_team": "Barrie Colts",
                     "away_team": "Niagara IceDogs",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Niagara IceDogs",
-                    "home_score": 1,
-                    "away_score": 1
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 4,
+                    "away_score": 2
                 },
                 {
                     "home_team": "Windsor Spitfires",
                     "away_team": "Soo Greyhounds",
                     "predicted_winner": "Windsor Spitfires",
                     "actual_winner": "Windsor Spitfires",
-                    "home_score": 2,
-                    "away_score": 0
+                    "home_score": 7,
+                    "away_score": 2
                 },
                 {
                     "home_team": "Saginaw Spirit",
                     "away_team": "Erie Otters",
                     "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Erie Otters",
+                    "home_score": 5,
+                    "away_score": 8
                 }
             ]
         },
@@ -2319,15 +2319,39 @@
                     "away_score": 0
                 }
             ]
+        },
+        {
+            "date": "2025-03-29",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Windsor Spitfires",
+                    "away_team": "Soo Greyhounds",
+                    "predicted_winner": "Windsor Spitfires",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Saginaw Spirit",
+                    "away_team": "Erie Otters",
+                    "predicted_winner": "Saginaw Spirit",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
         }
     ],
-    "total_accuracy": 66.2,
+    "total_accuracy": 66.4,
     "tossup_accuracy": 48.5,
-    "non_tossup_accuracy": 69.2,
-    "total_correct": 155,
-    "total_games": 234,
+    "non_tossup_accuracy": 69.3,
+    "total_correct": 156,
+    "total_games": 235,
     "tossup_correct": 16,
     "tossup_games": 33,
-    "non_tossup_correct": 139,
-    "non_tossup_games": 201
+    "non_tossup_correct": 140,
+    "non_tossup_games": 202
 }
