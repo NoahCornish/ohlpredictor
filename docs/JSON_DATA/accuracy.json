@@ -2274,8 +2274,8 @@
         },
         {
             "date": "2025-03-28",
-            "accuracy": 60.0,
-            "correct_predictions": 3,
+            "accuracy": 80.0,
+            "correct_predictions": 4,
             "total_games": 5,
             "game_details": [
                 {
@@ -2283,40 +2283,40 @@
                     "away_team": "North Bay Battalion",
                     "predicted_winner": "Brantford Bulldogs",
                     "actual_winner": "Brantford Bulldogs",
-                    "home_score": 3,
-                    "away_score": 0
+                    "home_score": 6,
+                    "away_score": 3
                 },
                 {
                     "home_team": "Kingston Frontenacs",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Kingston Frontenacs",
                     "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
-                    "away_score": 0
+                    "home_score": 4,
+                    "away_score": 1
                 },
                 {
                     "home_team": "London Knights",
                     "away_team": "Owen Sound Attack",
                     "predicted_winner": "London Knights",
                     "actual_winner": "London Knights",
-                    "home_score": 3,
-                    "away_score": 0
+                    "home_score": 6,
+                    "away_score": 1
                 },
                 {
                     "home_team": "Kitchener Rangers",
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 0,
-                    "away_score": 1
+                    "actual_winner": "Kitchener Rangers",
+                    "home_score": 4,
+                    "away_score": 3
                 },
                 {
                     "home_team": "Oshawa Generals",
                     "away_team": "Brampton Steelheads",
                     "predicted_winner": "Brampton Steelheads",
                     "actual_winner": "Oshawa Generals",
-                    "home_score": 4,
-                    "away_score": 1
+                    "home_score": 7,
+                    "away_score": 4
                 }
             ]
         },
@@ -2343,15 +2343,63 @@
                     "away_score": 0
                 }
             ]
+        },
+        {
+            "date": "2025-03-30",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Kingston Frontenacs",
+                    "away_team": "Sudbury Wolves",
+                    "predicted_winner": "Kingston Frontenacs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "London Knights",
+                    "away_team": "Owen Sound Attack",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Kitchener Rangers",
+                    "away_team": "Flint Firebirds",
+                    "predicted_winner": "Kitchener Rangers",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Oshawa Generals",
+                    "away_team": "Brampton Steelheads",
+                    "predicted_winner": "Brampton Steelheads",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Brantford Bulldogs",
+                    "away_team": "North Bay Battalion",
+                    "predicted_winner": "Brantford Bulldogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
         }
     ],
-    "total_accuracy": 66.2,
+    "total_accuracy": 66.7,
     "tossup_accuracy": 48.5,
-    "non_tossup_accuracy": 69.1,
-    "total_correct": 159,
+    "non_tossup_accuracy": 69.6,
+    "total_correct": 160,
     "total_games": 240,
     "tossup_correct": 16,
     "tossup_games": 33,
-    "non_tossup_correct": 143,
+    "non_tossup_correct": 144,
     "non_tossup_games": 207
 }

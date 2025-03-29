@@ -22,7 +22,7 @@
         "away_score": 5,
         "odds": {
             "Soo Greyhounds": "+123",
-            "Kitchener Rangers": "-152"
+            "Kitchener Rangers": "-153"
         }
     },
     {
@@ -73,7 +73,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Windsor Spitfires": "-210",
+            "Windsor Spitfires": "-211",
             "Flint Firebirds": "+167"
         }
     },
@@ -99,7 +99,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "+124",
+            "Flint Firebirds": "+125",
             "Kitchener Rangers": "-155"
         }
     },
@@ -489,8 +489,8 @@
         "home_score": 1,
         "away_score": 9,
         "odds": {
-            "Niagara IceDogs": "+120",
-            "Kitchener Rangers": "-149"
+            "Niagara IceDogs": "+121",
+            "Kitchener Rangers": "-150"
         }
     },
     {
@@ -568,7 +568,7 @@
         "away_score": 5,
         "odds": {
             "Ottawa 67's": "+132",
-            "Flint Firebirds": "-165"
+            "Flint Firebirds": "-164"
         }
     },
     {
@@ -880,7 +880,7 @@
         "away_score": 5,
         "odds": {
             "Ottawa 67's": "+182",
-            "Kitchener Rangers": "-231"
+            "Kitchener Rangers": "-232"
         }
     },
     {
@@ -918,8 +918,8 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "London Knights": "-231",
-            "Flint Firebirds": "+182"
+            "London Knights": "-232",
+            "Flint Firebirds": "+183"
         }
     },
     {
@@ -983,8 +983,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+359",
-            "Kitchener Rangers": "-505"
+            "Peterborough Petes": "+360",
+            "Kitchener Rangers": "-506"
         }
     },
     {
@@ -1074,7 +1074,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Flint Firebirds": "-178",
+            "Flint Firebirds": "-177",
             "North Bay Battalion": "+142"
         }
     },
@@ -1205,7 +1205,7 @@
         "away_score": 4,
         "odds": {
             "Flint Firebirds": "+167",
-            "Windsor Spitfires": "-210"
+            "Windsor Spitfires": "-211"
         }
     },
     {
@@ -1308,8 +1308,8 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-204",
-            "Guelph Storm": "+162"
+            "Kitchener Rangers": "-205",
+            "Guelph Storm": "+163"
         }
     },
     {
@@ -1360,8 +1360,8 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "Flint Firebirds": "-177",
-            "Sarnia Sting": "+142"
+            "Flint Firebirds": "-176",
+            "Sarnia Sting": "+141"
         }
     },
     {
@@ -1841,8 +1841,8 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "Flint Firebirds": "-177",
-            "Sarnia Sting": "+142"
+            "Flint Firebirds": "-176",
+            "Sarnia Sting": "+141"
         }
     },
     {
@@ -1867,8 +1867,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-204",
-            "Guelph Storm": "+162"
+            "Kitchener Rangers": "-205",
+            "Guelph Storm": "+163"
         }
     },
     {
@@ -1998,7 +1998,7 @@
         "away_score": 3,
         "odds": {
             "Owen Sound Attack": "+121",
-            "Flint Firebirds": "-151"
+            "Flint Firebirds": "-150"
         }
     },
     {
@@ -2426,8 +2426,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Sarnia Sting": "+142",
-            "Flint Firebirds": "-177"
+            "Sarnia Sting": "+141",
+            "Flint Firebirds": "-176"
         }
     },
     {
@@ -2530,8 +2530,8 @@
         "home_score": 2,
         "away_score": 0,
         "odds": {
-            "Guelph Storm": "+162",
-            "Kitchener Rangers": "-204"
+            "Guelph Storm": "+163",
+            "Kitchener Rangers": "-205"
         }
     },
     {
@@ -2631,8 +2631,8 @@
         "away_team": "North Bay Battalion",
         "predicted_winner": "Brantford Bulldogs",
         "actual_winner": "Brantford Bulldogs",
-        "home_score": 3,
-        "away_score": 0,
+        "home_score": 6,
+        "away_score": 3,
         "odds": {
             "Brantford Bulldogs": "-302",
             "North Bay Battalion": "+232"
@@ -2644,8 +2644,8 @@
         "away_team": "Sudbury Wolves",
         "predicted_winner": "Kingston Frontenacs",
         "actual_winner": "Kingston Frontenacs",
-        "home_score": 2,
-        "away_score": 0,
+        "home_score": 4,
+        "away_score": 1,
         "odds": {
             "Kingston Frontenacs": "-187",
             "Sudbury Wolves": "+149"
@@ -2657,8 +2657,8 @@
         "away_team": "Owen Sound Attack",
         "predicted_winner": "London Knights",
         "actual_winner": "London Knights",
-        "home_score": 3,
-        "away_score": 0,
+        "home_score": 6,
+        "away_score": 1,
         "odds": {
             "London Knights": "-320",
             "Owen Sound Attack": "+244"
@@ -2669,12 +2669,12 @@
         "home_team": "Kitchener Rangers",
         "away_team": "Flint Firebirds",
         "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 0,
-        "away_score": 1,
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 4,
+        "away_score": 3,
         "odds": {
             "Kitchener Rangers": "-155",
-            "Flint Firebirds": "+124"
+            "Flint Firebirds": "+125"
         }
     },
     {
@@ -2683,8 +2683,8 @@
         "away_team": "Brampton Steelheads",
         "predicted_winner": "Brampton Steelheads",
         "actual_winner": "Oshawa Generals",
-        "home_score": 4,
-        "away_score": 1,
+        "home_score": 7,
+        "away_score": 4,
         "odds": {
             "Oshawa Generals": "+114",
             "Brampton Steelheads": "-141"
