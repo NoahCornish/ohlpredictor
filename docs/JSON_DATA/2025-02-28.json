@@ -5,7 +5,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Brantford Bulldogs": "-132",
-            "Oshawa Generals": "+106"
+            "Oshawa Generals": "+107"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Kingston Frontenacs": "-110",
-            "Windsor Spitfires": "-112"
+            "Windsor Spitfires": "-113"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-249",
-            "Sarnia Sting": "+195"
+            "Kitchener Rangers": "-250",
+            "Sarnia Sting": "+196"
         },
         "game_time": "7:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Soo Greyhounds": "+156",
+            "Soo Greyhounds": "+155",
             "Brampton Steelheads": "-195"
         },
         "game_time": "7:07 pm"

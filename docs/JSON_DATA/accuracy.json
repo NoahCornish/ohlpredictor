@@ -2322,25 +2322,25 @@
         },
         {
             "date": "2025-03-29",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 50.0,
+            "correct_predictions": 1,
+            "total_games": 2,
             "game_details": [
                 {
                     "home_team": "Windsor Spitfires",
                     "away_team": "Soo Greyhounds",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Windsor Spitfires",
+                    "home_score": 2,
+                    "away_score": 1
                 },
                 {
                     "home_team": "Saginaw Spirit",
                     "away_team": "Erie Otters",
                     "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Erie Otters",
+                    "home_score": 2,
+                    "away_score": 2
                 }
             ]
         },
@@ -2393,13 +2393,13 @@
             ]
         }
     ],
-    "total_accuracy": 66.7,
-    "tossup_accuracy": 48.5,
-    "non_tossup_accuracy": 69.6,
-    "total_correct": 160,
-    "total_games": 240,
-    "tossup_correct": 16,
-    "tossup_games": 33,
-    "non_tossup_correct": 144,
-    "non_tossup_games": 207
+    "total_accuracy": 66.5,
+    "tossup_accuracy": 50.0,
+    "non_tossup_accuracy": 68.7,
+    "total_correct": 161,
+    "total_games": 242,
+    "tossup_correct": 14,
+    "tossup_games": 28,
+    "non_tossup_correct": 147,
+    "non_tossup_games": 214
 }

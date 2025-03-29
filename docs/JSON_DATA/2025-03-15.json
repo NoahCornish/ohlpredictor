@@ -35,7 +35,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Peterborough Petes": "+289",
-            "Sudbury Wolves": "-390"
+            "Sudbury Wolves": "-389"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Saginaw Spirit": "-100",
-            "Windsor Spitfires": "-123"
+            "Saginaw Spirit": "+100",
+            "Windsor Spitfires": "-124"
         },
         "game_time": "7:05 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Barrie Colts": "-232",
-            "Sarnia Sting": "+182"
+            "Sarnia Sting": "+183"
         },
         "game_time": "7:30 pm"
     }
