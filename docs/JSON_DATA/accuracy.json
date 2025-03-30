@@ -2346,41 +2346,41 @@
         },
         {
             "date": "2025-03-30",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 100.0,
+            "correct_predictions": 4,
+            "total_games": 4,
             "game_details": [
                 {
                     "home_team": "Kingston Frontenacs",
                     "away_team": "Sudbury Wolves",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Kingston Frontenacs",
+                    "home_score": 4,
+                    "away_score": 3
                 },
                 {
                     "home_team": "London Knights",
                     "away_team": "Owen Sound Attack",
                     "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "London Knights",
+                    "home_score": 6,
+                    "away_score": 3
                 },
                 {
                     "home_team": "Kitchener Rangers",
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Kitchener Rangers",
+                    "home_score": 6,
+                    "away_score": 1
                 },
                 {
                     "home_team": "Oshawa Generals",
                     "away_team": "Brampton Steelheads",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
+                    "actual_winner": "Brampton Steelheads",
                     "home_score": 0,
-                    "away_score": 0
+                    "away_score": 2
                 },
                 {
                     "home_team": "Brantford Bulldogs",
@@ -2417,13 +2417,13 @@
             ]
         }
     ],
-    "total_accuracy": 66.5,
-    "tossup_accuracy": 50.0,
-    "non_tossup_accuracy": 68.7,
-    "total_correct": 161,
-    "total_games": 242,
-    "tossup_correct": 14,
-    "tossup_games": 28,
-    "non_tossup_correct": 147,
-    "non_tossup_games": 214
+    "total_accuracy": 67.1,
+    "tossup_accuracy": 51.7,
+    "non_tossup_accuracy": 69.1,
+    "total_correct": 165,
+    "total_games": 246,
+    "tossup_correct": 15,
+    "tossup_games": 29,
+    "non_tossup_correct": 150,
+    "non_tossup_games": 217
 }

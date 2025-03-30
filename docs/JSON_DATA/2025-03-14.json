@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-719",
-            "Peterborough Petes": "+472"
+            "Kingston Frontenacs": "-720",
+            "Peterborough Petes": "+473"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-251",
-            "North Bay Battalion": "+196"
+            "Kitchener Rangers": "-252",
+            "North Bay Battalion": "+197"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-135",
-            "Saginaw Spirit": "+109"
+            "London Knights": "-136",
+            "Saginaw Spirit": "+110"
         },
         "game_time": "7:00 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Guelph Storm",
         "odds": {
             "Guelph Storm": "-114",
-            "Owen Sound Attack": "-108"
+            "Owen Sound Attack": "-109"
         },
         "game_time": "7:07 pm"
     }

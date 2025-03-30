@@ -47,7 +47,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-102",
+            "Windsor Spitfires": "-101",
             "London Knights": "-122"
         }
     },
@@ -100,7 +100,7 @@
         "away_score": 4,
         "odds": {
             "Erie Otters": "-118",
-            "Sudbury Wolves": "-105"
+            "Sudbury Wolves": "-104"
         }
     },
     {
@@ -114,6 +114,19 @@
         "odds": {
             "Kitchener Rangers": "-111",
             "Oshawa Generals": "-111"
+        }
+    },
+    {
+        "date": "2025-02-14",
+        "home_team": "Flint Firebirds",
+        "away_team": "Sudbury Wolves",
+        "predicted_winner": "Sudbury Wolves",
+        "actual_winner": "Sudbury Wolves",
+        "home_score": 2,
+        "away_score": 3,
+        "odds": {
+            "Flint Firebirds": "-100",
+            "Sudbury Wolves": "-123"
         }
     },
     {
@@ -138,7 +151,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-119",
+            "Kitchener Rangers": "-120",
             "Barrie Colts": "-103"
         }
     },
@@ -152,7 +165,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "-112",
-            "North Bay Battalion": "-111"
+            "North Bay Battalion": "-110"
         }
     },
     {
@@ -178,7 +191,7 @@
         "away_score": 2,
         "odds": {
             "Kingston Frontenacs": "-110",
-            "Windsor Spitfires": "-113"
+            "Windsor Spitfires": "-112"
         }
     },
     {
@@ -216,7 +229,7 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-113",
+            "Windsor Spitfires": "-112",
             "Kingston Frontenacs": "-110"
         }
     },
@@ -269,7 +282,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "-114",
-            "Owen Sound Attack": "-108"
+            "Owen Sound Attack": "-109"
         }
     },
     {
@@ -294,7 +307,7 @@
         "home_score": 8,
         "away_score": 5,
         "odds": {
-            "Windsor Spitfires": "-102",
+            "Windsor Spitfires": "-101",
             "London Knights": "-122"
         }
     },
@@ -334,7 +347,7 @@
         "away_score": 2,
         "odds": {
             "London Knights": "-122",
-            "Windsor Spitfires": "-102"
+            "Windsor Spitfires": "-101"
         }
     },
     {
@@ -346,7 +359,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "-108",
+            "Owen Sound Attack": "-109",
             "Guelph Storm": "-114"
         }
     },

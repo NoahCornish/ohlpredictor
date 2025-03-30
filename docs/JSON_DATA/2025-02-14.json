@@ -14,8 +14,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Flint Firebirds": "+100",
-            "Sudbury Wolves": "-124"
+            "Flint Firebirds": "-100",
+            "Sudbury Wolves": "-123"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Kingston Frontenacs": "-148",
-            "Kitchener Rangers": "+120"
+            "Kitchener Rangers": "+119"
         },
         "game_time": "7:00 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Guelph Storm": "+164",
-            "Oshawa Generals": "-206"
+            "Oshawa Generals": "-207"
         },
         "game_time": "7:07 pm"
     }
