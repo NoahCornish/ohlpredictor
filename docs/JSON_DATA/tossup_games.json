@@ -34,7 +34,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-121",
+            "Owen Sound Attack": "-122",
             "Ottawa 67's": "-102"
         }
     },
@@ -47,7 +47,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-101",
+            "Windsor Spitfires": "-102",
             "London Knights": "-122"
         }
     },
@@ -73,7 +73,7 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Niagara IceDogs": "-104",
+            "Niagara IceDogs": "-103",
             "Sudbury Wolves": "-119"
         }
     },
@@ -151,7 +151,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-120",
+            "Kitchener Rangers": "-119",
             "Barrie Colts": "-103"
         }
     },
@@ -217,7 +217,7 @@
         "away_score": 2,
         "odds": {
             "Sudbury Wolves": "-119",
-            "Niagara IceDogs": "-104"
+            "Niagara IceDogs": "-103"
         }
     },
     {
@@ -307,7 +307,7 @@
         "home_score": 8,
         "away_score": 5,
         "odds": {
-            "Windsor Spitfires": "-101",
+            "Windsor Spitfires": "-102",
             "London Knights": "-122"
         }
     },
@@ -347,7 +347,7 @@
         "away_score": 2,
         "odds": {
             "London Knights": "-122",
-            "Windsor Spitfires": "-101"
+            "Windsor Spitfires": "-102"
         }
     },
     {
