@@ -48,7 +48,7 @@
         "away_score": 3,
         "odds": {
             "North Bay Battalion": "+233",
-            "Brantford Bulldogs": "-303"
+            "Brantford Bulldogs": "-304"
         }
     },
     {
@@ -151,7 +151,7 @@
         "home_score": 4,
         "away_score": 6,
         "odds": {
-            "Soo Greyhounds": "+145",
+            "Soo Greyhounds": "+146",
             "Brantford Bulldogs": "-182"
         }
     },
@@ -256,7 +256,7 @@
         "away_score": 9,
         "odds": {
             "Sudbury Wolves": "+134",
-            "Brantford Bulldogs": "-166"
+            "Brantford Bulldogs": "-167"
         }
     },
     {
@@ -346,7 +346,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-166",
+            "Brantford Bulldogs": "-167",
             "Sudbury Wolves": "+134"
         }
     },
@@ -932,7 +932,7 @@
         "away_score": 6,
         "odds": {
             "Brantford Bulldogs": "-182",
-            "Soo Greyhounds": "+145"
+            "Soo Greyhounds": "+146"
         }
     },
     {
@@ -1062,7 +1062,7 @@
         "away_score": 4,
         "odds": {
             "Peterborough Petes": "+424",
-            "Brantford Bulldogs": "-623"
+            "Brantford Bulldogs": "-624"
         }
     },
     {
@@ -1269,8 +1269,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+215",
-            "Brantford Bulldogs": "-278"
+            "Ottawa 67's": "+216",
+            "Brantford Bulldogs": "-279"
         }
     },
     {
@@ -1465,7 +1465,7 @@
         "away_score": 3,
         "odds": {
             "Brantford Bulldogs": "-132",
-            "Oshawa Generals": "+106"
+            "Oshawa Generals": "+107"
         }
     },
     {
@@ -1542,7 +1542,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-623",
+            "Brantford Bulldogs": "-624",
             "Peterborough Petes": "+424"
         }
     },
@@ -1698,7 +1698,7 @@
         "home_score": 0,
         "away_score": 5,
         "odds": {
-            "Brantford Bulldogs": "+112",
+            "Brantford Bulldogs": "+111",
             "London Knights": "-138"
         }
     },
@@ -1790,7 +1790,7 @@
         "away_score": 4,
         "odds": {
             "Flint Firebirds": "+148",
-            "Brantford Bulldogs": "-185"
+            "Brantford Bulldogs": "-186"
         }
     },
     {
@@ -2076,7 +2076,7 @@
         "away_score": 2,
         "odds": {
             "North Bay Battalion": "+233",
-            "Brantford Bulldogs": "-303"
+            "Brantford Bulldogs": "-304"
         }
     },
     {
@@ -2180,7 +2180,7 @@
         "away_score": 5,
         "odds": {
             "Sudbury Wolves": "+134",
-            "Brantford Bulldogs": "-166"
+            "Brantford Bulldogs": "-167"
         }
     },
     {
@@ -2556,8 +2556,8 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-278",
-            "Ottawa 67's": "+215"
+            "Brantford Bulldogs": "-279",
+            "Ottawa 67's": "+216"
         }
     },
     {
@@ -2686,7 +2686,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-303",
+            "Brantford Bulldogs": "-304",
             "North Bay Battalion": "+233"
         }
     },
@@ -2813,11 +2813,24 @@
         "away_team": "Brampton Steelheads",
         "predicted_winner": "Brampton Steelheads",
         "actual_winner": "Brampton Steelheads",
-        "home_score": 0,
-        "away_score": 2,
+        "home_score": 1,
+        "away_score": 3,
         "odds": {
             "Oshawa Generals": "+114",
             "Brampton Steelheads": "-141"
+        }
+    },
+    {
+        "date": "2025-03-30",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "North Bay Battalion",
+        "predicted_winner": "Brantford Bulldogs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 3,
+        "away_score": 0,
+        "odds": {
+            "Brantford Bulldogs": "-304",
+            "North Bay Battalion": "+233"
         }
     }
 ]
