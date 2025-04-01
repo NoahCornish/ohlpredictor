@@ -1,15 +1,5 @@
 [
     {
-        "home_team": "Barrie Colts",
-        "away_team": "Niagara IceDogs",
-        "winner": "Barrie Colts",
-        "odds": {
-            "Barrie Colts": "-140",
-            "Niagara IceDogs": "+113"
-        },
-        "game_time": "7:00 pm"
-    },
-    {
         "home_team": "Soo Greyhounds",
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",

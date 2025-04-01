@@ -22,7 +22,7 @@
         "away_score": 5,
         "odds": {
             "Soo Greyhounds": "+123",
-            "Kitchener Rangers": "-153"
+            "Kitchener Rangers": "-152"
         }
     },
     {
@@ -73,8 +73,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Windsor Spitfires": "-212",
-            "Flint Firebirds": "+168"
+            "Windsor Spitfires": "-211",
+            "Flint Firebirds": "+167"
         }
     },
     {
@@ -151,7 +151,7 @@
         "home_score": 4,
         "away_score": 6,
         "odds": {
-            "Soo Greyhounds": "+146",
+            "Soo Greyhounds": "+145",
             "Brantford Bulldogs": "-182"
         }
     },
@@ -386,7 +386,7 @@
         "away_score": 7,
         "odds": {
             "North Bay Battalion": "+145",
-            "Soo Greyhounds": "-181"
+            "Soo Greyhounds": "-182"
         }
     },
     {
@@ -749,8 +749,8 @@
         "home_score": 7,
         "away_score": 3,
         "odds": {
-            "London Knights": "-228",
-            "Soo Greyhounds": "+180"
+            "London Knights": "-227",
+            "Soo Greyhounds": "+179"
         }
     },
     {
@@ -932,7 +932,7 @@
         "away_score": 6,
         "odds": {
             "Brantford Bulldogs": "-182",
-            "Soo Greyhounds": "+146"
+            "Soo Greyhounds": "+145"
         }
     },
     {
@@ -984,7 +984,7 @@
         "away_score": 1,
         "odds": {
             "Windsor Spitfires": "-290",
-            "Owen Sound Attack": "+224"
+            "Owen Sound Attack": "+223"
         }
     },
     {
@@ -1230,8 +1230,8 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Flint Firebirds": "+168",
-            "Windsor Spitfires": "-212"
+            "Flint Firebirds": "+167",
+            "Windsor Spitfires": "-211"
         }
     },
     {
@@ -1360,7 +1360,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-181",
+            "Soo Greyhounds": "-182",
             "North Bay Battalion": "+145"
         }
     },
@@ -1451,8 +1451,8 @@
         "home_score": 1,
         "away_score": 7,
         "odds": {
-            "Peterborough Petes": "+479",
-            "Windsor Spitfires": "-732"
+            "Peterborough Petes": "+478",
+            "Windsor Spitfires": "-731"
         }
     },
     {
@@ -1530,7 +1530,7 @@
         "away_score": 6,
         "odds": {
             "Soo Greyhounds": "+155",
-            "Brampton Steelheads": "-195"
+            "Brampton Steelheads": "-194"
         }
     },
     {
@@ -2088,8 +2088,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-208",
-            "Soo Greyhounds": "+165"
+            "Windsor Spitfires": "-207",
+            "Soo Greyhounds": "+164"
         }
     },
     {
@@ -2660,8 +2660,8 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-208",
-            "Soo Greyhounds": "+165"
+            "Windsor Spitfires": "-207",
+            "Soo Greyhounds": "+164"
         }
     },
     {
@@ -2751,8 +2751,8 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-208",
-            "Soo Greyhounds": "+165"
+            "Windsor Spitfires": "-207",
+            "Soo Greyhounds": "+164"
         }
     },
     {
@@ -2839,8 +2839,8 @@
         "away_team": "Niagara IceDogs",
         "predicted_winner": "Barrie Colts",
         "actual_winner": "Barrie Colts",
-        "home_score": 3,
-        "away_score": 1,
+        "home_score": 7,
+        "away_score": 5,
         "odds": {
             "Barrie Colts": "-140",
             "Niagara IceDogs": "+113"
@@ -2851,12 +2851,12 @@
         "home_team": "Soo Greyhounds",
         "away_team": "Windsor Spitfires",
         "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 0,
-        "away_score": 1,
+        "actual_winner": "Soo Greyhounds",
+        "home_score": 3,
+        "away_score": 2,
         "odds": {
-            "Soo Greyhounds": "+165",
-            "Windsor Spitfires": "-208"
+            "Soo Greyhounds": "+164",
+            "Windsor Spitfires": "-207"
         }
     }
 ]
