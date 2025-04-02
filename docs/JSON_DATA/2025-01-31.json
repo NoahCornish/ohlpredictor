@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-675",
-            "Peterborough Petes": "+451"
+            "Brampton Steelheads": "-674",
+            "Peterborough Petes": "+450"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Flint Firebirds": "+125",
-            "Kitchener Rangers": "-155"
+            "Kitchener Rangers": "-156"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Erie Otters",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-195",
+            "London Knights": "-196",
             "Erie Otters": "+156"
         },
         "game_time": "7:00 pm"
@@ -44,7 +44,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-199",
+            "Sudbury Wolves": "-198",
             "North Bay Battalion": "+158"
         },
         "game_time": "7:05 pm"
@@ -64,7 +64,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Soo Greyhounds": "+145",
+            "Soo Greyhounds": "+146",
             "Brantford Bulldogs": "-182"
         },
         "game_time": "7:07 pm"

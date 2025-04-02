@@ -34,7 +34,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-122",
+            "Owen Sound Attack": "-121",
             "Ottawa 67's": "-102"
         }
     },
@@ -49,19 +49,6 @@
         "odds": {
             "Windsor Spitfires": "-101",
             "London Knights": "-122"
-        }
-    },
-    {
-        "date": "2025-02-05",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Saginaw Spirit",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Saginaw Spirit",
-        "home_score": 3,
-        "away_score": 6,
-        "odds": {
-            "Windsor Spitfires": "-123",
-            "Saginaw Spirit": "-100"
         }
     },
     {
@@ -143,19 +130,6 @@
         }
     },
     {
-        "date": "2025-02-14",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Saginaw Spirit",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Saginaw Spirit": "-100",
-            "Windsor Spitfires": "-123"
-        }
-    },
-    {
         "date": "2025-02-17",
         "home_team": "Ottawa 67's",
         "away_team": "North Bay Battalion",
@@ -178,7 +152,7 @@
         "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-119",
-            "Barrie Colts": "-104"
+            "Barrie Colts": "-103"
         }
     },
     {
@@ -192,19 +166,6 @@
         "odds": {
             "Sarnia Sting": "-112",
             "North Bay Battalion": "-110"
-        }
-    },
-    {
-        "date": "2025-02-23",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Saginaw Spirit",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 7,
-        "away_score": 3,
-        "odds": {
-            "Windsor Spitfires": "-123",
-            "Saginaw Spirit": "-100"
         }
     },
     {
@@ -321,7 +282,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "-114",
-            "Owen Sound Attack": "-109"
+            "Owen Sound Attack": "-108"
         }
     },
     {
@@ -335,19 +296,6 @@
         "odds": {
             "Flint Firebirds": "-109",
             "Soo Greyhounds": "-113"
-        }
-    },
-    {
-        "date": "2025-03-15",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Saginaw Spirit",
-        "home_score": 6,
-        "away_score": 5,
-        "odds": {
-            "Saginaw Spirit": "-100",
-            "Windsor Spitfires": "-123"
         }
     },
     {
@@ -411,7 +359,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "-109",
+            "Owen Sound Attack": "-108",
             "Guelph Storm": "-114"
         }
     },

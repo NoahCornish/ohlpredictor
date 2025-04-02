@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-822",
-            "Peterborough Petes": "+521"
+            "London Knights": "-821",
+            "Peterborough Petes": "+520"
         },
         "game_time": "7:00 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-233",
+            "Oshawa Generals": "-234",
             "Ottawa 67's": "+184"
         },
         "game_time": "7:05 pm"
@@ -75,7 +75,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Windsor Spitfires": "-345",
-            "Sarnia Sting": "+261"
+            "Sarnia Sting": "+260"
         },
         "game_time": "7:05 pm"
     },
