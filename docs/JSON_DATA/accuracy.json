@@ -2418,65 +2418,65 @@
         },
         {
             "date": "2025-04-01",
-            "accuracy": 60.0,
-            "correct_predictions": 3,
-            "total_games": 5,
+            "accuracy": 57.1,
+            "correct_predictions": 4,
+            "total_games": 7,
             "game_details": [
                 {
                     "home_team": "North Bay Battalion",
                     "away_team": "Brantford Bulldogs",
                     "predicted_winner": "Brantford Bulldogs",
                     "actual_winner": "Brantford Bulldogs",
-                    "home_score": 0,
-                    "away_score": 1
+                    "home_score": 3,
+                    "away_score": 4
                 },
                 {
                     "home_team": "Niagara IceDogs",
                     "away_team": "Barrie Colts",
                     "predicted_winner": "Barrie Colts",
                     "actual_winner": "Niagara IceDogs",
-                    "home_score": 1,
-                    "away_score": 0
+                    "home_score": 6,
+                    "away_score": 4
                 },
                 {
                     "home_team": "Brampton Steelheads",
                     "away_team": "Oshawa Generals",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 2,
-                    "away_score": 1
+                    "actual_winner": "Oshawa Generals",
+                    "home_score": 5,
+                    "away_score": 7
                 },
                 {
                     "home_team": "Owen Sound Attack",
                     "away_team": "London Knights",
                     "predicted_winner": "London Knights",
                     "actual_winner": "London Knights",
-                    "home_score": 1,
-                    "away_score": 2
+                    "home_score": 4,
+                    "away_score": 7
                 },
                 {
                     "home_team": "Flint Firebirds",
                     "away_team": "Kitchener Rangers",
                     "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
+                    "actual_winner": "Flint Firebirds",
+                    "home_score": 2,
                     "away_score": 0
                 },
                 {
                     "home_team": "Erie Otters",
                     "away_team": "Saginaw Spirit",
                     "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 1,
-                    "away_score": 0
+                    "actual_winner": "Saginaw Spirit",
+                    "home_score": 2,
+                    "away_score": 3
                 },
                 {
                     "home_team": "Sudbury Wolves",
                     "away_team": "Kingston Frontenacs",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Kingston Frontenacs",
+                    "home_score": 2,
+                    "away_score": 4
                 }
             ]
         },
@@ -2495,15 +2495,79 @@
                     "away_score": 0
                 }
             ]
+        },
+        {
+            "date": "2025-04-03",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "North Bay Battalion",
+                    "away_team": "Brantford Bulldogs",
+                    "predicted_winner": "Brantford Bulldogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Niagara IceDogs",
+                    "away_team": "Barrie Colts",
+                    "predicted_winner": "Barrie Colts",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Brampton Steelheads",
+                    "away_team": "Oshawa Generals",
+                    "predicted_winner": "Brampton Steelheads",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Owen Sound Attack",
+                    "away_team": "London Knights",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Flint Firebirds",
+                    "away_team": "Kitchener Rangers",
+                    "predicted_winner": "Kitchener Rangers",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Erie Otters",
+                    "away_team": "Saginaw Spirit",
+                    "predicted_winner": "Saginaw Spirit",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Sudbury Wolves",
+                    "away_team": "Kingston Frontenacs",
+                    "predicted_winner": "Kingston Frontenacs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
         }
     ],
-    "total_accuracy": 66.9,
-    "tossup_accuracy": 51.7,
-    "non_tossup_accuracy": 68.9,
-    "total_correct": 170,
-    "total_games": 254,
-    "tossup_correct": 15,
-    "tossup_games": 29,
+    "total_accuracy": 66.8,
+    "tossup_accuracy": 48.5,
+    "non_tossup_accuracy": 69.5,
+    "total_correct": 171,
+    "total_games": 256,
+    "tossup_correct": 16,
+    "tossup_games": 33,
     "non_tossup_correct": 155,
-    "non_tossup_games": 225
+    "non_tossup_games": 223
 }

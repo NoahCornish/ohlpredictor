@@ -4,7 +4,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-676",
+            "Brampton Steelheads": "-675",
             "Peterborough Petes": "+451"
         },
         "game_time": "7:00 pm"
@@ -15,7 +15,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Flint Firebirds": "+125",
-            "Kitchener Rangers": "-156"
+            "Kitchener Rangers": "-155"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "London Knights",
         "odds": {
             "London Knights": "-195",
-            "Erie Otters": "+155"
+            "Erie Otters": "+156"
         },
         "game_time": "7:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Barrie Colts",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-119",
+            "Oshawa Generals": "-120",
             "Barrie Colts": "-103"
         },
         "game_time": "7:05 pm"
