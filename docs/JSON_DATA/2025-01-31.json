@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-674",
-            "Peterborough Petes": "+450"
+            "Brampton Steelheads": "-673",
+            "Peterborough Petes": "+449"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Flint Firebirds": "+125",
-            "Kitchener Rangers": "-155"
+            "Kitchener Rangers": "-156"
         },
         "game_time": "7:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Sudbury Wolves": "-198",
-            "North Bay Battalion": "+158"
+            "North Bay Battalion": "+157"
         },
         "game_time": "7:05 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-134",
+            "Guelph Storm": "-133",
             "Sarnia Sting": "+108"
         },
         "game_time": "7:07 pm"

@@ -14,7 +14,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-280",
+            "Brantford Bulldogs": "-281",
             "Ottawa 67's": "+217"
         },
         "game_time": "2:00 pm"
@@ -24,7 +24,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "North Bay Battalion": "+158",
+            "North Bay Battalion": "+157",
             "Sudbury Wolves": "-198"
         },
         "game_time": "2:00 pm"
@@ -64,8 +64,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-188",
-            "Flint Firebirds": "+150"
+            "Saginaw Spirit": "-189",
+            "Flint Firebirds": "+151"
         },
         "game_time": "5:30 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-507",
-            "Peterborough Petes": "+360"
+            "Oshawa Generals": "-508",
+            "Peterborough Petes": "+361"
         },
         "game_time": "6:05 pm"
     }
