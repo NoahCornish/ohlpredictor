@@ -477,7 +477,7 @@
         "away_score": 2,
         "odds": {
             "Windsor Spitfires": "-345",
-            "Sarnia Sting": "+260"
+            "Sarnia Sting": "+261"
         }
     },
     {
@@ -711,7 +711,7 @@
         "away_score": 2,
         "odds": {
             "Windsor Spitfires": "-345",
-            "Sarnia Sting": "+260"
+            "Sarnia Sting": "+261"
         }
     },
     {
@@ -983,7 +983,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-290",
+            "Windsor Spitfires": "-291",
             "Owen Sound Attack": "+224"
         }
     },
@@ -1152,7 +1152,7 @@
         "home_score": 6,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "+260",
+            "Sarnia Sting": "+261",
             "Windsor Spitfires": "-345"
         }
     },
@@ -1451,8 +1451,8 @@
         "home_score": 1,
         "away_score": 7,
         "odds": {
-            "Peterborough Petes": "+476",
-            "Windsor Spitfires": "-727"
+            "Peterborough Petes": "+477",
+            "Windsor Spitfires": "-728"
         }
     },
     {
@@ -1802,8 +1802,8 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "+120",
-            "Windsor Spitfires": "-149"
+            "Kitchener Rangers": "+121",
+            "Windsor Spitfires": "-150"
         }
     },
     {
@@ -2414,7 +2414,7 @@
         "away_score": 0,
         "odds": {
             "Windsor Spitfires": "-345",
-            "Sarnia Sting": "+260"
+            "Sarnia Sting": "+261"
         }
     },
     {
@@ -2957,7 +2957,7 @@
         "predicted_winner": "Windsor Spitfires",
         "actual_winner": "Windsor Spitfires",
         "home_score": 1,
-        "away_score": 1,
+        "away_score": 4,
         "odds": {
             "Soo Greyhounds": "+164",
             "Windsor Spitfires": "-207"

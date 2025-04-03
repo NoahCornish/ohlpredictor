@@ -2492,7 +2492,7 @@
                     "predicted_winner": "Windsor Spitfires",
                     "actual_winner": "Windsor Spitfires",
                     "home_score": 1,
-                    "away_score": 1
+                    "away_score": 4
                 }
             ]
         },
@@ -2554,6 +2554,46 @@
                     "home_team": "Sudbury Wolves",
                     "away_team": "Kingston Frontenacs",
                     "predicted_winner": "Kingston Frontenacs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
+        },
+        {
+            "date": "2025-04-04",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "London Knights",
+                    "away_team": "Owen Sound Attack",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Kitchener Rangers",
+                    "away_team": "Flint Firebirds",
+                    "predicted_winner": "Kitchener Rangers",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Oshawa Generals",
+                    "away_team": "Brampton Steelheads",
+                    "predicted_winner": "Brampton Steelheads",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Windsor Spitfires",
+                    "away_team": "Soo Greyhounds",
+                    "predicted_winner": "Windsor Spitfires",
                     "actual_winner": "Not Started",
                     "home_score": 0,
                     "away_score": 0
