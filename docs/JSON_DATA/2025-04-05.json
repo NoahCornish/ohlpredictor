@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Sudbury Wolves",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Kingston Frontenacs": "-188",
+            "Sudbury Wolves": "+150"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "North Bay Battalion",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-303",
+            "North Bay Battalion": "+233"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Erie Otters",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-159",
+            "Erie Otters": "+128"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-140",
+            "Niagara IceDogs": "+113"
+        },
+        "game_time": "7:30 pm"
+    }
+]
