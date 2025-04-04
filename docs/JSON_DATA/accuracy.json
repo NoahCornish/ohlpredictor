@@ -2562,33 +2562,33 @@
         },
         {
             "date": "2025-04-04",
-            "accuracy": 0,
-            "correct_predictions": 0,
-            "total_games": 0,
+            "accuracy": 66.7,
+            "correct_predictions": 2,
+            "total_games": 3,
             "game_details": [
                 {
                     "home_team": "Kitchener Rangers",
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Flint Firebirds",
+                    "home_score": 1,
+                    "away_score": 1
                 },
                 {
                     "home_team": "Oshawa Generals",
                     "away_team": "Brampton Steelheads",
                     "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Brampton Steelheads",
+                    "home_score": 1,
+                    "away_score": 1
                 },
                 {
                     "home_team": "Windsor Spitfires",
                     "away_team": "Soo Greyhounds",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Windsor Spitfires",
+                    "home_score": 6,
+                    "away_score": 2
                 }
             ]
         },
@@ -2628,10 +2628,10 @@
     "total_accuracy": 66.7,
     "tossup_accuracy": 51.7,
     "non_tossup_accuracy": 68.5,
-    "total_correct": 176,
-    "total_games": 264,
+    "total_correct": 178,
+    "total_games": 267,
     "tossup_correct": 15,
     "tossup_games": 29,
-    "non_tossup_correct": 161,
-    "non_tossup_games": 235
+    "non_tossup_correct": 163,
+    "non_tossup_games": 238
 }

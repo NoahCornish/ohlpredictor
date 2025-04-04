@@ -34,7 +34,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-122",
+            "Owen Sound Attack": "-123",
             "Ottawa 67's": "-101"
         }
     },
@@ -164,8 +164,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "-112",
-            "North Bay Battalion": "-110"
+            "Sarnia Sting": "-111",
+            "North Bay Battalion": "-111"
         }
     },
     {
@@ -294,7 +294,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Flint Firebirds": "-109",
+            "Flint Firebirds": "-108",
             "Soo Greyhounds": "-114"
         }
     },
@@ -320,7 +320,7 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Brantford Bulldogs": "-105",
+            "Brantford Bulldogs": "-104",
             "Brampton Steelheads": "-118"
         }
     },
