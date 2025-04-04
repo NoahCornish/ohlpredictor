@@ -8,7 +8,7 @@
         "home_score": 5,
         "away_score": 9,
         "odds": {
-            "Saginaw Spirit": "-101",
+            "Saginaw Spirit": "-100",
             "Kingston Frontenacs": "-123"
         }
     },
@@ -73,8 +73,8 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Niagara IceDogs": "-104",
-            "Sudbury Wolves": "-119"
+            "Niagara IceDogs": "-103",
+            "Sudbury Wolves": "-120"
         }
     },
     {
@@ -100,7 +100,7 @@
         "away_score": 4,
         "odds": {
             "Erie Otters": "-118",
-            "Sudbury Wolves": "-104"
+            "Sudbury Wolves": "-105"
         }
     },
     {
@@ -177,8 +177,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-103",
-            "Sudbury Wolves": "-120"
+            "Soo Greyhounds": "-102",
+            "Sudbury Wolves": "-121"
         }
     },
     {
@@ -216,8 +216,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Sudbury Wolves": "-119",
-            "Niagara IceDogs": "-104"
+            "Sudbury Wolves": "-120",
+            "Niagara IceDogs": "-103"
         }
     },
     {
@@ -282,7 +282,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "-114",
-            "Owen Sound Attack": "-108"
+            "Owen Sound Attack": "-109"
         }
     },
     {
@@ -333,8 +333,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "-120",
-            "Soo Greyhounds": "-103"
+            "Sudbury Wolves": "-121",
+            "Soo Greyhounds": "-102"
         }
     },
     {
@@ -359,7 +359,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "-108",
+            "Owen Sound Attack": "-109",
             "Guelph Storm": "-114"
         }
     },

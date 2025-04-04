@@ -24,7 +24,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-209",
+            "Kingston Frontenacs": "-210",
             "Flint Firebirds": "+166"
         },
         "game_time": "7:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-823",
-            "Peterborough Petes": "+521"
+            "London Knights": "-827",
+            "Peterborough Petes": "+523"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Niagara IceDogs": "-104",
-            "Sudbury Wolves": "-119"
+            "Niagara IceDogs": "-103",
+            "Sudbury Wolves": "-120"
         },
         "game_time": "7:00 pm"
     },

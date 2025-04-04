@@ -2567,14 +2567,6 @@
             "total_games": 0,
             "game_details": [
                 {
-                    "home_team": "London Knights",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
-                },
-                {
                     "home_team": "Kitchener Rangers",
                     "away_team": "Flint Firebirds",
                     "predicted_winner": "Kitchener Rangers",
@@ -2606,14 +2598,6 @@
             "correct_predictions": 0,
             "total_games": 0,
             "game_details": [
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
-                },
                 {
                     "home_team": "Brantford Bulldogs",
                     "away_team": "North Bay Battalion",

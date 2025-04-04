@@ -1,15 +1,5 @@
 [
     {
-        "home_team": "London Knights",
-        "away_team": "Owen Sound Attack",
-        "winner": "London Knights",
-        "odds": {
-            "London Knights": "-322",
-            "Owen Sound Attack": "+245"
-        },
-        "game_time": "7:00 pm"
-    },
-    {
         "home_team": "Kitchener Rangers",
         "away_team": "Flint Firebirds",
         "winner": "Kitchener Rangers",
