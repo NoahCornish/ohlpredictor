@@ -2639,14 +2639,6 @@
                     "away_score": 0
                 },
                 {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
-                },
-                {
                     "home_team": "North Bay Battalion",
                     "away_team": "Brantford Bulldogs",
                     "predicted_winner": "Brantford Bulldogs",
@@ -2658,14 +2650,6 @@
                     "home_team": "Niagara IceDogs",
                     "away_team": "Barrie Colts",
                     "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
                     "actual_winner": "Not Started",
                     "home_score": 0,
                     "away_score": 0
