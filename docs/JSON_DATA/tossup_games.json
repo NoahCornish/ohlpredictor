@@ -8,7 +8,7 @@
         "home_score": 5,
         "away_score": 9,
         "odds": {
-            "Saginaw Spirit": "-100",
+            "Saginaw Spirit": "-101",
             "Kingston Frontenacs": "-123"
         }
     },
@@ -60,7 +60,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-110",
+            "Brantford Bulldogs": "-109",
             "Saginaw Spirit": "-113"
         }
     },
@@ -151,7 +151,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-120",
+            "Kitchener Rangers": "-119",
             "Barrie Colts": "-103"
         }
     },
@@ -164,7 +164,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "-111",
+            "Sarnia Sting": "-112",
             "North Bay Battalion": "-111"
         }
     },
@@ -256,7 +256,7 @@
         "away_score": 11,
         "odds": {
             "Saginaw Spirit": "-113",
-            "Brantford Bulldogs": "-110"
+            "Brantford Bulldogs": "-109"
         }
     },
     {
@@ -294,7 +294,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Flint Firebirds": "-108",
+            "Flint Firebirds": "-109",
             "Soo Greyhounds": "-114"
         }
     },
