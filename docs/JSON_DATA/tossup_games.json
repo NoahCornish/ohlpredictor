@@ -21,7 +21,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-120",
+            "Oshawa Generals": "-119",
             "Barrie Colts": "-103"
         }
     },
@@ -34,7 +34,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-123",
+            "Owen Sound Attack": "-122",
             "Ottawa 67's": "-101"
         }
     },
@@ -100,7 +100,7 @@
         "away_score": 0,
         "odds": {
             "Brampton Steelheads": "-106",
-            "Kingston Frontenacs": "-117"
+            "Kingston Frontenacs": "-116"
         }
     },
     {
@@ -190,7 +190,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "-111",
+            "Sarnia Sting": "-112",
             "North Bay Battalion": "-111"
         }
     },
@@ -425,7 +425,7 @@
         "away_score": 1,
         "odds": {
             "Brampton Steelheads": "-106",
-            "Kingston Frontenacs": "-117"
+            "Kingston Frontenacs": "-116"
         }
     }
 ]

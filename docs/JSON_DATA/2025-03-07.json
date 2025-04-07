@@ -4,8 +4,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-324",
-            "North Bay Battalion": "+247"
+            "Brampton Steelheads": "-325",
+            "North Bay Battalion": "+248"
         },
         "game_time": "7:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Kitchener Rangers": "+121",
-            "Windsor Spitfires": "-150"
+            "Windsor Spitfires": "-149"
         },
         "game_time": "7:00 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-134",
+            "Guelph Storm": "-133",
             "Sarnia Sting": "+108"
         },
         "game_time": "7:07 pm"

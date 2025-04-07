@@ -5,7 +5,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Ottawa 67's": "+217",
-            "Brantford Bulldogs": "-281"
+            "Brantford Bulldogs": "-280"
         },
         "game_time": "2:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Sarnia Sting",
         "odds": {
-            "Sarnia Sting": "-111",
+            "Sarnia Sting": "-112",
             "North Bay Battalion": "-111"
         },
         "game_time": "2:05 pm"
@@ -44,7 +44,7 @@
         "away_team": "Kitchener Rangers",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-164",
             "Kitchener Rangers": "+132"
         },
         "game_time": "6:00 pm"

@@ -24,8 +24,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Peterborough Petes": "+471",
-            "Kingston Frontenacs": "-716"
+            "Peterborough Petes": "+469",
+            "Kingston Frontenacs": "-713"
         },
         "game_time": "7:05 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-170",
+            "Saginaw Spirit": "-169",
             "Sudbury Wolves": "+136"
         },
         "game_time": "7:05 pm"
@@ -45,7 +45,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "Sarnia Sting": "+145",
-            "Soo Greyhounds": "-182"
+            "Soo Greyhounds": "-181"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-232",
-            "North Bay Battalion": "+183"
+            "Barrie Colts": "-233",
+            "North Bay Battalion": "+184"
         },
         "game_time": "7:30 pm"
     }
