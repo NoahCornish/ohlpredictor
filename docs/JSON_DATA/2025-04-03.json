@@ -4,8 +4,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "North Bay Battalion": "+233",
-            "Brantford Bulldogs": "-303"
+            "North Bay Battalion": "+231",
+            "Brantford Bulldogs": "-301"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Niagara IceDogs": "+114",
-            "Barrie Colts": "-141"
+            "Niagara IceDogs": "+113",
+            "Barrie Colts": "-140"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-140",
-            "Oshawa Generals": "+113"
+            "Brampton Steelheads": "-141",
+            "Oshawa Generals": "+114"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Owen Sound Attack": "+245",
-            "London Knights": "-321"
+            "Owen Sound Attack": "+243",
+            "London Knights": "-319"
         },
         "game_time": "7:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Flint Firebirds": "+125",
-            "Kitchener Rangers": "-156"
+            "Kitchener Rangers": "-155"
         },
         "game_time": "7:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Erie Otters": "+128",
-            "Saginaw Spirit": "-158"
+            "Saginaw Spirit": "-160"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Sudbury Wolves": "+150",
-            "Kingston Frontenacs": "-188"
+            "Sudbury Wolves": "+149",
+            "Kingston Frontenacs": "-187"
         },
         "game_time": "7:05 pm"
     }

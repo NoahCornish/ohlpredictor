@@ -4,7 +4,7 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Brampton Steelheads": "-105",
+            "Brampton Steelheads": "-106",
             "Kingston Frontenacs": "-117"
         },
         "game_time": "4:00 pm"
@@ -14,8 +14,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-119",
-            "Sudbury Wolves": "-104"
+            "Erie Otters": "-118",
+            "Sudbury Wolves": "-105"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Niagara IceDogs": "+122",
-            "Kitchener Rangers": "-151"
+            "Niagara IceDogs": "+121",
+            "Kitchener Rangers": "-150"
         },
         "game_time": "7:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Soo Greyhounds",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-142",
+            "Barrie Colts": "-141",
             "Soo Greyhounds": "+114"
         },
         "game_time": "7:30 pm"

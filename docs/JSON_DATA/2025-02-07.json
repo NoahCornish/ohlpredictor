@@ -4,8 +4,8 @@
         "away_team": "Erie Otters",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-166",
-            "Erie Otters": "+134"
+            "Brampton Steelheads": "-168",
+            "Erie Otters": "+135"
         },
         "game_time": "7:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Brantford Bulldogs": "-110",
+            "Brantford Bulldogs": "-109",
             "Saginaw Spirit": "-113"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-209",
-            "Flint Firebirds": "+166"
+            "Kingston Frontenacs": "-208",
+            "Flint Firebirds": "+165"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-212",
-            "Owen Sound Attack": "+168"
+            "Kitchener Rangers": "-210",
+            "Owen Sound Attack": "+167"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-824",
-            "Peterborough Petes": "+522"
+            "London Knights": "-817",
+            "Peterborough Petes": "+519"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-236",
-            "Ottawa 67's": "+186"
+            "Oshawa Generals": "-234",
+            "Ottawa 67's": "+184"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-346",
-            "Sarnia Sting": "+261"
+            "Windsor Spitfires": "-344",
+            "Sarnia Sting": "+260"
         },
         "game_time": "7:05 pm"
     },
