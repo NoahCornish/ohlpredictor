@@ -22,7 +22,7 @@
         "away_score": 2,
         "odds": {
             "Oshawa Generals": "-119",
-            "Barrie Colts": "-104"
+            "Barrie Colts": "-103"
         }
     },
     {
@@ -87,7 +87,7 @@
         "away_score": 7,
         "odds": {
             "Niagara IceDogs": "-103",
-            "Sudbury Wolves": "-119"
+            "Sudbury Wolves": "-120"
         }
     },
     {
@@ -255,7 +255,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Sudbury Wolves": "-119",
+            "Sudbury Wolves": "-120",
             "Niagara IceDogs": "-103"
         }
     },
@@ -321,7 +321,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "-114",
-            "Owen Sound Attack": "-109"
+            "Owen Sound Attack": "-108"
         }
     },
     {
@@ -411,7 +411,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "-109",
+            "Owen Sound Attack": "-108",
             "Guelph Storm": "-114"
         }
     },
