@@ -15,7 +15,7 @@
         "winner": "Flint Firebirds",
         "odds": {
             "Flint Firebirds": "-178",
-            "North Bay Battalion": "+142"
+            "North Bay Battalion": "+143"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-125",
+            "Kingston Frontenacs": "-124",
             "Brantford Bulldogs": "+101"
         },
         "game_time": "7:00 pm"
@@ -64,8 +64,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Sarnia Sting": "+262",
-            "Windsor Spitfires": "-347"
+            "Sarnia Sting": "+263",
+            "Windsor Spitfires": "-348"
         },
         "game_time": "7:05 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-166",
+            "Sudbury Wolves": "-167",
             "Owen Sound Attack": "+134"
         },
         "game_time": "7:05 pm"

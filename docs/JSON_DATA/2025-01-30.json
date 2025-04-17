@@ -4,7 +4,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-217",
+            "Barrie Colts": "-216",
             "Ottawa 67's": "+171"
         },
         "game_time": "7:00 pm"
@@ -14,8 +14,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "North Bay Battalion": "+232",
-            "Brantford Bulldogs": "-302"
+            "North Bay Battalion": "+233",
+            "Brantford Bulldogs": "-304"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Peterborough Petes": "+448",
-            "Brampton Steelheads": "-669"
+            "Peterborough Petes": "+446",
+            "Brampton Steelheads": "-667"
         },
         "game_time": "7:05 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-211",
+            "Windsor Spitfires": "-210",
             "Flint Firebirds": "+167"
         },
         "game_time": "7:05 pm"

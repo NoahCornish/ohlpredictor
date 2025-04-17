@@ -4,7 +4,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-325",
+            "Brampton Steelheads": "-326",
             "North Bay Battalion": "+248"
         },
         "game_time": "7:00 pm"
@@ -54,8 +54,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Sudbury Wolves": "+114",
-            "Oshawa Generals": "-141"
+            "Sudbury Wolves": "+113",
+            "Oshawa Generals": "-140"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-134",
-            "Sarnia Sting": "+108"
+            "Guelph Storm": "-135",
+            "Sarnia Sting": "+109"
         },
         "game_time": "7:07 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Soo Greyhounds": "+114",
-            "Barrie Colts": "-141"
+            "Barrie Colts": "-142"
         },
         "game_time": "7:07 pm"
     }

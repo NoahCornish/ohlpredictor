@@ -14,7 +14,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-225",
+            "Ottawa 67's": "-224",
             "Peterborough Petes": "+177"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Guelph Storm",
         "winner": "Guelph Storm",
         "odds": {
-            "Sarnia Sting": "+108",
-            "Guelph Storm": "-134"
+            "Sarnia Sting": "+109",
+            "Guelph Storm": "-135"
         },
         "game_time": "7:05 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Sudbury Wolves": "+143",
-            "Brampton Steelheads": "-179"
+            "Brampton Steelheads": "-178"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Soo Greyhounds": "+147",
-            "Saginaw Spirit": "-184"
+            "Soo Greyhounds": "+148",
+            "Saginaw Spirit": "-185"
         },
         "game_time": "7:07 pm"
     }
