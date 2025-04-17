@@ -2778,16 +2778,16 @@
         },
         {
             "date": "2025-04-16",
-            "accuracy": 0,
+            "accuracy": 0.0,
             "correct_predictions": 0,
-            "total_games": 0,
+            "total_games": 1,
             "game_details": [
                 {
                     "home_team": "Kitchener Rangers",
                     "away_team": "Windsor Spitfires",
                     "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
+                    "actual_winner": "Kitchener Rangers",
+                    "home_score": 3,
                     "away_score": 0
                 }
             ]
@@ -2823,15 +2823,39 @@
                     "away_score": 0
                 }
             ]
+        },
+        {
+            "date": "2025-04-18",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "London Knights",
+                    "away_team": "Erie Otters",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Windsor Spitfires",
+                    "away_team": "Kitchener Rangers",
+                    "predicted_winner": "Windsor Spitfires",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
         }
     ],
-    "total_accuracy": 67.5,
+    "total_accuracy": 67.3,
     "tossup_accuracy": 51.5,
-    "non_tossup_accuracy": 69.6,
+    "non_tossup_accuracy": 69.3,
     "total_correct": 191,
-    "total_games": 283,
+    "total_games": 284,
     "tossup_correct": 17,
     "tossup_games": 33,
     "non_tossup_correct": 174,
-    "non_tossup_games": 250
+    "non_tossup_games": 251
 }

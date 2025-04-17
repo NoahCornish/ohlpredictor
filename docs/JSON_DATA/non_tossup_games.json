@@ -22,7 +22,7 @@
         "away_score": 5,
         "odds": {
             "Soo Greyhounds": "+122",
-            "Kitchener Rangers": "-151"
+            "Kitchener Rangers": "-152"
         }
     },
     {
@@ -321,7 +321,7 @@
         "away_score": 3,
         "odds": {
             "London Knights": "-165",
-            "Kitchener Rangers": "+133"
+            "Kitchener Rangers": "+132"
         }
     },
     {
@@ -490,7 +490,7 @@
         "away_score": 9,
         "odds": {
             "Niagara IceDogs": "+121",
-            "Kitchener Rangers": "-150"
+            "Kitchener Rangers": "-151"
         }
     },
     {
@@ -723,7 +723,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-149",
+            "Kingston Frontenacs": "-148",
             "Kitchener Rangers": "+120"
         }
     },
@@ -880,7 +880,7 @@
         "away_score": 5,
         "odds": {
             "Ottawa 67's": "+183",
-            "Kitchener Rangers": "-232"
+            "Kitchener Rangers": "-233"
         }
     },
     {
@@ -983,8 +983,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+355",
-            "Kitchener Rangers": "-499"
+            "Peterborough Petes": "+356",
+            "Kitchener Rangers": "-500"
         }
     },
     {
@@ -1270,7 +1270,7 @@
         "away_score": 5,
         "odds": {
             "London Knights": "-165",
-            "Kitchener Rangers": "+133"
+            "Kitchener Rangers": "+132"
         }
     },
     {
@@ -1309,7 +1309,7 @@
         "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-206",
-            "Guelph Storm": "+163"
+            "Guelph Storm": "+164"
         }
     },
     {
@@ -1439,7 +1439,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "-251",
-            "Sarnia Sting": "+196"
+            "Sarnia Sting": "+197"
         }
     },
     {
@@ -1868,7 +1868,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "-206",
-            "Guelph Storm": "+163"
+            "Guelph Storm": "+164"
         }
     },
     {
@@ -2283,7 +2283,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Kitchener Rangers": "+133",
+            "Kitchener Rangers": "+132",
             "London Knights": "-165"
         }
     },
@@ -2530,7 +2530,7 @@
         "home_score": 2,
         "away_score": 0,
         "odds": {
-            "Guelph Storm": "+163",
+            "Guelph Storm": "+164",
             "Kitchener Rangers": "-206"
         }
     },
@@ -3247,6 +3247,19 @@
         "odds": {
             "Oshawa Generals": "+106",
             "Brantford Bulldogs": "-131"
+        }
+    },
+    {
+        "date": "2025-04-16",
+        "home_team": "Kitchener Rangers",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Kitchener Rangers",
+        "home_score": 3,
+        "away_score": 0,
+        "odds": {
+            "Kitchener Rangers": "+121",
+            "Windsor Spitfires": "-150"
         }
     }
 ]
