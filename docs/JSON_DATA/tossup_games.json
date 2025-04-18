@@ -9,7 +9,7 @@
         "away_score": 9,
         "odds": {
             "Saginaw Spirit": "-101",
-            "Kingston Frontenacs": "-122"
+            "Kingston Frontenacs": "-123"
         }
     },
     {
@@ -48,7 +48,7 @@
         "away_score": 3,
         "odds": {
             "Windsor Spitfires": "-101",
-            "London Knights": "-122"
+            "London Knights": "-123"
         }
     },
     {
@@ -113,7 +113,7 @@
         "away_score": 4,
         "odds": {
             "Erie Otters": "-118",
-            "Sudbury Wolves": "-105"
+            "Sudbury Wolves": "-104"
         }
     },
     {
@@ -125,7 +125,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "-111",
+            "Kitchener Rangers": "-110",
             "Oshawa Generals": "-112"
         }
     },
@@ -273,19 +273,6 @@
         }
     },
     {
-        "date": "2025-03-07",
-        "home_team": "London Knights",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "London Knights": "-123",
-            "Kingston Frontenacs": "-100"
-        }
-    },
-    {
         "date": "2025-03-08",
         "home_team": "Saginaw Spirit",
         "away_team": "Brantford Bulldogs",
@@ -360,7 +347,7 @@
         "away_score": 5,
         "odds": {
             "Windsor Spitfires": "-101",
-            "London Knights": "-122"
+            "London Knights": "-123"
         }
     },
     {
@@ -373,7 +360,7 @@
         "away_score": 7,
         "odds": {
             "Brantford Bulldogs": "-104",
-            "Brampton Steelheads": "-118"
+            "Brampton Steelheads": "-119"
         }
     },
     {
@@ -398,7 +385,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "London Knights": "-122",
+            "London Knights": "-123",
             "Windsor Spitfires": "-101"
         }
     },

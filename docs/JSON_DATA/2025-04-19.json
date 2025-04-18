@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Oshawa Generals",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-131",
+            "Oshawa Generals": "+106"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Barrie Colts": "+128",
+            "Kingston Frontenacs": "-159"
+        },
+        "game_time": "7:30 pm"
+    }
+]
