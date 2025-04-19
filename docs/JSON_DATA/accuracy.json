@@ -2835,8 +2835,8 @@
                     "away_team": "Kitchener Rangers",
                     "predicted_winner": "Windsor Spitfires",
                     "actual_winner": "Kitchener Rangers",
-                    "home_score": 0,
-                    "away_score": 1
+                    "home_score": 2,
+                    "away_score": 5
                 }
             ]
         },
@@ -2858,6 +2858,38 @@
                     "home_team": "Barrie Colts",
                     "away_team": "Kingston Frontenacs",
                     "predicted_winner": "Kingston Frontenacs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                }
+            ]
+        },
+        {
+            "date": "2025-04-20",
+            "accuracy": 0,
+            "correct_predictions": 0,
+            "total_games": 0,
+            "game_details": [
+                {
+                    "home_team": "Oshawa Generals",
+                    "away_team": "Brantford Bulldogs",
+                    "predicted_winner": "Brantford Bulldogs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Kingston Frontenacs",
+                    "away_team": "Barrie Colts",
+                    "predicted_winner": "Kingston Frontenacs",
+                    "actual_winner": "Not Started",
+                    "home_score": 0,
+                    "away_score": 0
+                },
+                {
+                    "home_team": "Kitchener Rangers",
+                    "away_team": "Windsor Spitfires",
+                    "predicted_winner": "Windsor Spitfires",
                     "actual_winner": "Not Started",
                     "home_score": 0,
                     "away_score": 0
