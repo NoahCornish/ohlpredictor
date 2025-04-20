@@ -4,7 +4,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "North Bay Battalion": "+233",
+            "North Bay Battalion": "+232",
             "Brantford Bulldogs": "-303"
         },
         "game_time": "7:00 pm"
@@ -14,8 +14,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Niagara IceDogs": "+113",
-            "Barrie Colts": "-140"
+            "Niagara IceDogs": "+114",
+            "Barrie Colts": "-141"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-141",
-            "Oshawa Generals": "+114"
+            "Brampton Steelheads": "-140",
+            "Oshawa Generals": "+113"
         },
         "game_time": "7:00 pm"
     },
