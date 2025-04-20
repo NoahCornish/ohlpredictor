@@ -139,7 +139,7 @@
         "away_score": 3,
         "odds": {
             "Flint Firebirds": "-101",
-            "Sudbury Wolves": "-123"
+            "Sudbury Wolves": "-122"
         }
     },
     {
@@ -191,7 +191,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "-111",
-            "North Bay Battalion": "-111"
+            "North Bay Battalion": "-112"
         }
     },
     {
@@ -216,8 +216,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-103",
-            "Sudbury Wolves": "-120"
+            "Soo Greyhounds": "-102",
+            "Sudbury Wolves": "-121"
         }
     },
     {
@@ -385,8 +385,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "-120",
-            "Soo Greyhounds": "-103"
+            "Sudbury Wolves": "-121",
+            "Soo Greyhounds": "-102"
         }
     },
     {

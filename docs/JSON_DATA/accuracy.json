@@ -2866,25 +2866,25 @@
         },
         {
             "date": "2025-04-20",
-            "accuracy": 0,
+            "accuracy": 0.0,
             "correct_predictions": 0,
-            "total_games": 0,
+            "total_games": 2,
             "game_details": [
                 {
                     "home_team": "Oshawa Generals",
                     "away_team": "Brantford Bulldogs",
                     "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Oshawa Generals",
+                    "home_score": 3,
+                    "away_score": 1
                 },
                 {
                     "home_team": "Kingston Frontenacs",
                     "away_team": "Barrie Colts",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Not Started",
-                    "home_score": 0,
-                    "away_score": 0
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 1,
+                    "away_score": 1
                 },
                 {
                     "home_team": "Kitchener Rangers",
@@ -2897,13 +2897,13 @@
             ]
         }
     ],
-    "total_accuracy": 66.6,
+    "total_accuracy": 66.1,
     "tossup_accuracy": 51.5,
-    "non_tossup_accuracy": 68.5,
+    "non_tossup_accuracy": 68.0,
     "total_correct": 193,
-    "total_games": 290,
+    "total_games": 292,
     "tossup_correct": 17,
     "tossup_games": 33,
     "non_tossup_correct": 176,
-    "non_tossup_games": 257
+    "non_tossup_games": 259
 }
