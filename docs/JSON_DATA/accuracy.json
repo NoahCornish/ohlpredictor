@@ -2898,36 +2898,36 @@
         },
         {
             "date": "2025-04-22",
-            "accuracy": 50.0,
-            "correct_predictions": 1,
+            "accuracy": 0.0,
+            "correct_predictions": 0,
             "total_games": 2,
             "game_details": [
                 {
                     "home_team": "Barrie Colts",
                     "away_team": "Kingston Frontenacs",
                     "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
-                    "away_score": 3
+                    "actual_winner": "Barrie Colts",
+                    "home_score": 6,
+                    "away_score": 4
                 },
                 {
                     "home_team": "Windsor Spitfires",
                     "away_team": "Kitchener Rangers",
                     "predicted_winner": "Windsor Spitfires",
                     "actual_winner": "Kitchener Rangers",
-                    "home_score": 0,
-                    "away_score": 1
+                    "home_score": 1,
+                    "away_score": 2
                 }
             ]
         }
     ],
-    "total_accuracy": 66.1,
+    "total_accuracy": 65.8,
     "tossup_accuracy": 51.5,
-    "non_tossup_accuracy": 67.9,
-    "total_correct": 195,
+    "non_tossup_accuracy": 67.6,
+    "total_correct": 194,
     "total_games": 295,
     "tossup_correct": 17,
     "tossup_games": 33,
-    "non_tossup_correct": 178,
+    "non_tossup_correct": 177,
     "non_tossup_games": 262
 }
