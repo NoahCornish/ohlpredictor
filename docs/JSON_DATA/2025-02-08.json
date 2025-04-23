@@ -14,7 +14,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-118",
+            "Erie Otters": "-119",
             "Sudbury Wolves": "-104"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Niagara IceDogs": "+122",
-            "Kitchener Rangers": "-151"
+            "Niagara IceDogs": "+121",
+            "Kitchener Rangers": "-150"
         },
         "game_time": "7:00 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-126",
+            "Windsor Spitfires": "-125",
             "Brantford Bulldogs": "+102"
         },
         "game_time": "7:05 pm"
@@ -65,7 +65,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Guelph Storm": "+197",
-            "Saginaw Spirit": "-252"
+            "Saginaw Spirit": "-251"
         },
         "game_time": "7:07 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-143",
-            "Soo Greyhounds": "+115"
+            "Barrie Colts": "-142",
+            "Soo Greyhounds": "+114"
         },
         "game_time": "7:30 pm"
     }

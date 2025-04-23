@@ -4,7 +4,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-327",
+            "Brampton Steelheads": "-326",
             "North Bay Battalion": "+248"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Kitchener Rangers": "+120",
-            "Windsor Spitfires": "-149"
+            "Kitchener Rangers": "+121",
+            "Windsor Spitfires": "-150"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-123",
-            "Kingston Frontenacs": "-100"
+            "London Knights": "-122",
+            "Kingston Frontenacs": "-101"
         },
         "game_time": "7:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Sudbury Wolves": "+114",
-            "Oshawa Generals": "-142"
+            "Oshawa Generals": "-141"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Soo Greyhounds": "+115",
-            "Barrie Colts": "-143"
+            "Soo Greyhounds": "+114",
+            "Barrie Colts": "-142"
         },
         "game_time": "7:07 pm"
     }

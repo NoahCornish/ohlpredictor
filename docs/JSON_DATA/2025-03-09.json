@@ -4,8 +4,8 @@
         "away_team": "Guelph Storm",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-206",
-            "Guelph Storm": "+164"
+            "Kitchener Rangers": "-204",
+            "Guelph Storm": "+162"
         },
         "game_time": "2:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Sarnia Sting": "+289",
-            "London Knights": "-389"
+            "Sarnia Sting": "+287",
+            "London Knights": "-386"
         },
         "game_time": "2:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Sudbury Wolves": "+106",
-            "Barrie Colts": "-131"
+            "Sudbury Wolves": "+105",
+            "Barrie Colts": "-130"
         },
         "game_time": "2:05 pm"
     }

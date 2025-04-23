@@ -4,7 +4,7 @@
         "away_team": "Niagara IceDogs",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-127",
+            "Erie Otters": "-128",
             "Niagara IceDogs": "+103"
         },
         "game_time": "7:00 pm"
@@ -14,7 +14,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-224",
+            "Ottawa 67's": "-225",
             "Peterborough Petes": "+177"
         },
         "game_time": "7:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Soo Greyhounds": "+148",
-            "Saginaw Spirit": "-185"
+            "Saginaw Spirit": "-186"
         },
         "game_time": "7:07 pm"
     }

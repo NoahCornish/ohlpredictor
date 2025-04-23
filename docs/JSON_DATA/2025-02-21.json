@@ -5,7 +5,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Erie Otters": "+107",
-            "Oshawa Generals": "-133"
+            "Oshawa Generals": "-132"
         },
         "game_time": "7:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-179",
+            "Flint Firebirds": "-178",
             "North Bay Battalion": "+143"
         },
         "game_time": "7:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-130",
-            "Brampton Steelheads": "+105"
+            "London Knights": "-129",
+            "Brampton Steelheads": "+104"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Ottawa 67's": "+136",
-            "Niagara IceDogs": "-169"
+            "Ottawa 67's": "+135",
+            "Niagara IceDogs": "-168"
         },
         "game_time": "7:00 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Sarnia Sting": "+263",
-            "Windsor Spitfires": "-349"
+            "Windsor Spitfires": "-348"
         },
         "game_time": "7:05 pm"
     },
