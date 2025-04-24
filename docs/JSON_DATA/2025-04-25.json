@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "London Knights",
+        "away_team": "Kitchener Rangers",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-165",
+            "Kitchener Rangers": "+133"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Barrie Colts": "-103",
+            "Oshawa Generals": "-120"
+        },
+        "game_time": "7:30 pm"
+    }
+]
