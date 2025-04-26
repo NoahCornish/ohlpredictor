@@ -35,7 +35,7 @@
         "away_score": 1,
         "odds": {
             "Owen Sound Attack": "-122",
-            "Ottawa 67's": "-102"
+            "Ottawa 67's": "-101"
         }
     },
     {
@@ -139,7 +139,7 @@
         "away_score": 3,
         "odds": {
             "Flint Firebirds": "-101",
-            "Sudbury Wolves": "-122"
+            "Sudbury Wolves": "-123"
         }
     },
     {
@@ -230,7 +230,7 @@
         "away_score": 2,
         "odds": {
             "Kingston Frontenacs": "-111",
-            "Windsor Spitfires": "-112"
+            "Windsor Spitfires": "-111"
         }
     },
     {
@@ -268,7 +268,7 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-112",
+            "Windsor Spitfires": "-111",
             "Kingston Frontenacs": "-111"
         }
     },
