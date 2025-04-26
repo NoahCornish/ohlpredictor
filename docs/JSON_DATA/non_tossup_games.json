@@ -177,8 +177,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+355",
-            "Oshawa Generals": "-499"
+            "Peterborough Petes": "+356",
+            "Oshawa Generals": "-500"
         }
     },
     {
@@ -360,7 +360,7 @@
         "away_score": 8,
         "odds": {
             "Ottawa 67's": "+183",
-            "Oshawa Generals": "-232"
+            "Oshawa Generals": "-233"
         }
     },
     {
@@ -450,7 +450,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-232",
+            "Oshawa Generals": "-233",
             "Ottawa 67's": "+183"
         }
     },
@@ -1283,7 +1283,7 @@
         "away_score": 1,
         "odds": {
             "Oshawa Generals": "+120",
-            "Kingston Frontenacs": "-149"
+            "Kingston Frontenacs": "-148"
         }
     },
     {
@@ -2115,7 +2115,7 @@
         "away_score": 2,
         "odds": {
             "Ottawa 67's": "+183",
-            "Oshawa Generals": "-232"
+            "Oshawa Generals": "-233"
         }
     },
     {
@@ -2335,7 +2335,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "+197",
+            "North Bay Battalion": "+198",
             "Oshawa Generals": "-253"
         }
     },
@@ -2582,8 +2582,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-499",
-            "Peterborough Petes": "+355"
+            "Oshawa Generals": "-500",
+            "Peterborough Petes": "+356"
         }
     },
     {
@@ -3411,8 +3411,8 @@
         "away_team": "Kitchener Rangers",
         "predicted_winner": "London Knights",
         "actual_winner": "London Knights",
-        "home_score": 4,
-        "away_score": 0,
+        "home_score": 5,
+        "away_score": 2,
         "odds": {
             "London Knights": "-165",
             "Kitchener Rangers": "+133"
