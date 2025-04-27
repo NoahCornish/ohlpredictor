@@ -177,8 +177,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+355",
-            "Oshawa Generals": "-499"
+            "Peterborough Petes": "+356",
+            "Oshawa Generals": "-500"
         }
     },
     {
@@ -320,7 +320,7 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Kitchener Rangers": "+133"
         }
     },
@@ -437,7 +437,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "London Knights": "-805",
+            "London Knights": "-806",
             "Peterborough Petes": "+513"
         }
     },
@@ -594,7 +594,7 @@
         "away_score": 0,
         "odds": {
             "Oshawa Generals": "-153",
-            "Soo Greyhounds": "+123"
+            "Soo Greyhounds": "+124"
         }
     },
     {
@@ -672,7 +672,7 @@
         "away_score": 8,
         "odds": {
             "Barrie Colts": "+142",
-            "London Knights": "-177"
+            "London Knights": "-178"
         }
     },
     {
@@ -776,7 +776,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "+164",
-            "Oshawa Generals": "-206"
+            "Oshawa Generals": "-207"
         }
     },
     {
@@ -1269,7 +1269,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Kitchener Rangers": "+133"
         }
     },
@@ -1282,7 +1282,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Oshawa Generals": "+120",
+            "Oshawa Generals": "+119",
             "Kingston Frontenacs": "-148"
         }
     },
@@ -1425,8 +1425,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-132",
-            "Oshawa Generals": "+107"
+            "Brantford Bulldogs": "-131",
+            "Oshawa Generals": "+106"
         }
     },
     {
@@ -1854,7 +1854,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Soo Greyhounds": "+123",
+            "Soo Greyhounds": "+124",
             "Oshawa Generals": "-153"
         }
     },
@@ -1894,7 +1894,7 @@
         "away_score": 9,
         "odds": {
             "Sarnia Sting": "+287",
-            "London Knights": "-386"
+            "London Knights": "-387"
         }
     },
     {
@@ -1932,7 +1932,7 @@
         "home_score": 7,
         "away_score": 3,
         "odds": {
-            "London Knights": "-310",
+            "London Knights": "-311",
             "Guelph Storm": "+238"
         }
     },
@@ -1972,7 +1972,7 @@
         "away_score": 6,
         "odds": {
             "Guelph Storm": "+238",
-            "London Knights": "-310"
+            "London Knights": "-311"
         }
     },
     {
@@ -2284,7 +2284,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "+133",
-            "London Knights": "-165"
+            "London Knights": "-166"
         }
     },
     {
@@ -2582,8 +2582,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-499",
-            "Peterborough Petes": "+355"
+            "Oshawa Generals": "-500",
+            "Peterborough Petes": "+356"
         }
     },
     {
@@ -3102,8 +3102,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-132",
-            "Oshawa Generals": "+107"
+            "Brantford Bulldogs": "-131",
+            "Oshawa Generals": "+106"
         }
     },
     {
@@ -3193,8 +3193,8 @@
         "home_score": 8,
         "away_score": 5,
         "odds": {
-            "Brantford Bulldogs": "-132",
-            "Oshawa Generals": "+107"
+            "Brantford Bulldogs": "-131",
+            "Oshawa Generals": "+106"
         }
     },
     {
@@ -3245,8 +3245,8 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "+107",
-            "Brantford Bulldogs": "-132"
+            "Oshawa Generals": "+106",
+            "Brantford Bulldogs": "-131"
         }
     },
     {
@@ -3297,8 +3297,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "+107",
-            "Brantford Bulldogs": "-132"
+            "Oshawa Generals": "+106",
+            "Brantford Bulldogs": "-131"
         }
     },
     {
@@ -3323,8 +3323,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-132",
-            "Oshawa Generals": "+107"
+            "Brantford Bulldogs": "-131",
+            "Oshawa Generals": "+106"
         }
     },
     {
@@ -3349,8 +3349,8 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Oshawa Generals": "+107",
-            "Brantford Bulldogs": "-132"
+            "Oshawa Generals": "+106",
+            "Brantford Bulldogs": "-131"
         }
     },
     {
@@ -3414,7 +3414,20 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
+            "Kitchener Rangers": "+133"
+        }
+    },
+    {
+        "date": "2025-04-27",
+        "home_team": "London Knights",
+        "away_team": "Kitchener Rangers",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 6,
+        "away_score": 2,
+        "odds": {
+            "London Knights": "-166",
             "Kitchener Rangers": "+133"
         }
     }
