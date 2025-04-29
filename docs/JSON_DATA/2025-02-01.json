@@ -24,8 +24,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Peterborough Petes": "+355",
-            "Oshawa Generals": "-498"
+            "Peterborough Petes": "+354",
+            "Oshawa Generals": "-497"
         },
         "game_time": "7:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-135",
-            "Kitchener Rangers": "+109"
+            "Saginaw Spirit": "-136",
+            "Kitchener Rangers": "+110"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Sarnia Sting": "+168",
-            "Erie Otters": "-212"
+            "Sarnia Sting": "+167",
+            "Erie Otters": "-211"
         },
         "game_time": "7:05 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Niagara IceDogs",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-140",
+            "Barrie Colts": "-141",
             "Niagara IceDogs": "+113"
         },
         "game_time": "7:30 pm"

@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-661",
-            "Peterborough Petes": "+444"
+            "Brampton Steelheads": "-659",
+            "Peterborough Petes": "+443"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Kitchener Rangers": "-209",
-            "Owen Sound Attack": "+166"
+            "Owen Sound Attack": "+165"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-183",
+            "Niagara IceDogs": "-182",
             "North Bay Battalion": "+146"
         },
         "game_time": "7:00 pm"
