@@ -24,8 +24,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Erie Otters": "+156",
-            "London Knights": "-196"
+            "Erie Otters": "+157",
+            "London Knights": "-197"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Guelph Storm",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-251",
+            "Saginaw Spirit": "-250",
             "Guelph Storm": "+196"
         },
         "game_time": "7:05 pm"
@@ -54,7 +54,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-453",
+            "Barrie Colts": "-452",
             "Peterborough Petes": "+328"
         },
         "game_time": "7:30 pm"

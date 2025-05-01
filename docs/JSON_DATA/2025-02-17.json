@@ -25,7 +25,7 @@
         "winner": "London Knights",
         "odds": {
             "London Knights": "-233",
-            "Flint Firebirds": "+184"
+            "Flint Firebirds": "+183"
         },
         "game_time": "2:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-120",
-            "North Bay Battalion": "-103"
+            "Ottawa 67's": "-119",
+            "North Bay Battalion": "-104"
         },
         "game_time": "2:00 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-288",
+            "Windsor Spitfires": "-287",
             "Owen Sound Attack": "+222"
         },
         "game_time": "2:05 pm"
@@ -84,8 +84,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Peterborough Petes": "+351",
-            "Kitchener Rangers": "-491"
+            "Peterborough Petes": "+350",
+            "Kitchener Rangers": "-489"
         },
         "game_time": "3:05 pm"
     }

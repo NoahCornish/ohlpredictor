@@ -14,8 +14,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-280",
-            "Ottawa 67's": "+216"
+            "Brantford Bulldogs": "-281",
+            "Ottawa 67's": "+217"
         },
         "game_time": "2:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Erie Otters": "+156",
-            "London Knights": "-196"
+            "Erie Otters": "+157",
+            "London Knights": "-197"
         },
         "game_time": "4:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-497",
-            "Peterborough Petes": "+354"
+            "Oshawa Generals": "-495",
+            "Peterborough Petes": "+353"
         },
         "game_time": "6:05 pm"
     }

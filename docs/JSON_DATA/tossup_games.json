@@ -34,7 +34,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-122",
+            "Owen Sound Attack": "-123",
             "Ottawa 67's": "-101"
         }
     },
@@ -112,7 +112,7 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-119",
+            "Erie Otters": "-118",
             "Sudbury Wolves": "-104"
         }
     },
@@ -164,8 +164,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-120",
-            "North Bay Battalion": "-103"
+            "Ottawa 67's": "-119",
+            "North Bay Battalion": "-104"
         }
     },
     {
@@ -242,8 +242,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "-120",
-            "North Bay Battalion": "-103"
+            "Ottawa 67's": "-119",
+            "North Bay Battalion": "-104"
         }
     },
     {
@@ -307,8 +307,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-103",
-            "Ottawa 67's": "-120"
+            "North Bay Battalion": "-104",
+            "Ottawa 67's": "-119"
         }
     },
     {
@@ -321,7 +321,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "-114",
-            "Owen Sound Attack": "-109"
+            "Owen Sound Attack": "-108"
         }
     },
     {
@@ -373,7 +373,7 @@
         "away_score": 7,
         "odds": {
             "Brantford Bulldogs": "-104",
-            "Brampton Steelheads": "-119"
+            "Brampton Steelheads": "-118"
         }
     },
     {
@@ -411,7 +411,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "-109",
+            "Owen Sound Attack": "-108",
             "Guelph Storm": "-114"
         }
     },
@@ -462,6 +462,19 @@
         "actual_winner": "Oshawa Generals",
         "home_score": 7,
         "away_score": 6,
+        "odds": {
+            "Oshawa Generals": "-120",
+            "Barrie Colts": "-103"
+        }
+    },
+    {
+        "date": "2025-05-01",
+        "home_team": "Oshawa Generals",
+        "away_team": "Barrie Colts",
+        "predicted_winner": "Oshawa Generals",
+        "actual_winner": "Barrie Colts",
+        "home_score": 0,
+        "away_score": 1,
         "odds": {
             "Oshawa Generals": "-120",
             "Barrie Colts": "-103"
