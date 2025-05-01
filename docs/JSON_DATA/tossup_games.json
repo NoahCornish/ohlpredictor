@@ -48,7 +48,7 @@
         "away_score": 3,
         "odds": {
             "Windsor Spitfires": "-101",
-            "London Knights": "-122"
+            "London Knights": "-123"
         }
     },
     {
@@ -126,7 +126,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "-110",
-            "Oshawa Generals": "-113"
+            "Oshawa Generals": "-112"
         }
     },
     {
@@ -282,7 +282,7 @@
         "away_score": 2,
         "odds": {
             "London Knights": "-123",
-            "Kingston Frontenacs": "-101"
+            "Kingston Frontenacs": "-100"
         }
     },
     {
@@ -360,7 +360,7 @@
         "away_score": 5,
         "odds": {
             "Windsor Spitfires": "-101",
-            "London Knights": "-122"
+            "London Knights": "-123"
         }
     },
     {
@@ -398,7 +398,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "London Knights": "-122",
+            "London Knights": "-123",
             "Windsor Spitfires": "-101"
         }
     },
