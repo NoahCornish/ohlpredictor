@@ -21,8 +21,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-120",
-            "Barrie Colts": "-103"
+            "Oshawa Generals": "-121",
+            "Barrie Colts": "-102"
         }
     },
     {
@@ -125,8 +125,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "-110",
-            "Oshawa Generals": "-112"
+            "Kitchener Rangers": "-109",
+            "Oshawa Generals": "-113"
         }
     },
     {
@@ -437,8 +437,8 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-103",
-            "Oshawa Generals": "-120"
+            "Barrie Colts": "-102",
+            "Oshawa Generals": "-121"
         }
     },
     {
@@ -450,8 +450,8 @@
         "home_score": 1,
         "away_score": 7,
         "odds": {
-            "Barrie Colts": "-103",
-            "Oshawa Generals": "-120"
+            "Barrie Colts": "-102",
+            "Oshawa Generals": "-121"
         }
     },
     {
@@ -463,8 +463,8 @@
         "home_score": 7,
         "away_score": 6,
         "odds": {
-            "Oshawa Generals": "-120",
-            "Barrie Colts": "-103"
+            "Oshawa Generals": "-121",
+            "Barrie Colts": "-102"
         }
     },
     {
@@ -472,12 +472,12 @@
         "home_team": "Oshawa Generals",
         "away_team": "Barrie Colts",
         "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Barrie Colts",
-        "home_score": 0,
-        "away_score": 1,
+        "actual_winner": "Oshawa Generals",
+        "home_score": 8,
+        "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-120",
-            "Barrie Colts": "-103"
+            "Oshawa Generals": "-121",
+            "Barrie Colts": "-102"
         }
     }
 ]
