@@ -4,7 +4,7 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Brampton Steelheads": "-105",
+            "Brampton Steelheads": "-106",
             "Kingston Frontenacs": "-117"
         },
         "game_time": "4:00 pm"
@@ -35,7 +35,7 @@
         "winner": "Owen Sound Attack",
         "odds": {
             "Owen Sound Attack": "-132",
-            "North Bay Battalion": "+106"
+            "North Bay Battalion": "+107"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sarnia Sting",
         "odds": {
-            "Sarnia Sting": "-205",
-            "Peterborough Petes": "+163"
+            "Sarnia Sting": "-204",
+            "Peterborough Petes": "+162"
         },
         "game_time": "7:05 pm"
     },
