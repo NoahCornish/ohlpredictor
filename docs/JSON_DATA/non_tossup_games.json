@@ -177,8 +177,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+352",
-            "Oshawa Generals": "-494"
+            "Peterborough Petes": "+353",
+            "Oshawa Generals": "-495"
         }
     },
     {
@@ -776,7 +776,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "+163",
-            "Oshawa Generals": "-205"
+            "Oshawa Generals": "-206"
         }
     },
     {
@@ -801,8 +801,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "+114",
-            "Brampton Steelheads": "-141"
+            "Oshawa Generals": "+113",
+            "Brampton Steelheads": "-140"
         }
     },
     {
@@ -1009,8 +1009,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brampton Steelheads": "-141",
-            "Oshawa Generals": "+114"
+            "Brampton Steelheads": "-140",
+            "Oshawa Generals": "+113"
         }
     },
     {
@@ -1282,7 +1282,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Oshawa Generals": "+120",
+            "Oshawa Generals": "+119",
             "Kingston Frontenacs": "-148"
         }
     },
@@ -1633,8 +1633,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "+132",
-            "London Knights": "-164"
+            "Oshawa Generals": "+131",
+            "London Knights": "-163"
         }
     },
     {
@@ -1646,8 +1646,8 @@
         "home_score": 0,
         "away_score": 4,
         "odds": {
-            "Brampton Steelheads": "-141",
-            "Oshawa Generals": "+114"
+            "Brampton Steelheads": "-140",
+            "Oshawa Generals": "+113"
         }
     },
     {
@@ -2336,7 +2336,7 @@
         "away_score": 1,
         "odds": {
             "North Bay Battalion": "+197",
-            "Oshawa Generals": "-252"
+            "Oshawa Generals": "-253"
         }
     },
     {
@@ -2582,8 +2582,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-494",
-            "Peterborough Petes": "+352"
+            "Oshawa Generals": "-495",
+            "Peterborough Petes": "+353"
         }
     },
     {
@@ -2686,8 +2686,8 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "+114",
-            "Brampton Steelheads": "-141"
+            "Oshawa Generals": "+113",
+            "Brampton Steelheads": "-140"
         }
     },
     {
@@ -2764,8 +2764,8 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "Oshawa Generals": "+114",
-            "Brampton Steelheads": "-141"
+            "Oshawa Generals": "+113",
+            "Brampton Steelheads": "-140"
         }
     },
     {
@@ -2842,8 +2842,8 @@
         "home_score": 5,
         "away_score": 7,
         "odds": {
-            "Brampton Steelheads": "-141",
-            "Oshawa Generals": "+114"
+            "Brampton Steelheads": "-140",
+            "Oshawa Generals": "+113"
         }
     },
     {
@@ -2946,8 +2946,8 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Brampton Steelheads": "-141",
-            "Oshawa Generals": "+114"
+            "Brampton Steelheads": "-140",
+            "Oshawa Generals": "+113"
         }
     },
     {
@@ -3024,8 +3024,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Oshawa Generals": "+114",
-            "Brampton Steelheads": "-141"
+            "Oshawa Generals": "+113",
+            "Brampton Steelheads": "-140"
         }
     },
     {
@@ -3089,8 +3089,8 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Brampton Steelheads": "-141",
-            "Oshawa Generals": "+114"
+            "Brampton Steelheads": "-140",
+            "Oshawa Generals": "+113"
         }
     },
     {
@@ -3455,6 +3455,19 @@
         "odds": {
             "Kitchener Rangers": "+133",
             "London Knights": "-165"
+        }
+    },
+    {
+        "date": "2025-05-08",
+        "home_team": "London Knights",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 2,
+        "away_score": 4,
+        "odds": {
+            "London Knights": "-163",
+            "Oshawa Generals": "+131"
         }
     }
 ]

@@ -3034,6 +3034,22 @@
         },
         {
             "date": "2025-05-08",
+            "accuracy": 0.0,
+            "correct_predictions": 0,
+            "total_games": 1,
+            "game_details": [
+                {
+                    "home_team": "London Knights",
+                    "away_team": "Oshawa Generals",
+                    "predicted_winner": "London Knights",
+                    "actual_winner": "Oshawa Generals",
+                    "home_score": 2,
+                    "away_score": 4
+                }
+            ]
+        },
+        {
+            "date": "2025-05-10",
             "accuracy": 0,
             "correct_predictions": 0,
             "total_games": 0,
@@ -3049,13 +3065,13 @@
             ]
         }
     ],
-    "total_accuracy": 66.7,
+    "total_accuracy": 66.4,
     "tossup_accuracy": 56.8,
-    "non_tossup_accuracy": 68.0,
+    "non_tossup_accuracy": 67.8,
     "total_correct": 202,
-    "total_games": 303,
+    "total_games": 304,
     "tossup_correct": 21,
     "tossup_games": 37,
     "non_tossup_correct": 181,
-    "non_tossup_games": 266
+    "non_tossup_games": 267
 }
