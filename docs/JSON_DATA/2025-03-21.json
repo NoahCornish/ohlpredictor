@@ -14,7 +14,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-125",
+            "Kingston Frontenacs": "-124",
             "Brantford Bulldogs": "+101"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-209",
-            "Owen Sound Attack": "+166"
+            "Kitchener Rangers": "-208",
+            "Owen Sound Attack": "+165"
         },
         "game_time": "7:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Niagara IceDogs",
         "odds": {
             "Niagara IceDogs": "-182",
-            "North Bay Battalion": "+146"
+            "North Bay Battalion": "+145"
         },
         "game_time": "7:00 pm"
     },

@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-209",
-            "Flint Firebirds": "+166"
+            "Kingston Frontenacs": "-208",
+            "Flint Firebirds": "+165"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-209",
-            "Owen Sound Attack": "+166"
+            "Kitchener Rangers": "-208",
+            "Owen Sound Attack": "+165"
         },
         "game_time": "7:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-348",
+            "Windsor Spitfires": "-347",
             "Sarnia Sting": "+262"
         },
         "game_time": "7:05 pm"
