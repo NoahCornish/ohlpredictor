@@ -3469,5 +3469,18 @@
             "London Knights": "-163",
             "Oshawa Generals": "+131"
         }
+    },
+    {
+        "date": "2025-05-10",
+        "home_team": "London Knights",
+        "away_team": "Oshawa Generals",
+        "predicted_winner": "London Knights",
+        "actual_winner": "Oshawa Generals",
+        "home_score": 1,
+        "away_score": 1,
+        "odds": {
+            "London Knights": "-163",
+            "Oshawa Generals": "+131"
+        }
     }
 ]
