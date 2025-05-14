@@ -320,7 +320,7 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Kitchener Rangers": "+133"
         }
     },
@@ -437,8 +437,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "London Knights": "-795",
-            "Peterborough Petes": "+508"
+            "London Knights": "-796",
+            "Peterborough Petes": "+509"
         }
     },
     {
@@ -918,7 +918,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "London Knights": "-231",
+            "London Knights": "-232",
             "Flint Firebirds": "+182"
         }
     },
@@ -1269,7 +1269,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Kitchener Rangers": "+133"
         }
     },
@@ -1451,7 +1451,7 @@
         "home_score": 9,
         "away_score": 1,
         "odds": {
-            "London Knights": "-318",
+            "London Knights": "-319",
             "Owen Sound Attack": "+243"
         }
     },
@@ -1660,7 +1660,7 @@
         "away_score": 5,
         "odds": {
             "Brantford Bulldogs": "+111",
-            "London Knights": "-137"
+            "London Knights": "-138"
         }
     },
     {
@@ -1932,7 +1932,7 @@
         "home_score": 7,
         "away_score": 3,
         "odds": {
-            "London Knights": "-310",
+            "London Knights": "-311",
             "Guelph Storm": "+238"
         }
     },
@@ -1972,7 +1972,7 @@
         "away_score": 6,
         "odds": {
             "Guelph Storm": "+238",
-            "London Knights": "-310"
+            "London Knights": "-311"
         }
     },
     {
@@ -2284,7 +2284,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "+133",
-            "London Knights": "-165"
+            "London Knights": "-166"
         }
     },
     {
@@ -2660,7 +2660,7 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "London Knights": "-318",
+            "London Knights": "-319",
             "Owen Sound Attack": "+243"
         }
     },
@@ -2738,7 +2738,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "London Knights": "-318",
+            "London Knights": "-319",
             "Owen Sound Attack": "+243"
         }
     },
@@ -2856,7 +2856,7 @@
         "away_score": 7,
         "odds": {
             "Owen Sound Attack": "+243",
-            "London Knights": "-318"
+            "London Knights": "-319"
         }
     },
     {
@@ -2960,7 +2960,7 @@
         "away_score": 8,
         "odds": {
             "Owen Sound Attack": "+243",
-            "London Knights": "-318"
+            "London Knights": "-319"
         }
     },
     {
@@ -3414,7 +3414,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Kitchener Rangers": "+133"
         }
     },
@@ -3427,7 +3427,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Kitchener Rangers": "+133"
         }
     },
@@ -3441,7 +3441,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "+133",
-            "London Knights": "-165"
+            "London Knights": "-166"
         }
     },
     {
@@ -3454,7 +3454,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+133",
-            "London Knights": "-165"
+            "London Knights": "-166"
         }
     },
     {
@@ -3491,6 +3491,19 @@
         "actual_winner": "London Knights",
         "home_score": 5,
         "away_score": 7,
+        "odds": {
+            "Oshawa Generals": "+132",
+            "London Knights": "-164"
+        }
+    },
+    {
+        "date": "2025-05-13",
+        "home_team": "Oshawa Generals",
+        "away_team": "London Knights",
+        "predicted_winner": "London Knights",
+        "actual_winner": "London Knights",
+        "home_score": 2,
+        "away_score": 6,
         "odds": {
             "Oshawa Generals": "+132",
             "London Knights": "-164"
