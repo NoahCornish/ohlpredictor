@@ -15,7 +15,7 @@
         "winner": "Erie Otters",
         "odds": {
             "Erie Otters": "-118",
-            "Sudbury Wolves": "-104"
+            "Sudbury Wolves": "-105"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Niagara IceDogs": "+122",
+            "Niagara IceDogs": "+121",
             "Kitchener Rangers": "-151"
         },
         "game_time": "7:00 pm"
@@ -35,7 +35,7 @@
         "winner": "Owen Sound Attack",
         "odds": {
             "Owen Sound Attack": "-132",
-            "North Bay Battalion": "+106"
+            "North Bay Battalion": "+107"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sarnia Sting",
         "odds": {
-            "Sarnia Sting": "-204",
-            "Peterborough Petes": "+162"
+            "Sarnia Sting": "-205",
+            "Peterborough Petes": "+163"
         },
         "game_time": "7:05 pm"
     },
