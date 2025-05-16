@@ -5,7 +5,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Brantford Bulldogs": "-182",
-            "Niagara IceDogs": "+145"
+            "Niagara IceDogs": "+146"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Flint Firebirds": "-101",
-            "Sudbury Wolves": "-122"
+            "Sudbury Wolves": "-123"
         },
         "game_time": "7:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Soo Greyhounds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-230",
+            "London Knights": "-229",
             "Soo Greyhounds": "+181"
         },
         "game_time": "7:00 pm"
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "Peterborough Petes": "+175",
-            "Ottawa 67's": "-221"
+            "Peterborough Petes": "+174",
+            "Ottawa 67's": "-220"
         },
         "game_time": "7:05 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Guelph Storm": "+164",
-            "Oshawa Generals": "-206"
+            "Oshawa Generals": "-207"
         },
         "game_time": "7:07 pm"
     }

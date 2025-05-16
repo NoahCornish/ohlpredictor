@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-704",
-            "Peterborough Petes": "+465"
+            "Kingston Frontenacs": "-701",
+            "Peterborough Petes": "+463"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-250",
-            "North Bay Battalion": "+196"
+            "Kitchener Rangers": "-249",
+            "North Bay Battalion": "+195"
         },
         "game_time": "7:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Ottawa 67's": "+185",
-            "Oshawa Generals": "-235"
+            "Oshawa Generals": "-236"
         },
         "game_time": "7:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-114",
+            "Guelph Storm": "-113",
             "Owen Sound Attack": "-109"
         },
         "game_time": "7:07 pm"
