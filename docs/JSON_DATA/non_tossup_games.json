@@ -112,8 +112,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "London Knights": "-196",
-            "Erie Otters": "+156"
+            "London Knights": "-197",
+            "Erie Otters": "+157"
         }
     },
     {
@@ -437,7 +437,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "London Knights": "-802",
+            "London Knights": "-803",
             "Peterborough Petes": "+512"
         }
     },
@@ -737,7 +737,7 @@
         "away_score": 3,
         "odds": {
             "London Knights": "-229",
-            "Soo Greyhounds": "+180"
+            "Soo Greyhounds": "+181"
         }
     },
     {
@@ -919,7 +919,7 @@
         "away_score": 1,
         "odds": {
             "London Knights": "-232",
-            "Flint Firebirds": "+182"
+            "Flint Firebirds": "+183"
         }
     },
     {
@@ -1100,7 +1100,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "London Knights": "-129",
+            "London Knights": "-130",
             "Brampton Steelheads": "+105"
         }
     },
@@ -1191,8 +1191,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Erie Otters": "+156",
-            "London Knights": "-196"
+            "Erie Otters": "+157",
+            "London Knights": "-197"
         }
     },
     {
@@ -1894,7 +1894,7 @@
         "away_score": 9,
         "odds": {
             "Sarnia Sting": "+287",
-            "London Knights": "-386"
+            "London Knights": "-387"
         }
     },
     {
@@ -2556,8 +2556,8 @@
         "home_score": 6,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "+156",
-            "London Knights": "-196"
+            "Erie Otters": "+157",
+            "London Knights": "-197"
         }
     },
     {
@@ -3128,8 +3128,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "London Knights": "-196",
-            "Erie Otters": "+156"
+            "London Knights": "-197",
+            "Erie Otters": "+157"
         }
     },
     {
@@ -3154,8 +3154,8 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "London Knights": "-196",
-            "Erie Otters": "+156"
+            "London Knights": "-197",
+            "Erie Otters": "+157"
         }
     },
     {
@@ -3232,8 +3232,8 @@
         "home_score": 0,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "+156",
-            "London Knights": "-196"
+            "Erie Otters": "+157",
+            "London Knights": "-197"
         }
     },
     {
@@ -3284,8 +3284,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "+156",
-            "London Knights": "-196"
+            "Erie Otters": "+157",
+            "London Knights": "-197"
         }
     },
     {
@@ -3514,9 +3514,9 @@
         "home_team": "London Knights",
         "away_team": "Oshawa Generals",
         "predicted_winner": "London Knights",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 1,
-        "away_score": 1,
+        "actual_winner": "London Knights",
+        "home_score": 5,
+        "away_score": 2,
         "odds": {
             "London Knights": "-164",
             "Oshawa Generals": "+132"
