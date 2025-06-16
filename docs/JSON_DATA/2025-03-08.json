@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-220",
-            "Peterborough Petes": "+174"
+            "Ottawa 67's": "-228",
+            "Peterborough Petes": "+179"
         },
         "game_time": "3:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-176",
-            "Owen Sound Attack": "+141"
+            "Erie Otters": "-178",
+            "Owen Sound Attack": "+143"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-178",
-            "Sarnia Sting": "+143"
+            "Flint Firebirds": "-179",
+            "Sarnia Sting": "+144"
         },
         "game_time": "7:00 pm"
     },
