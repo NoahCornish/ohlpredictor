@@ -26,19 +26,6 @@
         }
     },
     {
-        "date": "2025-02-01",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 3,
-        "away_score": 1,
-        "odds": {
-            "Owen Sound Attack": "-123",
-            "Ottawa 67's": "-101"
-        }
-    },
-    {
         "date": "2025-02-02",
         "home_team": "Windsor Spitfires",
         "away_team": "London Knights",
@@ -164,8 +151,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-120",
-            "North Bay Battalion": "-103"
+            "Ottawa 67's": "-118",
+            "North Bay Battalion": "-104"
         }
     },
     {
@@ -242,8 +229,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "-120",
-            "North Bay Battalion": "-103"
+            "Ottawa 67's": "-118",
+            "North Bay Battalion": "-104"
         }
     },
     {
@@ -307,8 +294,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-103",
-            "Ottawa 67's": "-120"
+            "North Bay Battalion": "-104",
+            "Ottawa 67's": "-118"
         }
     },
     {
