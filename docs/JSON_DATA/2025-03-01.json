@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-639",
-            "Peterborough Petes": "+432"
+            "Brantford Bulldogs": "-641",
+            "Peterborough Petes": "+433"
         },
         "game_time": "7:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-131",
+            "Erie Otters": "-130",
             "Flint Firebirds": "+106"
         },
         "game_time": "7:00 pm"
@@ -35,7 +35,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Owen Sound Attack": "+167",
-            "Kitchener Rangers": "-210"
+            "Kitchener Rangers": "-211"
         },
         "game_time": "7:00 pm"
     },
