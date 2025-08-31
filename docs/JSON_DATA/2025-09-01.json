@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Guelph Storm": "+194",
+            "Brantford Bulldogs": "-248"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Owen Sound Attack",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-197",
+            "Owen Sound Attack": "+157"
+        },
+        "game_time": "6:00 pm"
+    }
+]

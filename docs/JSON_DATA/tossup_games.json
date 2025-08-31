@@ -178,7 +178,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "-112",
-            "North Bay Battalion": "-110"
+            "North Bay Battalion": "-111"
         }
     },
     {
@@ -486,8 +486,8 @@
         "away_team": "Oshawa Generals",
         "predicted_winner": "Oshawa Generals",
         "actual_winner": "Kitchener Rangers",
-        "home_score": 2,
-        "away_score": 0,
+        "home_score": 4,
+        "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-110",
             "Oshawa Generals": "-113"
@@ -498,8 +498,8 @@
         "home_team": "Niagara IceDogs",
         "away_team": "Flint Firebirds",
         "predicted_winner": "Niagara IceDogs",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 0,
+        "actual_winner": "Niagara IceDogs",
+        "home_score": 3,
         "away_score": 2,
         "odds": {
             "Niagara IceDogs": "-114",
