@@ -35,7 +35,7 @@
         "winner": "London Knights",
         "odds": {
             "London Knights": "-324",
-            "Owen Sound Attack": "+247"
+            "Owen Sound Attack": "+246"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-114",
+            "Ottawa 67's": "-115",
             "North Bay Battalion": "-108"
         },
         "game_time": "7:00 pm"
@@ -74,8 +74,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Soo Greyhounds": "+156",
-            "Brampton Steelheads": "-196"
+            "Soo Greyhounds": "+157",
+            "Brampton Steelheads": "-197"
         },
         "game_time": "7:07 pm"
     }
