@@ -164,7 +164,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-128",
+            "Owen Sound Attack": "-127",
             "Ottawa 67's": "+103"
         }
     },
@@ -282,7 +282,7 @@
         "away_score": 4,
         "odds": {
             "Guelph Storm": "-132",
-            "Ottawa 67's": "+107"
+            "Ottawa 67's": "+106"
         }
     },
     {
@@ -373,7 +373,7 @@
         "away_score": 8,
         "odds": {
             "Ottawa 67's": "+194",
-            "Oshawa Generals": "-248"
+            "Oshawa Generals": "-247"
         }
     },
     {
@@ -463,7 +463,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-248",
+            "Oshawa Generals": "-247",
             "Ottawa 67's": "+194"
         }
     },
@@ -580,7 +580,7 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+140",
+            "Ottawa 67's": "+139",
             "Flint Firebirds": "-174"
         }
     },
@@ -892,8 +892,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+192",
-            "Kitchener Rangers": "-245"
+            "Ottawa 67's": "+191",
+            "Kitchener Rangers": "-244"
         }
     },
     {
@@ -1257,7 +1257,7 @@
         "away_score": 5,
         "odds": {
             "Ottawa 67's": "+229",
-            "Brantford Bulldogs": "-299"
+            "Brantford Bulldogs": "-298"
         }
     },
     {
@@ -1595,7 +1595,7 @@
         "away_score": 4,
         "odds": {
             "Ottawa 67's": "+257",
-            "Windsor Spitfires": "-340"
+            "Windsor Spitfires": "-339"
         }
     },
     {
@@ -1997,8 +1997,8 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-338",
-            "Ottawa 67's": "+256"
+            "Kingston Frontenacs": "-337",
+            "Ottawa 67's": "+255"
         }
     },
     {
@@ -2128,7 +2128,7 @@
         "away_score": 2,
         "odds": {
             "Ottawa 67's": "+194",
-            "Oshawa Generals": "-248"
+            "Oshawa Generals": "-247"
         }
     },
     {
@@ -2244,8 +2244,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "+256",
-            "Kingston Frontenacs": "-338"
+            "Ottawa 67's": "+255",
+            "Kingston Frontenacs": "-337"
         }
     },
     {
@@ -2479,7 +2479,7 @@
         "away_score": 7,
         "odds": {
             "Erie Otters": "-206",
-            "Ottawa 67's": "+164"
+            "Ottawa 67's": "+163"
         }
     },
     {
@@ -2517,7 +2517,7 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-299",
+            "Brantford Bulldogs": "-298",
             "Ottawa 67's": "+229"
         }
     },
@@ -3635,8 +3635,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-338",
-            "Ottawa 67's": "+256"
+            "Kingston Frontenacs": "-337",
+            "Ottawa 67's": "+255"
         }
     },
     {
