@@ -14,8 +14,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Flint Firebirds": "-100",
-            "Sudbury Wolves": "-123"
+            "Flint Firebirds": "+100",
+            "Sudbury Wolves": "-124"
         },
         "game_time": "7:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Soo Greyhounds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-230",
+            "London Knights": "-229",
             "Soo Greyhounds": "+181"
         },
         "game_time": "7:00 pm"
