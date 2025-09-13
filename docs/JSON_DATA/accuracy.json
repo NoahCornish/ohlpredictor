@@ -1058,8 +1058,8 @@
         },
         {
             "date": "2025-02-23",
-            "accuracy": 50.0,
-            "correct_predictions": 3,
+            "accuracy": 33.3,
+            "correct_predictions": 2,
             "total_games": 6,
             "game_details": [
                 {
@@ -1073,7 +1073,7 @@
                 {
                     "home_team": "Sarnia Sting",
                     "away_team": "North Bay Battalion",
-                    "predicted_winner": "North Bay Battalion",
+                    "predicted_winner": "Sarnia Sting",
                     "actual_winner": "North Bay Battalion",
                     "home_score": 1,
                     "away_score": 5
@@ -3281,12 +3281,12 @@
             ]
         }
     ],
-    "total_accuracy": 65.8,
-    "tossup_accuracy": 55.6,
+    "total_accuracy": 65.5,
+    "tossup_accuracy": 52.8,
     "non_tossup_accuracy": 67.1,
-    "total_correct": 214,
+    "total_correct": 213,
     "total_games": 325,
-    "tossup_correct": 20,
+    "tossup_correct": 19,
     "tossup_games": 36,
     "non_tossup_correct": 194,
     "non_tossup_games": 289
