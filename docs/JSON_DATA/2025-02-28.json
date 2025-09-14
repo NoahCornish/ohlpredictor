@@ -24,8 +24,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-252",
-            "Sarnia Sting": "+197"
+            "Kitchener Rangers": "-253",
+            "Sarnia Sting": "+198"
         },
         "game_time": "7:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "London Knights",
         "odds": {
             "London Knights": "-322",
-            "Owen Sound Attack": "+246"
+            "Owen Sound Attack": "+245"
         },
         "game_time": "7:00 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Sudbury Wolves": "+136",
+            "Sudbury Wolves": "+137",
             "Saginaw Spirit": "-170"
         },
         "game_time": "7:05 pm"

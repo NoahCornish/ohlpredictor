@@ -47,7 +47,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-110",
+            "Brantford Bulldogs": "-109",
             "Saginaw Spirit": "-113"
         }
     },
@@ -146,7 +146,7 @@
         "date": "2025-02-23",
         "home_team": "Sarnia Sting",
         "away_team": "North Bay Battalion",
-        "predicted_winner": "Sarnia Sting",
+        "predicted_winner": "North Bay Battalion",
         "actual_winner": "North Bay Battalion",
         "home_score": 1,
         "away_score": 5,
@@ -243,7 +243,7 @@
         "away_score": 11,
         "odds": {
             "Saginaw Spirit": "-113",
-            "Brantford Bulldogs": "-110"
+            "Brantford Bulldogs": "-109"
         }
     },
     {
@@ -424,7 +424,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-110",
+            "Brantford Bulldogs": "-109",
             "Saginaw Spirit": "-113"
         }
     },

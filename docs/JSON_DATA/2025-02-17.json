@@ -15,7 +15,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Brantford Bulldogs": "-183",
-            "Soo Greyhounds": "+147"
+            "Soo Greyhounds": "+146"
         },
         "game_time": "2:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-234",
+            "London Knights": "-233",
             "Flint Firebirds": "+184"
         },
         "game_time": "2:00 pm"
@@ -54,8 +54,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Sarnia Sting": "+239",
-            "Saginaw Spirit": "-312"
+            "Sarnia Sting": "+240",
+            "Saginaw Spirit": "-314"
         },
         "game_time": "2:05 pm"
     },
@@ -85,7 +85,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Peterborough Petes": "+359",
-            "Kitchener Rangers": "-505"
+            "Kitchener Rangers": "-506"
         },
         "game_time": "3:05 pm"
     }
