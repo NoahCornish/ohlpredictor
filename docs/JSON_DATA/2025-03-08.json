@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-216",
-            "Peterborough Petes": "+171"
+            "Ottawa 67's": "-217",
+            "Peterborough Petes": "+172"
         },
         "game_time": "3:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Saginaw Spirit": "-113",
-            "Brantford Bulldogs": "-109"
+            "Brantford Bulldogs": "-110"
         },
         "game_time": "7:05 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Soo Greyhounds": "+124",
+            "Soo Greyhounds": "+123",
             "Oshawa Generals": "-153"
         },
         "game_time": "7:07 pm"

@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-689",
-            "Peterborough Petes": "+458"
+            "Brampton Steelheads": "-693",
+            "Peterborough Petes": "+459"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Kitchener Rangers": "-210",
-            "Owen Sound Attack": "+167"
+            "Owen Sound Attack": "+166"
         },
         "game_time": "7:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Soo Greyhounds": "+148",
+            "Soo Greyhounds": "+149",
             "Saginaw Spirit": "-186"
         },
         "game_time": "7:07 pm"
