@@ -4,7 +4,7 @@
         "away_team": "Oshawa Generals",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-132",
+            "Brantford Bulldogs": "-133",
             "Oshawa Generals": "+107"
         },
         "game_time": "7:00 pm"
@@ -44,7 +44,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-114",
+            "Ottawa 67's": "-115",
             "North Bay Battalion": "-108"
         },
         "game_time": "7:00 pm"
@@ -55,7 +55,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Sudbury Wolves": "+137",
-            "Saginaw Spirit": "-171"
+            "Saginaw Spirit": "-170"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Soo Greyhounds": "+157",
-            "Brampton Steelheads": "-197"
+            "Soo Greyhounds": "+156",
+            "Brampton Steelheads": "-196"
         },
         "game_time": "7:07 pm"
     }
