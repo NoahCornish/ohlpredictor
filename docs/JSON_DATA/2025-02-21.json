@@ -5,7 +5,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Erie Otters": "+107",
-            "Oshawa Generals": "-133"
+            "Oshawa Generals": "-132"
         },
         "game_time": "7:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-179",
+            "Flint Firebirds": "-178",
             "North Bay Battalion": "+143"
         },
         "game_time": "7:00 pm"
@@ -24,7 +24,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-125",
+            "Kingston Frontenacs": "-124",
             "Brantford Bulldogs": "+101"
         },
         "game_time": "7:00 pm"
@@ -75,7 +75,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Sudbury Wolves": "-166",
-            "Owen Sound Attack": "+133"
+            "Owen Sound Attack": "+134"
         },
         "game_time": "7:05 pm"
     },
