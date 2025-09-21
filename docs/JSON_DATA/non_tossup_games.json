@@ -99,7 +99,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "+125",
+            "Flint Firebirds": "+124",
             "Kitchener Rangers": "-155"
         }
     },
@@ -177,7 +177,7 @@
         "home_score": 4,
         "away_score": 7,
         "odds": {
-            "Flint Firebirds": "+167",
+            "Flint Firebirds": "+166",
             "Kingston Frontenacs": "-210"
         }
     },
@@ -377,6 +377,19 @@
         }
     },
     {
+        "date": "2025-02-05",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 3,
+        "away_score": 6,
+        "odds": {
+            "Windsor Spitfires": "-124",
+            "Saginaw Spirit": "+100"
+        }
+    },
+    {
         "date": "2025-02-06",
         "home_team": "North Bay Battalion",
         "away_team": "Soo Greyhounds",
@@ -398,8 +411,8 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Peterborough Petes": "+262",
-            "Flint Firebirds": "-347"
+            "Peterborough Petes": "+263",
+            "Flint Firebirds": "-348"
         }
     },
     {
@@ -425,7 +438,7 @@
         "away_score": 1,
         "odds": {
             "Kingston Frontenacs": "-210",
-            "Flint Firebirds": "+167"
+            "Flint Firebirds": "+166"
         }
     },
     {
@@ -554,8 +567,8 @@
         "home_score": 7,
         "away_score": 10,
         "odds": {
-            "Guelph Storm": "+197",
-            "Saginaw Spirit": "-252"
+            "Guelph Storm": "+196",
+            "Saginaw Spirit": "-251"
         }
     },
     {
@@ -581,7 +594,7 @@
         "away_score": 5,
         "odds": {
             "Ottawa 67's": "+139",
-            "Flint Firebirds": "-173"
+            "Flint Firebirds": "-174"
         }
     },
     {
@@ -768,6 +781,19 @@
     },
     {
         "date": "2025-02-14",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 3,
+        "away_score": 2,
+        "odds": {
+            "Saginaw Spirit": "+100",
+            "Windsor Spitfires": "-124"
+        }
+    },
+    {
+        "date": "2025-02-14",
         "home_team": "Peterborough Petes",
         "away_team": "Ottawa 67's",
         "predicted_winner": "Ottawa 67's",
@@ -932,7 +958,7 @@
         "away_score": 1,
         "odds": {
             "London Knights": "-233",
-            "Flint Firebirds": "+184"
+            "Flint Firebirds": "+183"
         }
     },
     {
@@ -996,8 +1022,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+359",
-            "Kitchener Rangers": "-505"
+            "Peterborough Petes": "+360",
+            "Kitchener Rangers": "-506"
         }
     },
     {
@@ -1061,7 +1087,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Saginaw Spirit": "-312",
+            "Saginaw Spirit": "-311",
             "North Bay Battalion": "+238"
         }
     },
@@ -1087,7 +1113,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Flint Firebirds": "-178",
+            "Flint Firebirds": "-179",
             "North Bay Battalion": "+143"
         }
     },
@@ -1230,8 +1256,8 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Saginaw Spirit": "-252",
-            "Guelph Storm": "+197"
+            "Saginaw Spirit": "-251",
+            "Guelph Storm": "+196"
         }
     },
     {
@@ -1275,6 +1301,19 @@
     },
     {
         "date": "2025-02-23",
+        "home_team": "Windsor Spitfires",
+        "away_team": "Saginaw Spirit",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Windsor Spitfires",
+        "home_score": 7,
+        "away_score": 3,
+        "odds": {
+            "Windsor Spitfires": "-124",
+            "Saginaw Spirit": "+100"
+        }
+    },
+    {
+        "date": "2025-02-23",
         "home_team": "London Knights",
         "away_team": "Kitchener Rangers",
         "predicted_winner": "London Knights",
@@ -1308,8 +1347,8 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-131",
-            "Flint Firebirds": "+106"
+            "Erie Otters": "-130",
+            "Flint Firebirds": "+105"
         }
     },
     {
@@ -1490,7 +1529,7 @@
         "home_score": 3,
         "away_score": 5,
         "odds": {
-            "Guelph Storm": "+117",
+            "Guelph Storm": "+118",
             "Flint Firebirds": "-146"
         }
     },
@@ -1529,8 +1568,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Erie Otters": "-131",
-            "Flint Firebirds": "+106"
+            "Erie Otters": "-130",
+            "Flint Firebirds": "+105"
         }
     },
     {
@@ -1582,7 +1621,7 @@
         "away_score": 8,
         "odds": {
             "North Bay Battalion": "+238",
-            "Saginaw Spirit": "-312"
+            "Saginaw Spirit": "-311"
         }
     },
     {
@@ -1686,7 +1725,7 @@
         "away_score": 5,
         "odds": {
             "Flint Firebirds": "+151",
-            "Saginaw Spirit": "-190"
+            "Saginaw Spirit": "-189"
         }
     },
     {
@@ -1764,7 +1803,7 @@
         "away_score": 4,
         "odds": {
             "Flint Firebirds": "+149",
-            "Brantford Bulldogs": "-187"
+            "Brantford Bulldogs": "-186"
         }
     },
     {
@@ -2101,8 +2140,8 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Kitchener Rangers": "-251",
-            "North Bay Battalion": "+196"
+            "Kitchener Rangers": "-252",
+            "North Bay Battalion": "+197"
         }
     },
     {
@@ -2114,7 +2153,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "London Knights": "-135",
+            "London Knights": "-136",
             "Saginaw Spirit": "+110"
         }
     },
@@ -2194,6 +2233,19 @@
         "odds": {
             "Peterborough Petes": "+289",
             "Sudbury Wolves": "-390"
+        }
+    },
+    {
+        "date": "2025-03-15",
+        "home_team": "Saginaw Spirit",
+        "away_team": "Windsor Spitfires",
+        "predicted_winner": "Windsor Spitfires",
+        "actual_winner": "Saginaw Spirit",
+        "home_score": 6,
+        "away_score": 5,
+        "odds": {
+            "Saginaw Spirit": "+100",
+            "Windsor Spitfires": "-124"
         }
     },
     {
@@ -2284,7 +2336,7 @@
         "away_score": 2,
         "odds": {
             "Flint Firebirds": "-146",
-            "Guelph Storm": "+117"
+            "Guelph Storm": "+118"
         }
     },
     {
@@ -2492,7 +2544,7 @@
         "away_score": 3,
         "odds": {
             "Flint Firebirds": "+151",
-            "Saginaw Spirit": "-190"
+            "Saginaw Spirit": "-189"
         }
     },
     {
@@ -2582,7 +2634,7 @@
         "home_score": 9,
         "away_score": 2,
         "odds": {
-            "Saginaw Spirit": "-190",
+            "Saginaw Spirit": "-189",
             "Flint Firebirds": "+151"
         }
     },
@@ -2687,7 +2739,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "-155",
-            "Flint Firebirds": "+125"
+            "Flint Firebirds": "+124"
         }
     },
     {
@@ -2765,7 +2817,7 @@
         "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-155",
-            "Flint Firebirds": "+125"
+            "Flint Firebirds": "+124"
         }
     },
     {
@@ -2881,7 +2933,7 @@
         "home_score": 2,
         "away_score": 0,
         "odds": {
-            "Flint Firebirds": "+125",
+            "Flint Firebirds": "+124",
             "Kitchener Rangers": "-155"
         }
     },
@@ -2985,7 +3037,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Flint Firebirds": "+125",
+            "Flint Firebirds": "+124",
             "Kitchener Rangers": "-155"
         }
     },
@@ -3025,7 +3077,7 @@
         "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-155",
-            "Flint Firebirds": "+125"
+            "Flint Firebirds": "+124"
         }
     },
     {
