@@ -14,8 +14,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Ottawa 67's": "+257",
-            "Windsor Spitfires": "-340"
+            "Ottawa 67's": "+258",
+            "Windsor Spitfires": "-341"
         },
         "game_time": "2:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Guelph Storm",
         "odds": {
             "Sarnia Sting": "+110",
-            "Guelph Storm": "-137"
+            "Guelph Storm": "-136"
         },
         "game_time": "2:05 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "London Knights",
         "odds": {
             "Oshawa Generals": "+132",
-            "London Knights": "-165"
+            "London Knights": "-164"
         },
         "game_time": "6:05 pm"
     }
