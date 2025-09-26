@@ -4,7 +4,7 @@
         "away_team": "Erie Otters",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-170",
+            "Brampton Steelheads": "-169",
             "Erie Otters": "+136"
         },
         "game_time": "7:00 pm"
@@ -34,7 +34,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-210",
+            "Kitchener Rangers": "-209",
             "Owen Sound Attack": "+166"
         },
         "game_time": "7:00 pm"
@@ -64,7 +64,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-247",
+            "Oshawa Generals": "-246",
             "Ottawa 67's": "+193"
         },
         "game_time": "7:05 pm"
@@ -74,8 +74,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-353",
-            "Sarnia Sting": "+266"
+            "Windsor Spitfires": "-352",
+            "Sarnia Sting": "+265"
         },
         "game_time": "7:05 pm"
     },
