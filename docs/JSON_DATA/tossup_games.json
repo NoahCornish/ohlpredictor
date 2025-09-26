@@ -164,8 +164,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-102",
-            "Sudbury Wolves": "-121"
+            "Soo Greyhounds": "-103",
+            "Sudbury Wolves": "-120"
         }
     },
     {
@@ -282,7 +282,7 @@
         "away_score": 6,
         "odds": {
             "Flint Firebirds": "-109",
-            "Soo Greyhounds": "-113"
+            "Soo Greyhounds": "-114"
         }
     },
     {
@@ -320,8 +320,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "-121",
-            "Soo Greyhounds": "-102"
+            "Sudbury Wolves": "-120",
+            "Soo Greyhounds": "-103"
         }
     },
     {
@@ -463,8 +463,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Soo Greyhounds": "-102",
-            "Sudbury Wolves": "-121"
+            "Soo Greyhounds": "-103",
+            "Sudbury Wolves": "-120"
         }
     }
 ]
