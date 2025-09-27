@@ -8,7 +8,7 @@
         "home_score": 5,
         "away_score": 9,
         "odds": {
-            "Saginaw Spirit": "-101",
+            "Saginaw Spirit": "-100",
             "Kingston Frontenacs": "-123"
         }
     },
@@ -47,7 +47,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-109",
+            "Brantford Bulldogs": "-110",
             "Saginaw Spirit": "-113"
         }
     },
@@ -229,7 +229,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "London Knights": "-123",
+            "London Knights": "-122",
             "Kingston Frontenacs": "-101"
         }
     },
@@ -243,7 +243,7 @@
         "away_score": 11,
         "odds": {
             "Saginaw Spirit": "-113",
-            "Brantford Bulldogs": "-109"
+            "Brantford Bulldogs": "-110"
         }
     },
     {
@@ -281,7 +281,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Flint Firebirds": "-109",
+            "Flint Firebirds": "-108",
             "Soo Greyhounds": "-114"
         }
     },
@@ -424,7 +424,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-109",
+            "Brantford Bulldogs": "-110",
             "Saginaw Spirit": "-113"
         }
     },
@@ -451,7 +451,7 @@
         "away_score": 2,
         "odds": {
             "Niagara IceDogs": "-115",
-            "Flint Firebirds": "-108"
+            "Flint Firebirds": "-107"
         }
     },
     {

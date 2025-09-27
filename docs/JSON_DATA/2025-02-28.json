@@ -4,7 +4,7 @@
         "away_team": "Oshawa Generals",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-132",
+            "Brantford Bulldogs": "-133",
             "Oshawa Generals": "+107"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-320",
-            "Owen Sound Attack": "+244"
+            "London Knights": "-319",
+            "Owen Sound Attack": "+243"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Guelph Storm": "+118",
-            "Flint Firebirds": "-146"
+            "Guelph Storm": "+117",
+            "Flint Firebirds": "-145"
         },
         "game_time": "7:07 pm"
     },

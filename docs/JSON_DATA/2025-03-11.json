@@ -14,8 +14,8 @@
         "away_team": "Guelph Storm",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-311",
-            "Guelph Storm": "+238"
+            "London Knights": "-310",
+            "Guelph Storm": "+237"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Niagara IceDogs": "+113",
-            "Barrie Colts": "-140"
+            "Niagara IceDogs": "+112",
+            "Barrie Colts": "-139"
         },
         "game_time": "7:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Windsor Spitfires": "-179",
-            "Erie Otters": "+144"
+            "Erie Otters": "+143"
         },
         "game_time": "7:05 pm"
     }
