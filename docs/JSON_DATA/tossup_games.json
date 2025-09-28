@@ -35,7 +35,7 @@
         "away_score": 3,
         "odds": {
             "Windsor Spitfires": "-102",
-            "London Knights": "-122"
+            "London Knights": "-121"
         }
     },
     {
@@ -74,7 +74,7 @@
         "away_score": 0,
         "odds": {
             "Brampton Steelheads": "-106",
-            "Kingston Frontenacs": "-116"
+            "Kingston Frontenacs": "-117"
         }
     },
     {
@@ -126,7 +126,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-115",
-            "North Bay Battalion": "-108"
+            "North Bay Battalion": "-107"
         }
     },
     {
@@ -146,7 +146,7 @@
         "date": "2025-02-23",
         "home_team": "Sarnia Sting",
         "away_team": "North Bay Battalion",
-        "predicted_winner": "North Bay Battalion",
+        "predicted_winner": "Sarnia Sting",
         "actual_winner": "North Bay Battalion",
         "home_score": 1,
         "away_score": 5,
@@ -191,7 +191,7 @@
         "away_score": 2,
         "odds": {
             "Ottawa 67's": "-115",
-            "North Bay Battalion": "-108"
+            "North Bay Battalion": "-107"
         }
     },
     {
@@ -255,7 +255,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-108",
+            "North Bay Battalion": "-107",
             "Ottawa 67's": "-115"
         }
     },
@@ -295,7 +295,7 @@
         "away_score": 5,
         "odds": {
             "Windsor Spitfires": "-102",
-            "London Knights": "-122"
+            "London Knights": "-121"
         }
     },
     {
@@ -333,7 +333,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "London Knights": "-122",
+            "London Knights": "-121",
             "Windsor Spitfires": "-102"
         }
     },
@@ -360,7 +360,7 @@
         "away_score": 1,
         "odds": {
             "Brampton Steelheads": "-106",
-            "Kingston Frontenacs": "-116"
+            "Kingston Frontenacs": "-117"
         }
     },
     {
