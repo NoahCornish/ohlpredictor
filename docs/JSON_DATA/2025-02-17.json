@@ -24,7 +24,7 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-233",
+            "London Knights": "-232",
             "Flint Firebirds": "+183"
         },
         "game_time": "2:00 pm"
@@ -55,7 +55,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Sarnia Sting": "+238",
-            "Saginaw Spirit": "-312"
+            "Saginaw Spirit": "-311"
         },
         "game_time": "2:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Peterborough Petes": "+359",
-            "Kitchener Rangers": "-505"
+            "Peterborough Petes": "+361",
+            "Kitchener Rangers": "-509"
         },
         "game_time": "3:05 pm"
     }
