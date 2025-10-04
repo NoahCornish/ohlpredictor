@@ -112,7 +112,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "-101",
+            "Flint Firebirds": "-100",
             "Sudbury Wolves": "-123"
         }
     },
@@ -126,7 +126,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-115",
-            "North Bay Battalion": "-107"
+            "North Bay Battalion": "-108"
         }
     },
     {
@@ -191,7 +191,7 @@
         "away_score": 2,
         "odds": {
             "Ottawa 67's": "-115",
-            "North Bay Battalion": "-107"
+            "North Bay Battalion": "-108"
         }
     },
     {
@@ -255,7 +255,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-107",
+            "North Bay Battalion": "-108",
             "Ottawa 67's": "-115"
         }
     },
@@ -269,7 +269,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "-114",
-            "Owen Sound Attack": "-109"
+            "Owen Sound Attack": "-108"
         }
     },
     {
@@ -346,7 +346,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "-109",
+            "Owen Sound Attack": "-108",
             "Guelph Storm": "-114"
         }
     },
@@ -451,7 +451,7 @@
         "away_score": 2,
         "odds": {
             "Niagara IceDogs": "-115",
-            "Flint Firebirds": "-108"
+            "Flint Firebirds": "-107"
         }
     },
     {
