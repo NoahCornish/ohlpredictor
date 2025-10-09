@@ -24,7 +24,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-210",
+            "Kingston Frontenacs": "-211",
             "Flint Firebirds": "+167"
         },
         "game_time": "7:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-842",
-            "Peterborough Petes": "+530"
+            "London Knights": "-836",
+            "Peterborough Petes": "+527"
         },
         "game_time": "7:00 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-245",
+            "Oshawa Generals": "-244",
             "Ottawa 67's": "+192"
         },
         "game_time": "7:05 pm"
@@ -85,7 +85,7 @@
         "winner": "Guelph Storm",
         "odds": {
             "Guelph Storm": "-137",
-            "North Bay Battalion": "+110"
+            "North Bay Battalion": "+111"
         },
         "game_time": "7:07 pm"
     }
