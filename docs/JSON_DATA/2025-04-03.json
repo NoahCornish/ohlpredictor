@@ -4,8 +4,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "North Bay Battalion": "+236",
-            "Brantford Bulldogs": "-308"
+            "North Bay Battalion": "+235",
+            "Brantford Bulldogs": "-307"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Niagara IceDogs": "+113",
-            "Barrie Colts": "-139"
+            "Barrie Colts": "-140"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Owen Sound Attack": "+243",
-            "London Knights": "-319"
+            "Owen Sound Attack": "+244",
+            "London Knights": "-320"
         },
         "game_time": "7:00 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Sudbury Wolves": "+152",
-            "Kingston Frontenacs": "-190"
+            "Kingston Frontenacs": "-191"
         },
         "game_time": "7:05 pm"
     }
