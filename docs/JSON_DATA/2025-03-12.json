@@ -14,8 +14,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-337",
-            "Ottawa 67's": "+255"
+            "Kingston Frontenacs": "-338",
+            "Ottawa 67's": "+256"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Flint Firebirds",
         "odds": {
             "Owen Sound Attack": "+120",
-            "Flint Firebirds": "-149"
+            "Flint Firebirds": "-148"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Sarnia Sting": "+167",
+            "Sarnia Sting": "+168",
             "Erie Otters": "-211"
         },
         "game_time": "7:05 pm"
