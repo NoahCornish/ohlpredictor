@@ -99,8 +99,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "+124",
-            "Kitchener Rangers": "-154"
+            "Flint Firebirds": "+125",
+            "Kitchener Rangers": "-155"
         }
     },
     {
@@ -139,7 +139,7 @@
         "away_score": 4,
         "odds": {
             "Guelph Storm": "-137",
-            "Sarnia Sting": "+111"
+            "Sarnia Sting": "+110"
         }
     },
     {
@@ -450,7 +450,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-207",
+            "Kitchener Rangers": "-208",
             "Owen Sound Attack": "+165"
         }
     },
@@ -502,7 +502,7 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "-137",
+            "Guelph Storm": "-136",
             "North Bay Battalion": "+110"
         }
     },
@@ -568,7 +568,7 @@
         "away_score": 10,
         "odds": {
             "Guelph Storm": "+196",
-            "Saginaw Spirit": "-250"
+            "Saginaw Spirit": "-251"
         }
     },
     {
@@ -658,7 +658,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Sarnia Sting": "+111",
+            "Sarnia Sting": "+110",
             "Guelph Storm": "-137"
         }
     },
@@ -815,7 +815,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "+163",
-            "Oshawa Generals": "-205"
+            "Oshawa Generals": "-206"
         }
     },
     {
@@ -1010,7 +1010,7 @@
         "away_score": 6,
         "odds": {
             "Guelph Storm": "+129",
-            "Sudbury Wolves": "-160"
+            "Sudbury Wolves": "-161"
         }
     },
     {
@@ -1256,7 +1256,7 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Saginaw Spirit": "-250",
+            "Saginaw Spirit": "-251",
             "Guelph Storm": "+196"
         }
     },
@@ -1360,8 +1360,8 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-203",
-            "Guelph Storm": "+161"
+            "Kitchener Rangers": "-204",
+            "Guelph Storm": "+162"
         }
     },
     {
@@ -1490,7 +1490,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-252",
+            "Kitchener Rangers": "-253",
             "Sarnia Sting": "+197"
         }
     },
@@ -1595,7 +1595,7 @@
         "away_score": 2,
         "odds": {
             "Owen Sound Attack": "+165",
-            "Kitchener Rangers": "-207"
+            "Kitchener Rangers": "-208"
         }
     },
     {
@@ -1646,7 +1646,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Sarnia Sting": "+111",
+            "Sarnia Sting": "+110",
             "Guelph Storm": "-137"
         }
     },
@@ -1842,7 +1842,7 @@
         "away_score": 5,
         "odds": {
             "Guelph Storm": "-137",
-            "Sarnia Sting": "+111"
+            "Sarnia Sting": "+110"
         }
     },
     {
@@ -1919,8 +1919,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-203",
-            "Guelph Storm": "+161"
+            "Kitchener Rangers": "-204",
+            "Guelph Storm": "+162"
         }
     },
     {
@@ -1984,8 +1984,8 @@
         "home_score": 7,
         "away_score": 3,
         "odds": {
-            "London Knights": "-310",
-            "Guelph Storm": "+237"
+            "London Knights": "-311",
+            "Guelph Storm": "+238"
         }
     },
     {
@@ -2023,8 +2023,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Guelph Storm": "+237",
-            "London Knights": "-310"
+            "Guelph Storm": "+238",
+            "London Knights": "-311"
         }
     },
     {
@@ -2219,7 +2219,7 @@
         "away_score": 3,
         "odds": {
             "Owen Sound Attack": "+165",
-            "Kitchener Rangers": "-207"
+            "Kitchener Rangers": "-208"
         }
     },
     {
@@ -2465,7 +2465,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Kitchener Rangers": "-207",
+            "Kitchener Rangers": "-208",
             "Owen Sound Attack": "+165"
         }
     },
@@ -2595,8 +2595,8 @@
         "home_score": 2,
         "away_score": 0,
         "odds": {
-            "Guelph Storm": "+161",
-            "Kitchener Rangers": "-203"
+            "Guelph Storm": "+162",
+            "Kitchener Rangers": "-204"
         }
     },
     {
@@ -2738,8 +2738,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-154",
-            "Flint Firebirds": "+124"
+            "Kitchener Rangers": "-155",
+            "Flint Firebirds": "+125"
         }
     },
     {
@@ -2816,8 +2816,8 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-154",
-            "Flint Firebirds": "+124"
+            "Kitchener Rangers": "-155",
+            "Flint Firebirds": "+125"
         }
     },
     {
@@ -2933,8 +2933,8 @@
         "home_score": 2,
         "away_score": 0,
         "odds": {
-            "Flint Firebirds": "+124",
-            "Kitchener Rangers": "-154"
+            "Flint Firebirds": "+125",
+            "Kitchener Rangers": "-155"
         }
     },
     {
@@ -3037,8 +3037,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Flint Firebirds": "+124",
-            "Kitchener Rangers": "-154"
+            "Flint Firebirds": "+125",
+            "Kitchener Rangers": "-155"
         }
     },
     {
@@ -3076,8 +3076,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-154",
-            "Flint Firebirds": "+124"
+            "Kitchener Rangers": "-155",
+            "Flint Firebirds": "+125"
         }
     },
     {
@@ -3739,7 +3739,7 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "+193",
+            "Guelph Storm": "+194",
             "Brantford Bulldogs": "-247"
         }
     },
