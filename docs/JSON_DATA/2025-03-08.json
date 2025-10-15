@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-219",
-            "Peterborough Petes": "+173"
+            "Ottawa 67's": "-220",
+            "Peterborough Petes": "+174"
         },
         "game_time": "3:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-175",
+            "Erie Otters": "-174",
             "Owen Sound Attack": "+140"
         },
         "game_time": "7:00 pm"
@@ -35,7 +35,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Saginaw Spirit": "-113",
-            "Brantford Bulldogs": "-110"
+            "Brantford Bulldogs": "-109"
         },
         "game_time": "7:05 pm"
     },

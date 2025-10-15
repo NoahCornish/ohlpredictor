@@ -5,7 +5,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Brampton Steelheads": "-195",
-            "Niagara IceDogs": "+155"
+            "Niagara IceDogs": "+156"
         },
         "game_time": "2:00 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Sarnia Sting": "+239",
+            "Sarnia Sting": "+240",
             "Saginaw Spirit": "-313"
         },
         "game_time": "2:05 pm"
@@ -65,7 +65,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Windsor Spitfires": "-288",
-            "Owen Sound Attack": "+223"
+            "Owen Sound Attack": "+222"
         },
         "game_time": "2:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Peterborough Petes": "+362",
-            "Kitchener Rangers": "-511"
+            "Peterborough Petes": "+364",
+            "Kitchener Rangers": "-514"
         },
         "game_time": "3:05 pm"
     }
