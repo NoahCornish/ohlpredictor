@@ -4,7 +4,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-181",
+            "Brampton Steelheads": "-182",
             "Sudbury Wolves": "+145"
         },
         "game_time": "4:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Saginaw Spirit": "-251",
-            "Guelph Storm": "+196"
+            "Guelph Storm": "+197"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-473",
-            "Peterborough Petes": "+340"
+            "Barrie Colts": "-469",
+            "Peterborough Petes": "+338"
         },
         "game_time": "7:30 pm"
     }

@@ -5,7 +5,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Niagara IceDogs": "+156",
-            "Brampton Steelheads": "-195"
+            "Brampton Steelheads": "-196"
         },
         "game_time": "2:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Ottawa 67's": "+256",
+            "Ottawa 67's": "+255",
             "Kingston Frontenacs": "-337"
         },
         "game_time": "2:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Guelph Storm",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-171",
-            "Guelph Storm": "+137"
+            "Erie Otters": "-172",
+            "Guelph Storm": "+138"
         },
         "game_time": "4:00 pm"
     },
