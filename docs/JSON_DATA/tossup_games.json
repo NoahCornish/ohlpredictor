@@ -47,7 +47,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-109",
+            "Brantford Bulldogs": "-110",
             "Saginaw Spirit": "-113"
         }
     },
@@ -165,7 +165,7 @@
         "away_score": 3,
         "odds": {
             "Soo Greyhounds": "-103",
-            "Sudbury Wolves": "-120"
+            "Sudbury Wolves": "-119"
         }
     },
     {
@@ -243,7 +243,7 @@
         "away_score": 11,
         "odds": {
             "Saginaw Spirit": "-113",
-            "Brantford Bulldogs": "-109"
+            "Brantford Bulldogs": "-110"
         }
     },
     {
@@ -320,7 +320,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "-120",
+            "Sudbury Wolves": "-119",
             "Soo Greyhounds": "-103"
         }
     },
@@ -424,7 +424,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-109",
+            "Brantford Bulldogs": "-110",
             "Saginaw Spirit": "-113"
         }
     },
@@ -464,7 +464,7 @@
         "away_score": 1,
         "odds": {
             "Soo Greyhounds": "-103",
-            "Sudbury Wolves": "-120"
+            "Sudbury Wolves": "-119"
         }
     }
 ]
