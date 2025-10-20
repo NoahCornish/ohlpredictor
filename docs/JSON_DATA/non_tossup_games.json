@@ -191,7 +191,7 @@
         "away_score": 2,
         "odds": {
             "Peterborough Petes": "+363",
-            "Oshawa Generals": "-512"
+            "Oshawa Generals": "-513"
         }
     },
     {
@@ -373,7 +373,7 @@
         "away_score": 8,
         "odds": {
             "Ottawa 67's": "+192",
-            "Oshawa Generals": "-245"
+            "Oshawa Generals": "-246"
         }
     },
     {
@@ -476,7 +476,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-245",
+            "Oshawa Generals": "-246",
             "Ottawa 67's": "+192"
         }
     },
@@ -619,7 +619,7 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Oshawa Generals": "-151",
+            "Oshawa Generals": "-152",
             "Soo Greyhounds": "+122"
         }
     },
@@ -970,7 +970,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Oshawa Generals": "-132",
+            "Oshawa Generals": "-133",
             "Erie Otters": "+107"
         }
     },
@@ -1101,7 +1101,7 @@
         "away_score": 3,
         "odds": {
             "Erie Otters": "+107",
-            "Oshawa Generals": "-132"
+            "Oshawa Generals": "-133"
         }
     },
     {
@@ -1335,7 +1335,7 @@
         "away_score": 1,
         "odds": {
             "Oshawa Generals": "+121",
-            "Kingston Frontenacs": "-150"
+            "Kingston Frontenacs": "-149"
         }
     },
     {
@@ -1907,7 +1907,7 @@
         "away_score": 4,
         "odds": {
             "Soo Greyhounds": "+122",
-            "Oshawa Generals": "-151"
+            "Oshawa Generals": "-152"
         }
     },
     {
@@ -2167,7 +2167,7 @@
         "away_score": 2,
         "odds": {
             "Ottawa 67's": "+192",
-            "Oshawa Generals": "-245"
+            "Oshawa Generals": "-246"
         }
     },
     {
@@ -2400,8 +2400,8 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "+197",
-            "Oshawa Generals": "-252"
+            "North Bay Battalion": "+198",
+            "Oshawa Generals": "-253"
         }
     },
     {
@@ -2647,7 +2647,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-512",
+            "Oshawa Generals": "-513",
             "Peterborough Petes": "+363"
         }
     },
