@@ -14,8 +14,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-131",
-            "Flint Firebirds": "+106"
+            "Erie Otters": "-130",
+            "Flint Firebirds": "+105"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Niagara IceDogs": "+178",
+            "Niagara IceDogs": "+179",
             "London Knights": "-226"
         },
         "game_time": "7:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Barrie Colts": "+131",
-            "Kingston Frontenacs": "-162"
+            "Kingston Frontenacs": "-163"
         },
         "game_time": "7:30 pm"
     }
