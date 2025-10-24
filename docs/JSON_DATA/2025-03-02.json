@@ -15,7 +15,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Ottawa 67's": "+257",
-            "Windsor Spitfires": "-340"
+            "Windsor Spitfires": "-339"
         },
         "game_time": "2:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-418",
+            "Erie Otters": "-417",
             "Peterborough Petes": "+307"
         },
         "game_time": "4:00 pm"
@@ -55,7 +55,7 @@
         "winner": "London Knights",
         "odds": {
             "Oshawa Generals": "+132",
-            "London Knights": "-164"
+            "London Knights": "-165"
         },
         "game_time": "6:05 pm"
     }

@@ -15,7 +15,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Flint Firebirds": "+168",
-            "Kingston Frontenacs": "-211"
+            "Kingston Frontenacs": "-212"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Peterborough Petes": "+363",
-            "Oshawa Generals": "-513"
+            "Oshawa Generals": "-512"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-140",
-            "Niagara IceDogs": "+113"
+            "Barrie Colts": "-139",
+            "Niagara IceDogs": "+112"
         },
         "game_time": "7:30 pm"
     }
