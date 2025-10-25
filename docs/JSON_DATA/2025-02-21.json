@@ -34,7 +34,7 @@
         "away_team": "Barrie Colts",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-119",
+            "Kitchener Rangers": "-120",
             "Barrie Colts": "-103"
         },
         "game_time": "7:00 pm"
@@ -64,7 +64,7 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Sarnia Sting": "+266",
+            "Sarnia Sting": "+267",
             "Windsor Spitfires": "-354"
         },
         "game_time": "7:05 pm"
@@ -85,7 +85,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "Soo Greyhounds": "-149",
-            "Guelph Storm": "+121"
+            "Guelph Storm": "+120"
         },
         "game_time": "7:07 pm"
     }
