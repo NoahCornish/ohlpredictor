@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-689",
-            "Peterborough Petes": "+457"
+            "Brampton Steelheads": "-690",
+            "Peterborough Petes": "+458"
         },
         "game_time": "7:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-125",
+            "Kingston Frontenacs": "-124",
             "Brantford Bulldogs": "+101"
         },
         "game_time": "7:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Niagara IceDogs",
         "odds": {
             "Niagara IceDogs": "-183",
-            "North Bay Battalion": "+146"
+            "North Bay Battalion": "+147"
         },
         "game_time": "7:00 pm"
     },
