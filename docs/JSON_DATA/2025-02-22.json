@@ -34,8 +34,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Flint Firebirds": "+169",
-            "Windsor Spitfires": "-213"
+            "Flint Firebirds": "+168",
+            "Windsor Spitfires": "-212"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Guelph Storm",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-250",
+            "Saginaw Spirit": "-251",
             "Guelph Storm": "+196"
         },
         "game_time": "7:05 pm"
@@ -54,8 +54,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-461",
-            "Peterborough Petes": "+333"
+            "Barrie Colts": "-462",
+            "Peterborough Petes": "+334"
         },
         "game_time": "7:30 pm"
     }
