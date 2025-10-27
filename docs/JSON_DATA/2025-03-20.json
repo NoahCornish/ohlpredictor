@@ -24,7 +24,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-179",
+            "Niagara IceDogs": "-178",
             "Ottawa 67's": "+143"
         },
         "game_time": "7:00 pm"
@@ -35,7 +35,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "North Bay Battalion": "+197",
-            "Oshawa Generals": "-253"
+            "Oshawa Generals": "-252"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Peterborough Petes": "+479",
-            "Kingston Frontenacs": "-732"
+            "Peterborough Petes": "+481",
+            "Kingston Frontenacs": "-736"
         },
         "game_time": "7:05 pm"
     },
