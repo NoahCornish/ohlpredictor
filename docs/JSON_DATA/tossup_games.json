@@ -125,7 +125,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-114",
+            "Ottawa 67's": "-115",
             "North Bay Battalion": "-108"
         }
     },
@@ -139,7 +139,7 @@
         "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-119",
-            "Barrie Colts": "-103"
+            "Barrie Colts": "-104"
         }
     },
     {
@@ -164,7 +164,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-103",
+            "Soo Greyhounds": "-104",
             "Sudbury Wolves": "-119"
         }
     },
@@ -190,7 +190,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "-114",
+            "Ottawa 67's": "-115",
             "North Bay Battalion": "-108"
         }
     },
@@ -256,7 +256,7 @@
         "away_score": 2,
         "odds": {
             "North Bay Battalion": "-108",
-            "Ottawa 67's": "-114"
+            "Ottawa 67's": "-115"
         }
     },
     {
@@ -321,7 +321,7 @@
         "away_score": 3,
         "odds": {
             "Sudbury Wolves": "-119",
-            "Soo Greyhounds": "-103"
+            "Soo Greyhounds": "-104"
         }
     },
     {
@@ -463,7 +463,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Soo Greyhounds": "-103",
+            "Soo Greyhounds": "-104",
             "Sudbury Wolves": "-119"
         }
     }
