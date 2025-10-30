@@ -24,7 +24,7 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-233",
+            "London Knights": "-232",
             "Flint Firebirds": "+183"
         },
         "game_time": "2:00 pm"
@@ -44,7 +44,7 @@
         "away_team": "Erie Otters",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-132",
+            "Oshawa Generals": "-133",
             "Erie Otters": "+107"
         },
         "game_time": "2:05 pm"
@@ -65,7 +65,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Windsor Spitfires": "-287",
-            "Owen Sound Attack": "+221"
+            "Owen Sound Attack": "+222"
         },
         "game_time": "2:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Guelph Storm": "+129",
-            "Sudbury Wolves": "-160"
+            "Guelph Storm": "+128",
+            "Sudbury Wolves": "-159"
         },
         "game_time": "2:07 pm"
     },
@@ -85,7 +85,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Peterborough Petes": "+359",
-            "Kitchener Rangers": "-505"
+            "Kitchener Rangers": "-506"
         },
         "game_time": "3:05 pm"
     }
