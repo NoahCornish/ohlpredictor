@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-697",
-            "Peterborough Petes": "+461"
+            "Brampton Steelheads": "-692",
+            "Peterborough Petes": "+459"
         },
         "game_time": "7:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-125",
+            "Kingston Frontenacs": "-124",
             "Brantford Bulldogs": "+101"
         },
         "game_time": "7:00 pm"
@@ -75,7 +75,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Soo Greyhounds": "+147",
-            "Saginaw Spirit": "-184"
+            "Saginaw Spirit": "-183"
         },
         "game_time": "7:07 pm"
     }
