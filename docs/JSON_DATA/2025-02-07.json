@@ -34,7 +34,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-207",
+            "Kitchener Rangers": "-206",
             "Owen Sound Attack": "+164"
         },
         "game_time": "7:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-835",
-            "Peterborough Petes": "+527"
+            "London Knights": "-833",
+            "Peterborough Petes": "+526"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-243",
-            "Ottawa 67's": "+191"
+            "Oshawa Generals": "-242",
+            "Ottawa 67's": "+190"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-355",
-            "Sarnia Sting": "+267"
+            "Windsor Spitfires": "-356",
+            "Sarnia Sting": "+268"
         },
         "game_time": "7:05 pm"
     },
