@@ -14,7 +14,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Flint Firebirds": "-101",
+            "Flint Firebirds": "-102",
             "Sudbury Wolves": "-122"
         },
         "game_time": "7:00 pm"
@@ -65,7 +65,7 @@
         "winner": "Ottawa 67's",
         "odds": {
             "Peterborough Petes": "+174",
-            "Ottawa 67's": "-220"
+            "Ottawa 67's": "-221"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Guelph Storm": "+163",
-            "Oshawa Generals": "-205"
+            "Guelph Storm": "+162",
+            "Oshawa Generals": "-204"
         },
         "game_time": "7:07 pm"
     }
