@@ -710,7 +710,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "+250",
+            "North Bay Battalion": "+251",
             "Brampton Steelheads": "-330"
         }
     },
@@ -892,7 +892,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-232",
+            "Barrie Colts": "-233",
             "North Bay Battalion": "+183"
         }
     },
@@ -1451,7 +1451,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "+250",
+            "North Bay Battalion": "+251",
             "Brampton Steelheads": "-330"
         }
     },
@@ -1777,7 +1777,7 @@
         "away_score": 0,
         "odds": {
             "Brampton Steelheads": "-330",
-            "North Bay Battalion": "+250"
+            "North Bay Battalion": "+251"
         }
     },
     {
@@ -2284,7 +2284,7 @@
         "away_score": 5,
         "odds": {
             "North Bay Battalion": "+183",
-            "Barrie Colts": "-232"
+            "Barrie Colts": "-233"
         }
     },
     {
