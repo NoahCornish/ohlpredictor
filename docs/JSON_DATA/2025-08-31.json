@@ -24,7 +24,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-133",
+            "Owen Sound Attack": "-134",
             "North Bay Battalion": "+108"
         },
         "game_time": "2:00 pm"
@@ -34,7 +34,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Peterborough Petes": "+307",
+            "Peterborough Petes": "+306",
             "Erie Otters": "-417"
         },
         "game_time": "2:05 pm"
@@ -45,7 +45,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Soo Greyhounds": "-104",
-            "Sudbury Wolves": "-118"
+            "Sudbury Wolves": "-119"
         },
         "game_time": "2:07 pm"
     }
