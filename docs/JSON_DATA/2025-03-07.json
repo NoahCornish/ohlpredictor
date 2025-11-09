@@ -4,7 +4,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-331",
+            "Brampton Steelheads": "-330",
             "North Bay Battalion": "+251"
         },
         "game_time": "7:00 pm"
@@ -24,7 +24,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Flint Firebirds": "+149",
+            "Flint Firebirds": "+148",
             "Brantford Bulldogs": "-186"
         },
         "game_time": "7:00 pm"
@@ -44,7 +44,7 @@
         "away_team": "Kingston Frontenacs",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-122",
+            "London Knights": "-123",
             "Kingston Frontenacs": "-101"
         },
         "game_time": "7:00 pm"
@@ -75,7 +75,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Soo Greyhounds": "+113",
-            "Barrie Colts": "-140"
+            "Barrie Colts": "-139"
         },
         "game_time": "7:07 pm"
     }
