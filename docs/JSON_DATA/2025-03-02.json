@@ -14,7 +14,7 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Ottawa 67's": "+253",
+            "Ottawa 67's": "+254",
             "Windsor Spitfires": "-334"
         },
         "game_time": "2:00 pm"
@@ -34,7 +34,7 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Sudbury Wolves": "+146",
+            "Sudbury Wolves": "+145",
             "Brampton Steelheads": "-182"
         },
         "game_time": "2:05 pm"
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-417",
-            "Peterborough Petes": "+307"
+            "Erie Otters": "-415",
+            "Peterborough Petes": "+305"
         },
         "game_time": "4:00 pm"
     },
