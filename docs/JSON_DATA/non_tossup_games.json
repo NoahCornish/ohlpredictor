@@ -8,7 +8,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "+140",
+            "Owen Sound Attack": "+139",
             "Erie Otters": "-174"
         }
     },
@@ -165,7 +165,7 @@
         "away_score": 1,
         "odds": {
             "Owen Sound Attack": "-128",
-            "Ottawa 67's": "+103"
+            "Ottawa 67's": "+104"
         }
     },
     {
@@ -256,7 +256,7 @@
         "away_score": 3,
         "odds": {
             "Owen Sound Attack": "+210",
-            "Brampton Steelheads": "-271"
+            "Brampton Steelheads": "-270"
         }
     },
     {
@@ -450,7 +450,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-207",
+            "Kitchener Rangers": "-206",
             "Owen Sound Attack": "+164"
         }
     },
@@ -607,7 +607,7 @@
         "away_score": 4,
         "odds": {
             "Owen Sound Attack": "+220",
-            "Kingston Frontenacs": "-285"
+            "Kingston Frontenacs": "-284"
         }
     },
     {
@@ -775,7 +775,7 @@
         "home_score": 8,
         "away_score": 5,
         "odds": {
-            "Owen Sound Attack": "+140",
+            "Owen Sound Attack": "+139",
             "Erie Otters": "-174"
         }
     },
@@ -827,7 +827,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "+140",
+            "Owen Sound Attack": "+139",
             "Erie Otters": "-174"
         }
     },
@@ -997,7 +997,7 @@
         "away_score": 1,
         "odds": {
             "Windsor Spitfires": "-287",
-            "Owen Sound Attack": "+222"
+            "Owen Sound Attack": "+221"
         }
     },
     {
@@ -1061,8 +1061,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-193",
-            "Owen Sound Attack": "+154"
+            "Barrie Colts": "-192",
+            "Owen Sound Attack": "+153"
         }
     },
     {
@@ -1295,7 +1295,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Soo Greyhounds": "-153",
+            "Soo Greyhounds": "-152",
             "Owen Sound Attack": "+123"
         }
     },
@@ -1399,7 +1399,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "+123",
+            "Owen Sound Attack": "+122",
             "Niagara IceDogs": "-152"
         }
     },
@@ -1504,7 +1504,7 @@
         "away_score": 1,
         "odds": {
             "London Knights": "-316",
-            "Owen Sound Attack": "+242"
+            "Owen Sound Attack": "+241"
         }
     },
     {
@@ -1595,7 +1595,7 @@
         "away_score": 2,
         "odds": {
             "Owen Sound Attack": "+164",
-            "Kitchener Rangers": "-207"
+            "Kitchener Rangers": "-206"
         }
     },
     {
@@ -1790,7 +1790,7 @@
         "away_score": 1,
         "odds": {
             "Erie Otters": "-174",
-            "Owen Sound Attack": "+140"
+            "Owen Sound Attack": "+139"
         }
     },
     {
@@ -1881,7 +1881,7 @@
         "away_score": 3,
         "odds": {
             "Erie Otters": "-174",
-            "Owen Sound Attack": "+140"
+            "Owen Sound Attack": "+139"
         }
     },
     {
@@ -2219,7 +2219,7 @@
         "away_score": 3,
         "odds": {
             "Owen Sound Attack": "+164",
-            "Kitchener Rangers": "-207"
+            "Kitchener Rangers": "-206"
         }
     },
     {
@@ -2374,8 +2374,8 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-193",
-            "Owen Sound Attack": "+154"
+            "Barrie Colts": "-192",
+            "Owen Sound Attack": "+153"
         }
     },
     {
@@ -2465,7 +2465,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Kitchener Rangers": "-207",
+            "Kitchener Rangers": "-206",
             "Owen Sound Attack": "+164"
         }
     },
@@ -2726,7 +2726,7 @@
         "away_score": 1,
         "odds": {
             "London Knights": "-316",
-            "Owen Sound Attack": "+242"
+            "Owen Sound Attack": "+241"
         }
     },
     {
@@ -2804,7 +2804,7 @@
         "away_score": 3,
         "odds": {
             "London Knights": "-316",
-            "Owen Sound Attack": "+242"
+            "Owen Sound Attack": "+241"
         }
     },
     {
@@ -2920,7 +2920,7 @@
         "home_score": 4,
         "away_score": 7,
         "odds": {
-            "Owen Sound Attack": "+242",
+            "Owen Sound Attack": "+241",
             "London Knights": "-316"
         }
     },
@@ -3024,7 +3024,7 @@
         "home_score": 4,
         "away_score": 8,
         "odds": {
-            "Owen Sound Attack": "+242",
+            "Owen Sound Attack": "+241",
             "London Knights": "-316"
         }
     },
@@ -3752,8 +3752,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-193",
-            "Owen Sound Attack": "+154"
+            "Barrie Colts": "-192",
+            "Owen Sound Attack": "+153"
         }
     }
 ]
