@@ -177,7 +177,7 @@
         "home_score": 4,
         "away_score": 7,
         "odds": {
-            "Flint Firebirds": "+166",
+            "Flint Firebirds": "+165",
             "Kingston Frontenacs": "-209"
         }
     },
@@ -411,7 +411,7 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Peterborough Petes": "+262",
+            "Peterborough Petes": "+263",
             "Flint Firebirds": "-348"
         }
     },
@@ -438,7 +438,7 @@
         "away_score": 1,
         "odds": {
             "Kingston Frontenacs": "-209",
-            "Flint Firebirds": "+166"
+            "Flint Firebirds": "+165"
         }
     },
     {
@@ -593,8 +593,8 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+137",
-            "Flint Firebirds": "-171"
+            "Ottawa 67's": "+138",
+            "Flint Firebirds": "-172"
         }
     },
     {
@@ -1114,7 +1114,7 @@
         "away_score": 4,
         "odds": {
             "Flint Firebirds": "-179",
-            "North Bay Battalion": "+143"
+            "North Bay Battalion": "+144"
         }
     },
     {
@@ -1413,7 +1413,7 @@
         "away_score": 2,
         "odds": {
             "Flint Firebirds": "-182",
-            "Sarnia Sting": "+145"
+            "Sarnia Sting": "+146"
         }
     },
     {
@@ -1725,7 +1725,7 @@
         "away_score": 5,
         "odds": {
             "Flint Firebirds": "+150",
-            "Saginaw Spirit": "-188"
+            "Saginaw Spirit": "-187"
         }
     },
     {
@@ -1802,7 +1802,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Flint Firebirds": "+149",
+            "Flint Firebirds": "+148",
             "Brantford Bulldogs": "-186"
         }
     },
@@ -1894,7 +1894,7 @@
         "away_score": 2,
         "odds": {
             "Flint Firebirds": "-182",
-            "Sarnia Sting": "+145"
+            "Sarnia Sting": "+146"
         }
     },
     {
@@ -2491,7 +2491,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Sarnia Sting": "+145",
+            "Sarnia Sting": "+146",
             "Flint Firebirds": "-182"
         }
     },
@@ -2544,7 +2544,7 @@
         "away_score": 3,
         "odds": {
             "Flint Firebirds": "+150",
-            "Saginaw Spirit": "-188"
+            "Saginaw Spirit": "-187"
         }
     },
     {
@@ -2634,7 +2634,7 @@
         "home_score": 9,
         "away_score": 2,
         "odds": {
-            "Saginaw Spirit": "-188",
+            "Saginaw Spirit": "-187",
             "Flint Firebirds": "+150"
         }
     },
