@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-683",
-            "Peterborough Petes": "+455"
+            "Brampton Steelheads": "-679",
+            "Peterborough Petes": "+452"
         },
         "game_time": "7:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Niagara IceDogs",
         "odds": {
             "Niagara IceDogs": "-183",
-            "North Bay Battalion": "+147"
+            "North Bay Battalion": "+146"
         },
         "game_time": "7:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Soo Greyhounds": "+147",
+            "Soo Greyhounds": "+146",
             "Saginaw Spirit": "-183"
         },
         "game_time": "7:07 pm"
