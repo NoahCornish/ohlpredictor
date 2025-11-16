@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-823",
-            "Peterborough Petes": "+521"
+            "London Knights": "-824",
+            "Peterborough Petes": "+522"
         },
         "game_time": "7:00 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Oshawa Generals": "-239",
-            "Ottawa 67's": "+187"
+            "Ottawa 67's": "+188"
         },
         "game_time": "7:05 pm"
     },
@@ -84,7 +84,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-137",
+            "Guelph Storm": "-136",
             "North Bay Battalion": "+110"
         },
         "game_time": "7:07 pm"
