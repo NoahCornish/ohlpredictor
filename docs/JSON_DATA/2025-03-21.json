@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-679",
-            "Peterborough Petes": "+453"
+            "Brampton Steelheads": "-683",
+            "Peterborough Petes": "+454"
         },
         "game_time": "7:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Windsor Spitfires",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-122",
+            "London Knights": "-121",
             "Windsor Spitfires": "-102"
         },
         "game_time": "7:00 pm"
@@ -55,7 +55,7 @@
         "winner": "Flint Firebirds",
         "odds": {
             "Sarnia Sting": "+146",
-            "Flint Firebirds": "-182"
+            "Flint Firebirds": "-183"
         },
         "game_time": "7:05 pm"
     },

@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-01-31",
-        "home_team": "Oshawa Generals",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Oshawa Generals": "-120",
-            "Barrie Colts": "-103"
-        }
-    },
-    {
         "date": "2025-02-02",
         "home_team": "Windsor Spitfires",
         "away_team": "London Knights",
@@ -22,7 +9,7 @@
         "away_score": 3,
         "odds": {
             "Windsor Spitfires": "-102",
-            "London Knights": "-122"
+            "London Knights": "-121"
         }
     },
     {
@@ -139,7 +126,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "-109",
-            "North Bay Battalion": "-113"
+            "North Bay Battalion": "-114"
         }
     },
     {
@@ -152,7 +139,7 @@
         "away_score": 3,
         "odds": {
             "Soo Greyhounds": "-104",
-            "Sudbury Wolves": "-119"
+            "Sudbury Wolves": "-118"
         }
     },
     {
@@ -282,7 +269,7 @@
         "away_score": 5,
         "odds": {
             "Windsor Spitfires": "-102",
-            "London Knights": "-122"
+            "London Knights": "-121"
         }
     },
     {
@@ -307,7 +294,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "-119",
+            "Sudbury Wolves": "-118",
             "Soo Greyhounds": "-104"
         }
     },
@@ -320,7 +307,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "London Knights": "-122",
+            "London Knights": "-121",
             "Windsor Spitfires": "-102"
         }
     },
@@ -451,7 +438,7 @@
         "away_score": 1,
         "odds": {
             "Soo Greyhounds": "-104",
-            "Sudbury Wolves": "-119"
+            "Sudbury Wolves": "-118"
         }
     }
 ]

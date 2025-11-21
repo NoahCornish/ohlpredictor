@@ -1,70 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-01-31",
-            "accuracy": 71.4,
-            "correct_predictions": 5,
-            "total_games": 7,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 4,
-                    "away_score": 5
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 2,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 4,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 3,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 8,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 3,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 4,
-                    "away_score": 6
-                }
-            ]
-        },
-        {
             "date": "2025-02-01",
             "accuracy": 66.7,
             "correct_predictions": 4,
@@ -3209,13 +3145,13 @@
             ]
         }
     ],
-    "total_accuracy": 65.4,
-    "tossup_accuracy": 54.3,
+    "total_accuracy": 65.3,
+    "tossup_accuracy": 52.9,
     "non_tossup_accuracy": 66.8,
-    "total_correct": 208,
-    "total_games": 318,
-    "tossup_correct": 19,
-    "tossup_games": 35,
-    "non_tossup_correct": 189,
-    "non_tossup_games": 283
+    "total_correct": 203,
+    "total_games": 311,
+    "tossup_correct": 18,
+    "tossup_games": 34,
+    "non_tossup_correct": 185,
+    "non_tossup_games": 277
 }
