@@ -4,8 +4,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "North Bay Battalion": "+233",
-            "Brantford Bulldogs": "-304"
+            "North Bay Battalion": "+234",
+            "Brantford Bulldogs": "-305"
         },
         "game_time": "7:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "London Knights",
         "odds": {
             "Owen Sound Attack": "+241",
-            "London Knights": "-316"
+            "London Knights": "-315"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Flint Firebirds": "+123",
+            "Flint Firebirds": "+122",
             "Kitchener Rangers": "-152"
         },
         "game_time": "7:00 pm"
@@ -65,7 +65,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Sudbury Wolves": "+152",
-            "Kingston Frontenacs": "-191"
+            "Kingston Frontenacs": "-190"
         },
         "game_time": "7:05 pm"
     }
