@@ -125,7 +125,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "-109",
+            "Sarnia Sting": "-108",
             "North Bay Battalion": "-114"
         }
     },
@@ -139,7 +139,7 @@
         "away_score": 3,
         "odds": {
             "Soo Greyhounds": "-104",
-            "Sudbury Wolves": "-118"
+            "Sudbury Wolves": "-119"
         }
     },
     {
@@ -242,7 +242,7 @@
         "home_score": 2,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "-113",
+            "Guelph Storm": "-114",
             "Owen Sound Attack": "-109"
         }
     },
@@ -256,7 +256,7 @@
         "away_score": 6,
         "odds": {
             "Flint Firebirds": "-109",
-            "Soo Greyhounds": "-114"
+            "Soo Greyhounds": "-113"
         }
     },
     {
@@ -294,7 +294,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "-118",
+            "Sudbury Wolves": "-119",
             "Soo Greyhounds": "-104"
         }
     },
@@ -321,7 +321,7 @@
         "away_score": 2,
         "odds": {
             "Owen Sound Attack": "-109",
-            "Guelph Storm": "-113"
+            "Guelph Storm": "-114"
         }
     },
     {
@@ -425,7 +425,7 @@
         "away_score": 2,
         "odds": {
             "Niagara IceDogs": "-113",
-            "Flint Firebirds": "-109"
+            "Flint Firebirds": "-110"
         }
     },
     {
@@ -438,7 +438,7 @@
         "away_score": 1,
         "odds": {
             "Soo Greyhounds": "-104",
-            "Sudbury Wolves": "-118"
+            "Sudbury Wolves": "-119"
         }
     }
 ]

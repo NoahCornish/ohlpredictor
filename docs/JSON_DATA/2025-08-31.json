@@ -5,7 +5,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Kingston Frontenacs": "-327",
-            "Ottawa 67's": "+249"
+            "Ottawa 67's": "+248"
         },
         "game_time": "2:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-133",
+            "Owen Sound Attack": "-132",
             "North Bay Battalion": "+107"
         },
         "game_time": "2:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Peterborough Petes": "+302",
-            "Erie Otters": "-409"
+            "Peterborough Petes": "+303",
+            "Erie Otters": "-411"
         },
         "game_time": "2:05 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Soo Greyhounds": "-104",
-            "Sudbury Wolves": "-118"
+            "Sudbury Wolves": "-119"
         },
         "game_time": "2:07 pm"
     }
