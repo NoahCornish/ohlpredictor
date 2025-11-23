@@ -54,7 +54,7 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Sarnia Sting": "+241",
+            "Sarnia Sting": "+242",
             "Saginaw Spirit": "-316"
         },
         "game_time": "2:05 pm"
@@ -64,7 +64,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-287",
+            "Windsor Spitfires": "-286",
             "Owen Sound Attack": "+221"
         },
         "game_time": "2:05 pm"
@@ -84,8 +84,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Peterborough Petes": "+354",
-            "Kitchener Rangers": "-497"
+            "Peterborough Petes": "+352",
+            "Kitchener Rangers": "-494"
         },
         "game_time": "3:05 pm"
     }
