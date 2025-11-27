@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-05",
-            "accuracy": 66.7,
-            "correct_predictions": 2,
-            "total_games": 3,
-            "game_details": [
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 2,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 1,
-                    "away_score": 8
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 3,
-                    "away_score": 6
-                }
-            ]
-        },
-        {
             "date": "2025-02-06",
             "accuracy": 100.0,
             "correct_predictions": 2,
@@ -2996,10 +2964,10 @@
     "total_accuracy": 65.8,
     "tossup_accuracy": 54.5,
     "non_tossup_accuracy": 67.2,
-    "total_correct": 194,
-    "total_games": 295,
+    "total_correct": 192,
+    "total_games": 292,
     "tossup_correct": 18,
     "tossup_games": 33,
-    "non_tossup_correct": 176,
-    "non_tossup_games": 262
+    "non_tossup_correct": 174,
+    "non_tossup_games": 259
 }

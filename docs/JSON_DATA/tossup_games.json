@@ -73,8 +73,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "-103",
-            "Sudbury Wolves": "-120"
+            "Flint Firebirds": "-102",
+            "Sudbury Wolves": "-121"
         }
     },
     {
@@ -230,7 +230,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "-114",
-            "Owen Sound Attack": "-109"
+            "Owen Sound Attack": "-108"
         }
     },
     {
@@ -307,7 +307,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "-109",
+            "Owen Sound Attack": "-108",
             "Guelph Storm": "-114"
         }
     },
