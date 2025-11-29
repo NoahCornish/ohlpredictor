@@ -24,7 +24,7 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-151",
+            "Kingston Frontenacs": "-150",
             "Kitchener Rangers": "+121"
         },
         "game_time": "7:00 pm"
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "Peterborough Petes": "+173",
-            "Ottawa 67's": "-219"
+            "Peterborough Petes": "+174",
+            "Ottawa 67's": "-220"
         },
         "game_time": "7:05 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Guelph Storm": "+161",
-            "Oshawa Generals": "-203"
+            "Oshawa Generals": "-202"
         },
         "game_time": "7:07 pm"
     }
