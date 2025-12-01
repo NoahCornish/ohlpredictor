@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-02-09",
-        "home_team": "Ottawa 67's",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Flint Firebirds",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 2,
-        "away_score": 5,
-        "odds": {
-            "Ottawa 67's": "+137",
-            "Flint Firebirds": "-171"
-        }
-    },
-    {
-        "date": "2025-02-09",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 2,
-        "away_score": 4,
-        "odds": {
-            "Owen Sound Attack": "+219",
-            "Kingston Frontenacs": "-284"
-        }
-    },
-    {
-        "date": "2025-02-09",
-        "home_team": "Oshawa Generals",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 6,
-        "away_score": 0,
-        "odds": {
-            "Oshawa Generals": "-150",
-            "Soo Greyhounds": "+121"
-        }
-    },
-    {
         "date": "2025-02-12",
         "home_team": "Erie Otters",
         "away_team": "Niagara IceDogs",
@@ -164,7 +125,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-151",
+            "Kingston Frontenacs": "-150",
             "Kitchener Rangers": "+121"
         }
     },
@@ -268,7 +229,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+471",
+            "Peterborough Petes": "+470",
             "Kingston Frontenacs": "-715"
         }
     },
@@ -373,7 +334,7 @@
         "away_score": 1,
         "odds": {
             "London Knights": "-229",
-            "Flint Firebirds": "+180"
+            "Flint Firebirds": "+181"
         }
     },
     {
@@ -1009,7 +970,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "+164",
+            "Owen Sound Attack": "+163",
             "Kitchener Rangers": "-206"
         }
     },
@@ -1139,7 +1100,7 @@
         "home_score": 3,
         "away_score": 5,
         "odds": {
-            "Flint Firebirds": "+148",
+            "Flint Firebirds": "+149",
             "Saginaw Spirit": "-186"
         }
     },
@@ -1543,7 +1504,7 @@
         "away_score": 2,
         "odds": {
             "Kingston Frontenacs": "-715",
-            "Peterborough Petes": "+471"
+            "Peterborough Petes": "+470"
         }
     },
     {
@@ -1633,7 +1594,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Owen Sound Attack": "+164",
+            "Owen Sound Attack": "+163",
             "Kitchener Rangers": "-206"
         }
     },
@@ -1828,7 +1789,7 @@
         "home_score": 2,
         "away_score": 6,
         "odds": {
-            "Peterborough Petes": "+471",
+            "Peterborough Petes": "+470",
             "Kingston Frontenacs": "-715"
         }
     },
@@ -1881,7 +1842,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "-206",
-            "Owen Sound Attack": "+164"
+            "Owen Sound Attack": "+163"
         }
     },
     {
@@ -1946,7 +1907,7 @@
         "away_score": 7,
         "odds": {
             "Erie Otters": "-198",
-            "Ottawa 67's": "+158"
+            "Ottawa 67's": "+157"
         }
     },
     {
@@ -1958,7 +1919,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "+148",
+            "Flint Firebirds": "+149",
             "Saginaw Spirit": "-186"
         }
     },
@@ -2050,7 +2011,7 @@
         "away_score": 2,
         "odds": {
             "Saginaw Spirit": "-186",
-            "Flint Firebirds": "+148"
+            "Flint Firebirds": "+149"
         }
     },
     {
@@ -2062,7 +2023,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-499",
+            "Oshawa Generals": "-498",
             "Peterborough Petes": "+355"
         }
     },

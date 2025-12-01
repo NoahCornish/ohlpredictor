@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-09",
-            "accuracy": 100.0,
-            "correct_predictions": 3,
-            "total_games": 3,
-            "game_details": [
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 2,
-                    "away_score": 5
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 6,
-                    "away_score": 0
-                }
-            ]
-        },
-        {
             "date": "2025-02-11",
             "accuracy": 100.0,
             "correct_predictions": 1,
@@ -2785,13 +2753,13 @@
             ]
         }
     ],
-    "total_accuracy": 64.5,
+    "total_accuracy": 64.1,
     "tossup_accuracy": 55.2,
-    "non_tossup_accuracy": 65.6,
-    "total_correct": 176,
-    "total_games": 273,
+    "non_tossup_accuracy": 65.1,
+    "total_correct": 173,
+    "total_games": 270,
     "tossup_correct": 16,
     "tossup_games": 29,
-    "non_tossup_correct": 160,
-    "non_tossup_games": 244
+    "non_tossup_correct": 157,
+    "non_tossup_games": 241
 }
