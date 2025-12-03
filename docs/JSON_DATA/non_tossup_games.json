@@ -34,7 +34,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Sarnia Sting": "+112",
+            "Sarnia Sting": "+113",
             "Guelph Storm": "-139"
         }
     },
@@ -190,8 +190,8 @@
         "home_score": 5,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "+161",
-            "Oshawa Generals": "-202"
+            "Guelph Storm": "+160",
+            "Oshawa Generals": "-201"
         }
     },
     {
@@ -347,7 +347,7 @@
         "away_score": 1,
         "odds": {
             "Oshawa Generals": "-132",
-            "Erie Otters": "+107"
+            "Erie Otters": "+106"
         }
     },
     {
@@ -476,7 +476,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Erie Otters": "+107",
+            "Erie Otters": "+106",
             "Oshawa Generals": "-132"
         }
     },
@@ -567,7 +567,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-149",
+            "Soo Greyhounds": "-148",
             "Guelph Storm": "+120"
         }
     },
@@ -633,7 +633,7 @@
         "away_score": 5,
         "odds": {
             "Saginaw Spirit": "-247",
-            "Guelph Storm": "+194"
+            "Guelph Storm": "+193"
         }
     },
     {
@@ -697,7 +697,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "London Knights": "-167",
+            "London Knights": "-166",
             "Kitchener Rangers": "+134"
         }
     },
@@ -710,7 +710,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Oshawa Generals": "+120",
+            "Oshawa Generals": "+121",
             "Kingston Frontenacs": "-149"
         }
     },
@@ -763,7 +763,7 @@
         "away_score": 5,
         "odds": {
             "Guelph Storm": "+149",
-            "Barrie Colts": "-187"
+            "Barrie Colts": "-186"
         }
     },
     {
@@ -1022,7 +1022,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Sarnia Sting": "+112",
+            "Sarnia Sting": "+113",
             "Guelph Storm": "-139"
         }
     },
@@ -1218,7 +1218,7 @@
         "away_score": 5,
         "odds": {
             "Guelph Storm": "-139",
-            "Sarnia Sting": "+112"
+            "Sarnia Sting": "+113"
         }
     },
     {
@@ -1360,7 +1360,7 @@
         "home_score": 7,
         "away_score": 3,
         "odds": {
-            "London Knights": "-307",
+            "London Knights": "-306",
             "Guelph Storm": "+235"
         }
     },
@@ -1400,7 +1400,7 @@
         "away_score": 6,
         "odds": {
             "Guelph Storm": "+235",
-            "London Knights": "-307"
+            "London Knights": "-306"
         }
     },
     {
@@ -1543,7 +1543,7 @@
         "away_score": 2,
         "odds": {
             "Ottawa 67's": "+186",
-            "Oshawa Generals": "-237"
+            "Oshawa Generals": "-236"
         }
     },
     {
@@ -1685,7 +1685,7 @@
         "home_score": 6,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-170",
+            "Erie Otters": "-169",
             "Guelph Storm": "+136"
         }
     },
@@ -1725,7 +1725,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "+134",
-            "London Knights": "-167"
+            "London Knights": "-166"
         }
     },
     {
@@ -1738,7 +1738,7 @@
         "away_score": 4,
         "odds": {
             "Guelph Storm": "+136",
-            "Erie Otters": "-170"
+            "Erie Otters": "-169"
         }
     },
     {
@@ -1776,7 +1776,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "+195",
+            "North Bay Battalion": "+194",
             "Oshawa Generals": "-249"
         }
     },
@@ -2855,7 +2855,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-167",
+            "London Knights": "-166",
             "Kitchener Rangers": "+134"
         }
     },
@@ -2868,7 +2868,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "London Knights": "-167",
+            "London Knights": "-166",
             "Kitchener Rangers": "+134"
         }
     },
@@ -2882,7 +2882,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "+134",
-            "London Knights": "-167"
+            "London Knights": "-166"
         }
     },
     {
@@ -2895,7 +2895,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+134",
-            "London Knights": "-167"
+            "London Knights": "-166"
         }
     },
     {
@@ -2985,7 +2985,7 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Brampton Steelheads": "-264",
+            "Brampton Steelheads": "-263",
             "Guelph Storm": "+205"
         }
     },
@@ -3051,7 +3051,7 @@
         "away_score": 1,
         "odds": {
             "Guelph Storm": "+205",
-            "Brampton Steelheads": "-264"
+            "Brampton Steelheads": "-263"
         }
     },
     {
@@ -3116,7 +3116,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "+192",
-            "Brantford Bulldogs": "-245"
+            "Brantford Bulldogs": "-244"
         }
     },
     {

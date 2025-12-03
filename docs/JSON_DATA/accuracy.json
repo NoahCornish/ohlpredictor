@@ -1,22 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-11",
-            "accuracy": 100.0,
-            "correct_predictions": 1,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 3,
-                    "away_score": 4
-                }
-            ]
-        },
-        {
             "date": "2025-02-12",
             "accuracy": 100.0,
             "correct_predictions": 5,
@@ -2753,13 +2737,13 @@
             ]
         }
     ],
-    "total_accuracy": 64.1,
-    "tossup_accuracy": 55.2,
+    "total_accuracy": 63.9,
+    "tossup_accuracy": 53.6,
     "non_tossup_accuracy": 65.1,
-    "total_correct": 173,
-    "total_games": 270,
-    "tossup_correct": 16,
-    "tossup_games": 29,
+    "total_correct": 172,
+    "total_games": 269,
+    "tossup_correct": 15,
+    "tossup_games": 28,
     "non_tossup_correct": 157,
     "non_tossup_games": 241
 }
