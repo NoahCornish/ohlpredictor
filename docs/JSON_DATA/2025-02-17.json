@@ -5,7 +5,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Brampton Steelheads": "-195",
-            "Niagara IceDogs": "+156"
+            "Niagara IceDogs": "+155"
         },
         "game_time": "2:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-117",
+            "Ottawa 67's": "-116",
             "North Bay Battalion": "-106"
         },
         "game_time": "2:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Oshawa Generals": "-132",
-            "Erie Otters": "+106"
+            "Erie Otters": "+107"
         },
         "game_time": "2:05 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Sarnia Sting": "+240",
-            "Saginaw Spirit": "-315"
+            "Saginaw Spirit": "-314"
         },
         "game_time": "2:05 pm"
     },
@@ -85,7 +85,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Peterborough Petes": "+353",
-            "Kitchener Rangers": "-495"
+            "Kitchener Rangers": "-494"
         },
         "game_time": "3:05 pm"
     }
