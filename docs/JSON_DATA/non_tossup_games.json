@@ -113,7 +113,7 @@
         "away_score": 1,
         "odds": {
             "Brantford Bulldogs": "-182",
-            "Niagara IceDogs": "+145"
+            "Niagara IceDogs": "+146"
         }
     },
     {
@@ -281,7 +281,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Niagara IceDogs": "+145",
+            "Niagara IceDogs": "+146",
             "Brantford Bulldogs": "-182"
         }
     },
@@ -399,7 +399,7 @@
         "away_score": 3,
         "odds": {
             "Peterborough Petes": "+353",
-            "Kitchener Rangers": "-494"
+            "Kitchener Rangers": "-495"
         }
     },
     {
@@ -450,8 +450,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Peterborough Petes": "+423",
-            "Brantford Bulldogs": "-622"
+            "Peterborough Petes": "+424",
+            "Brantford Bulldogs": "-623"
         }
     },
     {
@@ -931,8 +931,8 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-622",
-            "Peterborough Petes": "+423"
+            "Brantford Bulldogs": "-623",
+            "Peterborough Petes": "+424"
         }
     },
     {
@@ -970,7 +970,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "+163",
+            "Owen Sound Attack": "+164",
             "Kitchener Rangers": "-206"
         }
     },
@@ -1191,7 +1191,7 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "+123",
+            "Kitchener Rangers": "+122",
             "Windsor Spitfires": "-152"
         }
     },
@@ -1517,7 +1517,7 @@
         "away_score": 0,
         "odds": {
             "Kitchener Rangers": "-247",
-            "North Bay Battalion": "+193"
+            "North Bay Battalion": "+194"
         }
     },
     {
@@ -1594,7 +1594,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Owen Sound Attack": "+163",
+            "Owen Sound Attack": "+164",
             "Kitchener Rangers": "-206"
         }
     },
@@ -1842,7 +1842,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "-206",
-            "Owen Sound Attack": "+163"
+            "Owen Sound Attack": "+164"
         }
     },
     {
@@ -2114,7 +2114,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-151",
+            "Kitchener Rangers": "-152",
             "Flint Firebirds": "+122"
         }
     },
@@ -2192,7 +2192,7 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-151",
+            "Kitchener Rangers": "-152",
             "Flint Firebirds": "+122"
         }
     },
@@ -2310,7 +2310,7 @@
         "away_score": 0,
         "odds": {
             "Flint Firebirds": "+122",
-            "Kitchener Rangers": "-151"
+            "Kitchener Rangers": "-152"
         }
     },
     {
@@ -2414,7 +2414,7 @@
         "away_score": 5,
         "odds": {
             "Flint Firebirds": "+122",
-            "Kitchener Rangers": "-151"
+            "Kitchener Rangers": "-152"
         }
     },
     {
@@ -2452,7 +2452,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-151",
+            "Kitchener Rangers": "-152",
             "Flint Firebirds": "+122"
         }
     },
@@ -2583,7 +2583,7 @@
         "away_score": 1,
         "odds": {
             "Windsor Spitfires": "-152",
-            "Kitchener Rangers": "+123"
+            "Kitchener Rangers": "+122"
         }
     },
     {
@@ -2609,7 +2609,7 @@
         "away_score": 1,
         "odds": {
             "Windsor Spitfires": "-152",
-            "Kitchener Rangers": "+123"
+            "Kitchener Rangers": "+122"
         }
     },
     {
@@ -2647,7 +2647,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Kitchener Rangers": "+123",
+            "Kitchener Rangers": "+122",
             "Windsor Spitfires": "-152"
         }
     },
@@ -2699,7 +2699,7 @@
         "home_score": 3,
         "away_score": 0,
         "odds": {
-            "Kitchener Rangers": "+123",
+            "Kitchener Rangers": "+122",
             "Windsor Spitfires": "-152"
         }
     },
@@ -2752,7 +2752,7 @@
         "away_score": 5,
         "odds": {
             "Windsor Spitfires": "-152",
-            "Kitchener Rangers": "+123"
+            "Kitchener Rangers": "+122"
         }
     },
     {
@@ -2816,7 +2816,7 @@
         "home_score": 4,
         "away_score": 0,
         "odds": {
-            "Kitchener Rangers": "+123",
+            "Kitchener Rangers": "+122",
             "Windsor Spitfires": "-152"
         }
     },
@@ -2843,7 +2843,7 @@
         "away_score": 2,
         "odds": {
             "Windsor Spitfires": "-152",
-            "Kitchener Rangers": "+123"
+            "Kitchener Rangers": "+122"
         }
     },
     {
@@ -2999,7 +2999,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+109",
-            "Brantford Bulldogs": "-135"
+            "Brantford Bulldogs": "-134"
         }
     },
     {
@@ -3116,7 +3116,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "+192",
-            "Brantford Bulldogs": "-244"
+            "Brantford Bulldogs": "-245"
         }
     },
     {
