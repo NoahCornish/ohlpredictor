@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-13",
-            "accuracy": 66.7,
-            "correct_predictions": 2,
-            "total_games": 3,
-            "game_details": [
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 4,
-                    "away_score": 8
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 4,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 8,
-                    "away_score": 2
-                }
-            ]
-        },
-        {
             "date": "2025-02-14",
             "accuracy": 75.0,
             "correct_predictions": 6,
@@ -2689,13 +2657,13 @@
             ]
         }
     ],
-    "total_accuracy": 63.3,
+    "total_accuracy": 63.2,
     "tossup_accuracy": 53.6,
     "non_tossup_accuracy": 64.4,
-    "total_correct": 167,
-    "total_games": 264,
+    "total_correct": 165,
+    "total_games": 261,
     "tossup_correct": 15,
     "tossup_games": 28,
-    "non_tossup_correct": 152,
-    "non_tossup_games": 236
+    "non_tossup_correct": 150,
+    "non_tossup_games": 233
 }

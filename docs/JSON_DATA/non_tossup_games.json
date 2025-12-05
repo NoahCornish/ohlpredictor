@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-02-13",
-        "home_team": "Barrie Colts",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 4,
-        "away_score": 8,
-        "odds": {
-            "Barrie Colts": "+143",
-            "London Knights": "-179"
-        }
-    },
-    {
-        "date": "2025-02-13",
-        "home_team": "North Bay Battalion",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "North Bay Battalion": "+248",
-            "Brampton Steelheads": "-326"
-        }
-    },
-    {
-        "date": "2025-02-13",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 8,
-        "away_score": 2,
-        "odds": {
-            "Windsor Spitfires": "-356",
-            "Sarnia Sting": "+268"
-        }
-    },
-    {
         "date": "2025-02-14",
         "home_team": "Brantford Bulldogs",
         "away_team": "Niagara IceDogs",
@@ -203,7 +164,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-229",
+            "Barrie Colts": "-230",
             "North Bay Battalion": "+181"
         }
     },
@@ -243,7 +204,7 @@
         "away_score": 0,
         "odds": {
             "Brampton Steelheads": "-195",
-            "Niagara IceDogs": "+155"
+            "Niagara IceDogs": "+156"
         }
     },
     {
@@ -269,7 +230,7 @@
         "away_score": 1,
         "odds": {
             "London Knights": "-229",
-            "Flint Firebirds": "+181"
+            "Flint Firebirds": "+180"
         }
     },
     {
@@ -398,7 +359,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Saginaw Spirit": "-305",
+            "Saginaw Spirit": "-306",
             "North Bay Battalion": "+234"
         }
     },
@@ -581,7 +542,7 @@
         "away_score": 3,
         "odds": {
             "Barrie Colts": "-453",
-            "Peterborough Petes": "+328"
+            "Peterborough Petes": "+329"
         }
     },
     {
@@ -633,7 +594,7 @@
         "away_score": 5,
         "odds": {
             "London Knights": "-166",
-            "Kitchener Rangers": "+134"
+            "Kitchener Rangers": "+133"
         }
     },
     {
@@ -685,7 +646,7 @@
         "away_score": 3,
         "odds": {
             "Soo Greyhounds": "-182",
-            "North Bay Battalion": "+145"
+            "North Bay Battalion": "+146"
         }
     },
     {
@@ -775,8 +736,8 @@
         "home_score": 1,
         "away_score": 7,
         "odds": {
-            "Peterborough Petes": "+473",
-            "Windsor Spitfires": "-720"
+            "Peterborough Petes": "+472",
+            "Windsor Spitfires": "-719"
         }
     },
     {
@@ -814,7 +775,7 @@
         "home_score": 9,
         "away_score": 1,
         "odds": {
-            "London Knights": "-316",
+            "London Knights": "-315",
             "Owen Sound Attack": "+241"
         }
     },
@@ -932,7 +893,7 @@
         "away_score": 8,
         "odds": {
             "North Bay Battalion": "+234",
-            "Saginaw Spirit": "-305"
+            "Saginaw Spirit": "-306"
         }
     },
     {
@@ -1256,7 +1217,7 @@
         "home_score": 0,
         "away_score": 9,
         "odds": {
-            "Sarnia Sting": "+292",
+            "Sarnia Sting": "+291",
             "London Knights": "-393"
         }
     },
@@ -1399,7 +1360,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "+232",
+            "North Bay Battalion": "+233",
             "Brantford Bulldogs": "-303"
         }
     },
@@ -1581,7 +1542,7 @@
         "home_score": 2,
         "away_score": 6,
         "odds": {
-            "Niagara IceDogs": "+155",
+            "Niagara IceDogs": "+156",
             "Brampton Steelheads": "-195"
         }
     },
@@ -1595,7 +1556,7 @@
         "away_score": 5,
         "odds": {
             "North Bay Battalion": "+181",
-            "Barrie Colts": "-229"
+            "Barrie Colts": "-230"
         }
     },
     {
@@ -1659,7 +1620,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Kitchener Rangers": "+134",
+            "Kitchener Rangers": "+133",
             "London Knights": "-166"
         }
     },
@@ -2011,7 +1972,7 @@
         "away_score": 3,
         "odds": {
             "Brantford Bulldogs": "-303",
-            "North Bay Battalion": "+232"
+            "North Bay Battalion": "+233"
         }
     },
     {
@@ -2036,7 +1997,7 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "London Knights": "-316",
+            "London Knights": "-315",
             "Owen Sound Attack": "+241"
         }
     },
@@ -2114,7 +2075,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "London Knights": "-316",
+            "London Knights": "-315",
             "Owen Sound Attack": "+241"
         }
     },
@@ -2154,7 +2115,7 @@
         "away_score": 0,
         "odds": {
             "Brantford Bulldogs": "-303",
-            "North Bay Battalion": "+232"
+            "North Bay Battalion": "+233"
         }
     },
     {
@@ -2192,7 +2153,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "North Bay Battalion": "+232",
+            "North Bay Battalion": "+233",
             "Brantford Bulldogs": "-303"
         }
     },
@@ -2232,7 +2193,7 @@
         "away_score": 7,
         "odds": {
             "Owen Sound Attack": "+241",
-            "London Knights": "-316"
+            "London Knights": "-315"
         }
     },
     {
@@ -2296,7 +2257,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "North Bay Battalion": "+232",
+            "North Bay Battalion": "+233",
             "Brantford Bulldogs": "-303"
         }
     },
@@ -2336,7 +2297,7 @@
         "away_score": 8,
         "odds": {
             "Owen Sound Attack": "+241",
-            "London Knights": "-316"
+            "London Knights": "-315"
         }
     },
     {
@@ -2427,7 +2388,7 @@
         "away_score": 1,
         "odds": {
             "Brantford Bulldogs": "-303",
-            "North Bay Battalion": "+232"
+            "North Bay Battalion": "+233"
         }
     },
     {
@@ -2791,7 +2752,7 @@
         "away_score": 2,
         "odds": {
             "London Knights": "-166",
-            "Kitchener Rangers": "+134"
+            "Kitchener Rangers": "+133"
         }
     },
     {
@@ -2804,7 +2765,7 @@
         "away_score": 2,
         "odds": {
             "London Knights": "-166",
-            "Kitchener Rangers": "+134"
+            "Kitchener Rangers": "+133"
         }
     },
     {
@@ -2816,7 +2777,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "+134",
+            "Kitchener Rangers": "+133",
             "London Knights": "-166"
         }
     },
@@ -2829,7 +2790,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "+134",
+            "Kitchener Rangers": "+133",
             "London Knights": "-166"
         }
     },
@@ -2947,7 +2908,7 @@
         "away_score": 5,
         "odds": {
             "London Knights": "-393",
-            "Sarnia Sting": "+292"
+            "Sarnia Sting": "+291"
         }
     },
     {
@@ -2972,7 +2933,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "+292",
+            "Sarnia Sting": "+291",
             "London Knights": "-393"
         }
     },
