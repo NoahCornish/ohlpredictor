@@ -15,7 +15,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Brantford Bulldogs": "-181",
-            "Soo Greyhounds": "+145"
+            "Soo Greyhounds": "+144"
         },
         "game_time": "2:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-229",
+            "London Knights": "-228",
             "Flint Firebirds": "+180"
         },
         "game_time": "2:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Oshawa Generals": "-132",
-            "Erie Otters": "+107"
+            "Erie Otters": "+106"
         },
         "game_time": "2:05 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-286",
+            "Windsor Spitfires": "-287",
             "Owen Sound Attack": "+221"
         },
         "game_time": "2:05 pm"
@@ -85,7 +85,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Peterborough Petes": "+351",
-            "Kitchener Rangers": "-492"
+            "Kitchener Rangers": "-491"
         },
         "game_time": "3:05 pm"
     }
