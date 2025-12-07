@@ -99,7 +99,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Ottawa 67's": "+186",
+            "Ottawa 67's": "+185",
             "Kitchener Rangers": "-236"
         }
     },
@@ -138,7 +138,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "London Knights": "-228",
+            "London Knights": "-229",
             "Flint Firebirds": "+180"
         }
     },
@@ -151,7 +151,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Oshawa Generals": "-132",
+            "Oshawa Generals": "-131",
             "Erie Otters": "+106"
         }
     },
@@ -282,7 +282,7 @@
         "away_score": 3,
         "odds": {
             "Erie Otters": "+106",
-            "Oshawa Generals": "-132"
+            "Oshawa Generals": "-131"
         }
     },
     {
@@ -334,7 +334,7 @@
         "away_score": 2,
         "odds": {
             "Ottawa 67's": "+139",
-            "Niagara IceDogs": "-174"
+            "Niagara IceDogs": "-173"
         }
     },
     {
@@ -619,7 +619,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Niagara IceDogs": "+102",
+            "Niagara IceDogs": "+103",
             "Erie Otters": "-127"
         }
     },
@@ -814,8 +814,8 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Ottawa 67's": "+251",
-            "Windsor Spitfires": "-330"
+            "Ottawa 67's": "+250",
+            "Windsor Spitfires": "-329"
         }
     },
     {
@@ -853,8 +853,8 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-405",
-            "Peterborough Petes": "+299"
+            "Erie Otters": "-406",
+            "Peterborough Petes": "+300"
         }
     },
     {
@@ -867,7 +867,7 @@
         "away_score": 4,
         "odds": {
             "Oshawa Generals": "+133",
-            "London Knights": "-165"
+            "London Knights": "-166"
         }
     },
     {
@@ -931,7 +931,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+172",
+            "Peterborough Petes": "+173",
             "Ottawa 67's": "-218"
         }
     },
@@ -1049,7 +1049,7 @@
         "away_score": 4,
         "odds": {
             "Ottawa 67's": "-218",
-            "Peterborough Petes": "+172"
+            "Peterborough Petes": "+173"
         }
     },
     {
@@ -1217,8 +1217,8 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-326",
-            "Ottawa 67's": "+248"
+            "Kingston Frontenacs": "-325",
+            "Ottawa 67's": "+247"
         }
     },
     {
@@ -1257,7 +1257,7 @@
         "away_score": 6,
         "odds": {
             "Sarnia Sting": "+169",
-            "Erie Otters": "-213"
+            "Erie Otters": "-214"
         }
     },
     {
@@ -1348,7 +1348,7 @@
         "away_score": 2,
         "odds": {
             "Ottawa 67's": "+186",
-            "Oshawa Generals": "-237"
+            "Oshawa Generals": "-236"
         }
     },
     {
@@ -1387,7 +1387,7 @@
         "away_score": 5,
         "odds": {
             "Erie Otters": "-127",
-            "Niagara IceDogs": "+102"
+            "Niagara IceDogs": "+103"
         }
     },
     {
@@ -1477,8 +1477,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "+248",
-            "Kingston Frontenacs": "-326"
+            "Ottawa 67's": "+247",
+            "Kingston Frontenacs": "-325"
         }
     },
     {
@@ -1491,7 +1491,7 @@
         "away_score": 4,
         "odds": {
             "Erie Otters": "-169",
-            "Guelph Storm": "+135"
+            "Guelph Storm": "+136"
         }
     },
     {
@@ -1542,7 +1542,7 @@
         "home_score": 6,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "+135",
+            "Guelph Storm": "+136",
             "Erie Otters": "-169"
         }
     },
@@ -1568,7 +1568,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Niagara IceDogs": "-174",
+            "Niagara IceDogs": "-173",
             "Ottawa 67's": "+139"
         }
     },
@@ -1711,7 +1711,7 @@
         "home_score": 1,
         "away_score": 7,
         "odds": {
-            "Erie Otters": "-199",
+            "Erie Otters": "-198",
             "Ottawa 67's": "+158"
         }
     },
@@ -2712,7 +2712,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Oshawa Generals": "+133"
         }
     },
@@ -2725,7 +2725,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Oshawa Generals": "+133"
         }
     },
@@ -2739,7 +2739,7 @@
         "away_score": 7,
         "odds": {
             "Oshawa Generals": "+133",
-            "London Knights": "-165"
+            "London Knights": "-166"
         }
     },
     {
@@ -2752,7 +2752,7 @@
         "away_score": 6,
         "odds": {
             "Oshawa Generals": "+133",
-            "London Knights": "-165"
+            "London Knights": "-166"
         }
     },
     {
@@ -2764,7 +2764,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Oshawa Generals": "+133"
         }
     },
@@ -2829,8 +2829,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+299",
-            "Erie Otters": "-405"
+            "Peterborough Petes": "+300",
+            "Erie Otters": "-406"
         }
     },
     {
@@ -2868,8 +2868,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-326",
-            "Ottawa 67's": "+248"
+            "Kingston Frontenacs": "-325",
+            "Ottawa 67's": "+247"
         }
     },
     {
@@ -2907,8 +2907,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+299",
-            "Erie Otters": "-405"
+            "Peterborough Petes": "+300",
+            "Erie Otters": "-406"
         }
     },
     {
