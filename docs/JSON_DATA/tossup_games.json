@@ -8,7 +8,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-116",
+            "Ottawa 67's": "-117",
             "North Bay Battalion": "-106"
         }
     },
@@ -34,7 +34,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "-108",
+            "Sarnia Sting": "-109",
             "North Bay Battalion": "-114"
         }
     },
@@ -73,7 +73,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "-116",
+            "Ottawa 67's": "-117",
             "North Bay Battalion": "-106"
         }
     },
@@ -139,7 +139,7 @@
         "away_score": 2,
         "odds": {
             "North Bay Battalion": "-106",
-            "Ottawa 67's": "-116"
+            "Ottawa 67's": "-117"
         }
     },
     {
@@ -255,7 +255,7 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-104",
+            "Barrie Colts": "-103",
             "Oshawa Generals": "-119"
         }
     },
@@ -268,7 +268,7 @@
         "home_score": 1,
         "away_score": 7,
         "odds": {
-            "Barrie Colts": "-104",
+            "Barrie Colts": "-103",
             "Oshawa Generals": "-119"
         }
     },
@@ -282,7 +282,7 @@
         "away_score": 6,
         "odds": {
             "Oshawa Generals": "-119",
-            "Barrie Colts": "-104"
+            "Barrie Colts": "-103"
         }
     },
     {
@@ -295,7 +295,7 @@
         "away_score": 4,
         "odds": {
             "Oshawa Generals": "-119",
-            "Barrie Colts": "-104"
+            "Barrie Colts": "-103"
         }
     },
     {
@@ -333,7 +333,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Niagara IceDogs": "-112",
+            "Niagara IceDogs": "-113",
             "Flint Firebirds": "-110"
         }
     },
