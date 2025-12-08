@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-02-16",
-        "home_team": "Niagara IceDogs",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 4,
-        "away_score": 5,
-        "odds": {
-            "Niagara IceDogs": "+145",
-            "Brantford Bulldogs": "-181"
-        }
-    },
-    {
-        "date": "2025-02-16",
-        "home_team": "Ottawa 67's",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 1,
-        "away_score": 5,
-        "odds": {
-            "Ottawa 67's": "+185",
-            "Kitchener Rangers": "-235"
-        }
-    },
-    {
         "date": "2025-02-17",
         "home_team": "Brampton Steelheads",
         "away_team": "Niagara IceDogs",
@@ -34,7 +8,7 @@
         "home_score": 6,
         "away_score": 0,
         "odds": {
-            "Brampton Steelheads": "-195",
+            "Brampton Steelheads": "-194",
             "Niagara IceDogs": "+155"
         }
     },
@@ -47,7 +21,7 @@
         "home_score": 8,
         "away_score": 6,
         "odds": {
-            "Brantford Bulldogs": "-181",
+            "Brantford Bulldogs": "-180",
             "Soo Greyhounds": "+144"
         }
     },
@@ -125,7 +99,7 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+353",
+            "Peterborough Petes": "+352",
             "Kitchener Rangers": "-494"
         }
     },
@@ -386,7 +360,7 @@
         "away_score": 5,
         "odds": {
             "Ottawa 67's": "+222",
-            "Brantford Bulldogs": "-288"
+            "Brantford Bulldogs": "-287"
         }
     },
     {
@@ -464,7 +438,7 @@
         "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-201",
-            "Guelph Storm": "+160"
+            "Guelph Storm": "+159"
         }
     },
     {
@@ -736,7 +710,7 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Ottawa 67's": "+250",
+            "Ottawa 67's": "+249",
             "Windsor Spitfires": "-328"
         }
     },
@@ -1023,7 +997,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "-201",
-            "Guelph Storm": "+160"
+            "Guelph Storm": "+159"
         }
     },
     {
@@ -1140,7 +1114,7 @@
         "away_score": 1,
         "odds": {
             "Kingston Frontenacs": "-324",
-            "Ottawa 67's": "+247"
+            "Ottawa 67's": "+246"
         }
     },
     {
@@ -1269,7 +1243,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "+186",
+            "Ottawa 67's": "+185",
             "Oshawa Generals": "-236"
         }
     },
@@ -1374,7 +1348,7 @@
         "away_score": 6,
         "odds": {
             "Niagara IceDogs": "+155",
-            "Brampton Steelheads": "-195"
+            "Brampton Steelheads": "-194"
         }
     },
     {
@@ -1399,7 +1373,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "+247",
+            "Ottawa 67's": "+246",
             "Kingston Frontenacs": "-324"
         }
     },
@@ -1633,7 +1607,7 @@
         "home_score": 1,
         "away_score": 7,
         "odds": {
-            "Erie Otters": "-198",
+            "Erie Otters": "-197",
             "Ottawa 67's": "+157"
         }
     },
@@ -1672,7 +1646,7 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-288",
+            "Brantford Bulldogs": "-287",
             "Ottawa 67's": "+222"
         }
     },
@@ -1698,7 +1672,7 @@
         "home_score": 2,
         "away_score": 0,
         "odds": {
-            "Guelph Storm": "+160",
+            "Guelph Storm": "+159",
             "Kitchener Rangers": "-201"
         }
     },
@@ -2791,7 +2765,7 @@
         "away_score": 1,
         "odds": {
             "Kingston Frontenacs": "-324",
-            "Ottawa 67's": "+247"
+            "Ottawa 67's": "+246"
         }
     },
     {
@@ -2842,7 +2816,7 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "+192",
+            "Guelph Storm": "+191",
             "Brantford Bulldogs": "-244"
         }
     },
