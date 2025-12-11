@@ -61,7 +61,7 @@
         "away_score": 2,
         "odds": {
             "Kingston Frontenacs": "-110",
-            "Windsor Spitfires": "-113"
+            "Windsor Spitfires": "-112"
         }
     },
     {
@@ -99,7 +99,7 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-113",
+            "Windsor Spitfires": "-112",
             "Kingston Frontenacs": "-110"
         }
     },
@@ -333,7 +333,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Niagara IceDogs": "-113",
+            "Niagara IceDogs": "-112",
             "Flint Firebirds": "-110"
         }
     },
