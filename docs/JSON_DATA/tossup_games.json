@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-17",
-        "home_team": "Ottawa 67's",
-        "away_team": "North Bay Battalion",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Ottawa 67's": "-117",
-            "North Bay Battalion": "-106"
-        }
-    },
-    {
         "date": "2025-02-21",
         "home_team": "Kitchener Rangers",
         "away_team": "Barrie Colts",
@@ -35,7 +22,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "-109",
-            "North Bay Battalion": "-114"
+            "North Bay Battalion": "-113"
         }
     },
     {
@@ -47,7 +34,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-104",
+            "Soo Greyhounds": "-105",
             "Sudbury Wolves": "-118"
         }
     },
@@ -74,7 +61,7 @@
         "away_score": 2,
         "odds": {
             "Ottawa 67's": "-117",
-            "North Bay Battalion": "-106"
+            "North Bay Battalion": "-105"
         }
     },
     {
@@ -138,7 +125,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-106",
+            "North Bay Battalion": "-105",
             "Ottawa 67's": "-117"
         }
     },
@@ -204,7 +191,7 @@
         "away_score": 3,
         "odds": {
             "Sudbury Wolves": "-118",
-            "Soo Greyhounds": "-104"
+            "Soo Greyhounds": "-105"
         }
     },
     {
@@ -242,7 +229,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Brampton Steelheads": "-107",
+            "Brampton Steelheads": "-106",
             "Kingston Frontenacs": "-116"
         }
     },
@@ -255,7 +242,7 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-103",
+            "Barrie Colts": "-104",
             "Oshawa Generals": "-119"
         }
     },
@@ -268,7 +255,7 @@
         "home_score": 1,
         "away_score": 7,
         "odds": {
-            "Barrie Colts": "-103",
+            "Barrie Colts": "-104",
             "Oshawa Generals": "-119"
         }
     },
@@ -282,7 +269,7 @@
         "away_score": 6,
         "odds": {
             "Oshawa Generals": "-119",
-            "Barrie Colts": "-103"
+            "Barrie Colts": "-104"
         }
     },
     {
@@ -295,7 +282,7 @@
         "away_score": 4,
         "odds": {
             "Oshawa Generals": "-119",
-            "Barrie Colts": "-103"
+            "Barrie Colts": "-104"
         }
     },
     {
@@ -346,7 +333,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Soo Greyhounds": "-104",
+            "Soo Greyhounds": "-105",
             "Sudbury Wolves": "-118"
         }
     }
