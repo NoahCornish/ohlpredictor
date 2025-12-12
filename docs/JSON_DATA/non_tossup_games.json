@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-18",
-        "home_team": "Kingston Frontenacs",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 6,
-        "away_score": 4,
-        "odds": {
-            "Kingston Frontenacs": "-161",
-            "Barrie Colts": "+129"
-        }
-    },
-    {
         "date": "2025-02-19",
         "home_team": "Brampton Steelheads",
         "away_team": "Oshawa Generals",
@@ -398,7 +385,7 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Barrie Colts": "+117",
+            "Barrie Colts": "+116",
             "Saginaw Spirit": "-144"
         }
     },
@@ -581,7 +568,7 @@
         "away_score": 3,
         "odds": {
             "Barrie Colts": "+129",
-            "Kingston Frontenacs": "-161"
+            "Kingston Frontenacs": "-160"
         }
     },
     {
@@ -737,7 +724,7 @@
         "away_score": 4,
         "odds": {
             "Saginaw Spirit": "-144",
-            "Barrie Colts": "+117"
+            "Barrie Colts": "+116"
         }
     },
     {
@@ -931,7 +918,7 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Sudbury Wolves": "+105",
+            "Sudbury Wolves": "+106",
             "Barrie Colts": "-130"
         }
     },
@@ -1009,7 +996,7 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-324",
+            "Kingston Frontenacs": "-323",
             "Ottawa 67's": "+246"
         }
     },
@@ -1100,8 +1087,8 @@
         "home_score": 8,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-716",
-            "Peterborough Petes": "+471"
+            "Kingston Frontenacs": "-715",
+            "Peterborough Petes": "+470"
         }
     },
     {
@@ -1270,7 +1257,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "+246",
-            "Kingston Frontenacs": "-324"
+            "Kingston Frontenacs": "-323"
         }
     },
     {
@@ -1386,8 +1373,8 @@
         "home_score": 2,
         "away_score": 6,
         "odds": {
-            "Peterborough Petes": "+471",
-            "Kingston Frontenacs": "-716"
+            "Peterborough Petes": "+470",
+            "Kingston Frontenacs": "-715"
         }
     },
     {
@@ -2154,7 +2141,7 @@
         "away_score": 2,
         "odds": {
             "Barrie Colts": "+129",
-            "Kingston Frontenacs": "-161"
+            "Kingston Frontenacs": "-160"
         }
     },
     {
@@ -2219,7 +2206,7 @@
         "away_score": 4,
         "odds": {
             "Barrie Colts": "+129",
-            "Kingston Frontenacs": "-161"
+            "Kingston Frontenacs": "-160"
         }
     },
     {
@@ -2257,7 +2244,7 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Kingston Frontenacs": "-161",
+            "Kingston Frontenacs": "-160",
             "Barrie Colts": "+129"
         }
     },
@@ -2309,7 +2296,7 @@
         "home_score": 9,
         "away_score": 4,
         "odds": {
-            "Kingston Frontenacs": "-161",
+            "Kingston Frontenacs": "-160",
             "Barrie Colts": "+129"
         }
     },
@@ -2375,7 +2362,7 @@
         "away_score": 1,
         "odds": {
             "Barrie Colts": "+129",
-            "Kingston Frontenacs": "-161"
+            "Kingston Frontenacs": "-160"
         }
     },
     {
@@ -2400,7 +2387,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-161",
+            "Kingston Frontenacs": "-160",
             "Barrie Colts": "+129"
         }
     },
@@ -2427,7 +2414,7 @@
         "away_score": 4,
         "odds": {
             "Barrie Colts": "+129",
-            "Kingston Frontenacs": "-161"
+            "Kingston Frontenacs": "-160"
         }
     },
     {
@@ -2660,7 +2647,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-324",
+            "Kingston Frontenacs": "-323",
             "Ottawa 67's": "+246"
         }
     },
