@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-19",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Brampton Steelheads": "-143",
-            "Oshawa Generals": "+116"
-        }
-    },
-    {
         "date": "2025-02-20",
         "home_team": "Barrie Colts",
         "away_team": "Owen Sound Attack",
@@ -412,7 +399,7 @@
         "away_score": 2,
         "odds": {
             "North Bay Battalion": "+248",
-            "Brampton Steelheads": "-327"
+            "Brampton Steelheads": "-326"
         }
     },
     {
@@ -502,8 +489,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Soo Greyhounds": "+154",
-            "Brampton Steelheads": "-193"
+            "Soo Greyhounds": "+153",
+            "Brampton Steelheads": "-192"
         }
     },
     {
@@ -736,7 +723,7 @@
         "home_score": 2,
         "away_score": 0,
         "odds": {
-            "Brampton Steelheads": "-327",
+            "Brampton Steelheads": "-326",
             "North Bay Battalion": "+248"
         }
     },
@@ -1023,7 +1010,7 @@
         "away_score": 6,
         "odds": {
             "Peterborough Petes": "+452",
-            "Brampton Steelheads": "-678"
+            "Brampton Steelheads": "-677"
         }
     },
     {
@@ -1230,7 +1217,7 @@
         "home_score": 2,
         "away_score": 6,
         "odds": {
-            "Niagara IceDogs": "+155",
+            "Niagara IceDogs": "+154",
             "Brampton Steelheads": "-194"
         }
     },
@@ -1399,7 +1386,7 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "Brampton Steelheads": "-678",
+            "Brampton Steelheads": "-677",
             "Peterborough Petes": "+452"
         }
     },

@@ -1,22 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-19",
-            "accuracy": 100.0,
-            "correct_predictions": 1,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 4,
-                    "away_score": 2
-                }
-            ]
-        },
-        {
             "date": "2025-02-20",
             "accuracy": 66.7,
             "correct_predictions": 2,
@@ -2409,13 +2393,13 @@
             ]
         }
     ],
-    "total_accuracy": 62.1,
+    "total_accuracy": 62.0,
     "tossup_accuracy": 53.8,
-    "non_tossup_accuracy": 63.2,
-    "total_correct": 146,
-    "total_games": 235,
+    "non_tossup_accuracy": 63.0,
+    "total_correct": 145,
+    "total_games": 234,
     "tossup_correct": 14,
     "tossup_games": 26,
-    "non_tossup_correct": 132,
-    "non_tossup_games": 209
+    "non_tossup_correct": 131,
+    "non_tossup_games": 208
 }
