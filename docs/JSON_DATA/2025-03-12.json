@@ -14,8 +14,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-323",
-            "Ottawa 67's": "+246"
+            "Kingston Frontenacs": "-322",
+            "Ottawa 67's": "+245"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Owen Sound Attack": "+121",
+            "Owen Sound Attack": "+122",
             "Flint Firebirds": "-151"
         },
         "game_time": "7:00 pm"
@@ -35,7 +35,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Peterborough Petes": "+449",
-            "Brampton Steelheads": "-673"
+            "Brampton Steelheads": "-672"
         },
         "game_time": "7:05 pm"
     },

@@ -4,8 +4,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "North Bay Battalion": "+234",
-            "Saginaw Spirit": "-305"
+            "North Bay Battalion": "+233",
+            "Saginaw Spirit": "-304"
         },
         "game_time": "2:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Ottawa 67's": "+248",
-            "Windsor Spitfires": "-327"
+            "Windsor Spitfires": "-326"
         },
         "game_time": "2:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Guelph Storm",
         "winner": "Guelph Storm",
         "odds": {
-            "Sarnia Sting": "+112",
+            "Sarnia Sting": "+111",
             "Guelph Storm": "-138"
         },
         "game_time": "2:05 pm"
@@ -34,8 +34,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Sudbury Wolves": "+145",
-            "Brampton Steelheads": "-181"
+            "Sudbury Wolves": "+144",
+            "Brampton Steelheads": "-180"
         },
         "game_time": "2:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-408",
-            "Peterborough Petes": "+301"
+            "Erie Otters": "-407",
+            "Peterborough Petes": "+300"
         },
         "game_time": "4:00 pm"
     },
