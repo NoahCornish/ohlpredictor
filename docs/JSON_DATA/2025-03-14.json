@@ -4,7 +4,7 @@
         "away_team": "Barrie Colts",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-154",
+            "Brampton Steelheads": "-153",
             "Barrie Colts": "+124"
         },
         "game_time": "7:00 pm"
@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-716",
-            "Peterborough Petes": "+471"
+            "Kingston Frontenacs": "-711",
+            "Peterborough Petes": "+468"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Sarnia Sting": "+150",
-            "Soo Greyhounds": "-188"
+            "Sarnia Sting": "+149",
+            "Soo Greyhounds": "-187"
         },
         "game_time": "7:05 pm"
     },
