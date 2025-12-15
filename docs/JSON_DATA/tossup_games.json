@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-21",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "Kitchener Rangers": "-119",
-            "Barrie Colts": "-104"
-        }
-    },
-    {
         "date": "2025-02-23",
         "home_team": "Sarnia Sting",
         "away_team": "North Bay Battalion",
@@ -112,7 +99,7 @@
         "home_score": 3,
         "away_score": 11,
         "odds": {
-            "Saginaw Spirit": "-112",
+            "Saginaw Spirit": "-111",
             "Brantford Bulldogs": "-111"
         }
     },
@@ -295,7 +282,7 @@
         "away_score": 2,
         "odds": {
             "Brantford Bulldogs": "-111",
-            "Saginaw Spirit": "-112"
+            "Saginaw Spirit": "-111"
         }
     },
     {
