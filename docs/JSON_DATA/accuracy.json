@@ -2154,8 +2154,8 @@
         },
         {
             "date": "2025-08-30",
-            "accuracy": 33.3,
-            "correct_predictions": 2,
+            "accuracy": 50.0,
+            "correct_predictions": 3,
             "total_games": 6,
             "game_details": [
                 {
@@ -2169,7 +2169,7 @@
                 {
                     "home_team": "Kitchener Rangers",
                     "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
+                    "predicted_winner": "Kitchener Rangers",
                     "actual_winner": "Kitchener Rangers",
                     "home_score": 4,
                     "away_score": 1
@@ -2281,12 +2281,12 @@
             ]
         }
     ],
-    "total_accuracy": 61.7,
-    "tossup_accuracy": 52.0,
+    "total_accuracy": 62.2,
+    "tossup_accuracy": 56.0,
     "non_tossup_accuracy": 62.9,
-    "total_correct": 137,
+    "total_correct": 138,
     "total_games": 222,
-    "tossup_correct": 13,
+    "tossup_correct": 14,
     "tossup_games": 25,
     "non_tossup_correct": 124,
     "non_tossup_games": 197
