@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-02-23",
-            "accuracy": 50.0,
-            "correct_predictions": 3,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 1,
-                    "away_score": 5
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "North Bay Battalion",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 1,
-                    "away_score": 5
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Soo Greyhounds",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 3,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 7,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 4,
-                    "away_score": 5
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 5,
-                    "away_score": 1
-                }
-            ]
-        },
-        {
             "date": "2025-02-24",
             "accuracy": 0.0,
             "correct_predictions": 0,
@@ -2225,13 +2169,13 @@
             ]
         }
     ],
-    "total_accuracy": 62.0,
-    "tossup_accuracy": 56.0,
-    "non_tossup_accuracy": 62.8,
-    "total_correct": 134,
-    "total_games": 216,
-    "tossup_correct": 14,
-    "tossup_games": 25,
-    "non_tossup_correct": 120,
-    "non_tossup_games": 191
+    "total_accuracy": 62.4,
+    "tossup_accuracy": 54.2,
+    "non_tossup_accuracy": 63.4,
+    "total_correct": 131,
+    "total_games": 210,
+    "tossup_correct": 13,
+    "tossup_games": 24,
+    "non_tossup_correct": 118,
+    "non_tossup_games": 186
 }

@@ -25,7 +25,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "North Bay Battalion": "+156",
-            "Sudbury Wolves": "-195"
+            "Sudbury Wolves": "-196"
         },
         "game_time": "2:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Guelph Storm": "+160",
-            "Kitchener Rangers": "-202"
+            "Kitchener Rangers": "-201"
         },
         "game_time": "2:07 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Erie Otters": "+156",
+            "Erie Otters": "+157",
             "London Knights": "-197"
         },
         "game_time": "4:00 pm"
@@ -74,7 +74,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-490",
+            "Oshawa Generals": "-489",
             "Peterborough Petes": "+350"
         },
         "game_time": "6:05 pm"

@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-02-23",
-        "home_team": "Sarnia Sting",
-        "away_team": "North Bay Battalion",
-        "predicted_winner": "North Bay Battalion",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 1,
-        "away_score": 5,
-        "odds": {
-            "Sarnia Sting": "-109",
-            "North Bay Battalion": "-113"
-        }
-    },
-    {
         "date": "2025-02-26",
         "home_team": "Soo Greyhounds",
         "away_team": "Sudbury Wolves",
@@ -48,7 +35,7 @@
         "away_score": 2,
         "odds": {
             "Ottawa 67's": "-117",
-            "North Bay Battalion": "-106"
+            "North Bay Battalion": "-105"
         }
     },
     {
@@ -99,7 +86,7 @@
         "home_score": 3,
         "away_score": 11,
         "odds": {
-            "Saginaw Spirit": "-111",
+            "Saginaw Spirit": "-112",
             "Brantford Bulldogs": "-111"
         }
     },
@@ -112,7 +99,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-106",
+            "North Bay Battalion": "-105",
             "Ottawa 67's": "-117"
         }
     },
@@ -282,7 +269,7 @@
         "away_score": 2,
         "odds": {
             "Brantford Bulldogs": "-111",
-            "Saginaw Spirit": "-111"
+            "Saginaw Spirit": "-112"
         }
     },
     {
