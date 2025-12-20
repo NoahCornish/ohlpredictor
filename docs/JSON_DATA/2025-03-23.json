@@ -14,8 +14,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-286",
-            "Ottawa 67's": "+221"
+            "Brantford Bulldogs": "-285",
+            "Ottawa 67's": "+220"
         },
         "game_time": "2:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Guelph Storm": "+160",
-            "Kitchener Rangers": "-201"
+            "Kitchener Rangers": "-202"
         },
         "game_time": "2:07 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Erie Otters": "+157",
-            "London Knights": "-197"
+            "Erie Otters": "+156",
+            "London Knights": "-196"
         },
         "game_time": "4:00 pm"
     },

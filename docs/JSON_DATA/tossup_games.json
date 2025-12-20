@@ -8,7 +8,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-105",
+            "Soo Greyhounds": "-104",
             "Sudbury Wolves": "-118"
         }
     },
@@ -22,7 +22,7 @@
         "away_score": 2,
         "odds": {
             "Kingston Frontenacs": "-110",
-            "Windsor Spitfires": "-113"
+            "Windsor Spitfires": "-112"
         }
     },
     {
@@ -34,7 +34,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Ottawa 67's": "-117",
+            "Ottawa 67's": "-118",
             "North Bay Battalion": "-105"
         }
     },
@@ -48,7 +48,7 @@
         "away_score": 2,
         "odds": {
             "Sudbury Wolves": "-119",
-            "Niagara IceDogs": "-104"
+            "Niagara IceDogs": "-103"
         }
     },
     {
@@ -60,7 +60,7 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-113",
+            "Windsor Spitfires": "-112",
             "Kingston Frontenacs": "-110"
         }
     },
@@ -100,7 +100,7 @@
         "away_score": 2,
         "odds": {
             "North Bay Battalion": "-105",
-            "Ottawa 67's": "-117"
+            "Ottawa 67's": "-118"
         }
     },
     {
@@ -126,7 +126,7 @@
         "away_score": 6,
         "odds": {
             "Flint Firebirds": "-109",
-            "Soo Greyhounds": "-114"
+            "Soo Greyhounds": "-113"
         }
     },
     {
@@ -165,7 +165,7 @@
         "away_score": 3,
         "odds": {
             "Sudbury Wolves": "-118",
-            "Soo Greyhounds": "-105"
+            "Soo Greyhounds": "-104"
         }
     },
     {
@@ -294,7 +294,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Niagara IceDogs": "-113",
+            "Niagara IceDogs": "-112",
             "Flint Firebirds": "-110"
         }
     },
@@ -307,7 +307,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Soo Greyhounds": "-105",
+            "Soo Greyhounds": "-104",
             "Sudbury Wolves": "-118"
         }
     }
