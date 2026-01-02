@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-02",
-            "accuracy": 50.0,
-            "correct_predictions": 3,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 3,
-                    "away_score": 8
-                },
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 5,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 3,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 3,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 7,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 3,
-                    "away_score": 4
-                }
-            ]
-        },
-        {
             "date": "2025-03-05",
             "accuracy": 75.0,
             "correct_predictions": 3,
@@ -1929,13 +1873,13 @@
             ]
         }
     ],
-    "total_accuracy": 62.4,
+    "total_accuracy": 62.8,
     "tossup_accuracy": 57.1,
-    "non_tossup_accuracy": 63.0,
-    "total_correct": 116,
-    "total_games": 186,
+    "non_tossup_accuracy": 63.5,
+    "total_correct": 113,
+    "total_games": 180,
     "tossup_correct": 12,
     "tossup_games": 21,
-    "non_tossup_correct": 104,
-    "non_tossup_games": 165
+    "non_tossup_correct": 101,
+    "non_tossup_games": 159
 }

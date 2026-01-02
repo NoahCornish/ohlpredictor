@@ -24,8 +24,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-171",
-            "Ottawa 67's": "+137"
+            "Niagara IceDogs": "-172",
+            "Ottawa 67's": "+138"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Peterborough Petes": "+460",
-            "Kingston Frontenacs": "-694"
+            "Peterborough Petes": "+459",
+            "Kingston Frontenacs": "-692"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-353",
-            "Sarnia Sting": "+266"
+            "Windsor Spitfires": "-354",
+            "Sarnia Sting": "+267"
         },
         "game_time": "7:05 pm"
     }

@@ -14,8 +14,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-282",
-            "Ottawa 67's": "+218"
+            "Brantford Bulldogs": "-283",
+            "Ottawa 67's": "+219"
         },
         "game_time": "2:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Guelph Storm": "+160",
-            "Kitchener Rangers": "-202"
+            "Kitchener Rangers": "-201"
         },
         "game_time": "2:07 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-186",
+            "Soo Greyhounds": "-187",
             "Sarnia Sting": "+149"
         },
         "game_time": "2:07 pm"
@@ -64,7 +64,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-185",
+            "Saginaw Spirit": "-184",
             "Flint Firebirds": "+147"
         },
         "game_time": "5:30 pm"
@@ -74,7 +74,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-482",
+            "Oshawa Generals": "-481",
             "Peterborough Petes": "+345"
         },
         "game_time": "6:05 pm"
