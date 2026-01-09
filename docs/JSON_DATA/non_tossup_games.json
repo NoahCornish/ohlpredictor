@@ -1,57 +1,5 @@
 [
     {
-        "date": "2025-03-09",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Kitchener Rangers": "-200",
-            "Guelph Storm": "+159"
-        }
-    },
-    {
-        "date": "2025-03-09",
-        "home_team": "Niagara IceDogs",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "Niagara IceDogs": "+160",
-            "Kingston Frontenacs": "-202"
-        }
-    },
-    {
-        "date": "2025-03-09",
-        "home_team": "Sarnia Sting",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 0,
-        "away_score": 9,
-        "odds": {
-            "Sarnia Sting": "+290",
-            "London Knights": "-391"
-        }
-    },
-    {
-        "date": "2025-03-09",
-        "home_team": "Sudbury Wolves",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Barrie Colts",
-        "actual_winner": "Sudbury Wolves",
-        "home_score": 7,
-        "away_score": 2,
-        "odds": {
-            "Sudbury Wolves": "+105",
-            "Barrie Colts": "-130"
-        }
-    },
-    {
         "date": "2025-03-11",
         "home_team": "Brampton Steelheads",
         "away_team": "Sudbury Wolves",
@@ -216,7 +164,7 @@
         "home_score": 8,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-692",
+            "Kingston Frontenacs": "-691",
             "Peterborough Petes": "+459"
         }
     },
@@ -282,7 +230,7 @@
         "away_score": 5,
         "odds": {
             "Sudbury Wolves": "+135",
-            "Brantford Bulldogs": "-168"
+            "Brantford Bulldogs": "-169"
         }
     },
     {
@@ -320,7 +268,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+278",
+            "Peterborough Petes": "+277",
             "Sudbury Wolves": "-371"
         }
     },
@@ -360,7 +308,7 @@
         "away_score": 6,
         "odds": {
             "Niagara IceDogs": "+153",
-            "Brampton Steelheads": "-192"
+            "Brampton Steelheads": "-191"
         }
     },
     {
@@ -373,7 +321,7 @@
         "away_score": 5,
         "odds": {
             "North Bay Battalion": "+181",
-            "Barrie Colts": "-229"
+            "Barrie Colts": "-230"
         }
     },
     {
@@ -489,8 +437,8 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "+192",
-            "Oshawa Generals": "-245"
+            "North Bay Battalion": "+193",
+            "Oshawa Generals": "-246"
         }
     },
     {
@@ -503,7 +451,7 @@
         "away_score": 6,
         "odds": {
             "Peterborough Petes": "+459",
-            "Kingston Frontenacs": "-692"
+            "Kingston Frontenacs": "-691"
         }
     },
     {
@@ -567,7 +515,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Niagara IceDogs": "-182",
+            "Niagara IceDogs": "-183",
             "North Bay Battalion": "+146"
         }
     },
@@ -620,7 +568,7 @@
         "away_score": 7,
         "odds": {
             "Erie Otters": "-194",
-            "Ottawa 67's": "+155"
+            "Ottawa 67's": "+154"
         }
     },
     {
@@ -685,7 +633,7 @@
         "away_score": 0,
         "odds": {
             "Guelph Storm": "+159",
-            "Kitchener Rangers": "-200"
+            "Kitchener Rangers": "-199"
         }
     },
     {
@@ -1699,7 +1647,7 @@
         "away_score": 2,
         "odds": {
             "Brampton Steelheads": "-260",
-            "Guelph Storm": "+203"
+            "Guelph Storm": "+202"
         }
     },
     {
@@ -1763,7 +1711,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Guelph Storm": "+203",
+            "Guelph Storm": "+202",
             "Brampton Steelheads": "-260"
         }
     },

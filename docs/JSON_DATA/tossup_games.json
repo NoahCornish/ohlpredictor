@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-03-09",
-        "home_team": "North Bay Battalion",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "North Bay Battalion",
-        "home_score": 5,
-        "away_score": 2,
-        "odds": {
-            "North Bay Battalion": "-105",
-            "Ottawa 67's": "-118"
-        }
-    },
-    {
         "date": "2025-03-14",
         "home_team": "Guelph Storm",
         "away_team": "Owen Sound Attack",
