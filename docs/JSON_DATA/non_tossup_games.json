@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-03-13",
-        "home_team": "North Bay Battalion",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 1,
-        "away_score": 2,
-        "odds": {
-            "North Bay Battalion": "+231",
-            "Brantford Bulldogs": "-301"
-        }
-    },
-    {
-        "date": "2025-03-13",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Windsor Spitfires": "-203",
-            "Soo Greyhounds": "+162"
-        }
-    },
-    {
         "date": "2025-03-14",
         "home_team": "Brampton Steelheads",
         "away_team": "Barrie Colts",
@@ -99,7 +73,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "+149",
+            "Sarnia Sting": "+150",
             "Soo Greyhounds": "-187"
         }
     },
@@ -529,7 +503,7 @@
         "away_score": 2,
         "odds": {
             "Soo Greyhounds": "-187",
-            "Sarnia Sting": "+149"
+            "Sarnia Sting": "+150"
         }
     },
     {
@@ -594,7 +568,7 @@
         "away_score": 2,
         "odds": {
             "Windsor Spitfires": "-203",
-            "Soo Greyhounds": "+162"
+            "Soo Greyhounds": "+161"
         }
     },
     {
@@ -685,7 +659,7 @@
         "away_score": 1,
         "odds": {
             "Windsor Spitfires": "-203",
-            "Soo Greyhounds": "+162"
+            "Soo Greyhounds": "+161"
         }
     },
     {
@@ -788,7 +762,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Soo Greyhounds": "+162",
+            "Soo Greyhounds": "+161",
             "Windsor Spitfires": "-203"
         }
     },
@@ -892,7 +866,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Soo Greyhounds": "+162",
+            "Soo Greyhounds": "+161",
             "Windsor Spitfires": "-203"
         }
     },
@@ -1023,7 +997,7 @@
         "away_score": 4,
         "odds": {
             "Windsor Spitfires": "-203",
-            "Soo Greyhounds": "+162"
+            "Soo Greyhounds": "+161"
         }
     },
     {
@@ -1633,7 +1607,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "-131",
+            "Owen Sound Attack": "-130",
             "North Bay Battalion": "+106"
         }
     },
