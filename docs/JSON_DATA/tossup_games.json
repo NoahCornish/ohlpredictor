@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-03-14",
-        "home_team": "Guelph Storm",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 2,
-        "away_score": 7,
-        "odds": {
-            "Guelph Storm": "-116",
-            "Owen Sound Attack": "-107"
-        }
-    },
-    {
         "date": "2025-03-15",
         "home_team": "Flint Firebirds",
         "away_team": "Soo Greyhounds",
@@ -164,7 +151,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-111",
+            "Brantford Bulldogs": "-110",
             "Saginaw Spirit": "-112"
         }
     },
