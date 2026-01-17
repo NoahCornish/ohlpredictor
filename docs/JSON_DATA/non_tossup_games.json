@@ -1,70 +1,5 @@
 [
     {
-        "date": "2025-03-15",
-        "home_team": "Erie Otters",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Niagara IceDogs",
-        "home_score": 2,
-        "away_score": 5,
-        "odds": {
-            "Erie Otters": "-125",
-            "Niagara IceDogs": "+101"
-        }
-    },
-    {
-        "date": "2025-03-15",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Owen Sound Attack": "+165",
-            "Kitchener Rangers": "-208"
-        }
-    },
-    {
-        "date": "2025-03-15",
-        "home_team": "Peterborough Petes",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Sudbury Wolves",
-        "actual_winner": "Sudbury Wolves",
-        "home_score": 1,
-        "away_score": 2,
-        "odds": {
-            "Peterborough Petes": "+275",
-            "Sudbury Wolves": "-367"
-        }
-    },
-    {
-        "date": "2025-03-15",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Saginaw Spirit",
-        "home_score": 6,
-        "away_score": 5,
-        "odds": {
-            "Saginaw Spirit": "+101",
-            "Windsor Spitfires": "-125"
-        }
-    },
-    {
-        "date": "2025-03-15",
-        "home_team": "Barrie Colts",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Barrie Colts",
-        "actual_winner": "Barrie Colts",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Barrie Colts": "-236",
-            "Sarnia Sting": "+185"
-        }
-    },
-    {
         "date": "2025-03-16",
         "home_team": "Niagara IceDogs",
         "away_team": "Brampton Steelheads",
@@ -87,7 +22,7 @@
         "away_score": 5,
         "odds": {
             "North Bay Battalion": "+180",
-            "Barrie Colts": "-229"
+            "Barrie Colts": "-228"
         }
     },
     {
@@ -99,8 +34,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "+242",
-            "Kingston Frontenacs": "-316"
+            "Ottawa 67's": "+241",
+            "Kingston Frontenacs": "-315"
         }
     },
     {
@@ -152,7 +87,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "+133",
-            "London Knights": "-165"
+            "London Knights": "-166"
         }
     },
     {
@@ -178,7 +113,7 @@
         "away_score": 3,
         "odds": {
             "Barrie Colts": "-195",
-            "Owen Sound Attack": "+156"
+            "Owen Sound Attack": "+155"
         }
     },
     {
@@ -190,7 +125,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Niagara IceDogs": "-171",
+            "Niagara IceDogs": "-170",
             "Ottawa 67's": "+137"
         }
     },
@@ -217,7 +152,7 @@
         "away_score": 6,
         "odds": {
             "Peterborough Petes": "+454",
-            "Kingston Frontenacs": "-683"
+            "Kingston Frontenacs": "-681"
         }
     },
     {
@@ -242,8 +177,8 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "Brampton Steelheads": "-641",
-            "Peterborough Petes": "+433"
+            "Brampton Steelheads": "-639",
+            "Peterborough Petes": "+432"
         }
     },
     {
@@ -372,7 +307,7 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-281",
+            "Brantford Bulldogs": "-280",
             "Ottawa 67's": "+217"
         }
     },
@@ -385,8 +320,8 @@
         "home_score": 4,
         "away_score": 0,
         "odds": {
-            "North Bay Battalion": "+154",
-            "Sudbury Wolves": "-193"
+            "North Bay Battalion": "+153",
+            "Sudbury Wolves": "-192"
         }
     },
     {
@@ -411,7 +346,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Soo Greyhounds": "-188",
+            "Soo Greyhounds": "-187",
             "Sarnia Sting": "+150"
         }
     },
@@ -450,7 +385,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "-473",
+            "Oshawa Generals": "-472",
             "Peterborough Petes": "+340"
         }
     },
@@ -503,7 +438,7 @@
         "away_score": 3,
         "odds": {
             "Brantford Bulldogs": "-299",
-            "North Bay Battalion": "+229"
+            "North Bay Battalion": "+230"
         }
     },
     {
@@ -528,7 +463,7 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "London Knights": "-317",
+            "London Knights": "-318",
             "Owen Sound Attack": "+242"
         }
     },
@@ -541,7 +476,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-151",
+            "Kitchener Rangers": "-150",
             "Flint Firebirds": "+121"
         }
     },
@@ -606,7 +541,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "London Knights": "-317",
+            "London Knights": "-318",
             "Owen Sound Attack": "+242"
         }
     },
@@ -619,7 +554,7 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-151",
+            "Kitchener Rangers": "-150",
             "Flint Firebirds": "+121"
         }
     },
@@ -646,7 +581,7 @@
         "away_score": 0,
         "odds": {
             "Brantford Bulldogs": "-299",
-            "North Bay Battalion": "+229"
+            "North Bay Battalion": "+230"
         }
     },
     {
@@ -684,7 +619,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "North Bay Battalion": "+229",
+            "North Bay Battalion": "+230",
             "Brantford Bulldogs": "-299"
         }
     },
@@ -724,7 +659,7 @@
         "away_score": 7,
         "odds": {
             "Owen Sound Attack": "+242",
-            "London Knights": "-317"
+            "London Knights": "-318"
         }
     },
     {
@@ -737,7 +672,7 @@
         "away_score": 0,
         "odds": {
             "Flint Firebirds": "+121",
-            "Kitchener Rangers": "-151"
+            "Kitchener Rangers": "-150"
         }
     },
     {
@@ -788,7 +723,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "North Bay Battalion": "+229",
+            "North Bay Battalion": "+230",
             "Brantford Bulldogs": "-299"
         }
     },
@@ -828,7 +763,7 @@
         "away_score": 8,
         "odds": {
             "Owen Sound Attack": "+242",
-            "London Knights": "-317"
+            "London Knights": "-318"
         }
     },
     {
@@ -841,7 +776,7 @@
         "away_score": 5,
         "odds": {
             "Flint Firebirds": "+121",
-            "Kitchener Rangers": "-151"
+            "Kitchener Rangers": "-150"
         }
     },
     {
@@ -879,7 +814,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-151",
+            "Kitchener Rangers": "-150",
             "Flint Firebirds": "+121"
         }
     },
@@ -919,7 +854,7 @@
         "away_score": 1,
         "odds": {
             "Brantford Bulldogs": "-299",
-            "North Bay Battalion": "+229"
+            "North Bay Battalion": "+230"
         }
     },
     {
@@ -983,7 +918,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "Barrie Colts": "+128",
+            "Barrie Colts": "+129",
             "Kingston Frontenacs": "-160"
         }
     },
@@ -1010,7 +945,7 @@
         "away_score": 1,
         "odds": {
             "Windsor Spitfires": "-152",
-            "Kitchener Rangers": "+122"
+            "Kitchener Rangers": "+123"
         }
     },
     {
@@ -1036,7 +971,7 @@
         "away_score": 1,
         "odds": {
             "Windsor Spitfires": "-152",
-            "Kitchener Rangers": "+122"
+            "Kitchener Rangers": "+123"
         }
     },
     {
@@ -1048,7 +983,7 @@
         "home_score": 7,
         "away_score": 4,
         "odds": {
-            "Barrie Colts": "+128",
+            "Barrie Colts": "+129",
             "Kingston Frontenacs": "-160"
         }
     },
@@ -1074,7 +1009,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Kitchener Rangers": "+122",
+            "Kitchener Rangers": "+123",
             "Windsor Spitfires": "-152"
         }
     },
@@ -1088,7 +1023,7 @@
         "away_score": 3,
         "odds": {
             "Kingston Frontenacs": "-160",
-            "Barrie Colts": "+128"
+            "Barrie Colts": "+129"
         }
     },
     {
@@ -1126,7 +1061,7 @@
         "home_score": 3,
         "away_score": 0,
         "odds": {
-            "Kitchener Rangers": "+122",
+            "Kitchener Rangers": "+123",
             "Windsor Spitfires": "-152"
         }
     },
@@ -1140,7 +1075,7 @@
         "away_score": 4,
         "odds": {
             "Kingston Frontenacs": "-160",
-            "Barrie Colts": "+128"
+            "Barrie Colts": "+129"
         }
     },
     {
@@ -1179,7 +1114,7 @@
         "away_score": 5,
         "odds": {
             "Windsor Spitfires": "-152",
-            "Kitchener Rangers": "+122"
+            "Kitchener Rangers": "+123"
         }
     },
     {
@@ -1204,7 +1139,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Barrie Colts": "+128",
+            "Barrie Colts": "+129",
             "Kingston Frontenacs": "-160"
         }
     },
@@ -1231,7 +1166,7 @@
         "away_score": 2,
         "odds": {
             "Kingston Frontenacs": "-160",
-            "Barrie Colts": "+128"
+            "Barrie Colts": "+129"
         }
     },
     {
@@ -1243,7 +1178,7 @@
         "home_score": 4,
         "away_score": 0,
         "odds": {
-            "Kitchener Rangers": "+122",
+            "Kitchener Rangers": "+123",
             "Windsor Spitfires": "-152"
         }
     },
@@ -1256,7 +1191,7 @@
         "home_score": 6,
         "away_score": 4,
         "odds": {
-            "Barrie Colts": "+128",
+            "Barrie Colts": "+129",
             "Kingston Frontenacs": "-160"
         }
     },
@@ -1270,7 +1205,7 @@
         "away_score": 2,
         "odds": {
             "Windsor Spitfires": "-152",
-            "Kitchener Rangers": "+122"
+            "Kitchener Rangers": "+123"
         }
     },
     {
@@ -1282,7 +1217,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Kitchener Rangers": "+133"
         }
     },
@@ -1295,7 +1230,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "London Knights": "-165",
+            "London Knights": "-166",
             "Kitchener Rangers": "+133"
         }
     },
@@ -1309,7 +1244,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "+133",
-            "London Knights": "-165"
+            "London Knights": "-166"
         }
     },
     {
@@ -1322,7 +1257,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+133",
-            "London Knights": "-165"
+            "London Knights": "-166"
         }
     },
     {
@@ -1425,7 +1360,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "+108",
+            "Kitchener Rangers": "+109",
             "Brantford Bulldogs": "-134"
         }
     },
@@ -1452,7 +1387,7 @@
         "away_score": 2,
         "odds": {
             "Peterborough Petes": "+290",
-            "Erie Otters": "-391"
+            "Erie Otters": "-390"
         }
     },
     {
@@ -1490,8 +1425,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-316",
-            "Ottawa 67's": "+242"
+            "Kingston Frontenacs": "-315",
+            "Ottawa 67's": "+241"
         }
     },
     {
@@ -1530,7 +1465,7 @@
         "away_score": 3,
         "odds": {
             "Peterborough Petes": "+290",
-            "Erie Otters": "-391"
+            "Erie Otters": "-390"
         }
     },
     {
@@ -1542,7 +1477,7 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Guelph Storm": "+190",
+            "Guelph Storm": "+191",
             "Brantford Bulldogs": "-243"
         }
     },
@@ -1556,7 +1491,7 @@
         "away_score": 5,
         "odds": {
             "Barrie Colts": "-195",
-            "Owen Sound Attack": "+156"
+            "Owen Sound Attack": "+155"
         }
     }
 ]
