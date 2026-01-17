@@ -35,7 +35,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "North Bay Battalion": "+191",
-            "Oshawa Generals": "-244"
+            "Oshawa Generals": "-243"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Peterborough Petes": "+453",
-            "Kingston Frontenacs": "-680"
+            "Peterborough Petes": "+454",
+            "Kingston Frontenacs": "-681"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-352",
-            "Sarnia Sting": "+265"
+            "Windsor Spitfires": "-353",
+            "Sarnia Sting": "+266"
         },
         "game_time": "7:05 pm"
     }

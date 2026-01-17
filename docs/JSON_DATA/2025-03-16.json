@@ -14,8 +14,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "North Bay Battalion": "+181",
-            "Barrie Colts": "-229"
+            "North Bay Battalion": "+180",
+            "Barrie Colts": "-228"
         },
         "game_time": "2:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Ottawa 67's": "+242",
-            "Kingston Frontenacs": "-317"
+            "Kingston Frontenacs": "-316"
         },
         "game_time": "2:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Oshawa Generals": "-139",
-            "Sudbury Wolves": "+113"
+            "Sudbury Wolves": "+112"
         },
         "game_time": "6:05 pm"
     }
