@@ -14,8 +14,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-280",
-            "Ottawa 67's": "+217"
+            "Brantford Bulldogs": "-279",
+            "Ottawa 67's": "+216"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "North Bay Battalion": "+153",
-            "Sudbury Wolves": "-192"
+            "North Bay Battalion": "+154",
+            "Sudbury Wolves": "-193"
         },
         "game_time": "2:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "London Knights",
         "odds": {
             "Erie Otters": "+157",
-            "London Knights": "-197"
+            "London Knights": "-198"
         },
         "game_time": "4:00 pm"
     },

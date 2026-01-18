@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-16",
-            "accuracy": 83.3,
-            "correct_predictions": 5,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 2,
-                    "away_score": 6
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 4,
-                    "away_score": 5
-                },
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 6,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 8,
-                    "away_score": 5
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 3,
-                    "away_score": 2
-                }
-            ]
-        },
-        {
             "date": "2025-03-18",
             "accuracy": 50.0,
             "correct_predictions": 1,
@@ -1385,13 +1329,13 @@
             ]
         }
     ],
-    "total_accuracy": 60.5,
-    "tossup_accuracy": 57.1,
-    "non_tossup_accuracy": 60.9,
-    "total_correct": 78,
-    "total_games": 129,
+    "total_accuracy": 59.3,
+    "tossup_accuracy": 61.5,
+    "non_tossup_accuracy": 59.1,
+    "total_correct": 73,
+    "total_games": 123,
     "tossup_correct": 8,
-    "tossup_games": 14,
-    "non_tossup_correct": 70,
-    "non_tossup_games": 115
+    "tossup_games": 13,
+    "non_tossup_correct": 65,
+    "non_tossup_games": 110
 }
