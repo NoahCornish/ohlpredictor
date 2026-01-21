@@ -1,30 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-19",
-            "accuracy": 50.0,
-            "correct_predictions": 1,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 2,
-                    "away_score": 7
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Soo Greyhounds",
-                    "home_score": 2,
-                    "away_score": 3
-                }
-            ]
-        },
-        {
             "date": "2025-03-20",
             "accuracy": 33.3,
             "correct_predictions": 2,
@@ -1305,13 +1281,13 @@
             ]
         }
     ],
-    "total_accuracy": 59.5,
-    "tossup_accuracy": 61.5,
+    "total_accuracy": 59.7,
+    "tossup_accuracy": 63.6,
     "non_tossup_accuracy": 59.3,
-    "total_correct": 72,
-    "total_games": 121,
-    "tossup_correct": 8,
-    "tossup_games": 13,
+    "total_correct": 71,
+    "total_games": 119,
+    "tossup_correct": 7,
+    "tossup_games": 11,
     "non_tossup_correct": 64,
     "non_tossup_games": 108
 }
