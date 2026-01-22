@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-20",
-            "accuracy": 33.3,
-            "correct_predictions": 2,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 6,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 1,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 1,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 5,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 2,
-                    "away_score": 6
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 5,
-                    "away_score": 0
-                }
-            ]
-        },
-        {
             "date": "2025-03-21",
             "accuracy": 50.0,
             "correct_predictions": 4,
@@ -1281,13 +1225,13 @@
             ]
         }
     ],
-    "total_accuracy": 59.7,
+    "total_accuracy": 61.1,
     "tossup_accuracy": 63.6,
-    "non_tossup_accuracy": 59.3,
-    "total_correct": 71,
-    "total_games": 119,
+    "non_tossup_accuracy": 60.8,
+    "total_correct": 69,
+    "total_games": 113,
     "tossup_correct": 7,
     "tossup_games": 11,
-    "non_tossup_correct": 64,
-    "non_tossup_games": 108
+    "non_tossup_correct": 62,
+    "non_tossup_games": 102
 }
