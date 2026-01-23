@@ -4,8 +4,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "North Bay Battalion": "+229",
-            "Brantford Bulldogs": "-298"
+            "North Bay Battalion": "+230",
+            "Brantford Bulldogs": "-299"
         },
         "game_time": "7:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Owen Sound Attack": "+243",
+            "Owen Sound Attack": "+242",
             "London Knights": "-318"
         },
         "game_time": "7:00 pm"
@@ -55,7 +55,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Erie Otters": "+129",
-            "Saginaw Spirit": "-160"
+            "Saginaw Spirit": "-161"
         },
         "game_time": "7:00 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Sudbury Wolves": "+150",
-            "Kingston Frontenacs": "-189"
+            "Kingston Frontenacs": "-188"
         },
         "game_time": "7:05 pm"
     }

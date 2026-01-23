@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-03-21",
-        "home_team": "London Knights",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 6,
-        "away_score": 2,
-        "odds": {
-            "London Knights": "-121",
-            "Windsor Spitfires": "-102"
-        }
-    },
-    {
         "date": "2025-03-22",
         "home_team": "Owen Sound Attack",
         "away_team": "Guelph Storm",
@@ -139,7 +126,7 @@
         "away_score": 1,
         "odds": {
             "Soo Greyhounds": "-105",
-            "Sudbury Wolves": "-117"
+            "Sudbury Wolves": "-118"
         }
     }
 ]

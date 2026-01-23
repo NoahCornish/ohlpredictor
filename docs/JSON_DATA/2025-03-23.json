@@ -24,7 +24,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "North Bay Battalion": "+153",
+            "North Bay Battalion": "+154",
             "Sudbury Wolves": "-193"
         },
         "game_time": "2:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Guelph Storm": "+160",
-            "Kitchener Rangers": "-201"
+            "Guelph Storm": "+159",
+            "Kitchener Rangers": "-200"
         },
         "game_time": "2:07 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-187",
+            "Soo Greyhounds": "-188",
             "Sarnia Sting": "+150"
         },
         "game_time": "2:07 pm"
@@ -74,8 +74,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-468",
-            "Peterborough Petes": "+337"
+            "Oshawa Generals": "-466",
+            "Peterborough Petes": "+336"
         },
         "game_time": "6:05 pm"
     }
