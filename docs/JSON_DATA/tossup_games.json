@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-03-23",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "Brampton Steelheads": "-105",
-            "Kingston Frontenacs": "-117"
-        }
-    },
-    {
         "date": "2025-04-25",
         "home_team": "Barrie Colts",
         "away_team": "Oshawa Generals",
@@ -74,7 +61,7 @@
         "away_score": 2,
         "odds": {
             "Brantford Bulldogs": "-111",
-            "Saginaw Spirit": "-112"
+            "Saginaw Spirit": "-111"
         }
     },
     {
@@ -113,7 +100,7 @@
         "away_score": 1,
         "odds": {
             "Soo Greyhounds": "-105",
-            "Sudbury Wolves": "-117"
+            "Sudbury Wolves": "-118"
         }
     }
 ]
