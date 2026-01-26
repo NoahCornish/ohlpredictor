@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-03-27",
-        "home_team": "Barrie Colts",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Barrie Colts",
-        "actual_winner": "Barrie Colts",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Barrie Colts": "-139",
-            "Niagara IceDogs": "+112"
-        }
-    },
-    {
-        "date": "2025-03-27",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 7,
-        "away_score": 2,
-        "odds": {
-            "Windsor Spitfires": "-203",
-            "Soo Greyhounds": "+161"
-        }
-    },
-    {
-        "date": "2025-03-27",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Erie Otters",
-        "predicted_winner": "Saginaw Spirit",
-        "actual_winner": "Erie Otters",
-        "home_score": 5,
-        "away_score": 8,
-        "odds": {
-            "Saginaw Spirit": "-161",
-            "Erie Otters": "+129"
-        }
-    },
-    {
         "date": "2025-03-28",
         "home_team": "Brantford Bulldogs",
         "away_team": "North Bay Battalion",
@@ -112,7 +73,7 @@
         "home_score": 7,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-203",
+            "Windsor Spitfires": "-202",
             "Soo Greyhounds": "+161"
         }
     },
@@ -203,7 +164,7 @@
         "home_score": 7,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-139",
+            "Barrie Colts": "-138",
             "Niagara IceDogs": "+112"
         }
     },
@@ -217,7 +178,7 @@
         "away_score": 2,
         "odds": {
             "Soo Greyhounds": "+161",
-            "Windsor Spitfires": "-203"
+            "Windsor Spitfires": "-202"
         }
     },
     {
@@ -243,7 +204,7 @@
         "away_score": 4,
         "odds": {
             "Niagara IceDogs": "+112",
-            "Barrie Colts": "-139"
+            "Barrie Colts": "-138"
         }
     },
     {
@@ -321,7 +282,7 @@
         "away_score": 4,
         "odds": {
             "Soo Greyhounds": "+161",
-            "Windsor Spitfires": "-203"
+            "Windsor Spitfires": "-202"
         }
     },
     {
@@ -347,7 +308,7 @@
         "away_score": 6,
         "odds": {
             "Niagara IceDogs": "+112",
-            "Barrie Colts": "-139"
+            "Barrie Colts": "-138"
         }
     },
     {
@@ -450,7 +411,7 @@
         "home_score": 8,
         "away_score": 4,
         "odds": {
-            "Windsor Spitfires": "-203",
+            "Windsor Spitfires": "-202",
             "Soo Greyhounds": "+161"
         }
     },
@@ -489,7 +450,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-139",
+            "Barrie Colts": "-138",
             "Niagara IceDogs": "+112"
         }
     },
@@ -997,7 +958,7 @@
         "away_score": 2,
         "odds": {
             "Peterborough Petes": "+284",
-            "Erie Otters": "-382"
+            "Erie Otters": "-381"
         }
     },
     {
@@ -1075,7 +1036,7 @@
         "away_score": 3,
         "odds": {
             "Peterborough Petes": "+284",
-            "Erie Otters": "-382"
+            "Erie Otters": "-381"
         }
     },
     {
@@ -1100,7 +1061,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-197",
+            "Barrie Colts": "-196",
             "Owen Sound Attack": "+156"
         }
     }
