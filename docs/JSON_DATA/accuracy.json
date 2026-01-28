@@ -1,54 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-03-28",
-            "accuracy": 80.0,
-            "correct_predictions": 4,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 6,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 4,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 6,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 4,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 7,
-                    "away_score": 4
-                }
-            ]
-        },
-        {
             "date": "2025-03-29",
             "accuracy": 50.0,
             "correct_predictions": 1,
@@ -1009,13 +961,13 @@
             ]
         }
     ],
-    "total_accuracy": 64.4,
+    "total_accuracy": 63.5,
     "tossup_accuracy": 75.0,
-    "non_tossup_accuracy": 63.4,
-    "total_correct": 58,
-    "total_games": 90,
+    "non_tossup_accuracy": 62.3,
+    "total_correct": 54,
+    "total_games": 85,
     "tossup_correct": 6,
     "tossup_games": 8,
-    "non_tossup_correct": 52,
-    "non_tossup_games": 82
+    "non_tossup_correct": 48,
+    "non_tossup_games": 77
 }

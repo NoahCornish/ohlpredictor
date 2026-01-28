@@ -1,70 +1,5 @@
 [
     {
-        "date": "2025-03-28",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "North Bay Battalion",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Brantford Bulldogs": "-300",
-            "North Bay Battalion": "+230"
-        }
-    },
-    {
-        "date": "2025-03-28",
-        "home_team": "Kingston Frontenacs",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "Kingston Frontenacs": "-188",
-            "Sudbury Wolves": "+150"
-        }
-    },
-    {
-        "date": "2025-03-28",
-        "home_team": "London Knights",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 6,
-        "away_score": 1,
-        "odds": {
-            "London Knights": "-319",
-            "Owen Sound Attack": "+243"
-        }
-    },
-    {
-        "date": "2025-03-28",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Kitchener Rangers": "-151",
-            "Flint Firebirds": "+121"
-        }
-    },
-    {
-        "date": "2025-03-28",
-        "home_team": "Oshawa Generals",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 7,
-        "away_score": 4,
-        "odds": {
-            "Oshawa Generals": "+115",
-            "Brampton Steelheads": "-143"
-        }
-    },
-    {
         "date": "2025-03-29",
         "home_team": "Windsor Spitfires",
         "away_team": "Soo Greyhounds",
@@ -125,7 +60,7 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-151",
+            "Kitchener Rangers": "-150",
             "Flint Firebirds": "+121"
         }
     },
@@ -243,7 +178,7 @@
         "away_score": 0,
         "odds": {
             "Flint Firebirds": "+121",
-            "Kitchener Rangers": "-151"
+            "Kitchener Rangers": "-150"
         }
     },
     {
@@ -347,7 +282,7 @@
         "away_score": 5,
         "odds": {
             "Flint Firebirds": "+121",
-            "Kitchener Rangers": "-151"
+            "Kitchener Rangers": "-150"
         }
     },
     {
@@ -385,7 +320,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-151",
+            "Kitchener Rangers": "-150",
             "Flint Firebirds": "+121"
         }
     },
@@ -996,7 +931,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-313",
+            "Kingston Frontenacs": "-312",
             "Ottawa 67's": "+239"
         }
     },
@@ -1023,7 +958,7 @@
         "away_score": 4,
         "odds": {
             "Owen Sound Attack": "-129",
-            "North Bay Battalion": "+105"
+            "North Bay Battalion": "+104"
         }
     },
     {
