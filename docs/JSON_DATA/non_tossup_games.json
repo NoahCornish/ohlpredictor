@@ -47,7 +47,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-150",
+            "Kitchener Rangers": "-151",
             "Flint Firebirds": "+121"
         }
     },
@@ -125,7 +125,7 @@
         "home_score": 6,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-150",
+            "Kitchener Rangers": "-151",
             "Flint Firebirds": "+121"
         }
     },
@@ -243,7 +243,7 @@
         "away_score": 0,
         "odds": {
             "Flint Firebirds": "+121",
-            "Kitchener Rangers": "-150"
+            "Kitchener Rangers": "-151"
         }
     },
     {
@@ -347,7 +347,7 @@
         "away_score": 5,
         "odds": {
             "Flint Firebirds": "+121",
-            "Kitchener Rangers": "-150"
+            "Kitchener Rangers": "-151"
         }
     },
     {
@@ -385,7 +385,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-150",
+            "Kitchener Rangers": "-151",
             "Flint Firebirds": "+121"
         }
     },
@@ -789,7 +789,7 @@
         "away_score": 2,
         "odds": {
             "London Knights": "-165",
-            "Kitchener Rangers": "+133"
+            "Kitchener Rangers": "+132"
         }
     },
     {
@@ -802,7 +802,7 @@
         "away_score": 2,
         "odds": {
             "London Knights": "-165",
-            "Kitchener Rangers": "+133"
+            "Kitchener Rangers": "+132"
         }
     },
     {
@@ -814,7 +814,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "+133",
+            "Kitchener Rangers": "+132",
             "London Knights": "-165"
         }
     },
@@ -827,7 +827,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "+133",
+            "Kitchener Rangers": "+132",
             "London Knights": "-165"
         }
     },
@@ -996,7 +996,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-312",
+            "Kingston Frontenacs": "-313",
             "Ottawa 67's": "+239"
         }
     },
