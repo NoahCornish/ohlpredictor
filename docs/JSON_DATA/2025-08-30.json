@@ -5,7 +5,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Brantford Bulldogs": "-111",
-            "Saginaw Spirit": "-112"
+            "Saginaw Spirit": "-111"
         },
         "game_time": "2:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Oshawa Generals",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-112",
+            "Kitchener Rangers": "-113",
             "Oshawa Generals": "-110"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Peterborough Petes": "+282",
-            "Erie Otters": "-379"
+            "Peterborough Petes": "+281",
+            "Erie Otters": "-376"
         },
         "game_time": "7:05 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "London Knights",
         "odds": {
             "Sarnia Sting": "+288",
-            "London Knights": "-388"
+            "London Knights": "-387"
         },
         "game_time": "7:05 pm"
     },
