@@ -1,22 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-04-02",
-            "accuracy": 100.0,
-            "correct_predictions": 1,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 1,
-                    "away_score": 4
-                }
-            ]
-        },
-        {
             "date": "2025-04-03",
             "accuracy": 57.1,
             "correct_predictions": 4,
@@ -801,13 +785,13 @@
             ]
         }
     ],
-    "total_accuracy": 62.3,
+    "total_accuracy": 61.8,
     "tossup_accuracy": 75.0,
-    "non_tossup_accuracy": 60.7,
-    "total_correct": 43,
-    "total_games": 69,
+    "non_tossup_accuracy": 60.0,
+    "total_correct": 42,
+    "total_games": 68,
     "tossup_correct": 6,
     "tossup_games": 8,
-    "non_tossup_correct": 37,
-    "non_tossup_games": 61
+    "non_tossup_correct": 36,
+    "non_tossup_games": 60
 }
