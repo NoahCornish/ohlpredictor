@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-04-04",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "Kitchener Rangers": "-150",
-            "Flint Firebirds": "+121"
-        }
-    },
-    {
-        "date": "2025-04-04",
-        "home_team": "Oshawa Generals",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 3,
-        "away_score": 6,
-        "odds": {
-            "Oshawa Generals": "+116",
-            "Brampton Steelheads": "-143"
-        }
-    },
-    {
-        "date": "2025-04-04",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 8,
-        "away_score": 4,
-        "odds": {
-            "Windsor Spitfires": "-202",
-            "Soo Greyhounds": "+161"
-        }
-    },
-    {
         "date": "2025-04-05",
         "home_team": "Brantford Bulldogs",
         "away_team": "North Bay Battalion",
@@ -87,7 +48,7 @@
         "away_score": 4,
         "odds": {
             "Brampton Steelheads": "-143",
-            "Oshawa Generals": "+116"
+            "Oshawa Generals": "+115"
         }
     },
     {
@@ -411,7 +372,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-164",
+            "London Knights": "-165",
             "Kitchener Rangers": "+132"
         }
     },
@@ -424,7 +385,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "London Knights": "-164",
+            "London Knights": "-165",
             "Kitchener Rangers": "+132"
         }
     },
@@ -438,7 +399,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "+132",
-            "London Knights": "-164"
+            "London Knights": "-165"
         }
     },
     {
@@ -451,7 +412,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+132",
-            "London Knights": "-164"
+            "London Knights": "-165"
         }
     },
     {
