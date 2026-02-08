@@ -502,8 +502,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+279",
-            "Erie Otters": "-373"
+            "Peterborough Petes": "+277",
+            "Erie Otters": "-370"
         }
     },
     {
@@ -580,8 +580,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+279",
-            "Erie Otters": "-373"
+            "Peterborough Petes": "+277",
+            "Erie Otters": "-370"
         }
     },
     {
@@ -607,7 +607,7 @@
         "away_score": 5,
         "odds": {
             "Barrie Colts": "-195",
-            "Owen Sound Attack": "+155"
+            "Owen Sound Attack": "+156"
         }
     }
 ]
