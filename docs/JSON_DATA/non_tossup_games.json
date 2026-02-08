@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-04-06",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 1,
-        "away_score": 4,
-        "odds": {
-            "Brampton Steelheads": "-143",
-            "Oshawa Generals": "+115"
-        }
-    },
-    {
         "date": "2025-04-10",
         "home_team": "Brantford Bulldogs",
         "away_team": "Oshawa Generals",
@@ -21,8 +8,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-135",
-            "Oshawa Generals": "+109"
+            "Brantford Bulldogs": "-136",
+            "Oshawa Generals": "+110"
         }
     },
     {
@@ -112,8 +99,8 @@
         "home_score": 8,
         "away_score": 5,
         "odds": {
-            "Brantford Bulldogs": "-135",
-            "Oshawa Generals": "+109"
+            "Brantford Bulldogs": "-136",
+            "Oshawa Generals": "+110"
         }
     },
     {
@@ -164,8 +151,8 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "+109",
-            "Brantford Bulldogs": "-135"
+            "Oshawa Generals": "+110",
+            "Brantford Bulldogs": "-136"
         }
     },
     {
@@ -216,8 +203,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Oshawa Generals": "+109",
-            "Brantford Bulldogs": "-135"
+            "Oshawa Generals": "+110",
+            "Brantford Bulldogs": "-136"
         }
     },
     {
@@ -242,8 +229,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-135",
-            "Oshawa Generals": "+109"
+            "Brantford Bulldogs": "-136",
+            "Oshawa Generals": "+110"
         }
     },
     {
@@ -268,8 +255,8 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Oshawa Generals": "+109",
-            "Brantford Bulldogs": "-135"
+            "Oshawa Generals": "+110",
+            "Brantford Bulldogs": "-136"
         }
     },
     {
@@ -477,7 +464,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+108",
-            "Brantford Bulldogs": "-133"
+            "Brantford Bulldogs": "-134"
         }
     },
     {
@@ -541,8 +528,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-311",
-            "Ottawa 67's": "+238"
+            "Kingston Frontenacs": "-310",
+            "Ottawa 67's": "+237"
         }
     },
     {
@@ -594,7 +581,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "+191",
-            "Brantford Bulldogs": "-243"
+            "Brantford Bulldogs": "-244"
         }
     },
     {
@@ -606,7 +593,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-195",
+            "Barrie Colts": "-196",
             "Owen Sound Attack": "+156"
         }
     }
