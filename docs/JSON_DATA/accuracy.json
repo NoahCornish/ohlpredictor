@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-04-12",
-            "accuracy": 66.7,
-            "correct_predictions": 2,
-            "total_games": 3,
-            "game_details": [
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 7,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 5,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 7,
-                    "away_score": 4
-                }
-            ]
-        },
-        {
             "date": "2025-04-13",
             "accuracy": 100.0,
             "correct_predictions": 1,
@@ -601,13 +569,13 @@
             ]
         }
     ],
-    "total_accuracy": 60.0,
+    "total_accuracy": 59.6,
     "tossup_accuracy": 75.0,
-    "non_tossup_accuracy": 57.1,
-    "total_correct": 30,
-    "total_games": 50,
+    "non_tossup_accuracy": 56.4,
+    "total_correct": 28,
+    "total_games": 47,
     "tossup_correct": 6,
     "tossup_games": 8,
-    "non_tossup_correct": 24,
-    "non_tossup_games": 42
+    "non_tossup_correct": 22,
+    "non_tossup_games": 39
 }
