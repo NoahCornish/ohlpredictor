@@ -4,8 +4,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-310",
-            "Ottawa 67's": "+237"
+            "Kingston Frontenacs": "-309",
+            "Ottawa 67's": "+236"
         },
         "game_time": "2:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Peterborough Petes": "+277",
+            "Peterborough Petes": "+278",
             "Erie Otters": "-371"
         },
         "game_time": "2:05 pm"
@@ -45,7 +45,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Soo Greyhounds": "-105",
-            "Sudbury Wolves": "-118"
+            "Sudbury Wolves": "-117"
         },
         "game_time": "2:07 pm"
     }
