@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-04-14",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 3,
-        "away_score": 6,
-        "odds": {
-            "Kitchener Rangers": "+121",
-            "Windsor Spitfires": "-151"
-        }
-    },
-    {
         "date": "2025-04-15",
         "home_team": "Kingston Frontenacs",
         "away_team": "Barrie Colts",
@@ -61,7 +48,7 @@
         "away_score": 0,
         "odds": {
             "Kitchener Rangers": "+121",
-            "Windsor Spitfires": "-151"
+            "Windsor Spitfires": "-150"
         }
     },
     {
@@ -112,7 +99,7 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Windsor Spitfires": "-151",
+            "Windsor Spitfires": "-150",
             "Kitchener Rangers": "+121"
         }
     },
@@ -178,7 +165,7 @@
         "away_score": 0,
         "odds": {
             "Kitchener Rangers": "+121",
-            "Windsor Spitfires": "-151"
+            "Windsor Spitfires": "-150"
         }
     },
     {
@@ -203,7 +190,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-151",
+            "Windsor Spitfires": "-150",
             "Kitchener Rangers": "+121"
         }
     },
@@ -359,7 +346,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "+108",
+            "Kitchener Rangers": "+107",
             "Brantford Bulldogs": "-133"
         }
     },
