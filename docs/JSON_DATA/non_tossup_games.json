@@ -48,7 +48,7 @@
         "away_score": 0,
         "odds": {
             "Kitchener Rangers": "+121",
-            "Windsor Spitfires": "-150"
+            "Windsor Spitfires": "-151"
         }
     },
     {
@@ -99,7 +99,7 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Windsor Spitfires": "-150",
+            "Windsor Spitfires": "-151",
             "Kitchener Rangers": "+121"
         }
     },
@@ -165,7 +165,7 @@
         "away_score": 0,
         "odds": {
             "Kitchener Rangers": "+121",
-            "Windsor Spitfires": "-150"
+            "Windsor Spitfires": "-151"
         }
     },
     {
@@ -190,7 +190,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-150",
+            "Windsor Spitfires": "-151",
             "Kitchener Rangers": "+121"
         }
     },
@@ -372,8 +372,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+278",
-            "Erie Otters": "-371"
+            "Peterborough Petes": "+276",
+            "Erie Otters": "-369"
         }
     },
     {
@@ -450,8 +450,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+278",
-            "Erie Otters": "-371"
+            "Peterborough Petes": "+276",
+            "Erie Otters": "-369"
         }
     },
     {
@@ -476,7 +476,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-195",
+            "Barrie Colts": "-196",
             "Owen Sound Attack": "+156"
         }
     }
