@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-04-16",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 3,
-        "away_score": 0,
-        "odds": {
-            "Kitchener Rangers": "+121",
-            "Windsor Spitfires": "-150"
-        }
-    },
-    {
         "date": "2025-04-17",
         "home_team": "Kingston Frontenacs",
         "away_team": "Barrie Colts",
@@ -386,7 +373,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+108",
-            "Saginaw Spirit": "-134"
+            "Saginaw Spirit": "-133"
         }
     },
     {
@@ -425,7 +412,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "+190",
-            "Brantford Bulldogs": "-242"
+            "Brantford Bulldogs": "-243"
         }
     },
     {
