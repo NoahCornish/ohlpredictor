@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-04-17",
-        "home_team": "Kingston Frontenacs",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 9,
-        "away_score": 4,
-        "odds": {
-            "Kingston Frontenacs": "-159",
-            "Barrie Colts": "+128"
-        }
-    },
-    {
-        "date": "2025-04-17",
-        "home_team": "Erie Otters",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "Erie Otters": "+158",
-            "London Knights": "-198"
-        }
-    },
-    {
-        "date": "2025-04-17",
-        "home_team": "Oshawa Generals",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Oshawa Generals": "+110",
-            "Brantford Bulldogs": "-136"
-        }
-    },
-    {
         "date": "2025-04-18",
         "home_team": "Windsor Spitfires",
         "away_team": "Kitchener Rangers",
@@ -73,8 +34,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Barrie Colts": "+128",
-            "Kingston Frontenacs": "-159"
+            "Barrie Colts": "+127",
+            "Kingston Frontenacs": "-158"
         }
     },
     {
@@ -99,8 +60,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-159",
-            "Barrie Colts": "+128"
+            "Kingston Frontenacs": "-158",
+            "Barrie Colts": "+127"
         }
     },
     {
@@ -125,8 +86,8 @@
         "home_score": 6,
         "away_score": 4,
         "odds": {
-            "Barrie Colts": "+128",
-            "Kingston Frontenacs": "-159"
+            "Barrie Colts": "+127",
+            "Kingston Frontenacs": "-158"
         }
     },
     {
@@ -152,7 +113,7 @@
         "away_score": 2,
         "odds": {
             "London Knights": "-164",
-            "Kitchener Rangers": "+132"
+            "Kitchener Rangers": "+131"
         }
     },
     {
@@ -165,7 +126,7 @@
         "away_score": 2,
         "odds": {
             "London Knights": "-164",
-            "Kitchener Rangers": "+132"
+            "Kitchener Rangers": "+131"
         }
     },
     {
@@ -177,7 +138,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "+132",
+            "Kitchener Rangers": "+131",
             "London Knights": "-164"
         }
     },
@@ -190,7 +151,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "+132",
+            "Kitchener Rangers": "+131",
             "London Knights": "-164"
         }
     },
@@ -359,7 +320,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-309",
+            "Kingston Frontenacs": "-308",
             "Ottawa 67's": "+236"
         }
     },
@@ -385,7 +346,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "-129",
+            "Owen Sound Attack": "-128",
             "North Bay Battalion": "+104"
         }
     },
