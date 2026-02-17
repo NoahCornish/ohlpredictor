@@ -1,22 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-04-18",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 2,
-                    "away_score": 5
-                }
-            ]
-        },
-        {
             "date": "2025-04-19",
             "accuracy": 0.0,
             "correct_predictions": 0,
@@ -457,13 +441,13 @@
             ]
         }
     ],
-    "total_accuracy": 57.9,
+    "total_accuracy": 59.5,
     "tossup_accuracy": 75.0,
-    "non_tossup_accuracy": 53.3,
+    "non_tossup_accuracy": 55.2,
     "total_correct": 22,
-    "total_games": 38,
+    "total_games": 37,
     "tossup_correct": 6,
     "tossup_games": 8,
     "non_tossup_correct": 16,
-    "non_tossup_games": 30
+    "non_tossup_games": 29
 }
