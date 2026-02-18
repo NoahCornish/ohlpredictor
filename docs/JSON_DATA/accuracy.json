@@ -1,30 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-04-19",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 2,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 2,
-                    "away_score": 1
-                }
-            ]
-        },
-        {
             "date": "2025-04-20",
             "accuracy": 33.3,
             "correct_predictions": 1,
@@ -441,13 +417,13 @@
             ]
         }
     ],
-    "total_accuracy": 59.5,
+    "total_accuracy": 62.9,
     "tossup_accuracy": 75.0,
-    "non_tossup_accuracy": 55.2,
+    "non_tossup_accuracy": 59.3,
     "total_correct": 22,
-    "total_games": 37,
+    "total_games": 35,
     "tossup_correct": 6,
     "tossup_games": 8,
     "non_tossup_correct": 16,
-    "non_tossup_games": 29
+    "non_tossup_games": 27
 }
