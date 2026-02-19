@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-04-20",
-        "home_team": "Oshawa Generals",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "Oshawa Generals": "+110",
-            "Brantford Bulldogs": "-137"
-        }
-    },
-    {
-        "date": "2025-04-20",
-        "home_team": "Kingston Frontenacs",
-        "away_team": "Barrie Colts",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Kingston Frontenacs": "-158",
-            "Barrie Colts": "+127"
-        }
-    },
-    {
-        "date": "2025-04-20",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 4,
-        "away_score": 0,
-        "odds": {
-            "Kitchener Rangers": "+122",
-            "Windsor Spitfires": "-151"
-        }
-    },
-    {
         "date": "2025-04-22",
         "home_team": "Barrie Colts",
         "away_team": "Kingston Frontenacs",
@@ -125,8 +86,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "London Knights": "-167",
-            "Oshawa Generals": "+134"
+            "London Knights": "-168",
+            "Oshawa Generals": "+135"
         }
     },
     {
@@ -138,8 +99,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-167",
-            "Oshawa Generals": "+134"
+            "London Knights": "-168",
+            "Oshawa Generals": "+135"
         }
     },
     {
@@ -151,8 +112,8 @@
         "home_score": 5,
         "away_score": 7,
         "odds": {
-            "Oshawa Generals": "+134",
-            "London Knights": "-167"
+            "Oshawa Generals": "+135",
+            "London Knights": "-168"
         }
     },
     {
@@ -164,8 +125,8 @@
         "home_score": 2,
         "away_score": 6,
         "odds": {
-            "Oshawa Generals": "+134",
-            "London Knights": "-167"
+            "Oshawa Generals": "+135",
+            "London Knights": "-168"
         }
     },
     {
@@ -177,8 +138,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-167",
-            "Oshawa Generals": "+134"
+            "London Knights": "-168",
+            "Oshawa Generals": "+135"
         }
     },
     {
@@ -190,7 +151,7 @@
         "home_score": 5,
         "away_score": 6,
         "odds": {
-            "Saginaw Spirit": "-136",
+            "Saginaw Spirit": "-137",
             "Oshawa Generals": "+110"
         }
     },
@@ -281,7 +242,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-309",
+            "Kingston Frontenacs": "-308",
             "Ottawa 67's": "+236"
         }
     },
@@ -334,7 +295,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "+190",
-            "Brantford Bulldogs": "-242"
+            "Brantford Bulldogs": "-243"
         }
     },
     {
