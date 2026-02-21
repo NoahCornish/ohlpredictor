@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-04-25",
-        "home_team": "London Knights",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 5,
-        "away_score": 2,
-        "odds": {
-            "London Knights": "-164",
-            "Kitchener Rangers": "+132"
-        }
-    },
-    {
         "date": "2025-04-27",
         "home_team": "London Knights",
         "away_team": "Kitchener Rangers",
@@ -60,8 +47,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "London Knights": "-167",
-            "Oshawa Generals": "+134"
+            "London Knights": "-168",
+            "Oshawa Generals": "+135"
         }
     },
     {
@@ -73,8 +60,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-167",
-            "Oshawa Generals": "+134"
+            "London Knights": "-168",
+            "Oshawa Generals": "+135"
         }
     },
     {
@@ -86,8 +73,8 @@
         "home_score": 5,
         "away_score": 7,
         "odds": {
-            "Oshawa Generals": "+134",
-            "London Knights": "-167"
+            "Oshawa Generals": "+135",
+            "London Knights": "-168"
         }
     },
     {
@@ -99,8 +86,8 @@
         "home_score": 2,
         "away_score": 6,
         "odds": {
-            "Oshawa Generals": "+134",
-            "London Knights": "-167"
+            "Oshawa Generals": "+135",
+            "London Knights": "-168"
         }
     },
     {
@@ -112,8 +99,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-167",
-            "Oshawa Generals": "+134"
+            "London Knights": "-168",
+            "Oshawa Generals": "+135"
         }
     },
     {
@@ -126,7 +113,7 @@
         "away_score": 6,
         "odds": {
             "Saginaw Spirit": "-137",
-            "Oshawa Generals": "+110"
+            "Oshawa Generals": "+111"
         }
     },
     {
@@ -165,7 +152,7 @@
         "away_score": 5,
         "odds": {
             "London Knights": "-384",
-            "Sarnia Sting": "+286"
+            "Sarnia Sting": "+285"
         }
     },
     {
@@ -190,7 +177,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "+286",
+            "Sarnia Sting": "+285",
             "London Knights": "-384"
         }
     },
