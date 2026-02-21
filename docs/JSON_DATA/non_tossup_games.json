@@ -60,8 +60,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "London Knights": "-168",
-            "Oshawa Generals": "+135"
+            "London Knights": "-167",
+            "Oshawa Generals": "+134"
         }
     },
     {
@@ -73,8 +73,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-168",
-            "Oshawa Generals": "+135"
+            "London Knights": "-167",
+            "Oshawa Generals": "+134"
         }
     },
     {
@@ -86,8 +86,8 @@
         "home_score": 5,
         "away_score": 7,
         "odds": {
-            "Oshawa Generals": "+135",
-            "London Knights": "-168"
+            "Oshawa Generals": "+134",
+            "London Knights": "-167"
         }
     },
     {
@@ -99,8 +99,8 @@
         "home_score": 2,
         "away_score": 6,
         "odds": {
-            "Oshawa Generals": "+135",
-            "London Knights": "-168"
+            "Oshawa Generals": "+134",
+            "London Knights": "-167"
         }
     },
     {
@@ -112,8 +112,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-168",
-            "Oshawa Generals": "+135"
+            "London Knights": "-167",
+            "Oshawa Generals": "+134"
         }
     },
     {
@@ -126,7 +126,7 @@
         "away_score": 6,
         "odds": {
             "Saginaw Spirit": "-137",
-            "Oshawa Generals": "+111"
+            "Oshawa Generals": "+110"
         }
     },
     {
@@ -177,8 +177,8 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+275",
-            "Erie Otters": "-368"
+            "Peterborough Petes": "+274",
+            "Erie Otters": "-365"
         }
     },
     {
@@ -255,8 +255,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+275",
-            "Erie Otters": "-368"
+            "Peterborough Petes": "+274",
+            "Erie Otters": "-365"
         }
     },
     {
@@ -281,8 +281,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-196",
-            "Owen Sound Attack": "+156"
+            "Barrie Colts": "-197",
+            "Owen Sound Attack": "+157"
         }
     }
 ]
