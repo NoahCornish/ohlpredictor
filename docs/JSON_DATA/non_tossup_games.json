@@ -8,8 +8,8 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "London Knights": "-164",
-            "Kitchener Rangers": "+132"
+            "London Knights": "-163",
+            "Kitchener Rangers": "+131"
         }
     },
     {
@@ -21,8 +21,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "+132",
-            "London Knights": "-164"
+            "Kitchener Rangers": "+131",
+            "London Knights": "-163"
         }
     },
     {
@@ -34,8 +34,8 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Kitchener Rangers": "+132",
-            "London Knights": "-164"
+            "Kitchener Rangers": "+131",
+            "London Knights": "-163"
         }
     },
     {
@@ -125,7 +125,7 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Brampton Steelheads": "-255",
+            "Brampton Steelheads": "-254",
             "Guelph Storm": "+199"
         }
     },
@@ -139,7 +139,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+108",
-            "Brantford Bulldogs": "-134"
+            "Brantford Bulldogs": "-133"
         }
     },
     {
@@ -151,8 +151,8 @@
         "home_score": 6,
         "away_score": 5,
         "odds": {
-            "London Knights": "-384",
-            "Sarnia Sting": "+285"
+            "London Knights": "-382",
+            "Sarnia Sting": "+284"
         }
     },
     {
@@ -177,8 +177,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "+285",
-            "London Knights": "-384"
+            "Sarnia Sting": "+284",
+            "London Knights": "-382"
         }
     },
     {
@@ -191,7 +191,7 @@
         "away_score": 1,
         "odds": {
             "Guelph Storm": "+199",
-            "Brampton Steelheads": "-255"
+            "Brampton Steelheads": "-254"
         }
     },
     {
@@ -217,7 +217,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+108",
-            "Saginaw Spirit": "-134"
+            "Saginaw Spirit": "-133"
         }
     },
     {
@@ -229,7 +229,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "-127",
+            "Owen Sound Attack": "-128",
             "North Bay Battalion": "+103"
         }
     },
@@ -256,7 +256,7 @@
         "away_score": 7,
         "odds": {
             "Guelph Storm": "+190",
-            "Brantford Bulldogs": "-243"
+            "Brantford Bulldogs": "-242"
         }
     },
     {

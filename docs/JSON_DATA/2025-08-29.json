@@ -14,7 +14,7 @@
         "away_team": "Guelph Storm",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-255",
+            "Brampton Steelheads": "-254",
             "Guelph Storm": "+199"
         },
         "game_time": "7:00 pm"
@@ -25,7 +25,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Kitchener Rangers": "+108",
-            "Brantford Bulldogs": "-134"
+            "Brantford Bulldogs": "-133"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Sarnia Sting",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-384",
-            "Sarnia Sting": "+285"
+            "London Knights": "-382",
+            "Sarnia Sting": "+284"
         },
         "game_time": "7:00 pm"
     }
