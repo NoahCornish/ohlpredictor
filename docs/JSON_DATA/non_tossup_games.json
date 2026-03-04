@@ -86,7 +86,7 @@
         "home_score": 6,
         "away_score": 5,
         "odds": {
-            "London Knights": "-382",
+            "London Knights": "-383",
             "Sarnia Sting": "+285"
         }
     },
@@ -113,7 +113,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "+285",
-            "London Knights": "-382"
+            "London Knights": "-383"
         }
     },
     {
@@ -203,8 +203,8 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-196",
-            "Owen Sound Attack": "+156"
+            "Barrie Colts": "-197",
+            "Owen Sound Attack": "+157"
         }
     }
 ]
