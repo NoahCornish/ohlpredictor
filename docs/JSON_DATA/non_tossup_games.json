@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-05-13",
-        "home_team": "Oshawa Generals",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 2,
-        "away_score": 6,
-        "odds": {
-            "Oshawa Generals": "+135",
-            "London Knights": "-168"
-        }
-    },
-    {
         "date": "2025-05-15",
         "home_team": "London Knights",
         "away_team": "Oshawa Generals",
@@ -73,7 +60,7 @@
         "home_score": 6,
         "away_score": 5,
         "odds": {
-            "London Knights": "-383",
+            "London Knights": "-382",
             "Sarnia Sting": "+285"
         }
     },
@@ -100,7 +87,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "+285",
-            "London Knights": "-383"
+            "London Knights": "-382"
         }
     },
     {
