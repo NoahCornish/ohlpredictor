@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-05-15",
-        "home_team": "London Knights",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 5,
-        "away_score": 2,
-        "odds": {
-            "London Knights": "-168",
-            "Oshawa Generals": "+135"
-        }
-    },
-    {
         "date": "2025-08-29",
         "home_team": "Saginaw Spirit",
         "away_team": "Oshawa Generals",
@@ -35,7 +22,7 @@
         "away_score": 2,
         "odds": {
             "Brampton Steelheads": "-253",
-            "Guelph Storm": "+197"
+            "Guelph Storm": "+198"
         }
     },
     {
@@ -99,7 +86,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Guelph Storm": "+197",
+            "Guelph Storm": "+198",
             "Brampton Steelheads": "-253"
         }
     },
