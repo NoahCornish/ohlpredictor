@@ -1,57 +1,5 @@
 [
     {
-        "date": "2025-08-29",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Saginaw Spirit",
-        "actual_winner": "Oshawa Generals",
-        "home_score": 5,
-        "away_score": 6,
-        "odds": {
-            "Saginaw Spirit": "-137",
-            "Oshawa Generals": "+111"
-        }
-    },
-    {
-        "date": "2025-08-29",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 7,
-        "away_score": 2,
-        "odds": {
-            "Brampton Steelheads": "-253",
-            "Guelph Storm": "+198"
-        }
-    },
-    {
-        "date": "2025-08-29",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "Kitchener Rangers": "+107",
-            "Brantford Bulldogs": "-133"
-        }
-    },
-    {
-        "date": "2025-08-29",
-        "home_team": "London Knights",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 6,
-        "away_score": 5,
-        "odds": {
-            "London Knights": "-383",
-            "Sarnia Sting": "+285"
-        }
-    },
-    {
         "date": "2025-08-30",
         "home_team": "Peterborough Petes",
         "away_team": "Erie Otters",
@@ -86,8 +34,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Guelph Storm": "+198",
-            "Brampton Steelheads": "-253"
+            "Guelph Storm": "+197",
+            "Brampton Steelheads": "-252"
         }
     },
     {
@@ -99,7 +47,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Kingston Frontenacs": "-307",
+            "Kingston Frontenacs": "-306",
             "Ottawa 67's": "+235"
         }
     },
