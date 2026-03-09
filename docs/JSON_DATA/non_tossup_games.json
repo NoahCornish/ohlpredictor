@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-08-30",
-        "home_team": "Peterborough Petes",
-        "away_team": "Erie Otters",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Peterborough Petes",
-        "home_score": 5,
-        "away_score": 2,
-        "odds": {
-            "Peterborough Petes": "+268",
-            "Erie Otters": "-356"
-        }
-    },
-    {
-        "date": "2025-08-30",
-        "home_team": "Sarnia Sting",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 4,
-        "away_score": 5,
-        "odds": {
-            "Sarnia Sting": "+285",
-            "London Knights": "-383"
-        }
-    },
-    {
-        "date": "2025-08-30",
-        "home_team": "Guelph Storm",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Guelph Storm",
-        "home_score": 3,
-        "away_score": 1,
-        "odds": {
-            "Guelph Storm": "+197",
-            "Brampton Steelheads": "-252"
-        }
-    },
-    {
         "date": "2025-08-31",
         "home_team": "Kingston Frontenacs",
         "away_team": "Ottawa 67's",
@@ -61,7 +22,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "+107",
-            "Saginaw Spirit": "-132"
+            "Saginaw Spirit": "-133"
         }
     },
     {
@@ -86,8 +47,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Peterborough Petes": "+268",
-            "Erie Otters": "-356"
+            "Peterborough Petes": "+269",
+            "Erie Otters": "-358"
         }
     },
     {
