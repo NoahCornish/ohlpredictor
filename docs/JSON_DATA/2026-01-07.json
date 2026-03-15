@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Niagara IceDogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-179",
+            "Niagara IceDogs": "+143"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Sarnia Sting",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Flint Firebirds": "-187",
+            "Sarnia Sting": "+149"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Guelph Storm",
+        "winner": "Guelph Storm",
+        "odds": {
+            "Owen Sound Attack": "-106",
+            "Guelph Storm": "-116"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Soo Greyhounds": "-105",
+            "Sudbury Wolves": "-117"
+        },
+        "game_time": "7:07 pm"
+    }
+]

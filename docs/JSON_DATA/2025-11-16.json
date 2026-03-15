@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "London Knights",
+        "away_team": "Soo Greyhounds",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-218",
+            "Soo Greyhounds": "+172"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Erie Otters",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Oshawa Generals": "-131",
+            "Erie Otters": "+106"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "North Bay Battalion": "+225",
+            "Saginaw Spirit": "-292"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Sarnia Sting",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Kingston Frontenacs": "-344",
+            "Sarnia Sting": "+260"
+        },
+        "game_time": "4:05 pm"
+    }
+]

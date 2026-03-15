@@ -1,0 +1,52 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "North Bay Battalion",
+        "winner": "Niagara IceDogs",
+        "odds": {
+            "Niagara IceDogs": "-179",
+            "North Bay Battalion": "+143"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Sudbury Wolves": "+110",
+            "Oshawa Generals": "-136"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Guelph Storm": "+160",
+            "Kitchener Rangers": "-201"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Sarnia Sting",
+        "winner": "Soo Greyhounds",
+        "odds": {
+            "Soo Greyhounds": "-188",
+            "Sarnia Sting": "+150"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Flint Firebirds",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Ottawa 67's": "+133",
+            "Flint Firebirds": "-166"
+        },
+        "game_time": "3:00 pm"
+    }
+]

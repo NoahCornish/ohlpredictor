@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Niagara IceDogs": "+143",
+            "Brantford Bulldogs": "-179"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "North Bay Battalion": "+272",
+            "London Knights": "-363"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Peterborough Petes": "+400",
+            "Brampton Steelheads": "-579"
+        },
+        "game_time": "7:05 pm"
+    }
+]

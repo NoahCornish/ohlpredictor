@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Owen Sound Attack": "+156",
+            "Barrie Colts": "-197"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Soo Greyhounds": "+142",
+            "Saginaw Spirit": "-177"
+        },
+        "game_time": "7:07 pm"
+    }
+]

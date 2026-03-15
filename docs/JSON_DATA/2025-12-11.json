@@ -1,0 +1,52 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Owen Sound Attack",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-197",
+            "Owen Sound Attack": "+156"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Erie Otters": "+131",
+            "Brantford Bulldogs": "-163"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Niagara IceDogs": "+173",
+            "London Knights": "-219"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "North Bay Battalion": "+235",
+            "Brampton Steelheads": "-306"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Peterborough Petes": "+431",
+            "Windsor Spitfires": "-636"
+        },
+        "game_time": "7:05 pm"
+    }
+]

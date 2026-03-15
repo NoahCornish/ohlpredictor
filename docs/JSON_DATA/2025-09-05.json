@@ -1,0 +1,82 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Owen Sound Attack",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-265",
+            "Owen Sound Attack": "+206"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Niagara IceDogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-179",
+            "Niagara IceDogs": "+143"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Flint Firebirds": "+161",
+            "Windsor Spitfires": "-202"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Erie Otters",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-199",
+            "Erie Otters": "+158"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Ottawa 67's": "+233",
+            "Kingston Frontenacs": "-304"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "North Bay Battalion",
+        "winner": "North Bay Battalion",
+        "odds": {
+            "Sarnia Sting": "-106",
+            "North Bay Battalion": "-116"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Soo Greyhounds",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Sudbury Wolves": "-117",
+            "Soo Greyhounds": "-105"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Guelph Storm": "+154",
+            "Oshawa Generals": "-194"
+        },
+        "game_time": "7:07 pm"
+    }
+]

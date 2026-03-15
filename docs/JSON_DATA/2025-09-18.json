@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "North Bay Battalion": "+184",
+            "Oshawa Generals": "-233"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Peterborough Petes": "+400",
+            "Brampton Steelheads": "-579"
+        },
+        "game_time": "7:05 pm"
+    }
+]

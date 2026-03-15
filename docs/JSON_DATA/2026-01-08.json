@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Ottawa 67's",
+        "winner": "Ottawa 67's",
+        "odds": {
+            "North Bay Battalion": "-104",
+            "Ottawa 67's": "-119"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Peterborough Petes": "+314",
+            "Oshawa Generals": "-429"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Saginaw Spirit": "-100",
+            "Kingston Frontenacs": "-123"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Erie Otters",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-184",
+            "Erie Otters": "+147"
+        },
+        "game_time": "7:05 pm"
+    }
+]

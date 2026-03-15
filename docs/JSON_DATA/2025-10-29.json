@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Ottawa 67's": "+220",
+            "Brampton Steelheads": "-285"
+        },
+        "game_time": "10:30 am"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Sarnia Sting",
+        "winner": "Owen Sound Attack",
+        "odds": {
+            "Owen Sound Attack": "-133",
+            "Sarnia Sting": "+108"
+        },
+        "game_time": "10:30 am"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Barrie Colts",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-142",
+            "Barrie Colts": "+114"
+        },
+        "game_time": "6:00 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Soo Greyhounds",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Sudbury Wolves": "-117",
+            "Soo Greyhounds": "-105"
+        },
+        "game_time": "6:00 pm"
+    }
+]

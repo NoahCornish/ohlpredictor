@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Ottawa 67's": "+233",
+            "Kingston Frontenacs": "-304"
+        },
+        "game_time": "10:30 am"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Flint Firebirds": "+173",
+            "London Knights": "-219"
+        },
+        "game_time": "7:00 pm"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "North Bay Battalion",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-306",
+            "North Bay Battalion": "+235"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Flint Firebirds": "+143",
+            "Saginaw Spirit": "-179"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Oshawa Generals",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Kitchener Rangers": "-115",
+            "Oshawa Generals": "-107"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Brantford Bulldogs",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-135",
+            "Brantford Bulldogs": "+109"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "odds": {
+            "Sarnia Sting": "+164",
+            "Erie Otters": "-206"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Niagara IceDogs",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Sudbury Wolves": "-118",
+            "Niagara IceDogs": "-105"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Guelph Storm": "+150",
+            "Barrie Colts": "-188"
+        },
+        "game_time": "7:07 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Ottawa 67's",
+        "winner": "Soo Greyhounds",
+        "odds": {
+            "Soo Greyhounds": "-167",
+            "Ottawa 67's": "+134"
+        },
+        "game_time": "7:07 pm"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Owen Sound Attack",
+        "winner": "Owen Sound Attack",
+        "odds": {
+            "North Bay Battalion": "+103",
+            "Owen Sound Attack": "-127"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Oshawa Generals",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-155",
+            "Oshawa Generals": "+125"
+        },
+        "game_time": "2:05 pm"
+    }
+]

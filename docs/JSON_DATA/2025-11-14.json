@@ -1,0 +1,82 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Oshawa Generals",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-143",
+            "Oshawa Generals": "+116"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Flint Firebirds",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-179",
+            "Flint Firebirds": "+143"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Soo Greyhounds",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Kitchener Rangers": "-148",
+            "Soo Greyhounds": "+120"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Owen Sound Attack",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-313",
+            "Owen Sound Attack": "+239"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Sarnia Sting",
+        "winner": "Ottawa 67's",
+        "odds": {
+            "Ottawa 67's": "-125",
+            "Sarnia Sting": "+101"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Niagara IceDogs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Kingston Frontenacs": "-198",
+            "Niagara IceDogs": "+158"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "odds": {
+            "Sudbury Wolves": "-107",
+            "Erie Otters": "-115"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Guelph Storm": "+213",
+            "Windsor Spitfires": "-275"
+        },
+        "game_time": "7:07 pm"
+    }
+]

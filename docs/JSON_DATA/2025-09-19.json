@@ -1,0 +1,82 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Niagara IceDogs",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-186",
+            "Niagara IceDogs": "+149"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Kitchener Rangers": "+107",
+            "Brantford Bulldogs": "-133"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Owen Sound Attack",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-313",
+            "Owen Sound Attack": "+239"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Ottawa 67's",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Kingston Frontenacs": "-304",
+            "Ottawa 67's": "+233"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Sarnia Sting": "+265",
+            "Windsor Spitfires": "-351"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "North Bay Battalion",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Sudbury Wolves": "-190",
+            "North Bay Battalion": "+151"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "odds": {
+            "Guelph Storm": "+131",
+            "Erie Otters": "-164"
+        },
+        "game_time": "7:07 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Soo Greyhounds": "+142",
+            "Saginaw Spirit": "-177"
+        },
+        "game_time": "7:07 pm"
+    }
+]

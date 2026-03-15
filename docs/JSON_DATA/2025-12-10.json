@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Guelph Storm",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Flint Firebirds": "-149",
+            "Guelph Storm": "+120"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Oshawa Generals",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Kingston Frontenacs": "-152",
+            "Oshawa Generals": "+123"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Soo Greyhounds": "+120",
+            "Kitchener Rangers": "-148"
+        },
+        "game_time": "7:07 pm"
+    }
+]

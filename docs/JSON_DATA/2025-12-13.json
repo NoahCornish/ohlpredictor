@@ -1,0 +1,52 @@
+[
+    {
+        "home_team": "Erie Otters",
+        "away_team": "North Bay Battalion",
+        "winner": "Erie Otters",
+        "odds": {
+            "Erie Otters": "-196",
+            "North Bay Battalion": "+156"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Sarnia Sting",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Flint Firebirds": "-187",
+            "Sarnia Sting": "+149"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Peterborough Petes": "+385",
+            "Brantford Bulldogs": "-550"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Kitchener Rangers",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-133",
+            "Kitchener Rangers": "+107"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-140",
+            "Niagara IceDogs": "+113"
+        },
+        "game_time": "7:30 pm"
+    }
+]

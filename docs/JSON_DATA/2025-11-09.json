@@ -1,0 +1,52 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Ottawa 67's",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-272",
+            "Ottawa 67's": "+211"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Kitchener Rangers": "+119",
+            "Kingston Frontenacs": "-147"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "North Bay Battalion",
+        "winner": "North Bay Battalion",
+        "odds": {
+            "Sarnia Sting": "-106",
+            "North Bay Battalion": "-116"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Peterborough Petes",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Sudbury Wolves": "-343",
+            "Peterborough Petes": "+259"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Owen Sound Attack",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Oshawa Generals": "-203",
+            "Owen Sound Attack": "+161"
+        },
+        "game_time": "6:05 pm"
+    }
+]

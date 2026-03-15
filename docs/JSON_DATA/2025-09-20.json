@@ -1,0 +1,52 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Peterborough Petes",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-550",
+            "Peterborough Petes": "+385"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Erie Otters": "+110",
+            "Kitchener Rangers": "-136"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Flint Firebirds",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-179",
+            "Flint Firebirds": "+143"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Windsor Spitfires": "-103",
+            "London Knights": "-120"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Guelph Storm",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-188",
+            "Guelph Storm": "+150"
+        },
+        "game_time": "7:30 pm"
+    }
+]

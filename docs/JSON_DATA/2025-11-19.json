@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Ottawa 67's",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Kingston Frontenacs": "-304",
+            "Ottawa 67's": "+233"
+        },
+        "game_time": "10:30 am"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Sudbury Wolves": "+106",
+            "Barrie Colts": "-132"
+        },
+        "game_time": "7:05 pm"
+    }
+]

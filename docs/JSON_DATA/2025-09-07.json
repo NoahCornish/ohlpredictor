@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Owen Sound Attack": "+156",
+            "Barrie Colts": "-197"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Peterborough Petes": "+423",
+            "Kingston Frontenacs": "-622"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Saginaw Spirit": "+101",
+            "Windsor Spitfires": "-125"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Guelph Storm",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Oshawa Generals": "-194",
+            "Guelph Storm": "+154"
+        },
+        "game_time": "4:05 pm"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Guelph Storm",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-253",
+            "Guelph Storm": "+198"
+        },
+        "game_time": "11:00 am"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Kitchener Rangers",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-162",
+            "Kitchener Rangers": "+130"
+        },
+        "game_time": "6:30 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Brantford Bulldogs": "-101",
+            "Kingston Frontenacs": "-123"
+        },
+        "game_time": "7:00 pm"
+    }
+]

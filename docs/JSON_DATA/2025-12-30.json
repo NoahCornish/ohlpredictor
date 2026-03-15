@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Guelph Storm",
+        "winner": "Guelph Storm",
+        "odds": {
+            "Ottawa 67's": "+100",
+            "Guelph Storm": "-124"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Erie Otters",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-163",
+            "Erie Otters": "+131"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Sarnia Sting",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-308",
+            "Sarnia Sting": "+236"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Sudbury Wolves": "+113",
+            "Kitchener Rangers": "-140"
+        },
+        "game_time": "7:05 pm"
+    }
+]

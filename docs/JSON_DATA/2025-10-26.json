@@ -1,0 +1,82 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Niagara IceDogs",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-186",
+            "Niagara IceDogs": "+149"
+        },
+        "game_time": "2:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Sarnia Sting": "+285",
+            "London Knights": "-382"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Peterborough Petes",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Sudbury Wolves": "-343",
+            "Peterborough Petes": "+259"
+        },
+        "game_time": "2:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Ottawa 67's",
+        "winner": "Guelph Storm",
+        "odds": {
+            "Guelph Storm": "-124",
+            "Ottawa 67's": "+100"
+        },
+        "game_time": "2:07 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Owen Sound Attack",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Flint Firebirds": "-155",
+            "Owen Sound Attack": "+125"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Saginaw Spirit",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-125",
+            "Saginaw Spirit": "+101"
+        },
+        "game_time": "4:05 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "North Bay Battalion",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Kitchener Rangers": "-242",
+            "North Bay Battalion": "+190"
+        },
+        "game_time": "6:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Oshawa Generals": "+111",
+            "Brantford Bulldogs": "-138"
+        },
+        "game_time": "6:05 pm"
+    }
+]

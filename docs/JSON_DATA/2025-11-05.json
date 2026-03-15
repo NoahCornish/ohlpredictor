@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Owen Sound Attack",
+        "winner": "Owen Sound Attack",
+        "odds": {
+            "Sarnia Sting": "+108",
+            "Owen Sound Attack": "-133"
+        },
+        "game_time": "10:30 am"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Guelph Storm": "+229",
+            "London Knights": "-298"
+        },
+        "game_time": "6:37 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Flint Firebirds",
+        "winner": "Soo Greyhounds",
+        "odds": {
+            "Soo Greyhounds": "-112",
+            "Flint Firebirds": "-110"
+        },
+        "game_time": "7:07 pm"
+    }
+]

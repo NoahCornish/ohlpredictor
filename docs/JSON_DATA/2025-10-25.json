@@ -1,0 +1,62 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "North Bay Battalion",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-306",
+            "North Bay Battalion": "+235"
+        },
+        "game_time": "4:00 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Oshawa Generals",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-138",
+            "Oshawa Generals": "+111"
+        },
+        "game_time": "5:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Niagara IceDogs": "+158",
+            "Kingston Frontenacs": "-198"
+        },
+        "game_time": "6:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "odds": {
+            "Flint Firebirds": "-101",
+            "Erie Otters": "-122"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Owen Sound Attack",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-253",
+            "Owen Sound Attack": "+198"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Barrie Colts": "-104",
+            "Kitchener Rangers": "-118"
+        },
+        "game_time": "7:30 pm"
+    }
+]

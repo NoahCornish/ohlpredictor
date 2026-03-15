@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-116",
+            "Brantford Bulldogs": "-107"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Niagara IceDogs",
+        "winner": "Erie Otters",
+        "odds": {
+            "Erie Otters": "-122",
+            "Niagara IceDogs": "-101"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Kitchener Rangers": "+130",
+            "London Knights": "-162"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Ottawa 67's",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Kingston Frontenacs": "-304",
+            "Ottawa 67's": "+233"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Sarnia Sting": "+265",
+            "Windsor Spitfires": "-351"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Soo Greyhounds",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Sudbury Wolves": "-117",
+            "Soo Greyhounds": "-105"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Owen Sound Attack",
+        "winner": "Guelph Storm",
+        "odds": {
+            "Guelph Storm": "-116",
+            "Owen Sound Attack": "-106"
+        },
+        "game_time": "7:07 pm"
+    }
+]

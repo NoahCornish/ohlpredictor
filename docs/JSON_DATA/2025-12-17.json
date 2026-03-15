@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Owen Sound Attack": "+239",
+            "London Knights": "-313"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Soo Greyhounds",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-177",
+            "Soo Greyhounds": "+142"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Sarnia Sting": "+199",
+            "Kitchener Rangers": "-255"
+        },
+        "game_time": "7:05 pm"
+    }
+]
