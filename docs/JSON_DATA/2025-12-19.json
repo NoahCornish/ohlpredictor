@@ -4,7 +4,7 @@
         "away_team": "Barrie Colts",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-148",
+            "Brampton Steelheads": "-147",
             "Barrie Colts": "+119"
         },
         "game_time": "7:00 pm"
@@ -14,8 +14,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-206",
-            "Sarnia Sting": "+164"
+            "Erie Otters": "-205",
+            "Sarnia Sting": "+163"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Oshawa Generals",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-168",
-            "Oshawa Generals": "+135"
+            "London Knights": "-167",
+            "Oshawa Generals": "+134"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-111",
+            "Niagara IceDogs": "-112",
             "Flint Firebirds": "-111"
         },
         "game_time": "7:00 pm"
@@ -54,7 +54,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-209",
+            "Ottawa 67's": "-210",
             "Peterborough Petes": "+166"
         },
         "game_time": "7:00 pm"

@@ -4,8 +4,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-272",
-            "Ottawa 67's": "+211"
+            "Brantford Bulldogs": "-271",
+            "Ottawa 67's": "+210"
         },
         "game_time": "2:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kitchener Rangers": "+119",
+            "Kitchener Rangers": "+118",
             "Kingston Frontenacs": "-147"
         },
         "game_time": "2:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-343",
-            "Peterborough Petes": "+259"
+            "Sudbury Wolves": "-340",
+            "Peterborough Petes": "+257"
         },
         "game_time": "2:05 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-203",
+            "Oshawa Generals": "-202",
             "Owen Sound Attack": "+161"
         },
         "game_time": "6:05 pm"

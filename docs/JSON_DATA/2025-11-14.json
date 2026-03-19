@@ -14,8 +14,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-179",
-            "Flint Firebirds": "+143"
+            "Brantford Bulldogs": "-180",
+            "Flint Firebirds": "+144"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Soo Greyhounds",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-148",
+            "Kitchener Rangers": "-149",
             "Soo Greyhounds": "+120"
         },
         "game_time": "7:00 pm"
@@ -34,7 +34,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-313",
+            "London Knights": "-312",
             "Owen Sound Attack": "+239"
         },
         "game_time": "7:00 pm"
@@ -74,8 +74,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Guelph Storm": "+213",
-            "Windsor Spitfires": "-275"
+            "Guelph Storm": "+214",
+            "Windsor Spitfires": "-276"
         },
         "game_time": "7:07 pm"
     }

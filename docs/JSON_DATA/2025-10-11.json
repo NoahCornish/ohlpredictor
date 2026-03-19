@@ -14,8 +14,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Flint Firebirds": "+116",
-            "Oshawa Generals": "-144"
+            "Flint Firebirds": "+117",
+            "Oshawa Generals": "-145"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Sarnia Sting",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-382",
-            "Sarnia Sting": "+285"
+            "London Knights": "-380",
+            "Sarnia Sting": "+283"
         },
         "game_time": "7:00 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Barrie Colts": "+119",
-            "Brampton Steelheads": "-148"
+            "Brampton Steelheads": "-147"
         },
         "game_time": "7:30 pm"
     }

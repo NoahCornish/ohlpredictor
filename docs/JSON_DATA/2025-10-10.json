@@ -4,8 +4,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-285",
-            "Ottawa 67's": "+220"
+            "Brampton Steelheads": "-282",
+            "Ottawa 67's": "+218"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-168",
-            "Sudbury Wolves": "+135"
+            "Brantford Bulldogs": "-169",
+            "Sudbury Wolves": "+136"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Erie Otters",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-199",
+            "London Knights": "-198",
             "Erie Otters": "+158"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-622",
-            "Peterborough Petes": "+423"
+            "Kingston Frontenacs": "-618",
+            "Peterborough Petes": "+421"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Sarnia Sting": "+192",
-            "Oshawa Generals": "-245"
+            "Sarnia Sting": "+191",
+            "Oshawa Generals": "-244"
         },
         "game_time": "7:05 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-133",
+            "Guelph Storm": "-132",
             "North Bay Battalion": "+107"
         },
         "game_time": "7:07 pm"
@@ -65,7 +65,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Soo Greyhounds": "+120",
-            "Kitchener Rangers": "-148"
+            "Kitchener Rangers": "-149"
         },
         "game_time": "7:07 pm"
     }

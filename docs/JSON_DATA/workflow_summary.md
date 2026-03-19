@@ -1,5 +1,5 @@
 ## 📊 OHL Data Update Summary
-- **Workflow Execution Time:** 2026-03-19 00:00 UTC
+- **Workflow Execution Time:** 2026-03-19 23:59 UTC
 - **Schedule Updated:** ✅
 - **Player Stats Updated:** ✅
 - **Rosters Updated:** ✅

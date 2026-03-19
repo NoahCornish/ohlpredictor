@@ -4,8 +4,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "North Bay Battalion": "+151",
-            "Sudbury Wolves": "-190"
+            "North Bay Battalion": "+150",
+            "Sudbury Wolves": "-188"
         },
         "game_time": "2:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Oshawa Generals": "+135",
-            "London Knights": "-168"
+            "Oshawa Generals": "+134",
+            "London Knights": "-167"
         },
         "game_time": "2:05 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-235",
-            "Peterborough Petes": "+185"
+            "Guelph Storm": "-233",
+            "Peterborough Petes": "+183"
         },
         "game_time": "2:07 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Saginaw Spirit": "-106",
+            "Saginaw Spirit": "-107",
             "Brampton Steelheads": "-116"
         },
         "game_time": "5:30 pm"

@@ -24,7 +24,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-313",
+            "London Knights": "-312",
             "Owen Sound Attack": "+239"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-304",
-            "Ottawa 67's": "+233"
+            "Kingston Frontenacs": "-301",
+            "Ottawa 67's": "+231"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Sarnia Sting": "+265",
-            "Windsor Spitfires": "-351"
+            "Sarnia Sting": "+264",
+            "Windsor Spitfires": "-350"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-190",
-            "North Bay Battalion": "+151"
+            "Sudbury Wolves": "-188",
+            "North Bay Battalion": "+150"
         },
         "game_time": "7:05 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Guelph Storm": "+131",
+            "Guelph Storm": "+132",
             "Erie Otters": "-164"
         },
         "game_time": "7:07 pm"
@@ -74,8 +74,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Soo Greyhounds": "+142",
-            "Saginaw Spirit": "-177"
+            "Soo Greyhounds": "+143",
+            "Saginaw Spirit": "-178"
         },
         "game_time": "7:07 pm"
     }

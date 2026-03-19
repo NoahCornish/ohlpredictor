@@ -14,8 +14,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-308",
-            "Sarnia Sting": "+236"
+            "Brantford Bulldogs": "-307",
+            "Sarnia Sting": "+235"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Erie Otters": "+103",
-            "Barrie Colts": "-127"
+            "Barrie Colts": "-128"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-225",
-            "Ottawa 67's": "+178"
+            "Kitchener Rangers": "-224",
+            "Ottawa 67's": "+177"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-622",
-            "Peterborough Petes": "+423"
+            "Kingston Frontenacs": "-618",
+            "Peterborough Petes": "+421"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-233",
-            "North Bay Battalion": "+184"
+            "Oshawa Generals": "-232",
+            "North Bay Battalion": "+183"
         },
         "game_time": "7:05 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Sudbury Wolves": "+163",
+            "Sudbury Wolves": "+164",
             "London Knights": "-206"
         },
         "game_time": "7:05 pm"
@@ -84,8 +84,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-116",
-            "Owen Sound Attack": "-106"
+            "Guelph Storm": "-115",
+            "Owen Sound Attack": "-107"
         },
         "game_time": "7:07 pm"
     }

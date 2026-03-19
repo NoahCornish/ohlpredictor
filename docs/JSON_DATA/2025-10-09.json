@@ -4,7 +4,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-211",
+            "Barrie Colts": "-210",
             "Ottawa 67's": "+167"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Peterborough Petes": "+423",
-            "Kingston Frontenacs": "-622"
+            "Peterborough Petes": "+421",
+            "Kingston Frontenacs": "-618"
         },
         "game_time": "7:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Guelph Storm",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-275",
-            "Guelph Storm": "+213"
+            "Windsor Spitfires": "-276",
+            "Guelph Storm": "+214"
         },
         "game_time": "7:05 pm"
     }
