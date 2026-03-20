@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-319",
-            "Peterborough Petes": "+243"
+            "Soo Greyhounds": "-318",
+            "Peterborough Petes": "+242"
         },
         "game_time": "6:07 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Niagara IceDogs": "+149",
+            "Niagara IceDogs": "+148",
             "Brampton Steelheads": "-186"
         },
         "game_time": "7:00 pm"
@@ -84,8 +84,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Guelph Storm": "+210",
-            "Kingston Frontenacs": "-271"
+            "Guelph Storm": "+209",
+            "Kingston Frontenacs": "-270"
         },
         "game_time": "7:07 pm"
     }

@@ -5,7 +5,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Brantford Bulldogs": "-107",
-            "Brampton Steelheads": "-116"
+            "Brampton Steelheads": "-115"
         },
         "game_time": "4:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Guelph Storm",
         "winner": "Guelph Storm",
         "odds": {
-            "Owen Sound Attack": "-107",
-            "Guelph Storm": "-115"
+            "Owen Sound Attack": "-106",
+            "Guelph Storm": "-116"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "Peterborough Petes": "+165",
-            "Ottawa 67's": "-208"
+            "Peterborough Petes": "+164",
+            "Ottawa 67's": "-207"
         },
         "game_time": "7:05 pm"
     },
@@ -84,7 +84,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-226",
+            "Barrie Colts": "-225",
             "North Bay Battalion": "+178"
         },
         "game_time": "7:30 pm"

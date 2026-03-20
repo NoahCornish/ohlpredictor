@@ -34,7 +34,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-224",
+            "Kitchener Rangers": "-225",
             "Ottawa 67's": "+177"
         },
         "game_time": "7:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-614",
-            "Peterborough Petes": "+419"
+            "Kingston Frontenacs": "-610",
+            "Peterborough Petes": "+417"
         },
         "game_time": "7:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-115",
-            "Owen Sound Attack": "-107"
+            "Guelph Storm": "-116",
+            "Owen Sound Attack": "-106"
         },
         "game_time": "7:07 pm"
     }

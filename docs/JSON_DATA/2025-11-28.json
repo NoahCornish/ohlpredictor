@@ -4,7 +4,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-116",
+            "Brampton Steelheads": "-115",
             "Brantford Bulldogs": "-107"
         },
         "game_time": "7:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Kingston Frontenacs": "-325",
-            "North Bay Battalion": "+248"
+            "North Bay Battalion": "+247"
         },
         "game_time": "7:05 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "Sarnia Sting": "+150",
-            "Soo Greyhounds": "-187"
+            "Soo Greyhounds": "-188"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Guelph Storm": "+214",
-            "Windsor Spitfires": "-276"
+            "Guelph Storm": "+213",
+            "Windsor Spitfires": "-275"
         },
         "game_time": "7:07 pm"
     }

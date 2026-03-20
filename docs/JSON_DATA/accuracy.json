@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-09-13",
-            "accuracy": 100.0,
-            "correct_predictions": 3,
-            "total_games": 3,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 4,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Owen Sound Attack",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 5,
-                    "away_score": 7
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 4,
-                    "away_score": 2
-                }
-            ]
-        },
-        {
             "date": "2025-09-14",
             "accuracy": 75.0,
             "correct_predictions": 3,
@@ -3993,13 +3961,13 @@
             ]
         }
     ],
-    "total_accuracy": 50.6,
+    "total_accuracy": 50.2,
     "tossup_accuracy": 45.8,
-    "non_tossup_accuracy": 51.4,
-    "total_correct": 209,
-    "total_games": 413,
+    "non_tossup_accuracy": 51.0,
+    "total_correct": 206,
+    "total_games": 410,
     "tossup_correct": 27,
     "tossup_games": 59,
-    "non_tossup_correct": 182,
-    "non_tossup_games": 354
+    "non_tossup_correct": 179,
+    "non_tossup_games": 351
 }
