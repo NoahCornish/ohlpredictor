@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-09-14",
-        "home_team": "Barrie Colts",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Barrie Colts",
-        "home_score": 7,
-        "away_score": 4,
-        "odds": {
-            "Barrie Colts": "-108",
-            "Oshawa Generals": "-114"
-        }
-    },
-    {
         "date": "2025-09-20",
         "home_team": "Windsor Spitfires",
         "away_team": "London Knights",
@@ -35,7 +22,7 @@
         "away_score": 1,
         "odds": {
             "Niagara IceDogs": "-105",
-            "Sudbury Wolves": "-117"
+            "Sudbury Wolves": "-118"
         }
     },
     {
@@ -47,7 +34,7 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "North Bay Battalion": "-104",
+            "North Bay Battalion": "-103",
             "Ottawa 67's": "-119"
         }
     },
@@ -60,8 +47,8 @@
         "home_score": 0,
         "away_score": 4,
         "odds": {
-            "Flint Firebirds": "-110",
-            "Niagara IceDogs": "-112"
+            "Flint Firebirds": "-111",
+            "Niagara IceDogs": "-111"
         }
     },
     {
@@ -100,7 +87,7 @@
         "away_score": 3,
         "odds": {
             "Niagara IceDogs": "-105",
-            "Sudbury Wolves": "-117"
+            "Sudbury Wolves": "-118"
         }
     },
     {
@@ -152,7 +139,7 @@
         "away_score": 6,
         "odds": {
             "Guelph Storm": "-116",
-            "Owen Sound Attack": "-106"
+            "Owen Sound Attack": "-107"
         }
     },
     {
@@ -190,7 +177,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Owen Sound Attack": "-106",
+            "Owen Sound Attack": "-107",
             "Guelph Storm": "-116"
         }
     },
@@ -256,7 +243,7 @@
         "away_score": 3,
         "odds": {
             "Guelph Storm": "-123",
-            "Ottawa 67's": "-100"
+            "Ottawa 67's": "-101"
         }
     },
     {
@@ -412,7 +399,7 @@
         "away_score": 10,
         "odds": {
             "Guelph Storm": "-116",
-            "Owen Sound Attack": "-106"
+            "Owen Sound Attack": "-107"
         }
     },
     {
@@ -477,7 +464,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-119",
-            "North Bay Battalion": "-104"
+            "North Bay Battalion": "-103"
         }
     },
     {
@@ -567,8 +554,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Niagara IceDogs": "-112",
-            "Flint Firebirds": "-110"
+            "Niagara IceDogs": "-111",
+            "Flint Firebirds": "-111"
         }
     },
     {
@@ -593,7 +580,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Brampton Steelheads": "-104",
+            "Brampton Steelheads": "-105",
             "Kingston Frontenacs": "-118"
         }
     },
@@ -619,7 +606,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Ottawa 67's": "-100",
+            "Ottawa 67's": "-101",
             "Guelph Storm": "-123"
         }
     },
@@ -671,7 +658,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "-106",
+            "Owen Sound Attack": "-107",
             "Guelph Storm": "-116"
         }
     },
@@ -697,7 +684,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-104",
+            "North Bay Battalion": "-103",
             "Ottawa 67's": "-119"
         }
     },
@@ -736,7 +723,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Sudbury Wolves": "-117",
+            "Sudbury Wolves": "-118",
             "Niagara IceDogs": "-105"
         }
     },
@@ -750,7 +737,7 @@
         "away_score": 0,
         "odds": {
             "Soo Greyhounds": "-112",
-            "Niagara IceDogs": "-111"
+            "Niagara IceDogs": "-110"
         }
     },
     {

@@ -4,8 +4,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-282",
-            "Ottawa 67's": "+218"
+            "Brampton Steelheads": "-281",
+            "Ottawa 67's": "+217"
         },
         "game_time": "7:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Brantford Bulldogs": "-169",
-            "Sudbury Wolves": "+136"
+            "Sudbury Wolves": "+135"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Erie Otters",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-199",
+            "London Knights": "-198",
             "Erie Otters": "+158"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-610",
-            "Peterborough Petes": "+417"
+            "Kingston Frontenacs": "-609",
+            "Peterborough Petes": "+416"
         },
         "game_time": "7:05 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Sarnia Sting": "+191",
-            "Oshawa Generals": "-243"
+            "Oshawa Generals": "-244"
         },
         "game_time": "7:05 pm"
     },

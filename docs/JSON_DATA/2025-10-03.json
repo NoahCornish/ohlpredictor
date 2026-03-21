@@ -24,7 +24,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-211",
+            "Kitchener Rangers": "-210",
             "Owen Sound Attack": "+167"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-220",
-            "Flint Firebirds": "+174"
+            "London Knights": "-219",
+            "Flint Firebirds": "+173"
         },
         "game_time": "7:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Kingston Frontenacs": "-152",
-            "Oshawa Generals": "+123"
+            "Oshawa Generals": "+122"
         },
         "game_time": "7:05 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Guelph Storm": "+190",
-            "Saginaw Spirit": "-242"
+            "Saginaw Spirit": "-243"
         },
         "game_time": "7:07 pm"
     }
