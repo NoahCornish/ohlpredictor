@@ -4,8 +4,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Ottawa 67's": "+218",
-            "Brampton Steelheads": "-282"
+            "Ottawa 67's": "+221",
+            "Brampton Steelheads": "-286"
         },
         "game_time": "10:30 am"
     },
@@ -14,8 +14,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-132",
-            "Sarnia Sting": "+107"
+            "Owen Sound Attack": "-131",
+            "Sarnia Sting": "+106"
         },
         "game_time": "10:30 am"
     },
@@ -35,7 +35,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Sudbury Wolves": "-117",
-            "Soo Greyhounds": "-106"
+            "Soo Greyhounds": "-105"
         },
         "game_time": "6:00 pm"
     }

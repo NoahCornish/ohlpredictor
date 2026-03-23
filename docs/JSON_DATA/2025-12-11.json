@@ -14,8 +14,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Erie Otters": "+131",
-            "Brantford Bulldogs": "-163"
+            "Erie Otters": "+130",
+            "Brantford Bulldogs": "-162"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "London Knights",
         "odds": {
             "Niagara IceDogs": "+172",
-            "London Knights": "-217"
+            "London Knights": "-218"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "North Bay Battalion": "+233",
-            "Brampton Steelheads": "-304"
+            "North Bay Battalion": "+236",
+            "Brampton Steelheads": "-308"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Peterborough Petes": "+423",
-            "Windsor Spitfires": "-622"
+            "Peterborough Petes": "+430",
+            "Windsor Spitfires": "-635"
         },
         "game_time": "7:05 pm"
     }

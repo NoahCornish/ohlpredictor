@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-216",
-            "Ottawa 67's": "+171"
+            "Oshawa Generals": "-219",
+            "Ottawa 67's": "+173"
         },
         "game_time": "7:05 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Sudbury Wolves": "-165",
-            "Owen Sound Attack": "+132"
+            "Owen Sound Attack": "+133"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-137",
-            "Sarnia Sting": "+111"
+            "Guelph Storm": "-136",
+            "Sarnia Sting": "+110"
         },
         "game_time": "7:07 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Soo Greyhounds": "+148",
-            "Brampton Steelheads": "-185"
+            "Soo Greyhounds": "+149",
+            "Brampton Steelheads": "-187"
         },
         "game_time": "7:07 pm"
     }

@@ -4,8 +4,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "North Bay Battalion": "+247",
-            "Kingston Frontenacs": "-324"
+            "North Bay Battalion": "+249",
+            "Kingston Frontenacs": "-327"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Sarnia Sting": "+148",
-            "Flint Firebirds": "-185"
+            "Sarnia Sting": "+146",
+            "Flint Firebirds": "-183"
         },
         "game_time": "2:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Ottawa 67's": "+133",
-            "Soo Greyhounds": "-166"
+            "Ottawa 67's": "+134",
+            "Soo Greyhounds": "-167"
         },
         "game_time": "3:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Oshawa Generals": "+125",
-            "Windsor Spitfires": "-155"
+            "Oshawa Generals": "+124",
+            "Windsor Spitfires": "-154"
         },
         "game_time": "6:05 pm"
     }

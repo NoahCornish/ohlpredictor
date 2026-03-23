@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-185",
-            "Niagara IceDogs": "+148"
+            "Brampton Steelheads": "-187",
+            "Niagara IceDogs": "+149"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-312",
+            "London Knights": "-313",
             "Owen Sound Attack": "+239"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-300",
-            "Ottawa 67's": "+231"
+            "Kingston Frontenacs": "-304",
+            "Ottawa 67's": "+233"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Sarnia Sting": "+262",
-            "Windsor Spitfires": "-347"
+            "Sarnia Sting": "+261",
+            "Windsor Spitfires": "-345"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-188",
-            "North Bay Battalion": "+150"
+            "Sudbury Wolves": "-189",
+            "North Bay Battalion": "+151"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Guelph Storm": "+132",
-            "Erie Otters": "-164"
+            "Guelph Storm": "+133",
+            "Erie Otters": "-165"
         },
         "game_time": "7:07 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Soo Greyhounds": "+142",
-            "Saginaw Spirit": "-177"
+            "Soo Greyhounds": "+143",
+            "Saginaw Spirit": "-178"
         },
         "game_time": "7:07 pm"
     }

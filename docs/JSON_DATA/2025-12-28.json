@@ -4,8 +4,8 @@
         "away_team": "Erie Otters",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-136",
-            "Erie Otters": "+110"
+            "Kitchener Rangers": "-135",
+            "Erie Otters": "+109"
         },
         "game_time": "2:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Niagara IceDogs": "+148",
-            "Brampton Steelheads": "-185"
+            "Niagara IceDogs": "+149",
+            "Brampton Steelheads": "-187"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "North Bay Battalion": "+177",
-            "Barrie Colts": "-225"
+            "North Bay Battalion": "+178",
+            "Barrie Colts": "-226"
         },
         "game_time": "2:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Owen Sound Attack": "+198",
-            "Brantford Bulldogs": "-253"
+            "Brantford Bulldogs": "-254"
         },
         "game_time": "2:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Soo Greyhounds": "+142",
-            "Saginaw Spirit": "-177"
+            "Soo Greyhounds": "+143",
+            "Saginaw Spirit": "-178"
         },
         "game_time": "2:07 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Ottawa 67's": "+231",
-            "Kingston Frontenacs": "-300"
+            "Ottawa 67's": "+233",
+            "Kingston Frontenacs": "-304"
         },
         "game_time": "3:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Flint Firebirds": "+161",
-            "Windsor Spitfires": "-203"
+            "Flint Firebirds": "+162",
+            "Windsor Spitfires": "-204"
         },
         "game_time": "4:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-420",
-            "Peterborough Petes": "+308"
+            "Oshawa Generals": "-431",
+            "Peterborough Petes": "+315"
         },
         "game_time": "6:05 pm"
     },
@@ -84,8 +84,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Sarnia Sting": "+281",
-            "London Knights": "-377"
+            "Sarnia Sting": "+280",
+            "London Knights": "-375"
         },
         "game_time": "7:05 pm"
     }

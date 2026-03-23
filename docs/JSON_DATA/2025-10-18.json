@@ -4,8 +4,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brantford Bulldogs": "-107",
-            "Brampton Steelheads": "-115"
+            "Brantford Bulldogs": "-106",
+            "Brampton Steelheads": "-116"
         },
         "game_time": "4:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Oshawa Generals",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-152",
+            "Kingston Frontenacs": "-151",
             "Oshawa Generals": "+122"
         },
         "game_time": "4:05 pm"
@@ -24,8 +24,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Flint Firebirds": "+143",
-            "Saginaw Spirit": "-179"
+            "Flint Firebirds": "+144",
+            "Saginaw Spirit": "-180"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Niagara IceDogs": "-102",
-            "Erie Otters": "-121"
+            "Niagara IceDogs": "-101",
+            "Erie Otters": "-122"
         },
         "game_time": "7:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Ottawa 67's",
         "odds": {
-            "Peterborough Petes": "+164",
-            "Ottawa 67's": "-207"
+            "Peterborough Petes": "+166",
+            "Ottawa 67's": "-209"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-347",
-            "Sarnia Sting": "+262"
+            "Windsor Spitfires": "-345",
+            "Sarnia Sting": "+261"
         },
         "game_time": "7:05 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Soo Greyhounds": "-106",
+            "Soo Greyhounds": "-105",
             "Sudbury Wolves": "-117"
         },
         "game_time": "7:07 pm"
@@ -84,8 +84,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-225",
-            "North Bay Battalion": "+177"
+            "Barrie Colts": "-226",
+            "North Bay Battalion": "+178"
         },
         "game_time": "7:30 pm"
     }

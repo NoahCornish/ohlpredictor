@@ -4,8 +4,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-187",
-            "Flint Firebirds": "+149"
+            "Brampton Steelheads": "-188",
+            "Flint Firebirds": "+150"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-305",
-            "Sarnia Sting": "+234"
+            "Brantford Bulldogs": "-303",
+            "Sarnia Sting": "+232"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Erie Otters": "+103",
-            "Barrie Colts": "-127"
+            "Erie Otters": "+102",
+            "Barrie Colts": "-126"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-224",
-            "Ottawa 67's": "+177"
+            "Kitchener Rangers": "-225",
+            "Ottawa 67's": "+178"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-606",
-            "Peterborough Petes": "+415"
+            "Kingston Frontenacs": "-620",
+            "Peterborough Petes": "+422"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-232",
-            "North Bay Battalion": "+183"
+            "Oshawa Generals": "-235",
+            "North Bay Battalion": "+185"
         },
         "game_time": "7:05 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Sudbury Wolves": "+163",
+            "Sudbury Wolves": "+164",
             "London Knights": "-206"
         },
         "game_time": "7:05 pm"
