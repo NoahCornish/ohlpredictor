@@ -4,7 +4,7 @@
         "away_team": "Niagara IceDogs",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-187",
+            "Brampton Steelheads": "-186",
             "Niagara IceDogs": "+149"
         },
         "game_time": "2:00 pm"
@@ -24,7 +24,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-341",
+            "Sudbury Wolves": "-342",
             "Peterborough Petes": "+258"
         },
         "game_time": "2:05 pm"
@@ -35,7 +35,7 @@
         "winner": "Guelph Storm",
         "odds": {
             "Guelph Storm": "-124",
-            "Ottawa 67's": "+100"
+            "Ottawa 67's": "-100"
         },
         "game_time": "2:07 pm"
     },

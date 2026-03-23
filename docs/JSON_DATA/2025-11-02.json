@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "North Bay Battalion": "+143",
-            "Niagara IceDogs": "-179"
+            "North Bay Battalion": "+144",
+            "Niagara IceDogs": "-180"
         },
         "game_time": "2:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Erie Otters",
         "odds": {
             "Owen Sound Attack": "+138",
-            "Erie Otters": "-172"
+            "Erie Otters": "-173"
         },
         "game_time": "2:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-204",
+            "Windsor Spitfires": "-203",
             "Flint Firebirds": "+162"
         },
         "game_time": "4:05 pm"
@@ -52,7 +52,7 @@
     {
         "home_team": "Saginaw Spirit",
         "away_team": "Brantford Bulldogs",
-        "winner": "Saginaw Spirit",
+        "winner": "Brantford Bulldogs",
         "odds": {
             "Saginaw Spirit": "-111",
             "Brantford Bulldogs": "-111"

@@ -217,7 +217,7 @@
         "away_score": 0,
         "odds": {
             "Flint Firebirds": "-100",
-            "Erie Otters": "-123"
+            "Erie Otters": "-124"
         }
     },
     {
@@ -231,6 +231,19 @@
         "odds": {
             "Barrie Colts": "-104",
             "Kitchener Rangers": "-119"
+        }
+    },
+    {
+        "date": "2025-10-26",
+        "home_team": "Guelph Storm",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Guelph Storm",
+        "actual_winner": "Guelph Storm",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Guelph Storm": "-124",
+            "Ottawa 67's": "-100"
         }
     },
     {
@@ -263,7 +276,7 @@
         "date": "2025-11-02",
         "home_team": "Saginaw Spirit",
         "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Saginaw Spirit",
+        "predicted_winner": "Brantford Bulldogs",
         "actual_winner": "Brantford Bulldogs",
         "home_score": 2,
         "away_score": 6,
@@ -347,7 +360,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "-108",
-            "North Bay Battalion": "-115"
+            "North Bay Battalion": "-114"
         }
     },
     {
@@ -359,7 +372,7 @@
         "home_score": 9,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-123",
+            "Ottawa 67's": "-122",
             "Sarnia Sting": "-101"
         }
     },
@@ -489,7 +502,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "-115",
+            "North Bay Battalion": "-114",
             "Sarnia Sting": "-108"
         }
     },
@@ -581,7 +594,7 @@
         "away_score": 4,
         "odds": {
             "Brampton Steelheads": "-105",
-            "Kingston Frontenacs": "-117"
+            "Kingston Frontenacs": "-118"
         }
     },
     {
@@ -593,8 +606,21 @@
         "home_score": 3,
         "away_score": 5,
         "odds": {
-            "Erie Otters": "-123",
+            "Erie Otters": "-124",
             "Flint Firebirds": "-100"
+        }
+    },
+    {
+        "date": "2025-12-30",
+        "home_team": "Ottawa 67's",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Guelph Storm",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "Ottawa 67's": "-100",
+            "Guelph Storm": "-124"
         }
     },
     {
@@ -684,7 +710,7 @@
         "home_score": 1,
         "away_score": 6,
         "odds": {
-            "Saginaw Spirit": "-101",
+            "Saginaw Spirit": "-100",
             "Kingston Frontenacs": "-123"
         }
     },

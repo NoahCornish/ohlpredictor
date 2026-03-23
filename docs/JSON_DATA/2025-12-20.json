@@ -4,8 +4,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Ottawa 67's": "+211",
-            "Brantford Bulldogs": "-272"
+            "Ottawa 67's": "+212",
+            "Brantford Bulldogs": "-273"
         },
         "game_time": "3:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Brampton Steelheads": "-105",
-            "Kingston Frontenacs": "-117"
+            "Kingston Frontenacs": "-118"
         },
         "game_time": "4:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-123",
+            "Erie Otters": "-124",
             "Flint Firebirds": "-100"
         },
         "game_time": "7:00 pm"
