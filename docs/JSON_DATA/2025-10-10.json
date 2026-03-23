@@ -4,8 +4,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-281",
-            "Ottawa 67's": "+217"
+            "Brampton Steelheads": "-282",
+            "Ottawa 67's": "+218"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-609",
-            "Peterborough Petes": "+416"
+            "Kingston Frontenacs": "-606",
+            "Peterborough Petes": "+415"
         },
         "game_time": "7:05 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Guelph Storm",
         "odds": {
             "Guelph Storm": "-132",
-            "North Bay Battalion": "+107"
+            "North Bay Battalion": "+106"
         },
         "game_time": "7:07 pm"
     },

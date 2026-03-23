@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-565",
-            "Peterborough Petes": "+393"
+            "Brampton Steelheads": "-564",
+            "Peterborough Petes": "+392"
         },
         "game_time": "4:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Flint Firebirds": "-111",
+            "Flint Firebirds": "-110",
             "Niagara IceDogs": "-112"
         },
         "game_time": "7:00 pm"
@@ -64,7 +64,7 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Barrie Colts": "+128",
+            "Barrie Colts": "+129",
             "Windsor Spitfires": "-160"
         },
         "game_time": "7:30 pm"

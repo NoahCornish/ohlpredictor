@@ -24,7 +24,7 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "North Bay Battalion": "+178",
+            "North Bay Battalion": "+177",
             "Barrie Colts": "-225"
         },
         "game_time": "2:00 pm"
@@ -65,7 +65,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Flint Firebirds": "+161",
-            "Windsor Spitfires": "-202"
+            "Windsor Spitfires": "-203"
         },
         "game_time": "4:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-422",
-            "Peterborough Petes": "+309"
+            "Oshawa Generals": "-420",
+            "Peterborough Petes": "+308"
         },
         "game_time": "6:05 pm"
     },
