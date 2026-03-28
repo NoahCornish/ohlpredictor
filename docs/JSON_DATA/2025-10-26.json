@@ -24,8 +24,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-342",
-            "Peterborough Petes": "+258"
+            "Sudbury Wolves": "-338",
+            "Peterborough Petes": "+256"
         },
         "game_time": "2:05 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-124",
+            "Guelph Storm": "-123",
             "Ottawa 67's": "-100"
         },
         "game_time": "2:07 pm"
@@ -64,8 +64,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-241",
-            "North Bay Battalion": "+189"
+            "Kitchener Rangers": "-242",
+            "North Bay Battalion": "+190"
         },
         "game_time": "6:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Oshawa Generals": "+110",
+            "Oshawa Generals": "+111",
             "Brantford Bulldogs": "-137"
         },
         "game_time": "6:05 pm"

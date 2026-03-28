@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-444",
-            "Peterborough Petes": "+323"
+            "Kitchener Rangers": "-440",
+            "Peterborough Petes": "+321"
         },
         "game_time": "7:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Ottawa 67's": "+167",
-            "Barrie Colts": "-211"
+            "Barrie Colts": "-210"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Owen Sound Attack": "+138",
+            "Owen Sound Attack": "+139",
             "Erie Otters": "-173"
         },
         "game_time": "7:00 pm"

@@ -34,7 +34,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Owen Sound Attack": "-119",
+            "Owen Sound Attack": "-118",
             "Ottawa 67's": "-104"
         },
         "game_time": "7:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Peterborough Petes": "+422",
-            "Kingston Frontenacs": "-620"
+            "Peterborough Petes": "+419",
+            "Kingston Frontenacs": "-614"
         },
         "game_time": "7:05 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "London Knights",
         "odds": {
             "Soo Greyhounds": "+172",
-            "London Knights": "-218"
+            "London Knights": "-217"
         },
         "game_time": "7:07 pm"
     }
