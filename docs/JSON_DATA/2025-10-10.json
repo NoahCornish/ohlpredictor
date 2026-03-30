@@ -4,7 +4,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-285",
+            "Brampton Steelheads": "-284",
             "Ottawa 67's": "+220"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-614",
-            "Peterborough Petes": "+419"
+            "Kingston Frontenacs": "-607",
+            "Peterborough Petes": "+415"
         },
         "game_time": "7:05 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Soo Greyhounds": "+119",
+            "Soo Greyhounds": "+120",
             "Kitchener Rangers": "-148"
         },
         "game_time": "7:07 pm"
