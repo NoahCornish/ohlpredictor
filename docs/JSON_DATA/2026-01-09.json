@@ -4,8 +4,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-307",
-            "North Bay Battalion": "+235"
+            "Brampton Steelheads": "-306",
+            "North Bay Battalion": "+234"
         },
         "game_time": "7:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Flint Firebirds": "+143",
+            "Flint Firebirds": "+144",
             "Saginaw Spirit": "-179"
         },
         "game_time": "7:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Erie Otters",
         "odds": {
             "Sarnia Sting": "+162",
-            "Erie Otters": "-204"
+            "Erie Otters": "-205"
         },
         "game_time": "7:05 pm"
     },

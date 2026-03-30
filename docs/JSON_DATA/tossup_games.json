@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-09-26",
-        "home_team": "North Bay Battalion",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 1,
-        "away_score": 3,
-        "odds": {
-            "North Bay Battalion": "-104",
-            "Ottawa 67's": "-119"
-        }
-    },
-    {
         "date": "2025-09-27",
         "home_team": "Flint Firebirds",
         "away_team": "Niagara IceDogs",
@@ -217,7 +204,7 @@
         "away_score": 3,
         "odds": {
             "Guelph Storm": "-123",
-            "Ottawa 67's": "-101"
+            "Ottawa 67's": "-100"
         }
     },
     {
@@ -333,8 +320,8 @@
         "home_score": 6,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "-108",
-            "North Bay Battalion": "-114"
+            "Sarnia Sting": "-107",
+            "North Bay Battalion": "-115"
         }
     },
     {
@@ -347,7 +334,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-123",
-            "Sarnia Sting": "-101"
+            "Sarnia Sting": "-100"
         }
     },
     {
@@ -476,8 +463,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "-114",
-            "Sarnia Sting": "-108"
+            "North Bay Battalion": "-115",
+            "Sarnia Sting": "-107"
         }
     },
     {
@@ -593,7 +580,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Ottawa 67's": "-101",
+            "Ottawa 67's": "-100",
             "Guelph Storm": "-123"
         }
     },
