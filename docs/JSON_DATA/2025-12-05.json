@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-437",
-            "Peterborough Petes": "+318"
+            "Kitchener Rangers": "-438",
+            "Peterborough Petes": "+320"
         },
         "game_time": "7:00 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-199",
+            "Kingston Frontenacs": "-198",
             "Flint Firebirds": "+158"
         },
         "game_time": "7:05 pm"
@@ -75,7 +75,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Guelph Storm": "+191",
-            "Saginaw Spirit": "-243"
+            "Saginaw Spirit": "-244"
         },
         "game_time": "7:07 pm"
     },

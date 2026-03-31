@@ -5,7 +5,7 @@
         "winner": "Niagara IceDogs",
         "odds": {
             "Ottawa 67's": "+134",
-            "Niagara IceDogs": "-167"
+            "Niagara IceDogs": "-166"
         },
         "game_time": "3:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-156",
+            "Flint Firebirds": "-157",
             "Owen Sound Attack": "+126"
         },
         "game_time": "7:00 pm"
@@ -44,7 +44,7 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Guelph Storm": "+160",
+            "Guelph Storm": "+161",
             "Kitchener Rangers": "-202"
         },
         "game_time": "7:07 pm"
@@ -54,8 +54,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-406",
-            "Peterborough Petes": "+299"
+            "Barrie Colts": "-407",
+            "Peterborough Petes": "+300"
         },
         "game_time": "7:30 pm"
     }
