@@ -8,7 +8,7 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-107",
+            "Barrie Colts": "-108",
             "Oshawa Generals": "-115"
         }
     },
@@ -178,7 +178,7 @@
         "away_score": 3,
         "odds": {
             "Barrie Colts": "-104",
-            "Kitchener Rangers": "-119"
+            "Kitchener Rangers": "-118"
         }
     },
     {
@@ -191,7 +191,7 @@
         "away_score": 3,
         "odds": {
             "Guelph Storm": "-123",
-            "Ottawa 67's": "-100"
+            "Ottawa 67's": "-101"
         }
     },
     {
@@ -372,7 +372,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-118",
+            "Owen Sound Attack": "-117",
             "Ottawa 67's": "-105"
         }
     },
@@ -438,7 +438,7 @@
         "away_score": 2,
         "odds": {
             "Brantford Bulldogs": "-101",
-            "Kingston Frontenacs": "-123"
+            "Kingston Frontenacs": "-122"
         }
     },
     {
@@ -528,7 +528,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-123",
+            "Kingston Frontenacs": "-122",
             "Brantford Bulldogs": "-101"
         }
     },
@@ -567,7 +567,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Ottawa 67's": "-100",
+            "Ottawa 67's": "-101",
             "Guelph Storm": "-123"
         }
     },
@@ -593,7 +593,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-119",
+            "Kitchener Rangers": "-118",
             "Barrie Colts": "-104"
         }
     },
@@ -711,7 +711,7 @@
         "away_score": 4,
         "odds": {
             "Oshawa Generals": "-115",
-            "Barrie Colts": "-107"
+            "Barrie Colts": "-108"
         }
     }
 ]

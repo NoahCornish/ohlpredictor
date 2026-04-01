@@ -4,8 +4,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-284",
-            "Ottawa 67's": "+220"
+            "Brampton Steelheads": "-283",
+            "Ottawa 67's": "+219"
         },
         "game_time": "7:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-168",
+            "Brantford Bulldogs": "-169",
             "Sudbury Wolves": "+135"
         },
         "game_time": "7:00 pm"
@@ -54,7 +54,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-132",
+            "Guelph Storm": "-131",
             "North Bay Battalion": "+106"
         },
         "game_time": "7:07 pm"
