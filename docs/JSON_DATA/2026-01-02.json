@@ -4,7 +4,7 @@
         "away_team": "Barrie Colts",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-119",
+            "Kitchener Rangers": "-118",
             "Barrie Colts": "-104"
         },
         "game_time": "7:00 pm"
@@ -24,7 +24,7 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Niagara IceDogs": "+161",
+            "Niagara IceDogs": "+160",
             "Windsor Spitfires": "-202"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-301",
-            "Ottawa 67's": "+231"
+            "Kingston Frontenacs": "-302",
+            "Ottawa 67's": "+232"
         },
         "game_time": "7:05 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-189",
-            "North Bay Battalion": "+151"
+            "Sudbury Wolves": "-188",
+            "North Bay Battalion": "+150"
         },
         "game_time": "7:05 pm"
     },

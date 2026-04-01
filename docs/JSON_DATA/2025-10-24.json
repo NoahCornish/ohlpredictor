@@ -14,7 +14,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-318",
+            "Soo Greyhounds": "-319",
             "Peterborough Petes": "+243"
         },
         "game_time": "6:07 pm"
@@ -25,7 +25,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Kitchener Rangers": "-149",
-            "Flint Firebirds": "+121"
+            "Flint Firebirds": "+120"
         },
         "game_time": "7:00 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Sarnia Sting": "+233",
-            "Brantford Bulldogs": "-304"
+            "Sarnia Sting": "+234",
+            "Brantford Bulldogs": "-305"
         },
         "game_time": "7:05 pm"
     },

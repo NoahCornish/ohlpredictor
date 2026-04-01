@@ -1,54 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-09-28",
-            "accuracy": 40.0,
-            "correct_predictions": 2,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Kingston Frontenacs",
-                    "home_score": 1,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 5,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 7,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Soo Greyhounds",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 7,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 1,
-                    "away_score": 4
-                }
-            ]
-        },
-        {
             "date": "2025-10-02",
             "accuracy": 66.7,
             "correct_predictions": 2,
@@ -3585,13 +3537,13 @@
             ]
         }
     ],
-    "total_accuracy": 50.4,
-    "tossup_accuracy": 47.3,
-    "non_tossup_accuracy": 50.9,
-    "total_correct": 187,
-    "total_games": 371,
-    "tossup_correct": 26,
-    "tossup_games": 55,
-    "non_tossup_correct": 161,
-    "non_tossup_games": 316
+    "total_accuracy": 50.5,
+    "tossup_accuracy": 46.3,
+    "non_tossup_accuracy": 51.3,
+    "total_correct": 185,
+    "total_games": 366,
+    "tossup_correct": 25,
+    "tossup_games": 54,
+    "non_tossup_correct": 160,
+    "non_tossup_games": 312
 }

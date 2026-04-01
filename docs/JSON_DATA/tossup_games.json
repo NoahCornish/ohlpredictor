@@ -74,7 +74,7 @@
         "away_score": 2,
         "odds": {
             "Sudbury Wolves": "-117",
-            "Soo Greyhounds": "-105"
+            "Soo Greyhounds": "-106"
         }
     },
     {
@@ -138,7 +138,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Soo Greyhounds": "-105",
+            "Soo Greyhounds": "-106",
             "Sudbury Wolves": "-117"
         }
     },
@@ -151,7 +151,7 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Soo Greyhounds": "-101",
+            "Soo Greyhounds": "-102",
             "Erie Otters": "-122"
         }
     },
@@ -165,7 +165,7 @@
         "away_score": 0,
         "odds": {
             "Flint Firebirds": "-101",
-            "Erie Otters": "-123"
+            "Erie Otters": "-122"
         }
     },
     {
@@ -178,7 +178,7 @@
         "away_score": 3,
         "odds": {
             "Barrie Colts": "-104",
-            "Kitchener Rangers": "-119"
+            "Kitchener Rangers": "-118"
         }
     },
     {
@@ -204,7 +204,7 @@
         "away_score": 8,
         "odds": {
             "Sudbury Wolves": "-117",
-            "Soo Greyhounds": "-105"
+            "Soo Greyhounds": "-106"
         }
     },
     {
@@ -308,20 +308,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "-107",
-            "North Bay Battalion": "-115"
-        }
-    },
-    {
-        "date": "2025-11-14",
-        "home_team": "Ottawa 67's",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 9,
-        "away_score": 3,
-        "odds": {
-            "Ottawa 67's": "-123",
-            "Sarnia Sting": "-100"
+            "North Bay Battalion": "-116"
         }
     },
     {
@@ -450,7 +437,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "-115",
+            "North Bay Battalion": "-116",
             "Sarnia Sting": "-107"
         }
     },
@@ -554,7 +541,7 @@
         "home_score": 3,
         "away_score": 5,
         "odds": {
-            "Erie Otters": "-123",
+            "Erie Otters": "-122",
             "Flint Firebirds": "-101"
         }
     },
@@ -593,7 +580,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-119",
+            "Kitchener Rangers": "-118",
             "Barrie Colts": "-104"
         }
     },
@@ -632,7 +619,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "Soo Greyhounds": "-105",
+            "Soo Greyhounds": "-106",
             "Sudbury Wolves": "-117"
         }
     },
@@ -698,7 +685,7 @@
         "away_score": 0,
         "odds": {
             "Soo Greyhounds": "-112",
-            "Niagara IceDogs": "-111"
+            "Niagara IceDogs": "-110"
         }
     },
     {
