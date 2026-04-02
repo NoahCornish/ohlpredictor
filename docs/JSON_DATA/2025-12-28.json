@@ -4,8 +4,8 @@
         "away_team": "Erie Otters",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-135",
-            "Erie Otters": "+109"
+            "Kitchener Rangers": "-136",
+            "Erie Otters": "+110"
         },
         "game_time": "2:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "North Bay Battalion": "+178",
-            "Barrie Colts": "-225"
+            "Barrie Colts": "-226"
         },
         "game_time": "2:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-424",
+            "Oshawa Generals": "-422",
             "Peterborough Petes": "+310"
         },
         "game_time": "6:05 pm"

@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-439",
-            "Peterborough Petes": "+320"
+            "Kitchener Rangers": "-438",
+            "Peterborough Petes": "+319"
         },
         "game_time": "7:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Ottawa 67's": "+167",
-            "Barrie Colts": "-210"
+            "Barrie Colts": "-211"
         },
         "game_time": "7:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Kingston Frontenacs": "-197",
-            "Flint Firebirds": "+156"
+            "Flint Firebirds": "+157"
         },
         "game_time": "7:05 pm"
     },
@@ -85,7 +85,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Soo Greyhounds": "+116",
-            "Oshawa Generals": "-143"
+            "Oshawa Generals": "-144"
         },
         "game_time": "7:07 pm"
     }

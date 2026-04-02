@@ -4,7 +4,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-235",
+            "Barrie Colts": "-236",
             "Sarnia Sting": "+185"
         },
         "game_time": "7:00 pm"
@@ -14,7 +14,7 @@
         "away_team": "Guelph Storm",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-166",
+            "Erie Otters": "-165",
             "Guelph Storm": "+133"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Peterborough Petes": "+457",
-            "London Knights": "-688"
+            "Peterborough Petes": "+456",
+            "London Knights": "-686"
         },
         "game_time": "7:05 pm"
     },
