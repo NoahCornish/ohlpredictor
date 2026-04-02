@@ -24,8 +24,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Owen Sound Attack": "+200",
-            "Saginaw Spirit": "-256"
+            "Owen Sound Attack": "+199",
+            "Saginaw Spirit": "-255"
         },
         "game_time": "4:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Flint Firebirds",
         "odds": {
             "Flint Firebirds": "-186",
-            "Sarnia Sting": "+148"
+            "Sarnia Sting": "+149"
         },
         "game_time": "7:00 pm"
     },

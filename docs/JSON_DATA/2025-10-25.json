@@ -34,7 +34,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Flint Firebirds": "-101",
+            "Flint Firebirds": "-102",
             "Erie Otters": "-122"
         },
         "game_time": "7:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-256",
-            "Owen Sound Attack": "+200"
+            "Saginaw Spirit": "-255",
+            "Owen Sound Attack": "+199"
         },
         "game_time": "7:05 pm"
     },

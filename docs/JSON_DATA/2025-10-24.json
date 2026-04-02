@@ -15,7 +15,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "Soo Greyhounds": "-319",
-            "Peterborough Petes": "+244"
+            "Peterborough Petes": "+243"
         },
         "game_time": "6:07 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Flint Firebirds",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-149",
+            "Kitchener Rangers": "-148",
             "Flint Firebirds": "+120"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-335",
-            "Ottawa 67's": "+254"
+            "London Knights": "-336",
+            "Ottawa 67's": "+255"
         },
         "game_time": "7:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-291",
+            "Windsor Spitfires": "-290",
             "Owen Sound Attack": "+224"
         },
         "game_time": "7:05 pm"
