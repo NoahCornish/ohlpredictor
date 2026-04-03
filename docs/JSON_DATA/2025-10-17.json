@@ -4,7 +4,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-116",
+            "Brampton Steelheads": "-115",
             "Brantford Bulldogs": "-107"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Kitchener Rangers": "+130",
-            "London Knights": "-162"
+            "Kitchener Rangers": "+129",
+            "London Knights": "-161"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-302",
-            "Ottawa 67's": "+232"
+            "Kingston Frontenacs": "-299",
+            "Ottawa 67's": "+230"
         },
         "game_time": "7:05 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Sarnia Sting": "+262",
-            "Windsor Spitfires": "-346"
+            "Windsor Spitfires": "-348"
         },
         "game_time": "7:05 pm"
     },

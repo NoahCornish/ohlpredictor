@@ -4,8 +4,8 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Ottawa 67's": "+146",
-            "Erie Otters": "-183"
+            "Ottawa 67's": "+145",
+            "Erie Otters": "-181"
         },
         "game_time": "3:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Owen Sound Attack": "+199",
-            "Saginaw Spirit": "-255"
+            "Owen Sound Attack": "+200",
+            "Saginaw Spirit": "-256"
         },
         "game_time": "4:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "London Knights",
         "odds": {
             "Guelph Storm": "+231",
-            "London Knights": "-301"
+            "London Knights": "-300"
         },
         "game_time": "4:07 pm"
     },

@@ -14,7 +14,7 @@
         "away_team": "Oshawa Generals",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-137",
+            "Brantford Bulldogs": "-138",
             "Oshawa Generals": "+111"
         },
         "game_time": "5:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-255",
-            "Owen Sound Attack": "+199"
+            "Saginaw Spirit": "-256",
+            "Owen Sound Attack": "+200"
         },
         "game_time": "7:05 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Barrie Colts": "-104",
-            "Kitchener Rangers": "-118"
+            "Kitchener Rangers": "-119"
         },
         "game_time": "7:30 pm"
     }

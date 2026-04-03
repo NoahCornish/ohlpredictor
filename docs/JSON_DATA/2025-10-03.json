@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-540",
-            "Peterborough Petes": "+379"
+            "Brantford Bulldogs": "-543",
+            "Peterborough Petes": "+380"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Kitchener Rangers": "-213",
-            "Owen Sound Attack": "+168"
+            "Owen Sound Attack": "+169"
         },
         "game_time": "7:00 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Guelph Storm": "+191",
-            "Saginaw Spirit": "-244"
+            "Saginaw Spirit": "-243"
         },
         "game_time": "7:07 pm"
     }

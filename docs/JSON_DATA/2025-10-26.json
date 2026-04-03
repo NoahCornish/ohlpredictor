@@ -34,7 +34,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-123",
+            "Guelph Storm": "-122",
             "Ottawa 67's": "-101"
         },
         "game_time": "2:07 pm"
@@ -55,7 +55,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Windsor Spitfires": "-125",
-            "Saginaw Spirit": "+101"
+            "Saginaw Spirit": "+102"
         },
         "game_time": "4:05 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-240",
+            "Kitchener Rangers": "-241",
             "North Bay Battalion": "+189"
         },
         "game_time": "6:00 pm"
@@ -75,7 +75,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Oshawa Generals": "+111",
-            "Brantford Bulldogs": "-137"
+            "Brantford Bulldogs": "-138"
         },
         "game_time": "6:05 pm"
     }

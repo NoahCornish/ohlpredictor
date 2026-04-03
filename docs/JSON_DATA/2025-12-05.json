@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-438",
-            "Peterborough Petes": "+320"
+            "Kitchener Rangers": "-440",
+            "Peterborough Petes": "+321"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Ottawa 67's": "+167",
-            "Barrie Colts": "-211"
+            "Ottawa 67's": "+166",
+            "Barrie Colts": "-209"
         },
         "game_time": "7:00 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Guelph Storm": "+191",
-            "Saginaw Spirit": "-244"
+            "Saginaw Spirit": "-243"
         },
         "game_time": "7:07 pm"
     },
