@@ -1,62 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-04",
-            "accuracy": 50.0,
-            "correct_predictions": 3,
-            "total_games": 6,
-            "game_details": [
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 4,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 3,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 5,
-                    "away_score": 7
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 2,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Sarnia Sting",
-                    "home_score": 2,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 5,
-                    "away_score": 3
-                }
-            ]
-        },
-        {
             "date": "2025-10-05",
             "accuracy": 60.0,
             "correct_predictions": 3,
@@ -3434,12 +3378,12 @@
         }
     ],
     "total_accuracy": 50.1,
-    "tossup_accuracy": 48.1,
-    "non_tossup_accuracy": 50.5,
-    "total_correct": 178,
-    "total_games": 355,
+    "tossup_accuracy": 49.1,
+    "non_tossup_accuracy": 50.3,
+    "total_correct": 175,
+    "total_games": 349,
     "tossup_correct": 26,
-    "tossup_games": 54,
-    "non_tossup_correct": 152,
-    "non_tossup_games": 301
+    "tossup_games": 53,
+    "non_tossup_correct": 149,
+    "non_tossup_games": 296
 }

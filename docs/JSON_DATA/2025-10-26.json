@@ -14,8 +14,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Sarnia Sting": "+282",
-            "London Knights": "-378"
+            "Sarnia Sting": "+283",
+            "London Knights": "-379"
         },
         "game_time": "2:05 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-336",
-            "Peterborough Petes": "+255"
+            "Sudbury Wolves": "-334",
+            "Peterborough Petes": "+253"
         },
         "game_time": "2:05 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Windsor Spitfires": "-125",
-            "Saginaw Spirit": "+101"
+            "Saginaw Spirit": "+102"
         },
         "game_time": "4:05 pm"
     },

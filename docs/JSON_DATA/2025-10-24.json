@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-318",
-            "Peterborough Petes": "+243"
+            "Soo Greyhounds": "-316",
+            "Peterborough Petes": "+241"
         },
         "game_time": "6:07 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "London Knights",
         "odds": {
             "London Knights": "-333",
-            "Ottawa 67's": "+252"
+            "Ottawa 67's": "+253"
         },
         "game_time": "7:00 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Sarnia Sting": "+235",
-            "Brantford Bulldogs": "-306"
+            "Brantford Bulldogs": "-307"
         },
         "game_time": "7:05 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-291",
+            "Windsor Spitfires": "-290",
             "Owen Sound Attack": "+224"
         },
         "game_time": "7:05 pm"

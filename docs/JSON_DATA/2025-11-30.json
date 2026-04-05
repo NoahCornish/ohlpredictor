@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-314",
-            "Peterborough Petes": "+240"
+            "Niagara IceDogs": "-312",
+            "Peterborough Petes": "+239"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Sarnia Sting": "+149",
-            "Flint Firebirds": "-186"
+            "Sarnia Sting": "+150",
+            "Flint Firebirds": "-187"
         },
         "game_time": "2:05 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Guelph Storm": "+128",
-            "Sudbury Wolves": "-160"
+            "Sudbury Wolves": "-159"
         },
         "game_time": "2:07 pm"
     },
