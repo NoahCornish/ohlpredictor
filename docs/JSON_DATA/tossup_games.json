@@ -164,7 +164,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-105",
+            "Barrie Colts": "-104",
             "Kitchener Rangers": "-118"
         }
     },
@@ -204,7 +204,7 @@
         "away_score": 6,
         "odds": {
             "Kingston Frontenacs": "-101",
-            "London Knights": "-122"
+            "London Knights": "-123"
         }
     },
     {
@@ -255,7 +255,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "London Knights": "-122",
+            "London Knights": "-123",
             "Kingston Frontenacs": "-101"
         }
     },
@@ -281,8 +281,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-120",
-            "Brampton Steelheads": "-103"
+            "Windsor Spitfires": "-121",
+            "Brampton Steelheads": "-102"
         }
     },
     {
@@ -294,7 +294,7 @@
         "home_score": 6,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "-106",
+            "Sarnia Sting": "-105",
             "North Bay Battalion": "-117"
         }
     },
@@ -346,7 +346,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-117",
+            "Owen Sound Attack": "-116",
             "Ottawa 67's": "-106"
         }
     },
@@ -398,7 +398,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-119",
+            "Ottawa 67's": "-118",
             "North Bay Battalion": "-104"
         }
     },
@@ -425,7 +425,7 @@
         "away_score": 1,
         "odds": {
             "North Bay Battalion": "-117",
-            "Sarnia Sting": "-106"
+            "Sarnia Sting": "-105"
         }
     },
     {
@@ -568,7 +568,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "-118",
-            "Barrie Colts": "-105"
+            "Barrie Colts": "-104"
         }
     },
     {
@@ -620,7 +620,7 @@
         "away_score": 2,
         "odds": {
             "North Bay Battalion": "-104",
-            "Ottawa 67's": "-119"
+            "Ottawa 67's": "-118"
         }
     },
     {
