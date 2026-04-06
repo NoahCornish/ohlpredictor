@@ -4,8 +4,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-210",
-            "Ottawa 67's": "+166"
+            "Barrie Colts": "-211",
+            "Ottawa 67's": "+167"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Niagara IceDogs": "+144",
-            "Brantford Bulldogs": "-179"
+            "Niagara IceDogs": "+143",
+            "Brantford Bulldogs": "-178"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Guelph Storm",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-277",
-            "Guelph Storm": "+215"
+            "Windsor Spitfires": "-276",
+            "Guelph Storm": "+214"
         },
         "game_time": "7:05 pm"
     }

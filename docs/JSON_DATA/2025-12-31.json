@@ -4,8 +4,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "North Bay Battalion": "+188",
-            "Kitchener Rangers": "-240"
+            "North Bay Battalion": "+191",
+            "Kitchener Rangers": "-243"
         },
         "game_time": "1:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Windsor Spitfires": "-125",
-            "Saginaw Spirit": "+102"
+            "Saginaw Spirit": "+101"
         },
         "game_time": "2:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-111",
-            "Flint Firebirds": "-111"
+            "Soo Greyhounds": "-112",
+            "Flint Firebirds": "-110"
         },
         "game_time": "4:07 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Erie Otters": "+131",
-            "Brantford Bulldogs": "-163"
+            "Erie Otters": "+130",
+            "Brantford Bulldogs": "-162"
         },
         "game_time": "6:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-132",
-            "Sudbury Wolves": "+107"
+            "Barrie Colts": "-131",
+            "Sudbury Wolves": "+106"
         },
         "game_time": "7:30 pm"
     }

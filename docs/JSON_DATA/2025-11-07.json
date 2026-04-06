@@ -4,8 +4,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-182",
-            "Ottawa 67's": "+145"
+            "Erie Otters": "-184",
+            "Ottawa 67's": "+147"
         },
         "game_time": "7:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-177",
+            "Flint Firebirds": "-178",
             "North Bay Battalion": "+142"
         },
         "game_time": "7:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Oshawa Generals": "+111",
-            "Brantford Bulldogs": "-138"
+            "Brantford Bulldogs": "-137"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Sudbury Wolves": "+107",
-            "Barrie Colts": "-132"
+            "Sudbury Wolves": "+106",
+            "Barrie Colts": "-131"
         },
         "game_time": "7:05 pm"
     },

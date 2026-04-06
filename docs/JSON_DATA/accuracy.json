@@ -922,8 +922,8 @@
         },
         {
             "date": "2025-11-02",
-            "accuracy": 57.1,
-            "correct_predictions": 4,
+            "accuracy": 42.9,
+            "correct_predictions": 3,
             "total_games": 7,
             "game_details": [
                 {
@@ -969,7 +969,7 @@
                 {
                     "home_team": "Saginaw Spirit",
                     "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
+                    "predicted_winner": "Saginaw Spirit",
                     "actual_winner": "Brantford Bulldogs",
                     "home_score": 2,
                     "away_score": 6
@@ -2562,8 +2562,8 @@
         },
         {
             "date": "2025-12-19",
-            "accuracy": 87.5,
-            "correct_predictions": 7,
+            "accuracy": 75.0,
+            "correct_predictions": 6,
             "total_games": 8,
             "game_details": [
                 {
@@ -2601,7 +2601,7 @@
                 {
                     "home_team": "Niagara IceDogs",
                     "away_team": "Flint Firebirds",
-                    "predicted_winner": "Flint Firebirds",
+                    "predicted_winner": "Niagara IceDogs",
                     "actual_winner": "Flint Firebirds",
                     "home_score": 3,
                     "away_score": 4
@@ -3329,13 +3329,13 @@
             ]
         }
     ],
-    "total_accuracy": 50.0,
-    "tossup_accuracy": 49.1,
-    "non_tossup_accuracy": 50.2,
-    "total_correct": 172,
+    "total_accuracy": 49.4,
+    "tossup_accuracy": 46.2,
+    "non_tossup_accuracy": 50.0,
+    "total_correct": 170,
     "total_games": 344,
-    "tossup_correct": 26,
-    "tossup_games": 53,
+    "tossup_correct": 24,
+    "tossup_games": 52,
     "non_tossup_correct": 146,
-    "non_tossup_games": 291
+    "non_tossup_games": 292
 }
