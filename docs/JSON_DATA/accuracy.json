@@ -3226,8 +3226,8 @@
         },
         {
             "date": "2026-01-10",
-            "accuracy": 42.9,
-            "correct_predictions": 3,
+            "accuracy": 28.6,
+            "correct_predictions": 2,
             "total_games": 7,
             "game_details": [
                 {
@@ -3273,7 +3273,7 @@
                 {
                     "home_team": "Soo Greyhounds",
                     "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Soo Greyhounds",
+                    "predicted_winner": "Niagara IceDogs",
                     "actual_winner": "Soo Greyhounds",
                     "home_score": 5,
                     "away_score": 0
@@ -3329,12 +3329,12 @@
             ]
         }
     ],
-    "total_accuracy": 49.4,
-    "tossup_accuracy": 46.2,
+    "total_accuracy": 49.1,
+    "tossup_accuracy": 44.2,
     "non_tossup_accuracy": 50.0,
-    "total_correct": 170,
+    "total_correct": 169,
     "total_games": 344,
-    "tossup_correct": 24,
+    "tossup_correct": 23,
     "tossup_games": 52,
     "non_tossup_correct": 146,
     "non_tossup_games": 292
