@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-10-08",
-        "home_team": "Flint Firebirds",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 3,
-        "away_score": 0,
-        "odds": {
-            "Flint Firebirds": "+120",
-            "Kitchener Rangers": "-149"
-        }
-    },
-    {
         "date": "2025-10-09",
         "home_team": "Barrie Colts",
         "away_team": "Ottawa 67's",
@@ -333,7 +320,7 @@
         "home_score": 1,
         "away_score": 6,
         "odds": {
-            "Kitchener Rangers": "+131",
+            "Kitchener Rangers": "+130",
             "London Knights": "-162"
         }
     },
@@ -451,7 +438,7 @@
         "away_score": 3,
         "odds": {
             "London Knights": "-162",
-            "Kitchener Rangers": "+131"
+            "Kitchener Rangers": "+130"
         }
     },
     {
@@ -957,7 +944,7 @@
         "home_score": 0,
         "away_score": 4,
         "odds": {
-            "Brampton Steelheads": "-139",
+            "Brampton Steelheads": "-138",
             "Kitchener Rangers": "+112"
         }
     },
@@ -1009,7 +996,7 @@
         "home_score": 0,
         "away_score": 7,
         "odds": {
-            "Flint Firebirds": "+143",
+            "Flint Firebirds": "+144",
             "Brantford Bulldogs": "-179"
         }
     },
@@ -1088,7 +1075,7 @@
         "away_score": 2,
         "odds": {
             "Windsor Spitfires": "-202",
-            "Flint Firebirds": "+160"
+            "Flint Firebirds": "+161"
         }
     },
     {
@@ -1269,8 +1256,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "-150",
-            "Guelph Storm": "+121"
+            "Flint Firebirds": "-149",
+            "Guelph Storm": "+120"
         }
     },
     {
@@ -1334,7 +1321,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "+119",
+            "Kitchener Rangers": "+118",
             "Kingston Frontenacs": "-147"
         }
     },
@@ -1399,8 +1386,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Flint Firebirds": "+173",
-            "London Knights": "-219"
+            "Flint Firebirds": "+174",
+            "London Knights": "-220"
         }
     },
     {
@@ -1478,7 +1465,7 @@
         "away_score": 3,
         "odds": {
             "Brantford Bulldogs": "-179",
-            "Flint Firebirds": "+143"
+            "Flint Firebirds": "+144"
         }
     },
     {
@@ -1737,7 +1724,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Brampton Steelheads": "-186",
+            "Brampton Steelheads": "-187",
             "Flint Firebirds": "+149"
         }
     },
@@ -1841,8 +1828,8 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "+121",
-            "Flint Firebirds": "-150"
+            "Guelph Storm": "+120",
+            "Flint Firebirds": "-149"
         }
     },
     {
@@ -2271,7 +2258,7 @@
         "away_score": 4,
         "odds": {
             "London Knights": "-162",
-            "Kitchener Rangers": "+131"
+            "Kitchener Rangers": "+130"
         }
     },
     {
@@ -2517,8 +2504,8 @@
         "home_score": 9,
         "away_score": 1,
         "odds": {
-            "Flint Firebirds": "-150",
-            "Guelph Storm": "+121"
+            "Flint Firebirds": "-149",
+            "Guelph Storm": "+120"
         }
     },
     {
@@ -2882,7 +2869,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "+197",
-            "Kitchener Rangers": "-251"
+            "Kitchener Rangers": "-252"
         }
     },
     {
@@ -2972,7 +2959,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-211",
+            "Kitchener Rangers": "-212",
             "Owen Sound Attack": "+168"
         }
     },
@@ -3154,7 +3141,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Flint Firebirds": "+160",
+            "Flint Firebirds": "+161",
             "Windsor Spitfires": "-202"
         }
     },
@@ -3375,8 +3362,8 @@
         "home_score": 0,
         "away_score": 5,
         "odds": {
-            "London Knights": "-219",
-            "Flint Firebirds": "+173"
+            "London Knights": "-220",
+            "Flint Firebirds": "+174"
         }
     },
     {
@@ -3467,7 +3454,7 @@
         "away_score": 2,
         "odds": {
             "Flint Firebirds": "+149",
-            "Brampton Steelheads": "-186"
+            "Brampton Steelheads": "-187"
         }
     },
     {
@@ -3714,7 +3701,7 @@
         "away_score": 7,
         "odds": {
             "Owen Sound Attack": "+168",
-            "Kitchener Rangers": "-211"
+            "Kitchener Rangers": "-212"
         }
     },
     {
