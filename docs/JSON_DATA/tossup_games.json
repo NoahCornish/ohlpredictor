@@ -34,7 +34,7 @@
         "home_score": 3,
         "away_score": 7,
         "odds": {
-            "Brampton Steelheads": "-116",
+            "Brampton Steelheads": "-115",
             "Brantford Bulldogs": "-107"
         }
     },
@@ -87,7 +87,7 @@
         "away_score": 3,
         "odds": {
             "Brantford Bulldogs": "-107",
-            "Brampton Steelheads": "-116"
+            "Brampton Steelheads": "-115"
         }
     },
     {
@@ -198,7 +198,7 @@
         "date": "2025-11-02",
         "home_team": "Saginaw Spirit",
         "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Saginaw Spirit",
+        "predicted_winner": "Brantford Bulldogs",
         "actual_winner": "Brantford Bulldogs",
         "home_score": 2,
         "away_score": 6,
@@ -321,7 +321,7 @@
         "away_score": 4,
         "odds": {
             "Brantford Bulldogs": "-107",
-            "Brampton Steelheads": "-116"
+            "Brampton Steelheads": "-115"
         }
     },
     {
@@ -372,7 +372,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Brampton Steelheads": "-116",
+            "Brampton Steelheads": "-115",
             "Brantford Bulldogs": "-107"
         }
     },
@@ -412,7 +412,7 @@
         "away_score": 2,
         "odds": {
             "Brantford Bulldogs": "-101",
-            "Kingston Frontenacs": "-123"
+            "Kingston Frontenacs": "-122"
         }
     },
     {
@@ -502,7 +502,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-123",
+            "Kingston Frontenacs": "-122",
             "Brantford Bulldogs": "-101"
         }
     },
