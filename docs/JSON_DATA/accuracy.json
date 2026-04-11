@@ -1,46 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-09",
-            "accuracy": 50.0,
-            "correct_predictions": 2,
-            "total_games": 4,
-            "game_details": [
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 1,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 4,
-                    "away_score": 7
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 5,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 3,
-                    "away_score": 2
-                }
-            ]
-        },
-        {
             "date": "2025-10-10",
             "accuracy": 57.1,
             "correct_predictions": 4,
@@ -3316,10 +3276,10 @@
     "total_accuracy": 49.6,
     "tossup_accuracy": 46.2,
     "non_tossup_accuracy": 50.2,
-    "total_correct": 170,
-    "total_games": 343,
+    "total_correct": 168,
+    "total_games": 339,
     "tossup_correct": 24,
     "tossup_games": 52,
-    "non_tossup_correct": 146,
-    "non_tossup_games": 291
+    "non_tossup_correct": 144,
+    "non_tossup_games": 287
 }

@@ -191,7 +191,7 @@
         "away_score": 6,
         "odds": {
             "Kingston Frontenacs": "-101",
-            "London Knights": "-123"
+            "London Knights": "-122"
         }
     },
     {
@@ -242,7 +242,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "London Knights": "-123",
+            "London Knights": "-122",
             "Kingston Frontenacs": "-101"
         }
     },
@@ -360,7 +360,7 @@
         "away_score": 6,
         "odds": {
             "Oshawa Generals": "-108",
-            "Kitchener Rangers": "-114"
+            "Kitchener Rangers": "-115"
         }
     },
     {
@@ -399,7 +399,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-118",
-            "North Bay Battalion": "-104"
+            "North Bay Battalion": "-105"
         }
     },
     {
@@ -490,7 +490,7 @@
         "away_score": 4,
         "odds": {
             "Niagara IceDogs": "-112",
-            "Flint Firebirds": "-111"
+            "Flint Firebirds": "-110"
         }
     },
     {
@@ -606,7 +606,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-104",
+            "North Bay Battalion": "-105",
             "Ottawa 67's": "-118"
         }
     },
@@ -632,7 +632,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kitchener Rangers": "-114",
+            "Kitchener Rangers": "-115",
             "Oshawa Generals": "-108"
         }
     },
