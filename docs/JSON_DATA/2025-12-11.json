@@ -24,7 +24,7 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Niagara IceDogs": "+173",
+            "Niagara IceDogs": "+172",
             "London Knights": "-218"
         },
         "game_time": "7:00 pm"
@@ -35,7 +35,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "North Bay Battalion": "+234",
-            "Brampton Steelheads": "-305"
+            "Brampton Steelheads": "-306"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Peterborough Petes": "+421",
-            "Windsor Spitfires": "-618"
+            "Peterborough Petes": "+420",
+            "Windsor Spitfires": "-615"
         },
         "game_time": "7:05 pm"
     }

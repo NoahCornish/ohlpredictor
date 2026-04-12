@@ -73,7 +73,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Guelph Storm": "-116",
+            "Guelph Storm": "-117",
             "Owen Sound Attack": "-106"
         }
     },
@@ -113,7 +113,7 @@
         "away_score": 6,
         "odds": {
             "Owen Sound Attack": "-106",
-            "Guelph Storm": "-116"
+            "Guelph Storm": "-117"
         }
     },
     {
@@ -216,7 +216,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-112",
+            "Soo Greyhounds": "-111",
             "Flint Firebirds": "-111"
         }
     },
@@ -282,7 +282,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "-107",
-            "North Bay Battalion": "-116"
+            "North Bay Battalion": "-115"
         }
     },
     {
@@ -295,7 +295,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-123",
-            "Sarnia Sting": "-100"
+            "Sarnia Sting": "-101"
         }
     },
     {
@@ -333,7 +333,7 @@
         "home_score": 7,
         "away_score": 10,
         "odds": {
-            "Guelph Storm": "-116",
+            "Guelph Storm": "-117",
             "Owen Sound Attack": "-106"
         }
     },
@@ -359,7 +359,7 @@
         "home_score": 2,
         "away_score": 6,
         "odds": {
-            "Oshawa Generals": "-108",
+            "Oshawa Generals": "-107",
             "Kitchener Rangers": "-115"
         }
     },
@@ -386,7 +386,7 @@
         "away_score": 2,
         "odds": {
             "Flint Firebirds": "-111",
-            "Soo Greyhounds": "-112"
+            "Soo Greyhounds": "-111"
         }
     },
     {
@@ -399,7 +399,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-118",
-            "North Bay Battalion": "-105"
+            "North Bay Battalion": "-104"
         }
     },
     {
@@ -424,7 +424,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "-116",
+            "North Bay Battalion": "-115",
             "Sarnia Sting": "-107"
         }
     },
@@ -541,7 +541,7 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-112",
+            "Soo Greyhounds": "-111",
             "Flint Firebirds": "-111"
         }
     },
@@ -581,7 +581,7 @@
         "away_score": 4,
         "odds": {
             "Owen Sound Attack": "-106",
-            "Guelph Storm": "-116"
+            "Guelph Storm": "-117"
         }
     },
     {
@@ -606,7 +606,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-105",
+            "North Bay Battalion": "-104",
             "Ottawa 67's": "-118"
         }
     },
@@ -633,7 +633,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "-115",
-            "Oshawa Generals": "-108"
+            "Oshawa Generals": "-107"
         }
     },
     {
@@ -671,7 +671,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-115",
+            "Oshawa Generals": "-114",
             "Barrie Colts": "-108"
         }
     }
