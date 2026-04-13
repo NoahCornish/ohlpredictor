@@ -1,70 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-11",
-            "accuracy": 57.1,
-            "correct_predictions": 4,
-            "total_games": 7,
-            "game_details": [
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 3,
-                    "away_score": 6
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 3,
-                    "away_score": 0
-                },
-                {
-                    "home_team": "London Knights",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 5,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Owen Sound Attack",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 5,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Saginaw Spirit",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 1,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 1,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Brampton Steelheads",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Brampton Steelheads",
-                    "home_score": 3,
-                    "away_score": 5
-                }
-            ]
-        },
-        {
             "date": "2025-10-12",
             "accuracy": 50.0,
             "correct_predictions": 1,
@@ -3106,8 +3042,8 @@
         },
         {
             "date": "2026-01-10",
-            "accuracy": 28.6,
-            "correct_predictions": 2,
+            "accuracy": 42.9,
+            "correct_predictions": 3,
             "total_games": 7,
             "game_details": [
                 {
@@ -3153,7 +3089,7 @@
                 {
                     "home_team": "Soo Greyhounds",
                     "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Niagara IceDogs",
+                    "predicted_winner": "Soo Greyhounds",
                     "actual_winner": "Soo Greyhounds",
                     "home_score": 5,
                     "away_score": 0
@@ -3209,13 +3145,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.4,
-    "tossup_accuracy": 46.2,
-    "non_tossup_accuracy": 50.0,
-    "total_correct": 164,
-    "total_games": 332,
-    "tossup_correct": 24,
-    "tossup_games": 52,
-    "non_tossup_correct": 140,
-    "non_tossup_games": 280
+    "total_accuracy": 49.5,
+    "tossup_accuracy": 49.0,
+    "non_tossup_accuracy": 49.6,
+    "total_correct": 161,
+    "total_games": 325,
+    "tossup_correct": 25,
+    "tossup_games": 51,
+    "non_tossup_correct": 136,
+    "non_tossup_games": 274
 }

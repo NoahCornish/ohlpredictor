@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-10-11",
-        "home_team": "Erie Otters",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Sudbury Wolves",
-        "home_score": 3,
-        "away_score": 6,
-        "odds": {
-            "Erie Otters": "-115",
-            "Sudbury Wolves": "-107"
-        }
-    },
-    {
         "date": "2025-10-12",
         "home_team": "Niagara IceDogs",
         "away_team": "Sudbury Wolves",
@@ -164,7 +151,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-104",
+            "Barrie Colts": "-105",
             "Kitchener Rangers": "-118"
         }
     },
@@ -216,8 +203,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-111",
-            "Flint Firebirds": "-111"
+            "Soo Greyhounds": "-112",
+            "Flint Firebirds": "-110"
         }
     },
     {
@@ -359,7 +346,7 @@
         "home_score": 2,
         "away_score": 6,
         "odds": {
-            "Oshawa Generals": "-107",
+            "Oshawa Generals": "-108",
             "Kitchener Rangers": "-115"
         }
     },
@@ -385,8 +372,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Flint Firebirds": "-111",
-            "Soo Greyhounds": "-111"
+            "Flint Firebirds": "-110",
+            "Soo Greyhounds": "-112"
         }
     },
     {
@@ -399,7 +386,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-118",
-            "North Bay Battalion": "-104"
+            "North Bay Battalion": "-105"
         }
     },
     {
@@ -450,7 +437,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Brampton Steelheads": "-116",
+            "Brampton Steelheads": "-115",
             "Saginaw Spirit": "-107"
         }
     },
@@ -541,8 +528,8 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-111",
-            "Flint Firebirds": "-111"
+            "Soo Greyhounds": "-112",
+            "Flint Firebirds": "-110"
         }
     },
     {
@@ -555,7 +542,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "-118",
-            "Barrie Colts": "-104"
+            "Barrie Colts": "-105"
         }
     },
     {
@@ -568,7 +555,7 @@
         "away_score": 3,
         "odds": {
             "Saginaw Spirit": "-107",
-            "Brampton Steelheads": "-116"
+            "Brampton Steelheads": "-115"
         }
     },
     {
@@ -606,7 +593,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-104",
+            "North Bay Battalion": "-105",
             "Ottawa 67's": "-118"
         }
     },
@@ -620,7 +607,7 @@
         "away_score": 6,
         "odds": {
             "Saginaw Spirit": "-101",
-            "Kingston Frontenacs": "-123"
+            "Kingston Frontenacs": "-122"
         }
     },
     {
@@ -633,7 +620,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "-115",
-            "Oshawa Generals": "-107"
+            "Oshawa Generals": "-108"
         }
     },
     {
@@ -653,7 +640,7 @@
         "date": "2026-01-10",
         "home_team": "Soo Greyhounds",
         "away_team": "Niagara IceDogs",
-        "predicted_winner": "Niagara IceDogs",
+        "predicted_winner": "Soo Greyhounds",
         "actual_winner": "Soo Greyhounds",
         "home_score": 5,
         "away_score": 0,
