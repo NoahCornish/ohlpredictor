@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-10-12",
-        "home_team": "Niagara IceDogs",
-        "away_team": "Sudbury Wolves",
-        "predicted_winner": "Sudbury Wolves",
-        "actual_winner": "Niagara IceDogs",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Niagara IceDogs": "-105",
-            "Sudbury Wolves": "-118"
-        }
-    },
-    {
         "date": "2025-10-17",
         "home_team": "Brampton Steelheads",
         "away_team": "Brantford Bulldogs",
@@ -334,7 +321,7 @@
         "away_score": 1,
         "odds": {
             "Owen Sound Attack": "-118",
-            "Ottawa 67's": "-104"
+            "Ottawa 67's": "-105"
         }
     },
     {
@@ -386,7 +373,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-118",
-            "North Bay Battalion": "-105"
+            "North Bay Battalion": "-104"
         }
     },
     {
@@ -593,7 +580,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-105",
+            "North Bay Battalion": "-104",
             "Ottawa 67's": "-118"
         }
     },
