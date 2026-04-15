@@ -1,30 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-13",
-            "accuracy": 50.0,
-            "correct_predictions": 1,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Owen Sound Attack",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 4,
-                    "away_score": 6
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 3,
-                    "away_score": 4
-                }
-            ]
-        },
-        {
             "date": "2025-10-14",
             "accuracy": 100.0,
             "correct_predictions": 1,
@@ -3123,11 +3099,11 @@
     ],
     "total_accuracy": 49.2,
     "tossup_accuracy": 48.0,
-    "non_tossup_accuracy": 49.5,
-    "total_correct": 159,
-    "total_games": 323,
+    "non_tossup_accuracy": 49.4,
+    "total_correct": 158,
+    "total_games": 321,
     "tossup_correct": 24,
     "tossup_games": 50,
-    "non_tossup_correct": 135,
-    "non_tossup_games": 273
+    "non_tossup_correct": 134,
+    "non_tossup_games": 271
 }

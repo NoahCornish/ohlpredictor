@@ -48,7 +48,7 @@
         "away_score": 6,
         "odds": {
             "Guelph Storm": "-117",
-            "Owen Sound Attack": "-106"
+            "Owen Sound Attack": "-105"
         }
     },
     {
@@ -86,7 +86,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Owen Sound Attack": "-106",
+            "Owen Sound Attack": "-105",
             "Guelph Storm": "-117"
         }
     },
@@ -203,7 +203,7 @@
         "home_score": 3,
         "away_score": 0,
         "odds": {
-            "Windsor Spitfires": "-113",
+            "Windsor Spitfires": "-114",
             "Kingston Frontenacs": "-109"
         }
     },
@@ -308,7 +308,7 @@
         "away_score": 10,
         "odds": {
             "Guelph Storm": "-117",
-            "Owen Sound Attack": "-106"
+            "Owen Sound Attack": "-105"
         }
     },
     {
@@ -320,7 +320,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-118",
+            "Owen Sound Attack": "-117",
             "Ottawa 67's": "-105"
         }
     },
@@ -451,7 +451,7 @@
         "away_score": 3,
         "odds": {
             "Kingston Frontenacs": "-109",
-            "Windsor Spitfires": "-113"
+            "Windsor Spitfires": "-114"
         }
     },
     {
@@ -554,7 +554,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "-106",
+            "Owen Sound Attack": "-105",
             "Guelph Storm": "-117"
         }
     },
