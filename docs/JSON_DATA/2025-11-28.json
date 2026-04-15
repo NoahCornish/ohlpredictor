@@ -35,7 +35,7 @@
         "winner": "Oshawa Generals",
         "odds": {
             "Ottawa 67's": "+173",
-            "Oshawa Generals": "-219"
+            "Oshawa Generals": "-218"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-325",
-            "North Bay Battalion": "+247"
+            "Kingston Frontenacs": "-326",
+            "North Bay Battalion": "+248"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Guelph Storm": "+213",
-            "Windsor Spitfires": "-275"
+            "Guelph Storm": "+214",
+            "Windsor Spitfires": "-276"
         },
         "game_time": "7:07 pm"
     }

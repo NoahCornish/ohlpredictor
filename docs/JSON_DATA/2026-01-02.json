@@ -25,7 +25,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Niagara IceDogs": "+160",
-            "Windsor Spitfires": "-201"
+            "Windsor Spitfires": "-202"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-304",
-            "Ottawa 67's": "+233"
+            "Kingston Frontenacs": "-303",
+            "Ottawa 67's": "+232"
         },
         "game_time": "7:05 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Guelph Storm": "+191",
-            "Brantford Bulldogs": "-244"
+            "Brantford Bulldogs": "-243"
         },
         "game_time": "7:07 pm"
     }
