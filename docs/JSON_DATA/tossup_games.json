@@ -9,7 +9,7 @@
         "away_score": 7,
         "odds": {
             "Brampton Steelheads": "-115",
-            "Brantford Bulldogs": "-107"
+            "Brantford Bulldogs": "-108"
         }
     },
     {
@@ -60,7 +60,7 @@
         "home_score": 9,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-107",
+            "Brantford Bulldogs": "-108",
             "Brampton Steelheads": "-115"
         }
     },
@@ -178,7 +178,7 @@
         "away_score": 6,
         "odds": {
             "Saginaw Spirit": "-111",
-            "Brantford Bulldogs": "-111"
+            "Brantford Bulldogs": "-112"
         }
     },
     {
@@ -255,8 +255,8 @@
         "home_score": 6,
         "away_score": 5,
         "odds": {
-            "Sarnia Sting": "-107",
-            "North Bay Battalion": "-115"
+            "Sarnia Sting": "-106",
+            "North Bay Battalion": "-116"
         }
     },
     {
@@ -294,7 +294,7 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Brantford Bulldogs": "-107",
+            "Brantford Bulldogs": "-108",
             "Brampton Steelheads": "-115"
         }
     },
@@ -347,7 +347,7 @@
         "away_score": 1,
         "odds": {
             "Brampton Steelheads": "-115",
-            "Brantford Bulldogs": "-107"
+            "Brantford Bulldogs": "-108"
         }
     },
     {
@@ -372,8 +372,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "-119",
-            "North Bay Battalion": "-104"
+            "Ottawa 67's": "-118",
+            "North Bay Battalion": "-105"
         }
     },
     {
@@ -398,8 +398,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "-115",
-            "Sarnia Sting": "-107"
+            "North Bay Battalion": "-116",
+            "Sarnia Sting": "-106"
         }
     },
     {
@@ -580,8 +580,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-104",
-            "Ottawa 67's": "-119"
+            "North Bay Battalion": "-105",
+            "Ottawa 67's": "-118"
         }
     },
     {
