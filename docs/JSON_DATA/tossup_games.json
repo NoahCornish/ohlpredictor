@@ -47,7 +47,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Guelph Storm": "-117",
+            "Guelph Storm": "-118",
             "Owen Sound Attack": "-105"
         }
     },
@@ -87,7 +87,7 @@
         "away_score": 6,
         "odds": {
             "Owen Sound Attack": "-105",
-            "Guelph Storm": "-117"
+            "Guelph Storm": "-118"
         }
     },
     {
@@ -307,7 +307,7 @@
         "home_score": 7,
         "away_score": 10,
         "odds": {
-            "Guelph Storm": "-117",
+            "Guelph Storm": "-118",
             "Owen Sound Attack": "-105"
         }
     },
@@ -555,7 +555,7 @@
         "away_score": 4,
         "odds": {
             "Owen Sound Attack": "-105",
-            "Guelph Storm": "-117"
+            "Guelph Storm": "-118"
         }
     },
     {
@@ -646,7 +646,7 @@
         "away_score": 4,
         "odds": {
             "Oshawa Generals": "-114",
-            "Barrie Colts": "-108"
+            "Barrie Colts": "-109"
         }
     }
 ]
