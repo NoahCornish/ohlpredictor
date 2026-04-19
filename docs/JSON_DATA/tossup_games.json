@@ -138,8 +138,21 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-104",
+            "Barrie Colts": "-105",
             "Kitchener Rangers": "-118"
+        }
+    },
+    {
+        "date": "2025-10-26",
+        "home_team": "Guelph Storm",
+        "away_team": "Ottawa 67's",
+        "predicted_winner": "Guelph Storm",
+        "actual_winner": "Guelph Storm",
+        "home_score": 4,
+        "away_score": 3,
+        "odds": {
+            "Guelph Storm": "-123",
+            "Ottawa 67's": "-100"
         }
     },
     {
@@ -261,19 +274,6 @@
     },
     {
         "date": "2025-11-14",
-        "home_team": "Ottawa 67's",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 9,
-        "away_score": 3,
-        "odds": {
-            "Ottawa 67's": "-123",
-            "Sarnia Sting": "-100"
-        }
-    },
-    {
-        "date": "2025-11-14",
         "home_team": "Sudbury Wolves",
         "away_team": "Erie Otters",
         "predicted_winner": "Erie Otters",
@@ -321,7 +321,7 @@
         "away_score": 1,
         "odds": {
             "Owen Sound Attack": "-117",
-            "Ottawa 67's": "-105"
+            "Ottawa 67's": "-106"
         }
     },
     {
@@ -373,7 +373,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-118",
-            "North Bay Battalion": "-105"
+            "North Bay Battalion": "-104"
         }
     },
     {
@@ -507,6 +507,19 @@
         }
     },
     {
+        "date": "2025-12-30",
+        "home_team": "Ottawa 67's",
+        "away_team": "Guelph Storm",
+        "predicted_winner": "Guelph Storm",
+        "actual_winner": "Ottawa 67's",
+        "home_score": 5,
+        "away_score": 1,
+        "odds": {
+            "Ottawa 67's": "-100",
+            "Guelph Storm": "-123"
+        }
+    },
+    {
         "date": "2025-12-31",
         "home_team": "Soo Greyhounds",
         "away_team": "Flint Firebirds",
@@ -529,7 +542,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "-118",
-            "Barrie Colts": "-104"
+            "Barrie Colts": "-105"
         }
     },
     {
@@ -580,7 +593,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-105",
+            "North Bay Battalion": "-104",
             "Ottawa 67's": "-118"
         }
     },
@@ -645,7 +658,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-114",
+            "Oshawa Generals": "-113",
             "Barrie Colts": "-109"
         }
     }
