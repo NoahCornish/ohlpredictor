@@ -4,7 +4,7 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Sudbury Wolves": "+106",
+            "Sudbury Wolves": "+107",
             "Barrie Colts": "-132"
         },
         "game_time": "6:00 pm"
@@ -14,7 +14,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-315",
+            "Soo Greyhounds": "-316",
             "Peterborough Petes": "+241"
         },
         "game_time": "6:07 pm"
@@ -45,7 +45,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Niagara IceDogs": "+148",
-            "Brampton Steelheads": "-186"
+            "Brampton Steelheads": "-185"
         },
         "game_time": "7:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-294",
-            "Owen Sound Attack": "+226"
+            "Windsor Spitfires": "-295",
+            "Owen Sound Attack": "+227"
         },
         "game_time": "7:05 pm"
     },

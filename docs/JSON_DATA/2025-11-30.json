@@ -4,7 +4,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-314",
+            "Niagara IceDogs": "-315",
             "Peterborough Petes": "+240"
         },
         "game_time": "2:00 pm"
@@ -14,8 +14,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Owen Sound Attack": "+221",
-            "Kingston Frontenacs": "-286"
+            "Owen Sound Attack": "+222",
+            "Kingston Frontenacs": "-287"
         },
         "game_time": "2:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Guelph Storm": "+128",
-            "Sudbury Wolves": "-159"
+            "Sudbury Wolves": "-158"
         },
         "game_time": "2:07 pm"
     },
