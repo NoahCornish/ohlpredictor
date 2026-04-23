@@ -25,7 +25,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "North Bay Battalion": "+178",
-            "Barrie Colts": "-225"
+            "Barrie Colts": "-226"
         },
         "game_time": "2:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Ottawa 67's": "+232",
-            "Kingston Frontenacs": "-302"
+            "Ottawa 67's": "+231",
+            "Kingston Frontenacs": "-301"
         },
         "game_time": "3:00 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-419",
-            "Peterborough Petes": "+307"
+            "Oshawa Generals": "-420",
+            "Peterborough Petes": "+308"
         },
         "game_time": "6:05 pm"
     }

@@ -4,8 +4,8 @@
         "away_team": "Guelph Storm",
         "winner": "Guelph Storm",
         "odds": {
-            "Ottawa 67's": "+100",
-            "Guelph Storm": "-124"
+            "Ottawa 67's": "-100",
+            "Guelph Storm": "-123"
         },
         "game_time": "3:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-304",
-            "Sarnia Sting": "+233"
+            "Saginaw Spirit": "-305",
+            "Sarnia Sting": "+234"
         },
         "game_time": "7:05 pm"
     },

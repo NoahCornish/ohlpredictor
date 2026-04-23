@@ -14,7 +14,7 @@
         "away_team": "Flint Firebirds",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-218",
+            "London Knights": "-219",
             "Flint Firebirds": "+173"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-302",
-            "Ottawa 67's": "+232"
+            "Kingston Frontenacs": "-301",
+            "Ottawa 67's": "+231"
         },
         "game_time": "7:05 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Owen Sound Attack",
         "odds": {
             "Sarnia Sting": "+105",
-            "Owen Sound Attack": "-129"
+            "Owen Sound Attack": "-130"
         },
         "game_time": "7:05 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Guelph Storm": "+190",
-            "Brantford Bulldogs": "-242"
+            "Brantford Bulldogs": "-243"
         },
         "game_time": "7:07 pm"
     }
