@@ -21,7 +21,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "London Knights": "-162",
+            "London Knights": "-161",
             "Kitchener Rangers": "+130"
         }
     },
@@ -516,7 +516,7 @@
         "away_score": 4,
         "odds": {
             "Brampton Steelheads": "-138",
-            "Kitchener Rangers": "+112"
+            "Kitchener Rangers": "+111"
         }
     },
     {
@@ -1152,7 +1152,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Guelph Storm": "+160",
+            "Guelph Storm": "+161",
             "Kitchener Rangers": "-202"
         }
     },
@@ -1231,7 +1231,7 @@
         "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-202",
-            "Guelph Storm": "+160"
+            "Guelph Storm": "+161"
         }
     },
     {
@@ -1347,7 +1347,7 @@
         "home_score": 3,
         "away_score": 5,
         "odds": {
-            "Kitchener Rangers": "-224",
+            "Kitchener Rangers": "-225",
             "Ottawa 67's": "+177"
         }
     },
@@ -1698,7 +1698,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-133",
+            "Brantford Bulldogs": "-132",
             "Kitchener Rangers": "+107"
         }
     },
@@ -1815,8 +1815,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-135",
-            "Erie Otters": "+109"
+            "Kitchener Rangers": "-136",
+            "Erie Otters": "+110"
         }
     },
     {
@@ -1841,7 +1841,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "London Knights": "-162",
+            "London Knights": "-161",
             "Kitchener Rangers": "+130"
         }
     },
@@ -1880,8 +1880,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-436",
-            "Peterborough Petes": "+318"
+            "Kitchener Rangers": "-437",
+            "Peterborough Petes": "+319"
         }
     },
     {
@@ -2049,7 +2049,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Guelph Storm": "+160",
+            "Guelph Storm": "+161",
             "Kitchener Rangers": "-202"
         }
     },
@@ -2544,7 +2544,7 @@
         "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-214",
-            "Owen Sound Attack": "+169"
+            "Owen Sound Attack": "+170"
         }
     },
     {
@@ -2647,8 +2647,8 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-135",
-            "Erie Otters": "+109"
+            "Kitchener Rangers": "-136",
+            "Erie Otters": "+110"
         }
     },
     {
@@ -3271,7 +3271,7 @@
         "home_score": 4,
         "away_score": 7,
         "odds": {
-            "Owen Sound Attack": "+169",
+            "Owen Sound Attack": "+170",
             "Kitchener Rangers": "-214"
         }
     },
