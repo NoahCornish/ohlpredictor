@@ -4,7 +4,7 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "North Bay Battalion": "+142",
+            "North Bay Battalion": "+143",
             "Niagara IceDogs": "-178"
         },
         "game_time": "2:00 pm"
@@ -35,7 +35,7 @@
         "winner": "London Knights",
         "odds": {
             "Kingston Frontenacs": "-101",
-            "London Knights": "-122"
+            "London Knights": "-123"
         },
         "game_time": "4:05 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Windsor Spitfires": "-202",
-            "Flint Firebirds": "+160"
+            "Flint Firebirds": "+161"
         },
         "game_time": "4:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-217",
-            "Ottawa 67's": "+172"
+            "Oshawa Generals": "-216",
+            "Ottawa 67's": "+171"
         },
         "game_time": "6:05 pm"
     }
