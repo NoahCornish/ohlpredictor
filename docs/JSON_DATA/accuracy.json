@@ -1,22 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-22",
-            "accuracy": 100.0,
-            "correct_predictions": 1,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Erie Otters",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 2,
-                    "away_score": 5
-                }
-            ]
-        },
-        {
             "date": "2025-10-23",
             "accuracy": 100.0,
             "correct_predictions": 2,
@@ -2841,13 +2825,13 @@
             ]
         }
     ],
-    "total_accuracy": 50.2,
-    "tossup_accuracy": 48.8,
+    "total_accuracy": 50.0,
+    "tossup_accuracy": 47.6,
     "non_tossup_accuracy": 50.4,
-    "total_correct": 148,
-    "total_games": 295,
-    "tossup_correct": 21,
-    "tossup_games": 43,
+    "total_correct": 147,
+    "total_games": 294,
+    "tossup_correct": 20,
+    "tossup_games": 42,
     "non_tossup_correct": 127,
     "non_tossup_games": 252
 }
