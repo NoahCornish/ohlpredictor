@@ -44,7 +44,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Sarnia Sting": "+163",
+            "Sarnia Sting": "+162",
             "Erie Otters": "-205"
         },
         "game_time": "7:05 pm"
@@ -65,7 +65,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Guelph Storm": "+152",
-            "Barrie Colts": "-190"
+            "Barrie Colts": "-191"
         },
         "game_time": "7:07 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "Soo Greyhounds": "-166",
-            "Ottawa 67's": "+134"
+            "Ottawa 67's": "+133"
         },
         "game_time": "7:07 pm"
     }

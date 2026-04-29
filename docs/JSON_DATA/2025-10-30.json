@@ -14,7 +14,7 @@
         "away_team": "Guelph Storm",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-164",
+            "Erie Otters": "-165",
             "Guelph Storm": "+132"
         },
         "game_time": "7:00 pm"
@@ -25,7 +25,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "North Bay Battalion": "+144",
-            "Soo Greyhounds": "-179"
+            "Soo Greyhounds": "-180"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Peterborough Petes": "+451",
-            "London Knights": "-677"
+            "Peterborough Petes": "+452",
+            "London Knights": "-678"
         },
         "game_time": "7:05 pm"
     },
