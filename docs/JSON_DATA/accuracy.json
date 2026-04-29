@@ -394,8 +394,8 @@
         },
         {
             "date": "2025-11-02",
-            "accuracy": 42.9,
-            "correct_predictions": 3,
+            "accuracy": 57.1,
+            "correct_predictions": 4,
             "total_games": 7,
             "game_details": [
                 {
@@ -441,7 +441,7 @@
                 {
                     "home_team": "Saginaw Spirit",
                     "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Saginaw Spirit",
+                    "predicted_winner": "Brantford Bulldogs",
                     "actual_winner": "Brantford Bulldogs",
                     "home_score": 2,
                     "away_score": 6
@@ -2801,12 +2801,12 @@
             ]
         }
     ],
-    "total_accuracy": 49.7,
-    "tossup_accuracy": 47.6,
+    "total_accuracy": 50.0,
+    "tossup_accuracy": 50.0,
     "non_tossup_accuracy": 50.0,
-    "total_correct": 145,
+    "total_correct": 146,
     "total_games": 292,
-    "tossup_correct": 20,
+    "tossup_correct": 21,
     "tossup_games": 42,
     "non_tossup_correct": 125,
     "non_tossup_games": 250
