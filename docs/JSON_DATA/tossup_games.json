@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-10-25",
-        "home_team": "Flint Firebirds",
-        "away_team": "Erie Otters",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 5,
-        "away_score": 0,
-        "odds": {
-            "Flint Firebirds": "-101",
-            "Erie Otters": "-122"
-        }
-    },
-    {
-        "date": "2025-10-25",
-        "home_team": "Barrie Colts",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Barrie Colts",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Barrie Colts": "-105",
-            "Kitchener Rangers": "-118"
-        }
-    },
-    {
         "date": "2025-10-26",
         "home_team": "Guelph Storm",
         "away_team": "Ottawa 67's",
@@ -152,7 +126,7 @@
         "away_score": 5,
         "odds": {
             "Sarnia Sting": "-107",
-            "North Bay Battalion": "-115"
+            "North Bay Battalion": "-116"
         }
     },
     {
@@ -281,7 +255,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "-115",
+            "North Bay Battalion": "-116",
             "Sarnia Sting": "-107"
         }
     },
@@ -490,7 +464,7 @@
         "away_score": 6,
         "odds": {
             "Saginaw Spirit": "-101",
-            "Kingston Frontenacs": "-122"
+            "Kingston Frontenacs": "-123"
         }
     },
     {
