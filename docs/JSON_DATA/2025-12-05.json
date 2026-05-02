@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-436",
-            "Peterborough Petes": "+318"
+            "Kitchener Rangers": "-434",
+            "Peterborough Petes": "+317"
         },
         "game_time": "7:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Ottawa 67's": "+167",
+            "Ottawa 67's": "+166",
             "Barrie Colts": "-210"
         },
         "game_time": "7:00 pm"
@@ -44,7 +44,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Owen Sound Attack": "+140",
+            "Owen Sound Attack": "+139",
             "Erie Otters": "-174"
         },
         "game_time": "7:00 pm"
@@ -55,7 +55,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Kingston Frontenacs": "-198",
-            "Flint Firebirds": "+157"
+            "Flint Firebirds": "+158"
         },
         "game_time": "7:05 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Guelph Storm": "+191",
-            "Saginaw Spirit": "-243"
+            "Saginaw Spirit": "-244"
         },
         "game_time": "7:07 pm"
     },

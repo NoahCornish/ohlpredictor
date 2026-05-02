@@ -1,78 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-10-26",
-            "accuracy": 75.0,
-            "correct_predictions": 6,
-            "total_games": 8,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Niagara IceDogs",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Niagara IceDogs",
-                    "home_score": 1,
-                    "away_score": 5
-                },
-                {
-                    "home_team": "Sarnia Sting",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 0,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Sudbury Wolves",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 8,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 4,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 6,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 5,
-                    "away_score": 6
-                },
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 3,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "Brantford Bulldogs",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 1,
-                    "away_score": 4
-                }
-            ]
-        },
-        {
             "date": "2025-10-29",
             "accuracy": 25.0,
             "correct_predictions": 1,
@@ -2665,13 +2593,13 @@
             ]
         }
     ],
-    "total_accuracy": 50.2,
-    "tossup_accuracy": 55.0,
-    "non_tossup_accuracy": 49.4,
-    "total_correct": 139,
-    "total_games": 277,
-    "tossup_correct": 22,
-    "tossup_games": 40,
-    "non_tossup_correct": 117,
-    "non_tossup_games": 237
+    "total_accuracy": 49.4,
+    "tossup_accuracy": 53.8,
+    "non_tossup_accuracy": 48.7,
+    "total_correct": 133,
+    "total_games": 269,
+    "tossup_correct": 21,
+    "tossup_games": 39,
+    "non_tossup_correct": 112,
+    "non_tossup_games": 230
 }

@@ -4,7 +4,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-182",
+            "Erie Otters": "-181",
             "Ottawa 67's": "+145"
         },
         "game_time": "7:00 pm"
@@ -14,7 +14,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-178",
+            "Flint Firebirds": "-177",
             "North Bay Battalion": "+142"
         },
         "game_time": "7:00 pm"
@@ -64,7 +64,7 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Sudbury Wolves": "+107",
+            "Sudbury Wolves": "+108",
             "Barrie Colts": "-133"
         },
         "game_time": "7:05 pm"

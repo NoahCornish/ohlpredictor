@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-10-26",
-        "home_team": "Guelph Storm",
-        "away_team": "Ottawa 67's",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Guelph Storm",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Guelph Storm": "-122",
-            "Ottawa 67's": "-101"
-        }
-    },
-    {
         "date": "2025-10-29",
         "home_team": "Sudbury Wolves",
         "away_team": "Soo Greyhounds",
@@ -73,7 +60,7 @@
         "home_score": 3,
         "away_score": 0,
         "odds": {
-            "Windsor Spitfires": "-113",
+            "Windsor Spitfires": "-114",
             "Kingston Frontenacs": "-109"
         }
     },
@@ -99,7 +86,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-122",
+            "Erie Otters": "-123",
             "Niagara IceDogs": "-101"
         }
     },
@@ -112,8 +99,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-120",
-            "Brampton Steelheads": "-103"
+            "Windsor Spitfires": "-121",
+            "Brampton Steelheads": "-102"
         }
     },
     {
@@ -165,7 +152,7 @@
         "away_score": 10,
         "odds": {
             "Guelph Storm": "-117",
-            "Owen Sound Attack": "-105"
+            "Owen Sound Attack": "-106"
         }
     },
     {
@@ -281,7 +268,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Brampton Steelheads": "-115",
+            "Brampton Steelheads": "-116",
             "Saginaw Spirit": "-107"
         }
     },
@@ -308,7 +295,7 @@
         "away_score": 3,
         "odds": {
             "Kingston Frontenacs": "-109",
-            "Windsor Spitfires": "-113"
+            "Windsor Spitfires": "-114"
         }
     },
     {
@@ -372,8 +359,8 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Ottawa 67's": "-101",
-            "Guelph Storm": "-122"
+            "Ottawa 67's": "-102",
+            "Guelph Storm": "-121"
         }
     },
     {
@@ -412,7 +399,7 @@
         "away_score": 3,
         "odds": {
             "Saginaw Spirit": "-107",
-            "Brampton Steelheads": "-115"
+            "Brampton Steelheads": "-116"
         }
     },
     {
@@ -424,7 +411,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "-105",
+            "Owen Sound Attack": "-106",
             "Guelph Storm": "-117"
         }
     },
@@ -515,7 +502,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-113",
+            "Oshawa Generals": "-114",
             "Barrie Colts": "-109"
         }
     }
