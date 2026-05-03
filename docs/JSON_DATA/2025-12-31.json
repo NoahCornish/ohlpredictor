@@ -34,7 +34,7 @@
         "away_team": "Sarnia Sting",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-377",
+            "London Knights": "-376",
             "Sarnia Sting": "+281"
         },
         "game_time": "4:00 pm"
@@ -54,8 +54,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Erie Otters": "+130",
-            "Brantford Bulldogs": "-162"
+            "Erie Otters": "+131",
+            "Brantford Bulldogs": "-163"
         },
         "game_time": "6:00 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Barrie Colts": "-133",
-            "Sudbury Wolves": "+108"
+            "Sudbury Wolves": "+107"
         },
         "game_time": "7:30 pm"
     }
