@@ -164,7 +164,7 @@
         "home_score": 0,
         "away_score": 7,
         "odds": {
-            "Flint Firebirds": "+144",
+            "Flint Firebirds": "+143",
             "Brantford Bulldogs": "-179"
         }
     },
@@ -295,7 +295,7 @@
         "away_score": 2,
         "odds": {
             "Barrie Colts": "-133",
-            "Sudbury Wolves": "+107"
+            "Sudbury Wolves": "+108"
         }
     },
     {
@@ -321,7 +321,7 @@
         "away_score": 3,
         "odds": {
             "Peterborough Petes": "+375",
-            "Brantford Bulldogs": "-534"
+            "Brantford Bulldogs": "-533"
         }
     },
     {
@@ -373,7 +373,7 @@
         "away_score": 5,
         "odds": {
             "Oshawa Generals": "+111",
-            "Brantford Bulldogs": "-138"
+            "Brantford Bulldogs": "-137"
         }
     },
     {
@@ -398,7 +398,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Sudbury Wolves": "+107",
+            "Sudbury Wolves": "+108",
             "Barrie Colts": "-133"
         }
     },
@@ -476,7 +476,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-270",
+            "Brantford Bulldogs": "-269",
             "Ottawa 67's": "+209"
         }
     },
@@ -633,7 +633,7 @@
         "away_score": 3,
         "odds": {
             "Brantford Bulldogs": "-179",
-            "Flint Firebirds": "+144"
+            "Flint Firebirds": "+143"
         }
     },
     {
@@ -763,7 +763,7 @@
         "away_score": 1,
         "odds": {
             "Barrie Colts": "-406",
-            "Peterborough Petes": "+299"
+            "Peterborough Petes": "+300"
         }
     },
     {
@@ -853,7 +853,7 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Sudbury Wolves": "+107",
+            "Sudbury Wolves": "+108",
             "Barrie Colts": "-133"
         }
     },
@@ -867,7 +867,7 @@
         "away_score": 5,
         "odds": {
             "Niagara IceDogs": "+144",
-            "Brantford Bulldogs": "-180"
+            "Brantford Bulldogs": "-179"
         }
     },
     {
@@ -918,8 +918,8 @@
         "home_score": 7,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-305",
-            "Sarnia Sting": "+234"
+            "Brantford Bulldogs": "-304",
+            "Sarnia Sting": "+233"
         }
     },
     {
@@ -1036,7 +1036,7 @@
         "away_score": 4,
         "odds": {
             "Niagara IceDogs": "+114",
-            "Barrie Colts": "-141"
+            "Barrie Colts": "-142"
         }
     },
     {
@@ -1243,7 +1243,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Sudbury Wolves": "+107",
+            "Sudbury Wolves": "+108",
             "Barrie Colts": "-133"
         }
     },
@@ -1400,7 +1400,7 @@
         "away_score": 4,
         "odds": {
             "Oshawa Generals": "+111",
-            "Brantford Bulldogs": "-138"
+            "Brantford Bulldogs": "-137"
         }
     },
     {
@@ -1725,7 +1725,7 @@
         "away_score": 1,
         "odds": {
             "Barrie Colts": "-202",
-            "Owen Sound Attack": "+160"
+            "Owen Sound Attack": "+161"
         }
     },
     {
@@ -1737,8 +1737,8 @@
         "home_score": 4,
         "away_score": 8,
         "odds": {
-            "Erie Otters": "+131",
-            "Brantford Bulldogs": "-163"
+            "Erie Otters": "+130",
+            "Brantford Bulldogs": "-162"
         }
     },
     {
@@ -1894,7 +1894,7 @@
         "away_score": 3,
         "odds": {
             "Peterborough Petes": "+375",
-            "Brantford Bulldogs": "-534"
+            "Brantford Bulldogs": "-533"
         }
     },
     {
@@ -1919,7 +1919,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Barrie Colts": "-141",
+            "Barrie Colts": "-142",
             "Niagara IceDogs": "+114"
         }
     },
@@ -2063,7 +2063,7 @@
         "away_score": 4,
         "odds": {
             "Barrie Colts": "-133",
-            "Sudbury Wolves": "+107"
+            "Sudbury Wolves": "+108"
         }
     },
     {
@@ -2193,7 +2193,7 @@
         "away_score": 0,
         "odds": {
             "Ottawa 67's": "+209",
-            "Brantford Bulldogs": "-270"
+            "Brantford Bulldogs": "-269"
         }
     },
     {
@@ -2283,8 +2283,8 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Owen Sound Attack": "+202",
-            "Brantford Bulldogs": "-259"
+            "Owen Sound Attack": "+201",
+            "Brantford Bulldogs": "-258"
         }
     },
     {
@@ -2374,8 +2374,8 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Brantford Bulldogs": "-163",
-            "Erie Otters": "+131"
+            "Brantford Bulldogs": "-162",
+            "Erie Otters": "+130"
         }
     },
     {
@@ -2465,8 +2465,8 @@
         "home_score": 2,
         "away_score": 5,
         "odds": {
-            "Erie Otters": "+131",
-            "Brantford Bulldogs": "-163"
+            "Erie Otters": "+130",
+            "Brantford Bulldogs": "-162"
         }
     },
     {
@@ -2492,7 +2492,7 @@
         "away_score": 1,
         "odds": {
             "Barrie Colts": "-133",
-            "Sudbury Wolves": "+107"
+            "Sudbury Wolves": "+108"
         }
     },
     {
@@ -2596,7 +2596,7 @@
         "away_score": 4,
         "odds": {
             "Guelph Storm": "+192",
-            "Brantford Bulldogs": "-245"
+            "Brantford Bulldogs": "-244"
         }
     },
     {
@@ -2660,7 +2660,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-141",
+            "Barrie Colts": "-142",
             "Niagara IceDogs": "+114"
         }
     },
@@ -2712,7 +2712,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-180",
+            "Brantford Bulldogs": "-179",
             "Niagara IceDogs": "+144"
         }
     },
@@ -2816,8 +2816,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Guelph Storm": "+152",
-            "Barrie Colts": "-191"
+            "Guelph Storm": "+153",
+            "Barrie Colts": "-192"
         }
     },
     {
