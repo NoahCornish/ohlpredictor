@@ -22,7 +22,7 @@
         "away_score": 6,
         "odds": {
             "Saginaw Spirit": "-111",
-            "Brantford Bulldogs": "-112"
+            "Brantford Bulldogs": "-111"
         }
     },
     {
@@ -73,7 +73,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-123",
+            "Erie Otters": "-122",
             "Niagara IceDogs": "-101"
         }
     },
@@ -139,7 +139,7 @@
         "away_score": 10,
         "odds": {
             "Guelph Storm": "-117",
-            "Owen Sound Attack": "-106"
+            "Owen Sound Attack": "-105"
         }
     },
     {
@@ -204,7 +204,7 @@
         "away_score": 3,
         "odds": {
             "Ottawa 67's": "-119",
-            "North Bay Battalion": "-103"
+            "North Bay Battalion": "-104"
         }
     },
     {
@@ -242,7 +242,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "London Knights": "-120",
+            "London Knights": "-119",
             "Windsor Spitfires": "-103"
         }
     },
@@ -255,7 +255,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Brampton Steelheads": "-116",
+            "Brampton Steelheads": "-115",
             "Saginaw Spirit": "-107"
         }
     },
@@ -269,7 +269,7 @@
         "away_score": 3,
         "odds": {
             "Windsor Spitfires": "-103",
-            "London Knights": "-120"
+            "London Knights": "-119"
         }
     },
     {
@@ -346,7 +346,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Ottawa 67's": "-102",
+            "Ottawa 67's": "-101",
             "Guelph Storm": "-122"
         }
     },
@@ -386,7 +386,7 @@
         "away_score": 3,
         "odds": {
             "Saginaw Spirit": "-107",
-            "Brampton Steelheads": "-116"
+            "Brampton Steelheads": "-115"
         }
     },
     {
@@ -398,7 +398,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "-106",
+            "Owen Sound Attack": "-105",
             "Guelph Storm": "-117"
         }
     },
@@ -411,7 +411,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "Soo Greyhounds": "-106",
+            "Soo Greyhounds": "-105",
             "Sudbury Wolves": "-117"
         }
     },
@@ -424,7 +424,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-103",
+            "North Bay Battalion": "-104",
             "Ottawa 67's": "-119"
         }
     },

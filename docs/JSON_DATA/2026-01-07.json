@@ -14,8 +14,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-185",
-            "Sarnia Sting": "+148"
+            "Flint Firebirds": "-184",
+            "Sarnia Sting": "+147"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Guelph Storm",
         "winner": "Guelph Storm",
         "odds": {
-            "Owen Sound Attack": "-106",
+            "Owen Sound Attack": "-105",
             "Guelph Storm": "-117"
         },
         "game_time": "7:00 pm"
@@ -34,7 +34,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Soo Greyhounds": "-106",
+            "Soo Greyhounds": "-105",
             "Sudbury Wolves": "-117"
         },
         "game_time": "7:07 pm"

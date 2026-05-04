@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-436",
-            "Peterborough Petes": "+318"
+            "Kitchener Rangers": "-434",
+            "Peterborough Petes": "+317"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Windsor Spitfires",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-120",
+            "London Knights": "-119",
             "Windsor Spitfires": "-103"
         },
         "game_time": "7:00 pm"
@@ -75,7 +75,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Guelph Storm": "+191",
-            "Saginaw Spirit": "-244"
+            "Saginaw Spirit": "-243"
         },
         "game_time": "7:07 pm"
     },

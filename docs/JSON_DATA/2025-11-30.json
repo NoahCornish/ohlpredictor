@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-311",
-            "Peterborough Petes": "+238"
+            "Niagara IceDogs": "-309",
+            "Peterborough Petes": "+237"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Sarnia Sting": "+148",
-            "Flint Firebirds": "-185"
+            "Sarnia Sting": "+147",
+            "Flint Firebirds": "-184"
         },
         "game_time": "2:05 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Ottawa 67's",
         "odds": {
             "Ottawa 67's": "-119",
-            "North Bay Battalion": "-103"
+            "North Bay Battalion": "-104"
         },
         "game_time": "3:00 pm"
     },
