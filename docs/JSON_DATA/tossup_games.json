@@ -73,7 +73,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-122",
+            "Erie Otters": "-123",
             "Niagara IceDogs": "-101"
         }
     },
@@ -151,7 +151,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Owen Sound Attack": "-115",
+            "Owen Sound Attack": "-116",
             "Ottawa 67's": "-107"
         }
     },
@@ -242,7 +242,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "London Knights": "-119",
+            "London Knights": "-120",
             "Windsor Spitfires": "-103"
         }
     },
@@ -255,7 +255,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Brampton Steelheads": "-115",
+            "Brampton Steelheads": "-116",
             "Saginaw Spirit": "-107"
         }
     },
@@ -269,7 +269,7 @@
         "away_score": 3,
         "odds": {
             "Windsor Spitfires": "-103",
-            "London Knights": "-119"
+            "London Knights": "-120"
         }
     },
     {
@@ -386,7 +386,7 @@
         "away_score": 3,
         "odds": {
             "Saginaw Spirit": "-107",
-            "Brampton Steelheads": "-115"
+            "Brampton Steelheads": "-116"
         }
     },
     {
