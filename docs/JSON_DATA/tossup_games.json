@@ -165,7 +165,7 @@
         "away_score": 6,
         "odds": {
             "Oshawa Generals": "-107",
-            "Kitchener Rangers": "-116"
+            "Kitchener Rangers": "-115"
         }
     },
     {
@@ -450,7 +450,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kitchener Rangers": "-116",
+            "Kitchener Rangers": "-115",
             "Oshawa Generals": "-107"
         }
     },
@@ -489,8 +489,8 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-113",
-            "Barrie Colts": "-109"
+            "Oshawa Generals": "-114",
+            "Barrie Colts": "-108"
         }
     }
 ]
