@@ -256,7 +256,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "+107",
-            "Saginaw Spirit": "-133"
+            "Saginaw Spirit": "-132"
         }
     },
     {
@@ -386,7 +386,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "+118",
-            "Kingston Frontenacs": "-147"
+            "Kingston Frontenacs": "-146"
         }
     },
     {
@@ -542,7 +542,7 @@
         "away_score": 4,
         "odds": {
             "Kitchener Rangers": "-148",
-            "Soo Greyhounds": "+119"
+            "Soo Greyhounds": "+120"
         }
     },
     {
@@ -646,7 +646,7 @@
         "away_score": 2,
         "odds": {
             "Guelph Storm": "+161",
-            "Kitchener Rangers": "-202"
+            "Kitchener Rangers": "-203"
         }
     },
     {
@@ -723,7 +723,7 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Kitchener Rangers": "-202",
+            "Kitchener Rangers": "-203",
             "Guelph Storm": "+161"
         }
     },
@@ -1192,7 +1192,7 @@
         "away_score": 3,
         "odds": {
             "Brantford Bulldogs": "-133",
-            "Kitchener Rangers": "+108"
+            "Kitchener Rangers": "+107"
         }
     },
     {
@@ -1334,7 +1334,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "London Knights": "-162",
+            "London Knights": "-161",
             "Kitchener Rangers": "+130"
         }
     },
@@ -1373,8 +1373,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-430",
-            "Peterborough Petes": "+314"
+            "Kitchener Rangers": "-431",
+            "Peterborough Petes": "+315"
         }
     },
     {
@@ -1543,7 +1543,7 @@
         "away_score": 5,
         "odds": {
             "Guelph Storm": "+161",
-            "Kitchener Rangers": "-202"
+            "Kitchener Rangers": "-203"
         }
     },
     {
@@ -1607,7 +1607,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Soo Greyhounds": "+119",
+            "Soo Greyhounds": "+120",
             "Kitchener Rangers": "-148"
         }
     },
@@ -1685,8 +1685,8 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Flint Firebirds": "+120",
-            "Kitchener Rangers": "-149"
+            "Flint Firebirds": "+121",
+            "Kitchener Rangers": "-150"
         }
     },
     {
@@ -1802,7 +1802,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Saginaw Spirit": "-133",
+            "Saginaw Spirit": "-132",
             "Kitchener Rangers": "+107"
         }
     },
@@ -2037,7 +2037,7 @@
         "away_score": 1,
         "odds": {
             "Kitchener Rangers": "-214",
-            "Owen Sound Attack": "+169"
+            "Owen Sound Attack": "+170"
         }
     },
     {
@@ -2764,7 +2764,7 @@
         "home_score": 4,
         "away_score": 7,
         "odds": {
-            "Owen Sound Attack": "+169",
+            "Owen Sound Attack": "+170",
             "Kitchener Rangers": "-214"
         }
     },
