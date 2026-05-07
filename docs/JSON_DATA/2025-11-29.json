@@ -14,8 +14,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Owen Sound Attack": "+226",
-            "Windsor Spitfires": "-293"
+            "Owen Sound Attack": "+227",
+            "Windsor Spitfires": "-295"
         },
         "game_time": "4:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-344",
-            "Peterborough Petes": "+260"
+            "Erie Otters": "-345",
+            "Peterborough Petes": "+261"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Soo Greyhounds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Flint Firebirds": "-110",
+            "Flint Firebirds": "-111",
             "Soo Greyhounds": "-112"
         },
         "game_time": "7:00 pm"
@@ -64,7 +64,7 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Barrie Colts": "+125",
+            "Barrie Colts": "+126",
             "Kingston Frontenacs": "-156"
         },
         "game_time": "7:30 pm"

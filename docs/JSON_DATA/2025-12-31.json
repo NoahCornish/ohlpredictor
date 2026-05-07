@@ -14,7 +14,7 @@
         "away_team": "Guelph Storm",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-270",
+            "Kingston Frontenacs": "-271",
             "Guelph Storm": "+210"
         },
         "game_time": "2:05 pm"
@@ -24,8 +24,8 @@
         "away_team": "Saginaw Spirit",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-125",
-            "Saginaw Spirit": "+101"
+            "Windsor Spitfires": "-126",
+            "Saginaw Spirit": "+102"
         },
         "game_time": "2:05 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "Soo Greyhounds": "-112",
-            "Flint Firebirds": "-110"
+            "Flint Firebirds": "-111"
         },
         "game_time": "4:07 pm"
     },

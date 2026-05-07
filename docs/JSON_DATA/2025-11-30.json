@@ -4,8 +4,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-309",
-            "Peterborough Petes": "+236"
+            "Niagara IceDogs": "-310",
+            "Peterborough Petes": "+237"
         },
         "game_time": "2:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Owen Sound Attack": "+221",
-            "Kingston Frontenacs": "-286"
+            "Owen Sound Attack": "+222",
+            "Kingston Frontenacs": "-287"
         },
         "game_time": "2:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Oshawa Generals": "+111",
-            "Brantford Bulldogs": "-138"
+            "Brantford Bulldogs": "-137"
         },
         "game_time": "6:05 pm"
     }

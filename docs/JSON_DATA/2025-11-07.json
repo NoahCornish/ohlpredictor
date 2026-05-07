@@ -14,7 +14,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-176",
+            "Flint Firebirds": "-177",
             "North Bay Battalion": "+141"
         },
         "game_time": "7:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Oshawa Generals": "+111",
-            "Brantford Bulldogs": "-138"
+            "Brantford Bulldogs": "-137"
         },
         "game_time": "7:05 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Sarnia Sting": "+241",
+            "Sarnia Sting": "+242",
             "Brampton Steelheads": "-316"
         },
         "game_time": "7:05 pm"
@@ -75,7 +75,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "Soo Greyhounds": "-151",
-            "Guelph Storm": "+122"
+            "Guelph Storm": "+121"
         },
         "game_time": "7:07 pm"
     }
