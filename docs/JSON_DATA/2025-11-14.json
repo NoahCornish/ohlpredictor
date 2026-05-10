@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-319",
-            "Owen Sound Attack": "+243"
+            "London Knights": "-320",
+            "Owen Sound Attack": "+244"
         },
         "game_time": "7:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Ottawa 67's",
         "odds": {
             "Ottawa 67's": "-124",
-            "Sarnia Sting": "+101"
+            "Sarnia Sting": "+100"
         },
         "game_time": "7:00 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Guelph Storm": "+215",
-            "Windsor Spitfires": "-277"
+            "Windsor Spitfires": "-278"
         },
         "game_time": "7:07 pm"
     }

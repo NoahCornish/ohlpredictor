@@ -14,7 +14,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-204",
+            "Erie Otters": "-203",
             "Sarnia Sting": "+162"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-215",
-            "Owen Sound Attack": "+170"
+            "Kitchener Rangers": "-216",
+            "Owen Sound Attack": "+171"
         },
         "game_time": "7:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Guelph Storm",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-159",
-            "Guelph Storm": "+128"
+            "Sudbury Wolves": "-160",
+            "Guelph Storm": "+129"
         },
         "game_time": "7:05 pm"
     }

@@ -5,7 +5,7 @@
         "winner": "London Knights",
         "odds": {
             "London Knights": "-198",
-            "Erie Otters": "+158"
+            "Erie Otters": "+157"
         },
         "game_time": "4:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Flint Firebirds": "+158",
+            "Flint Firebirds": "+157",
             "Kingston Frontenacs": "-198"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Owen Sound Attack": "+170",
-            "Kitchener Rangers": "-215"
+            "Owen Sound Attack": "+171",
+            "Kitchener Rangers": "-216"
         },
         "game_time": "7:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Guelph Storm",
         "winner": "Guelph Storm",
         "odds": {
-            "Peterborough Petes": "+179",
+            "Peterborough Petes": "+178",
             "Guelph Storm": "-226"
         },
         "game_time": "7:05 pm"
@@ -45,7 +45,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Saginaw Spirit": "+102",
-            "Windsor Spitfires": "-126"
+            "Windsor Spitfires": "-125"
         },
         "game_time": "7:05 pm"
     },

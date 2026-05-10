@@ -4,7 +4,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-201",
+            "Barrie Colts": "-202",
             "Owen Sound Attack": "+160"
         },
         "game_time": "7:00 pm"
@@ -15,7 +15,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Erie Otters": "+131",
-            "Brantford Bulldogs": "-163"
+            "Brantford Bulldogs": "-162"
         },
         "game_time": "7:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "North Bay Battalion": "+232",
-            "Brampton Steelheads": "-302"
+            "Brampton Steelheads": "-303"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Peterborough Petes": "+420",
+            "Peterborough Petes": "+419",
             "Windsor Spitfires": "-615"
         },
         "game_time": "7:05 pm"
