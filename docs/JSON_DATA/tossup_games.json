@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-05",
-        "home_team": "Soo Greyhounds",
-        "away_team": "Flint Firebirds",
-        "predicted_winner": "Soo Greyhounds",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 2,
-        "away_score": 3,
-        "odds": {
-            "Soo Greyhounds": "-112",
-            "Flint Firebirds": "-111"
-        }
-    },
-    {
         "date": "2025-11-06",
         "home_team": "Windsor Spitfires",
         "away_team": "Kingston Frontenacs",
@@ -112,7 +99,7 @@
         "home_score": 7,
         "away_score": 10,
         "odds": {
-            "Guelph Storm": "-118",
+            "Guelph Storm": "-117",
             "Owen Sound Attack": "-105"
         }
     },
@@ -164,7 +151,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Flint Firebirds": "-111",
+            "Flint Firebirds": "-110",
             "Soo Greyhounds": "-112"
         }
     },
@@ -216,7 +203,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "London Knights": "-119",
+            "London Knights": "-120",
             "Windsor Spitfires": "-103"
         }
     },
@@ -243,7 +230,7 @@
         "away_score": 3,
         "odds": {
             "Windsor Spitfires": "-103",
-            "London Knights": "-119"
+            "London Knights": "-120"
         }
     },
     {
@@ -269,7 +256,7 @@
         "away_score": 4,
         "odds": {
             "Niagara IceDogs": "-111",
-            "Flint Firebirds": "-112"
+            "Flint Firebirds": "-111"
         }
     },
     {
@@ -320,8 +307,8 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Ottawa 67's": "-101",
-            "Guelph Storm": "-122"
+            "Ottawa 67's": "-102",
+            "Guelph Storm": "-121"
         }
     },
     {
@@ -334,7 +321,7 @@
         "away_score": 3,
         "odds": {
             "Soo Greyhounds": "-112",
-            "Flint Firebirds": "-111"
+            "Flint Firebirds": "-110"
         }
     },
     {
@@ -373,7 +360,7 @@
         "away_score": 4,
         "odds": {
             "Owen Sound Attack": "-105",
-            "Guelph Storm": "-118"
+            "Guelph Storm": "-117"
         }
     },
     {
@@ -386,7 +373,7 @@
         "away_score": 2,
         "odds": {
             "Soo Greyhounds": "-105",
-            "Sudbury Wolves": "-118"
+            "Sudbury Wolves": "-117"
         }
     },
     {
