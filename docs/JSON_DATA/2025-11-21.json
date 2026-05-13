@@ -14,8 +14,8 @@
         "away_team": "Sarnia Sting",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-304",
-            "Sarnia Sting": "+233"
+            "Brantford Bulldogs": "-305",
+            "Sarnia Sting": "+234"
         },
         "game_time": "7:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-225",
+            "Kitchener Rangers": "-226",
             "Ottawa 67's": "+178"
         },
         "game_time": "7:00 pm"
@@ -44,8 +44,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-599",
-            "Peterborough Petes": "+411"
+            "Kingston Frontenacs": "-601",
+            "Peterborough Petes": "+412"
         },
         "game_time": "7:05 pm"
     },

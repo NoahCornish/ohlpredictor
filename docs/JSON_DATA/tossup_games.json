@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-06",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 3,
-        "away_score": 0,
-        "odds": {
-            "Windsor Spitfires": "-113",
-            "Kingston Frontenacs": "-109"
-        }
-    },
-    {
         "date": "2025-11-07",
         "home_team": "London Knights",
         "away_team": "Kingston Frontenacs",
@@ -34,7 +21,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Erie Otters": "-123",
+            "Erie Otters": "-122",
             "Niagara IceDogs": "-101"
         }
     },
@@ -47,7 +34,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-121",
+            "Windsor Spitfires": "-120",
             "Brampton Steelheads": "-102"
         }
     },
@@ -73,7 +60,7 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Sudbury Wolves": "-107",
+            "Sudbury Wolves": "-108",
             "Erie Otters": "-115"
         }
     },
@@ -308,7 +295,7 @@
         "away_score": 1,
         "odds": {
             "Ottawa 67's": "-102",
-            "Guelph Storm": "-121"
+            "Guelph Storm": "-122"
         }
     },
     {
@@ -398,7 +385,7 @@
         "home_score": 1,
         "away_score": 6,
         "odds": {
-            "Saginaw Spirit": "-101",
+            "Saginaw Spirit": "-100",
             "Kingston Frontenacs": "-123"
         }
     },
