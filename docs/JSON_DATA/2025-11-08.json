@@ -4,8 +4,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-122",
-            "Niagara IceDogs": "-101"
+            "Erie Otters": "-124",
+            "Niagara IceDogs": "+100"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Guelph Storm",
         "winner": "Flint Firebirds",
         "odds": {
-            "Flint Firebirds": "-151",
-            "Guelph Storm": "+121"
+            "Flint Firebirds": "-149",
+            "Guelph Storm": "+120"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Owen Sound Attack": "+244",
-            "London Knights": "-319"
+            "Owen Sound Attack": "+245",
+            "London Knights": "-322"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-290",
-            "North Bay Battalion": "+224"
+            "Saginaw Spirit": "-302",
+            "North Bay Battalion": "+232"
         },
         "game_time": "7:05 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-120",
-            "Brampton Steelheads": "-102"
+            "Windsor Spitfires": "-119",
+            "Brampton Steelheads": "-104"
         },
         "game_time": "7:05 pm"
     },

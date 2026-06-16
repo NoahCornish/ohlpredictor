@@ -4,8 +4,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Sarnia Sting": "+257",
-            "Kingston Frontenacs": "-339"
+            "Sarnia Sting": "+261",
+            "Kingston Frontenacs": "-345"
         },
         "game_time": "2:05 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-176",
-            "Ottawa 67's": "+141"
+            "Sudbury Wolves": "-182",
+            "Ottawa 67's": "+146"
         },
         "game_time": "2:05 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Windsor Spitfires": "-125",
-            "Brantford Bulldogs": "+101"
+            "Brantford Bulldogs": "+102"
         },
         "game_time": "4:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Barrie Colts",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-114",
-            "Barrie Colts": "-108"
+            "Oshawa Generals": "-116",
+            "Barrie Colts": "-106"
         },
         "game_time": "6:05 pm"
     }

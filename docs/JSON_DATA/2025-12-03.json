@@ -4,8 +4,8 @@
         "away_team": "Guelph Storm",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-255",
-            "Guelph Storm": "+199"
+            "Brampton Steelheads": "-261",
+            "Guelph Storm": "+203"
         },
         "game_time": "11:00 am"
     },
@@ -14,8 +14,8 @@
         "away_team": "Kitchener Rangers",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-160",
-            "Kitchener Rangers": "+129"
+            "London Knights": "-162",
+            "Kitchener Rangers": "+130"
         },
         "game_time": "6:30 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Brantford Bulldogs": "-101",
-            "Kingston Frontenacs": "-122"
+            "Brantford Bulldogs": "-100",
+            "Kingston Frontenacs": "-123"
         },
         "game_time": "7:00 pm"
     }

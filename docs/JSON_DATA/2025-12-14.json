@@ -4,8 +4,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-177",
-            "North Bay Battalion": "+142"
+            "Niagara IceDogs": "-181",
+            "North Bay Battalion": "+145"
         },
         "game_time": "2:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Sudbury Wolves": "+140",
-            "Brampton Steelheads": "-174"
+            "Sudbury Wolves": "+142",
+            "Brampton Steelheads": "-177"
         },
         "game_time": "2:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Owen Sound Attack",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Soo Greyhounds": "-160",
-            "Owen Sound Attack": "+129"
+            "Soo Greyhounds": "-158",
+            "Owen Sound Attack": "+127"
         },
         "game_time": "2:07 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Brantford Bulldogs": "+109",
-            "London Knights": "-135"
+            "Brantford Bulldogs": "+110",
+            "London Knights": "-136"
         },
         "game_time": "2:30 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Ottawa 67's": "+235",
-            "Windsor Spitfires": "-307"
+            "Ottawa 67's": "+244",
+            "Windsor Spitfires": "-320"
         },
         "game_time": "3:00 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Oshawa Generals": "+122",
-            "Kingston Frontenacs": "-152"
+            "Kingston Frontenacs": "-151"
         },
         "game_time": "6:05 pm"
     }

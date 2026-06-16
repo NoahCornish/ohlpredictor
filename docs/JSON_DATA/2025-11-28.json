@@ -4,8 +4,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-115",
-            "Brantford Bulldogs": "-107"
+            "Brampton Steelheads": "-117",
+            "Brantford Bulldogs": "-106"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-151",
-            "Niagara IceDogs": "+122"
+            "Kitchener Rangers": "-150",
+            "Niagara IceDogs": "+121"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Ottawa 67's": "+171",
-            "Oshawa Generals": "-216"
+            "Ottawa 67's": "+179",
+            "Oshawa Generals": "-227"
         },
         "game_time": "7:00 pm"
     },
@@ -44,8 +44,8 @@
         "away_team": "North Bay Battalion",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-324",
-            "North Bay Battalion": "+246"
+            "Kingston Frontenacs": "-336",
+            "North Bay Battalion": "+255"
         },
         "game_time": "7:05 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Soo Greyhounds",
         "winner": "Soo Greyhounds",
         "odds": {
-            "Sarnia Sting": "+149",
+            "Sarnia Sting": "+148",
             "Soo Greyhounds": "-186"
         },
         "game_time": "7:05 pm"
@@ -64,8 +64,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Sudbury Wolves": "+107",
-            "Barrie Colts": "-132"
+            "Sudbury Wolves": "+106",
+            "Barrie Colts": "-131"
         },
         "game_time": "7:05 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Guelph Storm": "+215",
-            "Windsor Spitfires": "-278"
+            "Guelph Storm": "+217",
+            "Windsor Spitfires": "-281"
         },
         "game_time": "7:07 pm"
     }

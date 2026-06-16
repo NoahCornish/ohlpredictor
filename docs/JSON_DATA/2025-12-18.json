@@ -4,8 +4,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-132",
-            "Sudbury Wolves": "+107"
+            "Barrie Colts": "-131",
+            "Sudbury Wolves": "+106"
         },
         "game_time": "7:00 pm"
     },
@@ -14,8 +14,8 @@
         "away_team": "Guelph Storm",
         "winner": "Guelph Storm",
         "odds": {
-            "North Bay Battalion": "+105",
-            "Guelph Storm": "-130"
+            "North Bay Battalion": "+108",
+            "Guelph Storm": "-133"
         },
         "game_time": "7:00 pm"
     },
@@ -24,8 +24,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Peterborough Petes": "+238",
-            "Niagara IceDogs": "-311"
+            "Peterborough Petes": "+257",
+            "Niagara IceDogs": "-339"
         },
         "game_time": "7:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Soo Greyhounds",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-201",
-            "Soo Greyhounds": "+160"
+            "Windsor Spitfires": "-204",
+            "Soo Greyhounds": "+162"
         },
         "game_time": "7:05 pm"
     }
