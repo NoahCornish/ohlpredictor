@@ -25,7 +25,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Erie Otters": "+102",
-            "Barrie Colts": "-126"
+            "Barrie Colts": "-125"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-663",
+            "Kingston Frontenacs": "-665",
             "Peterborough Petes": "+445"
         },
         "game_time": "7:05 pm"
@@ -74,7 +74,7 @@
         "away_team": "Saginaw Spirit",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-125",
+            "Windsor Spitfires": "-124",
             "Saginaw Spirit": "+101"
         },
         "game_time": "7:05 pm"
@@ -84,7 +84,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-117",
+            "Guelph Storm": "-116",
             "Owen Sound Attack": "-106"
         },
         "game_time": "7:07 pm"
