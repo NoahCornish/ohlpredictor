@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-08",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Windsor Spitfires": "-119",
-            "Brampton Steelheads": "-104"
-        }
-    },
-    {
         "date": "2025-11-09",
         "home_team": "Sarnia Sting",
         "away_team": "North Bay Battalion",
@@ -60,7 +47,7 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Brantford Bulldogs": "-105",
+            "Brantford Bulldogs": "-106",
             "Brampton Steelheads": "-117"
         }
     },
@@ -73,7 +60,7 @@
         "home_score": 7,
         "away_score": 10,
         "odds": {
-            "Guelph Storm": "-116",
+            "Guelph Storm": "-117",
             "Owen Sound Attack": "-106"
         }
     },
@@ -113,7 +100,7 @@
         "away_score": 1,
         "odds": {
             "Brampton Steelheads": "-117",
-            "Brantford Bulldogs": "-105"
+            "Brantford Bulldogs": "-106"
         }
     },
     {
@@ -203,7 +190,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kingston Frontenacs": "-109",
+            "Kingston Frontenacs": "-110",
             "Windsor Spitfires": "-113"
         }
     },
@@ -282,7 +269,7 @@
         "away_score": 4,
         "odds": {
             "Owen Sound Attack": "-106",
-            "Guelph Storm": "-116"
+            "Guelph Storm": "-117"
         }
     },
     {
