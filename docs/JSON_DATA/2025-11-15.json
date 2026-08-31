@@ -14,7 +14,7 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brantford Bulldogs": "-106",
+            "Brantford Bulldogs": "-105",
             "Brampton Steelheads": "-117"
         },
         "game_time": "4:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Guelph Storm": "+163",
-            "Kitchener Rangers": "-205"
+            "Kitchener Rangers": "-206"
         },
         "game_time": "7:07 pm"
     },
@@ -54,8 +54,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Barrie Colts",
         "odds": {
-            "Barrie Colts": "-437",
-            "Peterborough Petes": "+319"
+            "Barrie Colts": "-438",
+            "Peterborough Petes": "+320"
         },
         "game_time": "7:30 pm"
     }

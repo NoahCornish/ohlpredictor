@@ -25,7 +25,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Owen Sound Attack": "+171",
-            "Kitchener Rangers": "-215"
+            "Kitchener Rangers": "-216"
         },
         "game_time": "7:00 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Guelph Storm",
         "winner": "Guelph Storm",
         "odds": {
-            "Peterborough Petes": "+190",
-            "Guelph Storm": "-242"
+            "Peterborough Petes": "+191",
+            "Guelph Storm": "-243"
         },
         "game_time": "7:05 pm"
     },
@@ -52,7 +52,7 @@
     {
         "home_team": "Soo Greyhounds",
         "away_team": "Niagara IceDogs",
-        "winner": "Soo Greyhounds",
+        "winner": "Niagara IceDogs",
         "odds": {
             "Soo Greyhounds": "-111",
             "Niagara IceDogs": "-111"

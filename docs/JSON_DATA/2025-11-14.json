@@ -15,7 +15,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Brantford Bulldogs": "-182",
-            "Flint Firebirds": "+146"
+            "Flint Firebirds": "+145"
         },
         "game_time": "7:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-321",
+            "London Knights": "-322",
             "Owen Sound Attack": "+245"
         },
         "game_time": "7:00 pm"
@@ -54,8 +54,8 @@
         "away_team": "Niagara IceDogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-201",
-            "Niagara IceDogs": "+160"
+            "Kingston Frontenacs": "-200",
+            "Niagara IceDogs": "+159"
         },
         "game_time": "7:05 pm"
     },
