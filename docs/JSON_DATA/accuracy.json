@@ -1,30 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-11-12",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 2,
-            "game_details": [
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 2,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 3,
-                    "away_score": 2
-                }
-            ]
-        },
-        {
             "date": "2025-11-13",
             "accuracy": 25.0,
             "correct_predictions": 1,
@@ -2081,13 +2057,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.5,
+    "total_accuracy": 50.0,
     "tossup_accuracy": 51.9,
-    "non_tossup_accuracy": 49.2,
+    "non_tossup_accuracy": 49.7,
     "total_correct": 107,
-    "total_games": 216,
+    "total_games": 214,
     "tossup_correct": 14,
     "tossup_games": 27,
     "non_tossup_correct": 93,
-    "non_tossup_games": 189
+    "non_tossup_games": 187
 }
