@@ -4,7 +4,7 @@
         "away_team": "Sudbury Wolves",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Brampton Steelheads": "-177",
+            "Brampton Steelheads": "-176",
             "Sudbury Wolves": "+141"
         },
         "game_time": "4:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Erie Otters",
         "odds": {
-            "Erie Otters": "-382",
-            "Peterborough Petes": "+284"
+            "Erie Otters": "-383",
+            "Peterborough Petes": "+285"
         },
         "game_time": "7:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "London Knights",
         "odds": {
             "Saginaw Spirit": "+109",
-            "London Knights": "-135"
+            "London Knights": "-134"
         },
         "game_time": "7:05 pm"
     },

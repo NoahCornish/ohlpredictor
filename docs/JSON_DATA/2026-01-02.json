@@ -34,7 +34,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-315",
+            "Kingston Frontenacs": "-316",
             "Ottawa 67's": "+241"
         },
         "game_time": "7:05 pm"
@@ -44,7 +44,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Sarnia Sting": "+106",
+            "Sarnia Sting": "+105",
             "Owen Sound Attack": "-130"
         },
         "game_time": "7:05 pm"
@@ -54,7 +54,7 @@
         "away_team": "North Bay Battalion",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-194",
+            "Sudbury Wolves": "-195",
             "North Bay Battalion": "+155"
         },
         "game_time": "7:05 pm"
@@ -65,7 +65,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Guelph Storm": "+193",
-            "Brantford Bulldogs": "-246"
+            "Brantford Bulldogs": "-247"
         },
         "game_time": "7:07 pm"
     }

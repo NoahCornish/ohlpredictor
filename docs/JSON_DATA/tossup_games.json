@@ -1,31 +1,5 @@
 [
     {
-        "date": "2025-11-14",
-        "home_team": "Ottawa 67's",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 9,
-        "away_score": 3,
-        "odds": {
-            "Ottawa 67's": "-121",
-            "Sarnia Sting": "-102"
-        }
-    },
-    {
-        "date": "2025-11-14",
-        "home_team": "Sudbury Wolves",
-        "away_team": "Erie Otters",
-        "predicted_winner": "Erie Otters",
-        "actual_winner": "Erie Otters",
-        "home_score": 3,
-        "away_score": 6,
-        "odds": {
-            "Sudbury Wolves": "-107",
-            "Erie Otters": "-116"
-        }
-    },
-    {
         "date": "2025-11-15",
         "home_team": "Brantford Bulldogs",
         "away_team": "Brampton Steelheads",
@@ -47,7 +21,7 @@
         "home_score": 7,
         "away_score": 10,
         "odds": {
-            "Guelph Storm": "-117",
+            "Guelph Storm": "-116",
             "Owen Sound Attack": "-106"
         }
     },
@@ -117,6 +91,19 @@
         }
     },
     {
+        "date": "2025-12-03",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-100",
+            "Kingston Frontenacs": "-124"
+        }
+    },
+    {
         "date": "2025-12-04",
         "home_team": "North Bay Battalion",
         "away_team": "Sarnia Sting",
@@ -177,7 +164,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kingston Frontenacs": "-110",
+            "Kingston Frontenacs": "-109",
             "Windsor Spitfires": "-113"
         }
     },
@@ -192,6 +179,19 @@
         "odds": {
             "Niagara IceDogs": "-113",
             "Flint Firebirds": "-109"
+        }
+    },
+    {
+        "date": "2025-12-19",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Kingston Frontenacs": "-124",
+            "Brantford Bulldogs": "-100"
         }
     },
     {
@@ -256,7 +256,7 @@
         "away_score": 4,
         "odds": {
             "Owen Sound Attack": "-106",
-            "Guelph Storm": "-117"
+            "Guelph Storm": "-116"
         }
     },
     {
