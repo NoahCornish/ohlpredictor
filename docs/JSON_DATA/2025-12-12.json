@@ -24,7 +24,7 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Kingston Frontenacs": "-109",
+            "Kingston Frontenacs": "-110",
             "Windsor Spitfires": "-113"
         },
         "game_time": "7:05 pm"
@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-227",
-            "Ottawa 67's": "+179"
+            "Oshawa Generals": "-228",
+            "Ottawa 67's": "+180"
         },
         "game_time": "7:05 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Soo Greyhounds": "+151",
-            "Brampton Steelheads": "-190"
+            "Brampton Steelheads": "-189"
         },
         "game_time": "7:07 pm"
     }
