@@ -5,7 +5,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Brampton Steelheads": "-149",
-            "Barrie Colts": "+120"
+            "Barrie Colts": "+121"
         },
         "game_time": "7:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Kitchener Rangers",
         "odds": {
             "Kitchener Rangers": "-215",
-            "Owen Sound Attack": "+171"
+            "Owen Sound Attack": "+170"
         },
         "game_time": "7:00 pm"
     },
@@ -54,7 +54,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Ottawa 67's",
         "odds": {
-            "Ottawa 67's": "-214",
+            "Ottawa 67's": "-213",
             "Peterborough Petes": "+169"
         },
         "game_time": "7:00 pm"
@@ -65,7 +65,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Kingston Frontenacs": "-124",
-            "Brantford Bulldogs": "-100"
+            "Brantford Bulldogs": "+100"
         },
         "game_time": "7:05 pm"
     },
