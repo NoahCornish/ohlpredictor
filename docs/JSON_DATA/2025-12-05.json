@@ -14,8 +14,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-475",
-            "Peterborough Petes": "+341"
+            "Kitchener Rangers": "-476",
+            "Peterborough Petes": "+342"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Erie Otters",
         "winner": "Erie Otters",
         "odds": {
-            "Owen Sound Attack": "+141",
+            "Owen Sound Attack": "+142",
             "Erie Otters": "-177"
         },
         "game_time": "7:00 pm"
@@ -84,7 +84,7 @@
         "away_team": "Oshawa Generals",
         "winner": "Oshawa Generals",
         "odds": {
-            "Soo Greyhounds": "+119",
+            "Soo Greyhounds": "+118",
             "Oshawa Generals": "-147"
         },
         "game_time": "7:07 pm"
