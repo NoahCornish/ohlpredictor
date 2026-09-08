@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-18",
-        "home_team": "Kitchener Rangers",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 3,
-        "away_score": 1,
-        "odds": {
-            "Kitchener Rangers": "-206",
-            "Guelph Storm": "+163"
-        }
-    },
-    {
         "date": "2025-11-19",
         "home_team": "Kingston Frontenacs",
         "away_team": "Ottawa 67's",
@@ -619,7 +606,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "London Knights": "-161",
+            "London Knights": "-162",
             "Kitchener Rangers": "+130"
         }
     },
@@ -828,7 +815,7 @@
         "away_score": 5,
         "odds": {
             "Guelph Storm": "+163",
-            "Kitchener Rangers": "-206"
+            "Kitchener Rangers": "-205"
         }
     },
     {
@@ -1257,7 +1244,7 @@
         "away_score": 2,
         "odds": {
             "North Bay Battalion": "+108",
-            "Guelph Storm": "-133"
+            "Guelph Storm": "-134"
         }
     },
     {
