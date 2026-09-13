@@ -1,86 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-11-21",
-            "accuracy": 44.4,
-            "correct_predictions": 4,
-            "total_games": 9,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 1,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 7,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 2,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Kitchener Rangers",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 3,
-                    "away_score": 5
-                },
-                {
-                    "home_team": "Kingston Frontenacs",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 2,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Oshawa Generals",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 4,
-                    "away_score": 0
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 6,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Windsor Spitfires",
-                    "away_team": "Saginaw Spirit",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 4,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Guelph Storm",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 7,
-                    "away_score": 10
-                }
-            ]
-        },
-        {
             "date": "2025-11-22",
             "accuracy": 71.4,
             "correct_predictions": 5,
@@ -1777,13 +1697,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.5,
-    "tossup_accuracy": 46.2,
+    "total_accuracy": 49.7,
+    "tossup_accuracy": 47.8,
     "non_tossup_accuracy": 50.0,
-    "total_correct": 92,
-    "total_games": 186,
-    "tossup_correct": 12,
-    "tossup_games": 26,
-    "non_tossup_correct": 80,
-    "non_tossup_games": 160
+    "total_correct": 88,
+    "total_games": 177,
+    "tossup_correct": 11,
+    "tossup_games": 23,
+    "non_tossup_correct": 77,
+    "non_tossup_games": 154
 }

@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-21",
-        "home_team": "Guelph Storm",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 7,
-        "away_score": 10,
-        "odds": {
-            "Guelph Storm": "-116",
-            "Owen Sound Attack": "-106"
-        }
-    },
-    {
         "date": "2025-11-22",
         "home_team": "Owen Sound Attack",
         "away_team": "Ottawa 67's",
@@ -48,7 +35,7 @@
         "away_score": 1,
         "odds": {
             "Brampton Steelheads": "-117",
-            "Brantford Bulldogs": "-106"
+            "Brantford Bulldogs": "-105"
         }
     },
     {
@@ -75,19 +62,6 @@
         "odds": {
             "Ottawa 67's": "-117",
             "North Bay Battalion": "-105"
-        }
-    },
-    {
-        "date": "2025-12-03",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Brantford Bulldogs": "-100",
-            "Kingston Frontenacs": "-123"
         }
     },
     {
@@ -169,19 +143,6 @@
         }
     },
     {
-        "date": "2025-12-19",
-        "home_team": "Kingston Frontenacs",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Kingston Frontenacs": "-123",
-            "Brantford Bulldogs": "-100"
-        }
-    },
-    {
         "date": "2025-12-20",
         "home_team": "Brampton Steelheads",
         "away_team": "Kingston Frontenacs",
@@ -217,7 +178,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "-119",
-            "Barrie Colts": "-104"
+            "Barrie Colts": "-103"
         }
     },
     {
@@ -243,7 +204,7 @@
         "away_score": 4,
         "odds": {
             "Owen Sound Attack": "-106",
-            "Guelph Storm": "-116"
+            "Guelph Storm": "-117"
         }
     },
     {

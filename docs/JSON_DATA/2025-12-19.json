@@ -64,8 +64,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-123",
-            "Brantford Bulldogs": "-100"
+            "Kingston Frontenacs": "-124",
+            "Brantford Bulldogs": "+100"
         },
         "game_time": "7:05 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Guelph Storm",
         "winner": "Sudbury Wolves",
         "odds": {
-            "Sudbury Wolves": "-162",
+            "Sudbury Wolves": "-161",
             "Guelph Storm": "+130"
         },
         "game_time": "7:05 pm"
