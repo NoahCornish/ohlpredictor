@@ -5,7 +5,7 @@
         "winner": "Guelph Storm",
         "odds": {
             "Ottawa 67's": "+102",
-            "Guelph Storm": "-127"
+            "Guelph Storm": "-126"
         },
         "game_time": "3:00 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Erie Otters",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-160",
+            "Brantford Bulldogs": "-161",
             "Erie Otters": "+129"
         },
         "game_time": "4:00 pm"
@@ -25,7 +25,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Saginaw Spirit": "-309",
-            "Sarnia Sting": "+237"
+            "Sarnia Sting": "+236"
         },
         "game_time": "7:05 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Kitchener Rangers",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Sudbury Wolves": "+114",
+            "Sudbury Wolves": "+113",
             "Kitchener Rangers": "-141"
         },
         "game_time": "7:05 pm"

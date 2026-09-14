@@ -1,70 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-11-22",
-            "accuracy": 71.4,
-            "correct_predictions": 5,
-            "total_games": 7,
-            "game_details": [
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 3,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 4,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "Barrie Colts",
-                    "predicted_winner": "Barrie Colts",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 3,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Ottawa 67's",
-                    "predicted_winner": "Owen Sound Attack",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 2,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 6,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Saginaw Spirit",
-                    "home_score": 2,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 3,
-                    "away_score": 4
-                }
-            ]
-        },
-        {
             "date": "2025-11-23",
             "accuracy": 100.0,
             "correct_predictions": 4,
@@ -1697,13 +1633,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.7,
-    "tossup_accuracy": 47.8,
-    "non_tossup_accuracy": 50.0,
-    "total_correct": 88,
-    "total_games": 177,
-    "tossup_correct": 11,
-    "tossup_games": 23,
-    "non_tossup_correct": 77,
-    "non_tossup_games": 154
+    "total_accuracy": 48.8,
+    "tossup_accuracy": 45.5,
+    "non_tossup_accuracy": 49.3,
+    "total_correct": 83,
+    "total_games": 170,
+    "tossup_correct": 10,
+    "tossup_games": 22,
+    "non_tossup_correct": 73,
+    "non_tossup_games": 148
 }
