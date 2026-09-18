@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-23",
-        "home_team": "Oshawa Generals",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 2,
-        "away_score": 6,
-        "odds": {
-            "Oshawa Generals": "-108",
-            "Kitchener Rangers": "-114"
-        }
-    },
-    {
         "date": "2025-11-28",
         "home_team": "Brampton Steelheads",
         "away_team": "Brantford Bulldogs",
@@ -22,7 +9,7 @@
         "away_score": 1,
         "odds": {
             "Brampton Steelheads": "-117",
-            "Brantford Bulldogs": "-105"
+            "Brantford Bulldogs": "-106"
         }
     },
     {
@@ -35,7 +22,7 @@
         "away_score": 2,
         "odds": {
             "Flint Firebirds": "-109",
-            "Soo Greyhounds": "-113"
+            "Soo Greyhounds": "-114"
         }
     },
     {
@@ -139,7 +126,7 @@
         "away_score": 4,
         "odds": {
             "Brampton Steelheads": "-105",
-            "Kingston Frontenacs": "-117"
+            "Kingston Frontenacs": "-118"
         }
     },
     {
@@ -151,7 +138,7 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "Soo Greyhounds": "-113",
+            "Soo Greyhounds": "-114",
             "Flint Firebirds": "-109"
         }
     },
@@ -190,7 +177,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "-105",
+            "Owen Sound Attack": "-106",
             "Guelph Storm": "-117"
         }
     },
