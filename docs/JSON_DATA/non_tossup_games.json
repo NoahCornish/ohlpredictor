@@ -256,7 +256,7 @@
         "away_score": 1,
         "odds": {
             "Barrie Colts": "+128",
-            "Kingston Frontenacs": "-158"
+            "Kingston Frontenacs": "-159"
         }
     },
     {
@@ -451,7 +451,7 @@
         "away_score": 4,
         "odds": {
             "Kingston Frontenacs": "-205",
-            "Flint Firebirds": "+162"
+            "Flint Firebirds": "+163"
         }
     },
     {
@@ -515,7 +515,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-158",
+            "Kingston Frontenacs": "-159",
             "Barrie Colts": "+128"
         }
     },
@@ -1269,7 +1269,7 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Ottawa 67's": "+242",
+            "Ottawa 67's": "+243",
             "Kingston Frontenacs": "-318"
         }
     },
@@ -1490,8 +1490,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Peterborough Petes": "+450",
-            "Kingston Frontenacs": "-674"
+            "Peterborough Petes": "+451",
+            "Kingston Frontenacs": "-675"
         }
     },
     {
@@ -1530,7 +1530,7 @@
         "away_score": 3,
         "odds": {
             "Kingston Frontenacs": "-318",
-            "Ottawa 67's": "+242"
+            "Ottawa 67's": "+243"
         }
     },
     {
@@ -1828,7 +1828,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Flint Firebirds": "+162",
+            "Flint Firebirds": "+163",
             "Kingston Frontenacs": "-205"
         }
     },
