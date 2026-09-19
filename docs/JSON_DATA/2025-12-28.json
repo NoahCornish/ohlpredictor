@@ -4,7 +4,7 @@
         "away_team": "Erie Otters",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-135",
+            "Kitchener Rangers": "-134",
             "Erie Otters": "+109"
         },
         "game_time": "2:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "North Bay Battalion": "+182",
-            "Barrie Colts": "-231"
+            "North Bay Battalion": "+181",
+            "Barrie Colts": "-230"
         },
         "game_time": "2:00 pm"
     },
@@ -35,7 +35,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Owen Sound Attack": "+203",
-            "Brantford Bulldogs": "-260"
+            "Brantford Bulldogs": "-261"
         },
         "game_time": "2:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Saginaw Spirit",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Soo Greyhounds": "+145",
+            "Soo Greyhounds": "+144",
             "Saginaw Spirit": "-181"
         },
         "game_time": "2:07 pm"
