@@ -34,8 +34,8 @@
         "away_team": "Sarnia Sting",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-381",
-            "Sarnia Sting": "+284"
+            "London Knights": "-380",
+            "Sarnia Sting": "+283"
         },
         "game_time": "4:00 pm"
     },
@@ -45,7 +45,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "Soo Greyhounds": "-114",
-            "Flint Firebirds": "-108"
+            "Flint Firebirds": "-109"
         },
         "game_time": "4:07 pm"
     },
@@ -75,7 +75,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Barrie Colts": "-130",
-            "Sudbury Wolves": "+106"
+            "Sudbury Wolves": "+105"
         },
         "game_time": "7:30 pm"
     }

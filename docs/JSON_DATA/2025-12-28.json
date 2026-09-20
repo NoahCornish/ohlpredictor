@@ -4,7 +4,7 @@
         "away_team": "Erie Otters",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-134",
+            "Kitchener Rangers": "-135",
             "Erie Otters": "+109"
         },
         "game_time": "2:00 pm"
@@ -14,8 +14,8 @@
         "away_team": "Brampton Steelheads",
         "winner": "Brampton Steelheads",
         "odds": {
-            "Niagara IceDogs": "+151",
-            "Brampton Steelheads": "-189"
+            "Niagara IceDogs": "+150",
+            "Brampton Steelheads": "-188"
         },
         "game_time": "2:00 pm"
     },
@@ -34,7 +34,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Owen Sound Attack": "+202",
+            "Owen Sound Attack": "+203",
             "Brantford Bulldogs": "-260"
         },
         "game_time": "2:00 pm"
@@ -84,8 +84,8 @@
         "away_team": "London Knights",
         "winner": "London Knights",
         "odds": {
-            "Sarnia Sting": "+284",
-            "London Knights": "-381"
+            "Sarnia Sting": "+283",
+            "London Knights": "-380"
         },
         "game_time": "7:05 pm"
     }
