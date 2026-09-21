@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-28",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Brampton Steelheads",
-        "home_score": 2,
-        "away_score": 1,
-        "odds": {
-            "Brampton Steelheads": "-117",
-            "Brantford Bulldogs": "-106"
-        }
-    },
-    {
         "date": "2025-11-29",
         "home_team": "Flint Firebirds",
         "away_team": "Soo Greyhounds",
@@ -47,8 +34,8 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "North Bay Battalion": "-113",
-            "Sarnia Sting": "-109"
+            "North Bay Battalion": "-112",
+            "Sarnia Sting": "-110"
         }
     },
     {
@@ -152,7 +139,7 @@
         "away_score": 3,
         "odds": {
             "Kitchener Rangers": "-119",
-            "Barrie Colts": "-103"
+            "Barrie Colts": "-104"
         }
     },
     {
@@ -178,7 +165,7 @@
         "away_score": 4,
         "odds": {
             "Owen Sound Attack": "-106",
-            "Guelph Storm": "-117"
+            "Guelph Storm": "-116"
         }
     },
     {
@@ -216,7 +203,7 @@
         "home_score": 1,
         "away_score": 6,
         "odds": {
-            "Saginaw Spirit": "-101",
+            "Saginaw Spirit": "-100",
             "Kingston Frontenacs": "-123"
         }
     },
@@ -242,7 +229,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Sudbury Wolves": "-119",
+            "Sudbury Wolves": "-118",
             "Niagara IceDogs": "-104"
         }
     },
