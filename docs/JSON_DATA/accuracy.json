@@ -1,70 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-11-29",
-            "accuracy": 57.1,
-            "correct_predictions": 4,
-            "total_games": 7,
-            "game_details": [
-                {
-                    "home_team": "Brampton Steelheads",
-                    "away_team": "Sudbury Wolves",
-                    "predicted_winner": "Brampton Steelheads",
-                    "actual_winner": "Sudbury Wolves",
-                    "home_score": 1,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "Windsor Spitfires",
-                    "home_score": 2,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Brantford Bulldogs",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Brantford Bulldogs",
-                    "actual_winner": "Brantford Bulldogs",
-                    "home_score": 4,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Peterborough Petes",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Erie Otters",
-                    "home_score": 5,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Flint Firebirds",
-                    "away_team": "Soo Greyhounds",
-                    "predicted_winner": "Soo Greyhounds",
-                    "actual_winner": "Flint Firebirds",
-                    "home_score": 3,
-                    "away_score": 2
-                },
-                {
-                    "home_team": "Saginaw Spirit",
-                    "away_team": "London Knights",
-                    "predicted_winner": "London Knights",
-                    "actual_winner": "London Knights",
-                    "home_score": 5,
-                    "away_score": 8
-                },
-                {
-                    "home_team": "Barrie Colts",
-                    "away_team": "Kingston Frontenacs",
-                    "predicted_winner": "Kingston Frontenacs",
-                    "actual_winner": "Barrie Colts",
-                    "home_score": 2,
-                    "away_score": 1
-                }
-            ]
-        },
-        {
             "date": "2025-11-30",
             "accuracy": 16.7,
             "correct_predictions": 1,
@@ -1473,13 +1409,13 @@
             ]
         }
     ],
-    "total_accuracy": 47.4,
-    "tossup_accuracy": 40.0,
-    "non_tossup_accuracy": 48.5,
-    "total_correct": 73,
-    "total_games": 154,
+    "total_accuracy": 46.9,
+    "tossup_accuracy": 42.1,
+    "non_tossup_accuracy": 47.7,
+    "total_correct": 69,
+    "total_games": 147,
     "tossup_correct": 8,
-    "tossup_games": 20,
-    "non_tossup_correct": 65,
-    "non_tossup_games": 134
+    "tossup_games": 19,
+    "non_tossup_correct": 61,
+    "non_tossup_games": 128
 }
