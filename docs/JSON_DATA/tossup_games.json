@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-11-30",
-        "home_team": "Ottawa 67's",
-        "away_team": "North Bay Battalion",
-        "predicted_winner": "Ottawa 67's",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 6,
-        "away_score": 3,
-        "odds": {
-            "Ottawa 67's": "-117",
-            "North Bay Battalion": "-106"
-        }
-    },
-    {
         "date": "2025-12-04",
         "home_team": "North Bay Battalion",
         "away_team": "Sarnia Sting",
@@ -22,7 +9,7 @@
         "away_score": 1,
         "odds": {
             "North Bay Battalion": "-113",
-            "Sarnia Sting": "-110"
+            "Sarnia Sting": "-109"
         }
     },
     {
@@ -74,7 +61,7 @@
         "away_score": 3,
         "odds": {
             "Kingston Frontenacs": "-110",
-            "Windsor Spitfires": "-113"
+            "Windsor Spitfires": "-112"
         }
     },
     {

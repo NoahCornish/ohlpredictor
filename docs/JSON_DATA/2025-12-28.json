@@ -35,7 +35,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Owen Sound Attack": "+203",
-            "Brantford Bulldogs": "-260"
+            "Brantford Bulldogs": "-261"
         },
         "game_time": "2:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "Ottawa 67's": "+244",
-            "Kingston Frontenacs": "-320"
+            "Kingston Frontenacs": "-321"
         },
         "game_time": "3:00 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-465",
+            "Oshawa Generals": "-466",
             "Peterborough Petes": "+336"
         },
         "game_time": "6:05 pm"
@@ -85,7 +85,7 @@
         "winner": "London Knights",
         "odds": {
             "Sarnia Sting": "+283",
-            "London Knights": "-379"
+            "London Knights": "-380"
         },
         "game_time": "7:05 pm"
     }
