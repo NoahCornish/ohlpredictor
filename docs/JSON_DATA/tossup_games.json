@@ -1,5 +1,18 @@
 [
     {
+        "date": "2025-12-03",
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Kingston Frontenacs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Brantford Bulldogs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Brantford Bulldogs": "-100",
+            "Kingston Frontenacs": "-123"
+        }
+    },
+    {
         "date": "2025-12-04",
         "home_team": "North Bay Battalion",
         "away_team": "Sarnia Sting",
@@ -61,7 +74,7 @@
         "away_score": 3,
         "odds": {
             "Kingston Frontenacs": "-110",
-            "Windsor Spitfires": "-112"
+            "Windsor Spitfires": "-113"
         }
     },
     {
@@ -75,6 +88,19 @@
         "odds": {
             "Niagara IceDogs": "-114",
             "Flint Firebirds": "-108"
+        }
+    },
+    {
+        "date": "2025-12-19",
+        "home_team": "Kingston Frontenacs",
+        "away_team": "Brantford Bulldogs",
+        "predicted_winner": "Kingston Frontenacs",
+        "actual_winner": "Kingston Frontenacs",
+        "home_score": 4,
+        "away_score": 2,
+        "odds": {
+            "Kingston Frontenacs": "-123",
+            "Brantford Bulldogs": "-100"
         }
     },
     {
@@ -100,7 +126,7 @@
         "away_score": 3,
         "odds": {
             "Soo Greyhounds": "-114",
-            "Flint Firebirds": "-109"
+            "Flint Firebirds": "-108"
         }
     },
     {
@@ -191,7 +217,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "-114",
-            "Oshawa Generals": "-109"
+            "Oshawa Generals": "-108"
         }
     },
     {
@@ -203,7 +229,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Sudbury Wolves": "-119",
+            "Sudbury Wolves": "-118",
             "Niagara IceDogs": "-104"
         }
     },
@@ -229,7 +255,7 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Oshawa Generals": "-117",
+            "Oshawa Generals": "-116",
             "Barrie Colts": "-106"
         }
     }

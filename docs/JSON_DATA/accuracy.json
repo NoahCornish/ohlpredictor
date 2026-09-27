@@ -1354,12 +1354,12 @@
         }
     ],
     "total_accuracy": 48.2,
-    "tossup_accuracy": 38.9,
+    "tossup_accuracy": 40.0,
     "non_tossup_accuracy": 49.6,
     "total_correct": 68,
     "total_games": 141,
-    "tossup_correct": 7,
-    "tossup_games": 18,
-    "non_tossup_correct": 61,
-    "non_tossup_games": 123
+    "tossup_correct": 8,
+    "tossup_games": 20,
+    "non_tossup_correct": 60,
+    "non_tossup_games": 121
 }
