@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-12-05",
-        "home_team": "London Knights",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "London Knights",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 1,
-        "away_score": 4,
-        "odds": {
-            "London Knights": "-120",
-            "Windsor Spitfires": "-103"
-        }
-    },
-    {
         "date": "2025-12-06",
         "home_team": "Brampton Steelheads",
         "away_team": "Saginaw Spirit",
@@ -73,7 +60,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Kingston Frontenacs": "-123",
+            "Kingston Frontenacs": "-124",
             "Brantford Bulldogs": "-100"
         }
     },
@@ -165,7 +152,7 @@
         "away_score": 2,
         "odds": {
             "North Bay Battalion": "-105",
-            "Ottawa 67's": "-117"
+            "Ottawa 67's": "-118"
         }
     },
     {
