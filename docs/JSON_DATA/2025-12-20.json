@@ -4,8 +4,8 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Ottawa 67's": "+220",
-            "Brantford Bulldogs": "-285"
+            "Ottawa 67's": "+219",
+            "Brantford Bulldogs": "-284"
         },
         "game_time": "3:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Oshawa Generals",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-136",
+            "Saginaw Spirit": "-137",
             "Oshawa Generals": "+110"
         },
         "game_time": "7:05 pm"
@@ -55,7 +55,7 @@
         "winner": "London Knights",
         "odds": {
             "Barrie Colts": "+140",
-            "London Knights": "-175"
+            "London Knights": "-174"
         },
         "game_time": "7:30 pm"
     }
