@@ -26,19 +26,6 @@
         }
     },
     {
-        "date": "2025-12-19",
-        "home_team": "Kingston Frontenacs",
-        "away_team": "Brantford Bulldogs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Kingston Frontenacs": "-123",
-            "Brantford Bulldogs": "-100"
-        }
-    },
-    {
         "date": "2025-12-20",
         "home_team": "Brampton Steelheads",
         "away_team": "Kingston Frontenacs",
@@ -152,7 +139,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "-114",
-            "Oshawa Generals": "-109"
+            "Oshawa Generals": "-108"
         }
     },
     {

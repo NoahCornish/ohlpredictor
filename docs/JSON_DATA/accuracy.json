@@ -1,54 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2025-12-07",
-            "accuracy": 80.0,
-            "correct_predictions": 4,
-            "total_games": 5,
-            "game_details": [
-                {
-                    "home_team": "Niagara IceDogs",
-                    "away_team": "North Bay Battalion",
-                    "predicted_winner": "Niagara IceDogs",
-                    "actual_winner": "Niagara IceDogs",
-                    "home_score": 2,
-                    "away_score": 1
-                },
-                {
-                    "home_team": "Sudbury Wolves",
-                    "away_team": "Oshawa Generals",
-                    "predicted_winner": "Oshawa Generals",
-                    "actual_winner": "Oshawa Generals",
-                    "home_score": 3,
-                    "away_score": 6
-                },
-                {
-                    "home_team": "Guelph Storm",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Kitchener Rangers",
-                    "home_score": 4,
-                    "away_score": 5
-                },
-                {
-                    "home_team": "Soo Greyhounds",
-                    "away_team": "Sarnia Sting",
-                    "predicted_winner": "Soo Greyhounds",
-                    "actual_winner": "Soo Greyhounds",
-                    "home_score": 7,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "Ottawa 67's",
-                    "away_team": "Flint Firebirds",
-                    "predicted_winner": "Flint Firebirds",
-                    "actual_winner": "Ottawa 67's",
-                    "home_score": 3,
-                    "away_score": 2
-                }
-            ]
-        },
-        {
             "date": "2025-12-10",
             "accuracy": 66.7,
             "correct_predictions": 2,
@@ -1145,13 +1097,13 @@
             ]
         }
     ],
-    "total_accuracy": 49.2,
-    "tossup_accuracy": 33.3,
-    "non_tossup_accuracy": 51.4,
-    "total_correct": 59,
-    "total_games": 120,
-    "tossup_correct": 5,
-    "tossup_games": 15,
-    "non_tossup_correct": 54,
-    "non_tossup_games": 105
+    "total_accuracy": 47.8,
+    "tossup_accuracy": 28.6,
+    "non_tossup_accuracy": 50.5,
+    "total_correct": 55,
+    "total_games": 115,
+    "tossup_correct": 4,
+    "tossup_games": 14,
+    "non_tossup_correct": 51,
+    "non_tossup_games": 101
 }
