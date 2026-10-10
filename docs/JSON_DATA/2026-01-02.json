@@ -34,8 +34,8 @@
         "away_team": "Ottawa 67's",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Kingston Frontenacs": "-320",
-            "Ottawa 67's": "+244"
+            "Kingston Frontenacs": "-321",
+            "Ottawa 67's": "+245"
         },
         "game_time": "7:05 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Owen Sound Attack",
         "odds": {
-            "Sarnia Sting": "+104",
+            "Sarnia Sting": "+103",
             "Owen Sound Attack": "-128"
         },
         "game_time": "7:05 pm"
@@ -65,7 +65,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Guelph Storm": "+193",
-            "Brantford Bulldogs": "-247"
+            "Brantford Bulldogs": "-246"
         },
         "game_time": "7:07 pm"
     }
