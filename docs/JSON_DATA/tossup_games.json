@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-12-12",
-        "home_team": "Kingston Frontenacs",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Kingston Frontenacs",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Kingston Frontenacs": "-110",
-            "Windsor Spitfires": "-112"
-        }
-    },
-    {
         "date": "2025-12-19",
         "home_team": "Niagara IceDogs",
         "away_team": "Flint Firebirds",
@@ -34,7 +21,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "Brampton Steelheads": "-104",
+            "Brampton Steelheads": "-105",
             "Kingston Frontenacs": "-118"
         }
     },
@@ -48,7 +35,7 @@
         "away_score": 3,
         "odds": {
             "Soo Greyhounds": "-114",
-            "Flint Firebirds": "-108"
+            "Flint Firebirds": "-109"
         }
     },
     {
@@ -112,7 +99,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "North Bay Battalion": "-105",
+            "North Bay Battalion": "-106",
             "Ottawa 67's": "-117"
         }
     },
@@ -125,7 +112,7 @@
         "home_score": 1,
         "away_score": 6,
         "odds": {
-            "Saginaw Spirit": "-100",
+            "Saginaw Spirit": "-101",
             "Kingston Frontenacs": "-123"
         }
     },
