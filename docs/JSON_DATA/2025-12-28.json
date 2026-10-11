@@ -54,8 +54,8 @@
         "away_team": "Kingston Frontenacs",
         "winner": "Kingston Frontenacs",
         "odds": {
-            "Ottawa 67's": "+245",
-            "Kingston Frontenacs": "-321"
+            "Ottawa 67's": "+244",
+            "Kingston Frontenacs": "-320"
         },
         "game_time": "3:00 pm"
     },
@@ -74,8 +74,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-464",
-            "Peterborough Petes": "+335"
+            "Oshawa Generals": "-467",
+            "Peterborough Petes": "+337"
         },
         "game_time": "6:05 pm"
     },
@@ -85,7 +85,7 @@
         "winner": "London Knights",
         "odds": {
             "Sarnia Sting": "+282",
-            "London Knights": "-377"
+            "London Knights": "-378"
         },
         "game_time": "7:05 pm"
     }
