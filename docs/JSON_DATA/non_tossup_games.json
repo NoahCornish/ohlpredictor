@@ -1,44 +1,5 @@
 [
     {
-        "date": "2025-12-17",
-        "home_team": "Owen Sound Attack",
-        "away_team": "London Knights",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 4,
-        "away_score": 5,
-        "odds": {
-            "Owen Sound Attack": "+245",
-            "London Knights": "-322"
-        }
-    },
-    {
-        "date": "2025-12-17",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Soo Greyhounds",
-        "predicted_winner": "Saginaw Spirit",
-        "actual_winner": "Soo Greyhounds",
-        "home_score": 4,
-        "away_score": 8,
-        "odds": {
-            "Saginaw Spirit": "-181",
-            "Soo Greyhounds": "+145"
-        }
-    },
-    {
-        "date": "2025-12-17",
-        "home_team": "Sarnia Sting",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 2,
-        "away_score": 5,
-        "odds": {
-            "Sarnia Sting": "+198",
-            "Kitchener Rangers": "-253"
-        }
-    },
-    {
         "date": "2025-12-18",
         "home_team": "Barrie Colts",
         "away_team": "Sudbury Wolves",
@@ -86,7 +47,7 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-203",
+            "Windsor Spitfires": "-204",
             "Soo Greyhounds": "+162"
         }
     },
@@ -203,7 +164,7 @@
         "home_score": 3,
         "away_score": 5,
         "odds": {
-            "Erie Otters": "-126",
+            "Erie Otters": "-127",
             "Flint Firebirds": "+102"
         }
     },
@@ -308,7 +269,7 @@
         "away_score": 5,
         "odds": {
             "Soo Greyhounds": "+145",
-            "Saginaw Spirit": "-181"
+            "Saginaw Spirit": "-182"
         }
     },
     {
@@ -438,7 +399,7 @@
         "away_score": 4,
         "odds": {
             "North Bay Battalion": "+195",
-            "Kitchener Rangers": "-250"
+            "Kitchener Rangers": "-249"
         }
     },
     {
@@ -671,7 +632,7 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Saginaw Spirit": "-181",
+            "Saginaw Spirit": "-182",
             "Soo Greyhounds": "+145"
         }
     },
