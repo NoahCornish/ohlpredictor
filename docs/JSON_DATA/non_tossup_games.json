@@ -1,18 +1,5 @@
 [
     {
-        "date": "2025-12-29",
-        "home_team": "Brampton Steelheads",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Niagara IceDogs",
-        "home_score": 3,
-        "away_score": 4,
-        "odds": {
-            "Brampton Steelheads": "-188",
-            "Niagara IceDogs": "+150"
-        }
-    },
-    {
         "date": "2025-12-30",
         "home_team": "Ottawa 67's",
         "away_team": "Guelph Storm",
@@ -139,7 +126,7 @@
         "away_score": 1,
         "odds": {
             "Niagara IceDogs": "+118",
-            "Oshawa Generals": "-146"
+            "Oshawa Generals": "-147"
         }
     },
     {
@@ -217,7 +204,7 @@
         "away_score": 3,
         "odds": {
             "Kingston Frontenacs": "-321",
-            "Ottawa 67's": "+244"
+            "Ottawa 67's": "+245"
         }
     },
     {
@@ -320,7 +307,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Barrie Colts": "-138",
+            "Barrie Colts": "-139",
             "Niagara IceDogs": "+112"
         }
     },
@@ -372,7 +359,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-179",
+            "Brantford Bulldogs": "-180",
             "Niagara IceDogs": "+144"
         }
     },
@@ -593,7 +580,7 @@
         "home_score": 4,
         "away_score": 6,
         "odds": {
-            "Sudbury Wolves": "-185",
+            "Sudbury Wolves": "-186",
             "Ottawa 67's": "+148"
         }
     },
