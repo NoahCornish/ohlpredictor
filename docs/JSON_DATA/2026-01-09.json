@@ -24,7 +24,7 @@
         "away_team": "Oshawa Generals",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-113",
+            "Kitchener Rangers": "-114",
             "Oshawa Generals": "-109"
         },
         "game_time": "7:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Erie Otters",
         "odds": {
             "Sarnia Sting": "+164",
-            "Erie Otters": "-207"
+            "Erie Otters": "-206"
         },
         "game_time": "7:05 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Sudbury Wolves": "-118",
-            "Niagara IceDogs": "-104"
+            "Niagara IceDogs": "-105"
         },
         "game_time": "7:05 pm"
     },
@@ -64,7 +64,7 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Guelph Storm": "+150",
+            "Guelph Storm": "+149",
             "Barrie Colts": "-187"
         },
         "game_time": "7:07 pm"
@@ -75,7 +75,7 @@
         "winner": "Soo Greyhounds",
         "odds": {
             "Soo Greyhounds": "-174",
-            "Ottawa 67's": "+139"
+            "Ottawa 67's": "+140"
         },
         "game_time": "7:07 pm"
     }
