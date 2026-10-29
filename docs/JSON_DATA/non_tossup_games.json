@@ -1,31 +1,5 @@
 [
     {
-        "date": "2026-01-07",
-        "home_team": "Brantford Bulldogs",
-        "away_team": "Niagara IceDogs",
-        "predicted_winner": "Brantford Bulldogs",
-        "actual_winner": "Brantford Bulldogs",
-        "home_score": 4,
-        "away_score": 2,
-        "odds": {
-            "Brantford Bulldogs": "-180",
-            "Niagara IceDogs": "+144"
-        }
-    },
-    {
-        "date": "2026-01-07",
-        "home_team": "Flint Firebirds",
-        "away_team": "Sarnia Sting",
-        "predicted_winner": "Flint Firebirds",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 7,
-        "away_score": 4,
-        "odds": {
-            "Flint Firebirds": "-181",
-            "Sarnia Sting": "+145"
-        }
-    },
-    {
         "date": "2026-01-08",
         "home_team": "Peterborough Petes",
         "away_team": "Oshawa Generals",
@@ -34,8 +8,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Peterborough Petes": "+338",
-            "Oshawa Generals": "-470"
+            "Peterborough Petes": "+339",
+            "Oshawa Generals": "-471"
         }
     },
     {
@@ -113,7 +87,7 @@
         "away_score": 6,
         "odds": {
             "Guelph Storm": "+150",
-            "Barrie Colts": "-187"
+            "Barrie Colts": "-188"
         }
     },
     {
@@ -216,8 +190,8 @@
         "home_score": 3,
         "away_score": 1,
         "odds": {
-            "Sarnia Sting": "+260",
-            "Kingston Frontenacs": "-344"
+            "Sarnia Sting": "+259",
+            "Kingston Frontenacs": "-343"
         }
     },
     {
