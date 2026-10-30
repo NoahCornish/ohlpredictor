@@ -1,31 +1,5 @@
 [
     {
-        "date": "2026-01-08",
-        "home_team": "Peterborough Petes",
-        "away_team": "Oshawa Generals",
-        "predicted_winner": "Oshawa Generals",
-        "actual_winner": "Peterborough Petes",
-        "home_score": 3,
-        "away_score": 1,
-        "odds": {
-            "Peterborough Petes": "+338",
-            "Oshawa Generals": "-468"
-        }
-    },
-    {
-        "date": "2026-01-08",
-        "home_team": "Windsor Spitfires",
-        "away_team": "Erie Otters",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Windsor Spitfires",
-        "home_score": 9,
-        "away_score": 1,
-        "odds": {
-            "Windsor Spitfires": "-182",
-            "Erie Otters": "+145"
-        }
-    },
-    {
         "date": "2026-01-09",
         "home_team": "Brampton Steelheads",
         "away_team": "North Bay Battalion",
@@ -34,7 +8,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Brampton Steelheads": "-318",
+            "Brampton Steelheads": "-319",
             "North Bay Battalion": "+243"
         }
     },
@@ -99,7 +73,7 @@
         "home_score": 2,
         "away_score": 1,
         "odds": {
-            "Soo Greyhounds": "-175",
+            "Soo Greyhounds": "-174",
             "Ottawa 67's": "+140"
         }
     },
@@ -151,8 +125,8 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Peterborough Petes": "+194",
-            "Guelph Storm": "-248"
+            "Peterborough Petes": "+195",
+            "Guelph Storm": "-249"
         }
     },
     {
@@ -164,7 +138,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Saginaw Spirit": "+101",
+            "Saginaw Spirit": "+100",
             "Windsor Spitfires": "-124"
         }
     },
