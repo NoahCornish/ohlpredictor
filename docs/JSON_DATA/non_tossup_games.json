@@ -1,83 +1,5 @@
 [
     {
-        "date": "2026-01-10",
-        "home_team": "London Knights",
-        "away_team": "Erie Otters",
-        "predicted_winner": "London Knights",
-        "actual_winner": "London Knights",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "London Knights": "-196",
-            "Erie Otters": "+156"
-        }
-    },
-    {
-        "date": "2026-01-10",
-        "home_team": "Flint Firebirds",
-        "away_team": "Kingston Frontenacs",
-        "predicted_winner": "Kingston Frontenacs",
-        "actual_winner": "Flint Firebirds",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "Flint Firebirds": "+163",
-            "Kingston Frontenacs": "-205"
-        }
-    },
-    {
-        "date": "2026-01-10",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Kitchener Rangers",
-        "home_score": 4,
-        "away_score": 7,
-        "odds": {
-            "Owen Sound Attack": "+170",
-            "Kitchener Rangers": "-215"
-        }
-    },
-    {
-        "date": "2026-01-10",
-        "home_team": "Peterborough Petes",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Peterborough Petes",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Peterborough Petes": "+195",
-            "Guelph Storm": "-250"
-        }
-    },
-    {
-        "date": "2026-01-10",
-        "home_team": "Saginaw Spirit",
-        "away_team": "Windsor Spitfires",
-        "predicted_winner": "Windsor Spitfires",
-        "actual_winner": "Saginaw Spirit",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Saginaw Spirit": "+101",
-            "Windsor Spitfires": "-124"
-        }
-    },
-    {
-        "date": "2026-01-10",
-        "home_team": "Barrie Colts",
-        "away_team": "Brampton Steelheads",
-        "predicted_winner": "Brampton Steelheads",
-        "actual_winner": "Barrie Colts",
-        "home_score": 4,
-        "away_score": 1,
-        "odds": {
-            "Barrie Colts": "+121",
-            "Brampton Steelheads": "-151"
-        }
-    },
-    {
         "date": "2026-01-11",
         "home_team": "Sarnia Sting",
         "away_team": "Kingston Frontenacs",
@@ -99,7 +21,7 @@
         "home_score": 4,
         "away_score": 6,
         "odds": {
-            "Sudbury Wolves": "-186",
+            "Sudbury Wolves": "-187",
             "Ottawa 67's": "+149"
         }
     },
