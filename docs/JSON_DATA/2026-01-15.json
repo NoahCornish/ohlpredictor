@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Flint Firebirds",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-141",
+            "Flint Firebirds": "+114"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "North Bay Battalion": "+157",
+            "Sudbury Wolves": "-197"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Soo Greyhounds",
+        "winner": "Soo Greyhounds",
+        "odds": {
+            "Sarnia Sting": "+148",
+            "Soo Greyhounds": "-186"
+        },
+        "game_time": "7:05 pm"
+    }
+]
