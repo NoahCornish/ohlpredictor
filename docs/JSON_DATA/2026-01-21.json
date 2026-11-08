@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Kitchener Rangers",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-150",
+            "Kitchener Rangers": "+121"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Soo Greyhounds": "+174",
+            "London Knights": "-220"
+        },
+        "game_time": "7:07 pm"
+    }
+]

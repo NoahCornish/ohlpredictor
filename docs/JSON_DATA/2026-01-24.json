@@ -1,0 +1,72 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Ottawa 67's": "+184",
+            "Oshawa Generals": "-234"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Erie Otters": "+108",
+            "Kitchener Rangers": "-133"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Flint Firebirds": "+165",
+            "Windsor Spitfires": "-208"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Niagara IceDogs",
+        "winner": "Niagara IceDogs",
+        "odds": {
+            "Owen Sound Attack": "+127",
+            "Niagara IceDogs": "-158"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Peterborough Petes",
+        "winner": "Sarnia Sting",
+        "odds": {
+            "Sarnia Sting": "-201",
+            "Peterborough Petes": "+160"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "North Bay Battalion",
+        "winner": "Soo Greyhounds",
+        "odds": {
+            "Soo Greyhounds": "-184",
+            "North Bay Battalion": "+147"
+        },
+        "game_time": "7:07 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Barrie Colts": "+122",
+            "Brampton Steelheads": "-152"
+        },
+        "game_time": "7:30 pm"
+    }
+]

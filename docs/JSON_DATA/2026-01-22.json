@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Niagara IceDogs": "+112",
+            "Barrie Colts": "-138"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "North Bay Battalion": "+233",
+            "Brantford Bulldogs": "-304"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Peterborough Petes": "+413",
+            "Saginaw Spirit": "-602"
+        },
+        "game_time": "7:05 pm"
+    }
+]
