@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "Brampton Steelheads",
+        "away_team": "Barrie Colts",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brampton Steelheads": "-152",
+            "Barrie Colts": "+123"
+        },
+        "game_time": "11:00 am"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Guelph Storm",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-298",
+            "Guelph Storm": "+229"
+        },
+        "game_time": "6:30 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Soo Greyhounds",
+        "winner": "Soo Greyhounds",
+        "odds": {
+            "Flint Firebirds": "-109",
+            "Soo Greyhounds": "-113"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Sarnia Sting": "+197",
+            "Kitchener Rangers": "-252"
+        },
+        "game_time": "7:05 pm"
+    }
+]

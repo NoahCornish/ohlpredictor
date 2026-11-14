@@ -1,0 +1,62 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Ottawa 67's": "+248",
+            "Kingston Frontenacs": "-326"
+        },
+        "game_time": "3:00 pm"
+    },
+    {
+        "home_team": "Erie Otters",
+        "away_team": "Guelph Storm",
+        "winner": "Erie Otters",
+        "odds": {
+            "Erie Otters": "-166",
+            "Guelph Storm": "+133"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "London Knights",
+        "winner": "London Knights",
+        "odds": {
+            "Flint Firebirds": "+178",
+            "London Knights": "-225"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Owen Sound Attack": "+170",
+            "Kitchener Rangers": "-214"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Sarnia Sting",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-307",
+            "Sarnia Sting": "+235"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-138",
+            "Niagara IceDogs": "+112"
+        },
+        "game_time": "7:30 pm"
+    }
+]

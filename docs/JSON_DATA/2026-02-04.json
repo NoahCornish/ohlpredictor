@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "London Knights",
+        "away_team": "Kitchener Rangers",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-162",
+            "Kitchener Rangers": "+130"
+        },
+        "game_time": "6:30 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Brantford Bulldogs": "+100",
+            "Kingston Frontenacs": "-124"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Soo Greyhounds",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-181",
+            "Soo Greyhounds": "+145"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Sarnia Sting",
+        "away_team": "Flint Firebirds",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Sarnia Sting": "+144",
+            "Flint Firebirds": "-180"
+        },
+        "game_time": "7:05 pm"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "North Bay Battalion": "+245",
+            "Brampton Steelheads": "-322"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Peterborough Petes": "+316",
+            "Barrie Colts": "-433"
+        },
+        "game_time": "7:05 pm"
+    }
+]

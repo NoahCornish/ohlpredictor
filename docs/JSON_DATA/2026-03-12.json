@@ -1,0 +1,52 @@
+[
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Ottawa 67's",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-219",
+            "Ottawa 67's": "+173"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Niagara IceDogs": "+161",
+            "Kingston Frontenacs": "-202"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Brantford Bulldogs",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "North Bay Battalion": "+233",
+            "Brantford Bulldogs": "-304"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Peterborough Petes": "+336",
+            "Oshawa Generals": "-467"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Soo Greyhounds",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-204",
+            "Soo Greyhounds": "+162"
+        },
+        "game_time": "7:05 pm"
+    }
+]

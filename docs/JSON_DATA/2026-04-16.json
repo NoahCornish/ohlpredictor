@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Barrie Colts",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Ottawa 67's": "+173",
+            "Barrie Colts": "-219"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Windsor Spitfires",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Flint Firebirds": "+166",
+            "Windsor Spitfires": "-209"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Soo Greyhounds",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Soo Greyhounds": "+121",
+            "Kitchener Rangers": "-150"
+        },
+        "game_time": "7:07 pm"
+    }
+]

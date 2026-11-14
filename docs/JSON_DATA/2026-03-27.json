@@ -1,0 +1,52 @@
+[
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Sudbury Wolves",
+        "winner": "Brantford Bulldogs",
+        "odds": {
+            "Brantford Bulldogs": "-167",
+            "Sudbury Wolves": "+134"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Ottawa 67's",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Ottawa 67's": "+248",
+            "Kingston Frontenacs": "-326"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Saginaw Spirit",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Kitchener Rangers": "+108",
+            "Saginaw Spirit": "-134"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "London Knights",
+        "away_team": "Soo Greyhounds",
+        "winner": "London Knights",
+        "odds": {
+            "London Knights": "-221",
+            "Soo Greyhounds": "+174"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "North Bay Battalion",
+        "winner": "North Bay Battalion",
+        "odds": {
+            "Peterborough Petes": "+159",
+            "North Bay Battalion": "-200"
+        },
+        "game_time": "7:05 pm"
+    }
+]

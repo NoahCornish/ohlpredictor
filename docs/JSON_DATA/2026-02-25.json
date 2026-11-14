@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "Guelph Storm",
+        "away_team": "Kitchener Rangers",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Guelph Storm": "+159",
+            "Kitchener Rangers": "-200"
+        },
+        "game_time": "6:37 pm"
+    },
+    {
+        "home_team": "Brantford Bulldogs",
+        "away_team": "Brampton Steelheads",
+        "winner": "Brampton Steelheads",
+        "odds": {
+            "Brantford Bulldogs": "-105",
+            "Brampton Steelheads": "-117"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Owen Sound Attack",
+        "away_team": "Oshawa Generals",
+        "winner": "Oshawa Generals",
+        "odds": {
+            "Owen Sound Attack": "+167",
+            "Oshawa Generals": "-210"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Sudbury Wolves",
+        "away_team": "Soo Greyhounds",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Sudbury Wolves": "-119",
+            "Soo Greyhounds": "-103"
+        },
+        "game_time": "7:05 pm"
+    }
+]

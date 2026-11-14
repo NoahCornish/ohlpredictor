@@ -1,0 +1,42 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Erie Otters",
+        "winner": "Erie Otters",
+        "odds": {
+            "Niagara IceDogs": "+101",
+            "Erie Otters": "-125"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "North Bay Battalion",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "North Bay Battalion": "+259",
+            "Kingston Frontenacs": "-343"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Saginaw Spirit",
+        "away_team": "Ottawa 67's",
+        "winner": "Saginaw Spirit",
+        "odds": {
+            "Saginaw Spirit": "-291",
+            "Ottawa 67's": "+225"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Peterborough Petes",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-686",
+            "Peterborough Petes": "+456"
+        },
+        "game_time": "7:05 pm"
+    }
+]

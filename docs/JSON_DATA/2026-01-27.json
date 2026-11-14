@@ -1,0 +1,22 @@
+[
+    {
+        "home_team": "Kitchener Rangers",
+        "away_team": "Sarnia Sting",
+        "winner": "Kitchener Rangers",
+        "odds": {
+            "Kitchener Rangers": "-252",
+            "Sarnia Sting": "+197"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Oshawa Generals",
+        "away_team": "Kingston Frontenacs",
+        "winner": "Kingston Frontenacs",
+        "odds": {
+            "Oshawa Generals": "+122",
+            "Kingston Frontenacs": "-151"
+        },
+        "game_time": "7:05 pm"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Niagara IceDogs",
+        "away_team": "Soo Greyhounds",
+        "winner": "Soo Greyhounds",
+        "odds": {
+            "Niagara IceDogs": "-111",
+            "Soo Greyhounds": "-111"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Peterborough Petes",
+        "away_team": "Sudbury Wolves",
+        "winner": "Sudbury Wolves",
+        "odds": {
+            "Peterborough Petes": "+276",
+            "Sudbury Wolves": "-368"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "North Bay Battalion",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-347",
+            "North Bay Battalion": "+262"
+        },
+        "game_time": "7:05 pm"
+    }
+]

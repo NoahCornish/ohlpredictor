@@ -1,0 +1,32 @@
+[
+    {
+        "home_team": "Flint Firebirds",
+        "away_team": "Owen Sound Attack",
+        "winner": "Flint Firebirds",
+        "odds": {
+            "Flint Firebirds": "-154",
+            "Owen Sound Attack": "+124"
+        },
+        "game_time": "7:00 pm"
+    },
+    {
+        "home_team": "Windsor Spitfires",
+        "away_team": "Guelph Storm",
+        "winner": "Windsor Spitfires",
+        "odds": {
+            "Windsor Spitfires": "-275",
+            "Guelph Storm": "+213"
+        },
+        "game_time": "7:05 pm"
+    },
+    {
+        "home_team": "Barrie Colts",
+        "away_team": "Niagara IceDogs",
+        "winner": "Barrie Colts",
+        "odds": {
+            "Barrie Colts": "-138",
+            "Niagara IceDogs": "+112"
+        },
+        "game_time": "7:30 pm"
+    }
+]
