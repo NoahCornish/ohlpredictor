@@ -34,8 +34,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Niagara IceDogs",
         "odds": {
-            "Niagara IceDogs": "-338",
-            "Peterborough Petes": "+256"
+            "Niagara IceDogs": "-339",
+            "Peterborough Petes": "+257"
         },
         "game_time": "7:00 pm"
     },
@@ -55,7 +55,7 @@
         "winner": "Flint Firebirds",
         "odds": {
             "Sarnia Sting": "+144",
-            "Flint Firebirds": "-180"
+            "Flint Firebirds": "-181"
         },
         "game_time": "7:05 pm"
     },
@@ -74,7 +74,7 @@
         "away_team": "Owen Sound Attack",
         "winner": "Guelph Storm",
         "odds": {
-            "Guelph Storm": "-119",
+            "Guelph Storm": "-118",
             "Owen Sound Attack": "-104"
         },
         "game_time": "7:07 pm"

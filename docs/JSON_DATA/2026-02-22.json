@@ -15,7 +15,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Peterborough Petes": "+406",
-            "Brantford Bulldogs": "-589"
+            "Brantford Bulldogs": "-590"
         },
         "game_time": "2:05 pm"
     },
@@ -34,8 +34,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-209",
-            "Flint Firebirds": "+166"
+            "Windsor Spitfires": "-208",
+            "Flint Firebirds": "+165"
         },
         "game_time": "4:05 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Guelph Storm",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-243",
+            "Saginaw Spirit": "-244",
             "Guelph Storm": "+191"
         },
         "game_time": "5:30 pm"

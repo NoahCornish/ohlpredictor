@@ -22,7 +22,7 @@
         "away_score": 3,
         "odds": {
             "Owen Sound Attack": "-104",
-            "Guelph Storm": "-119"
+            "Guelph Storm": "-118"
         }
     },
     {
@@ -36,19 +36,6 @@
         "odds": {
             "Soo Greyhounds": "-113",
             "Flint Firebirds": "-109"
-        }
-    },
-    {
-        "date": "2026-02-08",
-        "home_team": "Ottawa 67's",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 5,
-        "away_score": 4,
-        "odds": {
-            "Ottawa 67's": "-100",
-            "Owen Sound Attack": "-123"
         }
     },
     {
@@ -112,7 +99,7 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Brantford Bulldogs": "-105",
+            "Brantford Bulldogs": "-106",
             "Brampton Steelheads": "-117"
         }
     },
@@ -203,7 +190,7 @@
         "home_score": 8,
         "away_score": 1,
         "odds": {
-            "Guelph Storm": "-119",
+            "Guelph Storm": "-118",
             "Owen Sound Attack": "-104"
         }
     },
@@ -230,7 +217,7 @@
         "away_score": 1,
         "odds": {
             "Owen Sound Attack": "-104",
-            "Guelph Storm": "-119"
+            "Guelph Storm": "-118"
         }
     },
     {
@@ -294,7 +281,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Guelph Storm": "-119",
+            "Guelph Storm": "-118",
             "Owen Sound Attack": "-104"
         }
     },
@@ -308,7 +295,7 @@
         "away_score": 1,
         "odds": {
             "Brampton Steelheads": "-117",
-            "Brantford Bulldogs": "-105"
+            "Brantford Bulldogs": "-106"
         }
     },
     {
