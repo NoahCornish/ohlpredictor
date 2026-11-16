@@ -1,22 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2026-01-28",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 1,
-            "game_details": [
-                {
-                    "home_team": "Owen Sound Attack",
-                    "away_team": "Kitchener Rangers",
-                    "predicted_winner": "Kitchener Rangers",
-                    "actual_winner": "Owen Sound Attack",
-                    "home_score": 3,
-                    "away_score": 2
-                }
-            ]
-        },
-        {
             "date": "2026-01-29",
             "accuracy": 33.3,
             "correct_predictions": 1,
@@ -2985,13 +2969,13 @@
             ]
         }
     ],
-    "total_accuracy": 54.8,
-    "tossup_accuracy": 51.9,
-    "non_tossup_accuracy": 55.1,
+    "total_accuracy": 54.9,
+    "tossup_accuracy": 50.0,
+    "non_tossup_accuracy": 55.5,
     "total_correct": 161,
-    "total_games": 294,
+    "total_games": 293,
     "tossup_correct": 14,
-    "tossup_games": 27,
+    "tossup_games": 28,
     "non_tossup_correct": 147,
-    "non_tossup_games": 267
+    "non_tossup_games": 265
 }

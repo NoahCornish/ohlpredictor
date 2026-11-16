@@ -1,18 +1,5 @@
 [
     {
-        "date": "2026-01-28",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Kitchener Rangers",
-        "predicted_winner": "Kitchener Rangers",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 3,
-        "away_score": 2,
-        "odds": {
-            "Owen Sound Attack": "+169",
-            "Kitchener Rangers": "-214"
-        }
-    },
-    {
         "date": "2026-01-29",
         "home_team": "Peterborough Petes",
         "away_team": "Sudbury Wolves",
@@ -47,8 +34,8 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-258",
-            "Owen Sound Attack": "+201"
+            "Brantford Bulldogs": "-259",
+            "Owen Sound Attack": "+202"
         }
     },
     {
@@ -411,8 +398,8 @@
         "home_score": 6,
         "away_score": 2,
         "odds": {
-            "Kitchener Rangers": "-200",
-            "Guelph Storm": "+159"
+            "Kitchener Rangers": "-201",
+            "Guelph Storm": "+160"
         }
     },
     {
@@ -437,7 +424,7 @@
         "home_score": 5,
         "away_score": 3,
         "odds": {
-            "Kingston Frontenacs": "-290",
+            "Kingston Frontenacs": "-291",
             "Owen Sound Attack": "+224"
         }
     },
@@ -516,7 +503,7 @@
         "away_score": 1,
         "odds": {
             "Flint Firebirds": "+103",
-            "Erie Otters": "-128"
+            "Erie Otters": "-127"
         }
     },
     {
@@ -624,19 +611,6 @@
         }
     },
     {
-        "date": "2026-02-08",
-        "home_team": "Ottawa 67's",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 5,
-        "away_score": 4,
-        "odds": {
-            "Ottawa 67's": "+100",
-            "Owen Sound Attack": "-124"
-        }
-    },
-    {
         "date": "2026-02-09",
         "home_team": "Niagara IceDogs",
         "away_team": "Guelph Storm",
@@ -684,7 +658,7 @@
         "home_score": 8,
         "away_score": 3,
         "odds": {
-            "Erie Otters": "-177",
+            "Erie Otters": "-178",
             "Owen Sound Attack": "+142"
         }
     },
@@ -737,7 +711,7 @@
         "away_score": 3,
         "odds": {
             "Niagara IceDogs": "-157",
-            "Owen Sound Attack": "+126"
+            "Owen Sound Attack": "+127"
         }
     },
     {
@@ -788,7 +762,7 @@
         "home_score": 5,
         "away_score": 1,
         "odds": {
-            "Brantford Bulldogs": "-159",
+            "Brantford Bulldogs": "-160",
             "Erie Otters": "+128"
         }
     },
@@ -892,8 +866,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-241",
-            "Guelph Storm": "+189"
+            "Brantford Bulldogs": "-242",
+            "Guelph Storm": "+190"
         }
     },
     {
@@ -905,7 +879,7 @@
         "home_score": 6,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-128",
+            "Erie Otters": "-127",
             "Flint Firebirds": "+103"
         }
     },
@@ -919,7 +893,7 @@
         "away_score": 6,
         "odds": {
             "Owen Sound Attack": "+127",
-            "Soo Greyhounds": "-157"
+            "Soo Greyhounds": "-158"
         }
     },
     {
@@ -971,7 +945,7 @@
         "away_score": 2,
         "odds": {
             "London Knights": "-319",
-            "Owen Sound Attack": "+243"
+            "Owen Sound Attack": "+244"
         }
     },
     {
@@ -1373,8 +1347,8 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Guelph Storm": "+159",
-            "Kitchener Rangers": "-200"
+            "Guelph Storm": "+160",
+            "Kitchener Rangers": "-201"
         }
     },
     {
@@ -1387,7 +1361,7 @@
         "away_score": 3,
         "odds": {
             "Owen Sound Attack": "+167",
-            "Oshawa Generals": "-210"
+            "Oshawa Generals": "-211"
         }
     },
     {
@@ -1542,7 +1516,7 @@
         "home_score": 4,
         "away_score": 5,
         "odds": {
-            "Erie Otters": "-177",
+            "Erie Otters": "-178",
             "Owen Sound Attack": "+142"
         }
     },
@@ -1633,7 +1607,7 @@
         "home_score": 1,
         "away_score": 5,
         "odds": {
-            "Erie Otters": "-177",
+            "Erie Otters": "-178",
             "Owen Sound Attack": "+142"
         }
     },
@@ -1880,7 +1854,7 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Owen Sound Attack": "-130",
+            "Owen Sound Attack": "-129",
             "Sarnia Sting": "+105"
         }
     },
@@ -2102,7 +2076,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "-214",
-            "Owen Sound Attack": "+169"
+            "Owen Sound Attack": "+170"
         }
     },
     {
@@ -2244,8 +2218,8 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Guelph Storm": "+159",
-            "Kitchener Rangers": "-200"
+            "Guelph Storm": "+160",
+            "Kitchener Rangers": "-201"
         }
     },
     {
@@ -2530,7 +2504,7 @@
         "home_score": 8,
         "away_score": 7,
         "odds": {
-            "Owen Sound Attack": "+169",
+            "Owen Sound Attack": "+170",
             "Kitchener Rangers": "-214"
         }
     },
