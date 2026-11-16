@@ -47,7 +47,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Soo Greyhounds": "-103",
+            "Soo Greyhounds": "-104",
             "Sudbury Wolves": "-119"
         }
     },
@@ -113,7 +113,7 @@
         "away_score": 5,
         "odds": {
             "Sudbury Wolves": "-119",
-            "Soo Greyhounds": "-103"
+            "Soo Greyhounds": "-104"
         }
     },
     {
@@ -125,7 +125,7 @@
         "home_score": 1,
         "away_score": 6,
         "odds": {
-            "London Knights": "-120",
+            "London Knights": "-119",
             "Windsor Spitfires": "-103"
         }
     },
@@ -243,7 +243,7 @@
         "away_score": 2,
         "odds": {
             "Windsor Spitfires": "-103",
-            "London Knights": "-120"
+            "London Knights": "-119"
         }
     },
     {
@@ -268,7 +268,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "London Knights": "-120",
+            "London Knights": "-119",
             "Windsor Spitfires": "-103"
         }
     },
