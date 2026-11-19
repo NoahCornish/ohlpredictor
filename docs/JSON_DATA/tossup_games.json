@@ -39,19 +39,6 @@
         }
     },
     {
-        "date": "2026-02-08",
-        "home_team": "Ottawa 67's",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 5,
-        "away_score": 4,
-        "odds": {
-            "Ottawa 67's": "-100",
-            "Owen Sound Attack": "-123"
-        }
-    },
-    {
         "date": "2026-02-11",
         "home_team": "Soo Greyhounds",
         "away_team": "Sudbury Wolves",
@@ -320,7 +307,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "Kitchener Rangers": "-120",
+            "Kitchener Rangers": "-121",
             "Barrie Colts": "-102"
         }
     },
@@ -333,7 +320,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Kitchener Rangers": "-120",
+            "Kitchener Rangers": "-121",
             "Barrie Colts": "-102"
         }
     },
@@ -347,7 +334,7 @@
         "away_score": 4,
         "odds": {
             "Barrie Colts": "-102",
-            "Kitchener Rangers": "-120"
+            "Kitchener Rangers": "-121"
         }
     },
     {
@@ -360,7 +347,7 @@
         "away_score": 4,
         "odds": {
             "Barrie Colts": "-102",
-            "Kitchener Rangers": "-120"
+            "Kitchener Rangers": "-121"
         }
     }
 ]
