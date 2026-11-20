@@ -164,8 +164,8 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Flint Firebirds": "-180",
-            "Sarnia Sting": "+144"
+            "Flint Firebirds": "-181",
+            "Sarnia Sting": "+145"
         }
     },
     {
@@ -307,8 +307,8 @@
         "home_score": 3,
         "away_score": 6,
         "odds": {
-            "Sarnia Sting": "+144",
-            "Flint Firebirds": "-180"
+            "Sarnia Sting": "+145",
+            "Flint Firebirds": "-181"
         }
     },
     {
@@ -333,8 +333,8 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "North Bay Battalion": "+261",
-            "Windsor Spitfires": "-346"
+            "North Bay Battalion": "+262",
+            "Windsor Spitfires": "-347"
         }
     },
     {
@@ -386,7 +386,7 @@
         "away_score": 4,
         "odds": {
             "London Knights": "-221",
-            "Niagara IceDogs": "+175"
+            "Niagara IceDogs": "+174"
         }
     },
     {
@@ -438,7 +438,7 @@
         "away_score": 5,
         "odds": {
             "Sudbury Wolves": "+151",
-            "Windsor Spitfires": "-189"
+            "Windsor Spitfires": "-190"
         }
     },
     {
@@ -490,7 +490,7 @@
         "away_score": 3,
         "odds": {
             "Niagara IceDogs": "+121",
-            "Kitchener Rangers": "-151"
+            "Kitchener Rangers": "-150"
         }
     },
     {
@@ -957,7 +957,7 @@
         "home_score": 0,
         "away_score": 5,
         "odds": {
-            "Oshawa Generals": "-151",
+            "Oshawa Generals": "-150",
             "Flint Firebirds": "+121"
         }
     },
@@ -1192,7 +1192,7 @@
         "away_score": 4,
         "odds": {
             "Kingston Frontenacs": "-202",
-            "Niagara IceDogs": "+161"
+            "Niagara IceDogs": "+160"
         }
     },
     {
@@ -1399,7 +1399,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-682",
+            "Windsor Spitfires": "-683",
             "Peterborough Petes": "+454"
         }
     },
@@ -1750,8 +1750,8 @@
         "home_score": 1,
         "away_score": 4,
         "odds": {
-            "Niagara IceDogs": "-337",
-            "Peterborough Petes": "+255"
+            "Niagara IceDogs": "-338",
+            "Peterborough Petes": "+256"
         }
     },
     {
@@ -1763,8 +1763,8 @@
         "home_score": 1,
         "away_score": 3,
         "odds": {
-            "Sarnia Sting": "+144",
-            "Flint Firebirds": "-180"
+            "Sarnia Sting": "+145",
+            "Flint Firebirds": "-181"
         }
     },
     {
@@ -1984,7 +1984,7 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Niagara IceDogs": "+161",
+            "Niagara IceDogs": "+160",
             "Kingston Frontenacs": "-202"
         }
     },
@@ -2478,7 +2478,7 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Flint Firebirds": "+178",
+            "Flint Firebirds": "+177",
             "London Knights": "-225"
         }
     },
@@ -2517,7 +2517,7 @@
         "home_score": 2,
         "away_score": 3,
         "odds": {
-            "Barrie Colts": "-139",
+            "Barrie Colts": "-138",
             "Niagara IceDogs": "+112"
         }
     },
@@ -2582,7 +2582,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Barrie Colts": "-139",
+            "Barrie Colts": "-138",
             "Niagara IceDogs": "+112"
         }
     },
@@ -2725,7 +2725,7 @@
         "home_score": 3,
         "away_score": 4,
         "odds": {
-            "Barrie Colts": "-139",
+            "Barrie Colts": "-138",
             "Niagara IceDogs": "+112"
         }
     },
@@ -2830,7 +2830,7 @@
         "away_score": 5,
         "odds": {
             "Niagara IceDogs": "+112",
-            "Barrie Colts": "-139"
+            "Barrie Colts": "-138"
         }
     },
     {
@@ -2934,7 +2934,7 @@
         "away_score": 9,
         "odds": {
             "Niagara IceDogs": "+112",
-            "Barrie Colts": "-139"
+            "Barrie Colts": "-138"
         }
     },
     {
@@ -3037,7 +3037,7 @@
         "home_score": 5,
         "away_score": 0,
         "odds": {
-            "Barrie Colts": "-139",
+            "Barrie Colts": "-138",
             "Niagara IceDogs": "+112"
         }
     },
