@@ -14,8 +14,8 @@
         "away_team": "Guelph Storm",
         "winner": "Kitchener Rangers",
         "odds": {
-            "Kitchener Rangers": "-201",
-            "Guelph Storm": "+160"
+            "Kitchener Rangers": "-200",
+            "Guelph Storm": "+159"
         },
         "game_time": "7:00 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-247",
+            "Oshawa Generals": "-248",
             "Sarnia Sting": "+194"
         },
         "game_time": "7:05 pm"
@@ -55,7 +55,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Saginaw Spirit": "-161",
-            "Erie Otters": "+129"
+            "Erie Otters": "+130"
         },
         "game_time": "7:05 pm"
     },
