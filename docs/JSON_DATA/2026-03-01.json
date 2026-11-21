@@ -15,7 +15,7 @@
         "winner": "Niagara IceDogs",
         "odds": {
             "North Bay Battalion": "+147",
-            "Niagara IceDogs": "-183"
+            "Niagara IceDogs": "-184"
         },
         "game_time": "2:00 pm"
     },
@@ -25,7 +25,7 @@
         "winner": "Ottawa 67's",
         "odds": {
             "Sarnia Sting": "-106",
-            "Ottawa 67's": "-117"
+            "Ottawa 67's": "-116"
         },
         "game_time": "2:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Guelph Storm",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-197",
-            "Guelph Storm": "+157"
+            "Oshawa Generals": "-196",
+            "Guelph Storm": "+156"
         },
         "game_time": "6:05 pm"
     }

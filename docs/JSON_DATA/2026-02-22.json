@@ -4,8 +4,8 @@
         "away_team": "Sudbury Wolves",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-204",
-            "Sudbury Wolves": "+162"
+            "London Knights": "-205",
+            "Sudbury Wolves": "+163"
         },
         "game_time": "2:00 pm"
     },
@@ -15,7 +15,7 @@
         "winner": "Brantford Bulldogs",
         "odds": {
             "Peterborough Petes": "+404",
-            "Brantford Bulldogs": "-585"
+            "Brantford Bulldogs": "-586"
         },
         "game_time": "2:05 pm"
     },
@@ -44,7 +44,7 @@
         "away_team": "Guelph Storm",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-244",
+            "Saginaw Spirit": "-243",
             "Guelph Storm": "+191"
         },
         "game_time": "5:30 pm"

@@ -5,7 +5,7 @@
         "winner": "Brampton Steelheads",
         "odds": {
             "Brampton Steelheads": "-152",
-            "Barrie Colts": "+122"
+            "Barrie Colts": "+123"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Niagara IceDogs",
         "winner": "London Knights",
         "odds": {
-            "London Knights": "-221",
+            "London Knights": "-220",
             "Niagara IceDogs": "+174"
         },
         "game_time": "7:00 pm"
@@ -44,7 +44,7 @@
         "away_team": "Sarnia Sting",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-248",
+            "Oshawa Generals": "-247",
             "Sarnia Sting": "+194"
         },
         "game_time": "7:05 pm"
@@ -55,7 +55,7 @@
         "winner": "Saginaw Spirit",
         "odds": {
             "Saginaw Spirit": "-161",
-            "Erie Otters": "+130"
+            "Erie Otters": "+129"
         },
         "game_time": "7:05 pm"
     },
