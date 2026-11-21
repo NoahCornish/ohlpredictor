@@ -4,7 +4,7 @@
         "away_team": "Erie Otters",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Brantford Bulldogs": "-160",
+            "Brantford Bulldogs": "-159",
             "Erie Otters": "+128"
         },
         "game_time": "7:00 pm"
@@ -34,8 +34,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Oshawa Generals",
         "odds": {
-            "Oshawa Generals": "-464",
-            "Peterborough Petes": "+335"
+            "Oshawa Generals": "-465",
+            "Peterborough Petes": "+336"
         },
         "game_time": "7:05 pm"
     },
@@ -64,8 +64,8 @@
         "away_team": "Flint Firebirds",
         "winner": "Flint Firebirds",
         "odds": {
-            "Guelph Storm": "+117",
-            "Flint Firebirds": "-145"
+            "Guelph Storm": "+116",
+            "Flint Firebirds": "-144"
         },
         "game_time": "7:07 pm"
     }

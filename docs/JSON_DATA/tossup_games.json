@@ -1,18 +1,5 @@
 [
     {
-        "date": "2026-01-31",
-        "home_team": "Owen Sound Attack",
-        "away_team": "Guelph Storm",
-        "predicted_winner": "Guelph Storm",
-        "actual_winner": "Owen Sound Attack",
-        "home_score": 4,
-        "away_score": 3,
-        "odds": {
-            "Owen Sound Attack": "-104",
-            "Guelph Storm": "-118"
-        }
-    },
-    {
         "date": "2026-02-06",
         "home_team": "Soo Greyhounds",
         "away_team": "Flint Firebirds",
@@ -48,7 +35,7 @@
         "away_score": 2,
         "odds": {
             "Sudbury Wolves": "-119",
-            "Niagara IceDogs": "-103"
+            "Niagara IceDogs": "-104"
         }
     },
     {
@@ -74,7 +61,7 @@
         "away_score": 4,
         "odds": {
             "Ottawa 67's": "-116",
-            "North Bay Battalion": "-106"
+            "North Bay Battalion": "-107"
         }
     },
     {
@@ -86,7 +73,7 @@
         "home_score": 5,
         "away_score": 4,
         "odds": {
-            "Brantford Bulldogs": "-105",
+            "Brantford Bulldogs": "-106",
             "Brampton Steelheads": "-117"
         }
     },
@@ -112,7 +99,7 @@
         "home_score": 1,
         "away_score": 6,
         "odds": {
-            "London Knights": "-120",
+            "London Knights": "-119",
             "Windsor Spitfires": "-103"
         }
     },
@@ -177,7 +164,7 @@
         "home_score": 8,
         "away_score": 1,
         "odds": {
-            "Guelph Storm": "-118",
+            "Guelph Storm": "-119",
             "Owen Sound Attack": "-104"
         }
     },
@@ -204,7 +191,7 @@
         "away_score": 1,
         "odds": {
             "Owen Sound Attack": "-104",
-            "Guelph Storm": "-118"
+            "Guelph Storm": "-119"
         }
     },
     {
@@ -230,7 +217,7 @@
         "away_score": 2,
         "odds": {
             "Windsor Spitfires": "-103",
-            "London Knights": "-120"
+            "London Knights": "-119"
         }
     },
     {
@@ -242,7 +229,7 @@
         "home_score": 5,
         "away_score": 6,
         "odds": {
-            "Oshawa Generals": "-118",
+            "Oshawa Generals": "-119",
             "Barrie Colts": "-104"
         }
     },
@@ -255,7 +242,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "London Knights": "-120",
+            "London Knights": "-119",
             "Windsor Spitfires": "-103"
         }
     },
@@ -268,7 +255,7 @@
         "home_score": 6,
         "away_score": 3,
         "odds": {
-            "Guelph Storm": "-118",
+            "Guelph Storm": "-119",
             "Owen Sound Attack": "-104"
         }
     },
@@ -282,7 +269,7 @@
         "away_score": 1,
         "odds": {
             "Brampton Steelheads": "-117",
-            "Brantford Bulldogs": "-105"
+            "Brantford Bulldogs": "-106"
         }
     },
     {
