@@ -295,7 +295,7 @@
         "away_score": 1,
         "odds": {
             "Flint Firebirds": "+103",
-            "Erie Otters": "-127"
+            "Erie Otters": "-128"
         }
     },
     {
@@ -450,7 +450,7 @@
         "home_score": 2,
         "away_score": 4,
         "odds": {
-            "London Knights": "-297",
+            "London Knights": "-296",
             "Guelph Storm": "+228"
         }
     },
@@ -594,7 +594,7 @@
         "away_score": 4,
         "odds": {
             "Kingston Frontenacs": "-148",
-            "Kitchener Rangers": "+120"
+            "Kitchener Rangers": "+119"
         }
     },
     {
@@ -671,7 +671,7 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Brantford Bulldogs": "-241",
+            "Brantford Bulldogs": "-240",
             "Guelph Storm": "+189"
         }
     },
@@ -684,7 +684,7 @@
         "home_score": 6,
         "away_score": 4,
         "odds": {
-            "Erie Otters": "-127",
+            "Erie Otters": "-128",
             "Flint Firebirds": "+103"
         }
     },
@@ -789,7 +789,7 @@
         "away_score": 2,
         "odds": {
             "Peterborough Petes": "+342",
-            "Kitchener Rangers": "-475"
+            "Kitchener Rangers": "-476"
         }
     },
     {
@@ -867,7 +867,7 @@
         "away_score": 3,
         "odds": {
             "Sarnia Sting": "+112",
-            "Guelph Storm": "-138"
+            "Guelph Storm": "-139"
         }
     },
     {
@@ -1113,8 +1113,8 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-208",
-            "Flint Firebirds": "+165"
+            "Windsor Spitfires": "-209",
+            "Flint Firebirds": "+166"
         }
     },
     {
@@ -1126,8 +1126,8 @@
         "home_score": 5,
         "away_score": 8,
         "odds": {
-            "Saginaw Spirit": "-243",
-            "Guelph Storm": "+191"
+            "Saginaw Spirit": "-242",
+            "Guelph Storm": "+190"
         }
     },
     {
@@ -1217,7 +1217,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "Windsor Spitfires": "-684",
+            "Windsor Spitfires": "-685",
             "Peterborough Petes": "+455"
         }
     },
@@ -1361,7 +1361,7 @@
         "away_score": 0,
         "odds": {
             "Windsor Spitfires": "-164",
-            "Barrie Colts": "+131"
+            "Barrie Colts": "+132"
         }
     },
     {
@@ -1464,7 +1464,7 @@
         "home_score": 5,
         "away_score": 2,
         "odds": {
-            "London Knights": "-297",
+            "London Knights": "-296",
             "Guelph Storm": "+228"
         }
     },
@@ -1646,8 +1646,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Flint Firebirds": "+165",
-            "Windsor Spitfires": "-208"
+            "Flint Firebirds": "+166",
+            "Windsor Spitfires": "-209"
         }
     },
     {
@@ -1868,7 +1868,7 @@
         "away_score": 4,
         "odds": {
             "Erie Otters": "+143",
-            "Kingston Frontenacs": "-179"
+            "Kingston Frontenacs": "-178"
         }
     },
     {
@@ -1880,7 +1880,7 @@
         "home_score": 3,
         "away_score": 2,
         "odds": {
-            "Kitchener Rangers": "-214",
+            "Kitchener Rangers": "-215",
             "Owen Sound Attack": "+170"
         }
     },
@@ -1893,7 +1893,7 @@
         "home_score": 4,
         "away_score": 3,
         "odds": {
-            "London Knights": "-297",
+            "London Knights": "-296",
             "Guelph Storm": "+228"
         }
     },
@@ -2050,7 +2050,7 @@
         "away_score": 2,
         "odds": {
             "Kitchener Rangers": "-153",
-            "Flint Firebirds": "+123"
+            "Flint Firebirds": "+124"
         }
     },
     {
@@ -2089,7 +2089,7 @@
         "away_score": 6,
         "odds": {
             "Guelph Storm": "+228",
-            "London Knights": "-297"
+            "London Knights": "-296"
         }
     },
     {
@@ -2310,7 +2310,7 @@
         "away_score": 7,
         "odds": {
             "Owen Sound Attack": "+170",
-            "Kitchener Rangers": "-214"
+            "Kitchener Rangers": "-215"
         }
     },
     {
@@ -2439,7 +2439,7 @@
         "home_score": 4,
         "away_score": 0,
         "odds": {
-            "Windsor Spitfires": "-275",
+            "Windsor Spitfires": "-274",
             "Guelph Storm": "+213"
         }
     },
@@ -2530,7 +2530,7 @@
         "home_score": 4,
         "away_score": 1,
         "odds": {
-            "Windsor Spitfires": "-275",
+            "Windsor Spitfires": "-274",
             "Guelph Storm": "+213"
         }
     },
@@ -2635,7 +2635,7 @@
         "away_score": 2,
         "odds": {
             "Guelph Storm": "+213",
-            "Windsor Spitfires": "-275"
+            "Windsor Spitfires": "-274"
         }
     },
     {
@@ -2817,7 +2817,7 @@
         "away_score": 11,
         "odds": {
             "Guelph Storm": "+213",
-            "Windsor Spitfires": "-275"
+            "Windsor Spitfires": "-274"
         }
     },
     {
@@ -2920,8 +2920,8 @@
         "home_score": 4,
         "away_score": 2,
         "odds": {
-            "Windsor Spitfires": "-208",
-            "Flint Firebirds": "+165"
+            "Windsor Spitfires": "-209",
+            "Flint Firebirds": "+166"
         }
     },
     {
@@ -2959,8 +2959,8 @@
         "home_score": 6,
         "away_score": 5,
         "odds": {
-            "Windsor Spitfires": "-208",
-            "Flint Firebirds": "+165"
+            "Windsor Spitfires": "-209",
+            "Flint Firebirds": "+166"
         }
     },
     {
@@ -2998,8 +2998,8 @@
         "home_score": 1,
         "away_score": 2,
         "odds": {
-            "Flint Firebirds": "+165",
-            "Windsor Spitfires": "-208"
+            "Flint Firebirds": "+166",
+            "Windsor Spitfires": "-209"
         }
     },
     {
@@ -3050,8 +3050,8 @@
         "home_score": 3,
         "away_score": 5,
         "odds": {
-            "Flint Firebirds": "+165",
-            "Windsor Spitfires": "-208"
+            "Flint Firebirds": "+166",
+            "Windsor Spitfires": "-209"
         }
     },
     {
