@@ -15,7 +15,7 @@
         "winner": "Kingston Frontenacs",
         "odds": {
             "North Bay Battalion": "+258",
-            "Kingston Frontenacs": "-341"
+            "Kingston Frontenacs": "-342"
         },
         "game_time": "7:00 pm"
     },
@@ -24,7 +24,7 @@
         "away_team": "Ottawa 67's",
         "winner": "Saginaw Spirit",
         "odds": {
-            "Saginaw Spirit": "-292",
+            "Saginaw Spirit": "-293",
             "Ottawa 67's": "+225"
         },
         "game_time": "7:05 pm"
@@ -34,8 +34,8 @@
         "away_team": "Peterborough Petes",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Windsor Spitfires": "-683",
-            "Peterborough Petes": "+454"
+            "Windsor Spitfires": "-684",
+            "Peterborough Petes": "+455"
         },
         "game_time": "7:05 pm"
     }

@@ -4,7 +4,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Ottawa 67's": "+223",
+            "Ottawa 67's": "+224",
             "Brantford Bulldogs": "-290"
         },
         "game_time": "3:00 pm"
@@ -45,7 +45,7 @@
         "winner": "Sudbury Wolves",
         "odds": {
             "Peterborough Petes": "+274",
-            "Sudbury Wolves": "-365"
+            "Sudbury Wolves": "-366"
         },
         "game_time": "7:05 pm"
     },
@@ -65,7 +65,7 @@
         "winner": "Barrie Colts",
         "odds": {
             "Barrie Colts": "-229",
-            "North Bay Battalion": "+180"
+            "North Bay Battalion": "+181"
         },
         "game_time": "7:30 pm"
     }
