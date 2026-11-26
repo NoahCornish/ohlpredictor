@@ -1,38 +1,6 @@
 {
     "daily_accuracies": [
         {
-            "date": "2026-02-05",
-            "accuracy": 0.0,
-            "correct_predictions": 0,
-            "total_games": 3,
-            "game_details": [
-                {
-                    "home_team": "Erie Otters",
-                    "away_team": "Guelph Storm",
-                    "predicted_winner": "Erie Otters",
-                    "actual_winner": "Guelph Storm",
-                    "home_score": 2,
-                    "away_score": 3
-                },
-                {
-                    "home_team": "North Bay Battalion",
-                    "away_team": "Windsor Spitfires",
-                    "predicted_winner": "Windsor Spitfires",
-                    "actual_winner": "North Bay Battalion",
-                    "home_score": 5,
-                    "away_score": 4
-                },
-                {
-                    "home_team": "Peterborough Petes",
-                    "away_team": "Owen Sound Attack",
-                    "predicted_winner": "Owen Sound Attack",
-                    "actual_winner": "Peterborough Petes",
-                    "home_score": 3,
-                    "away_score": 2
-                }
-            ]
-        },
-        {
             "date": "2026-02-06",
             "accuracy": 62.5,
             "correct_predictions": 5,
@@ -2705,13 +2673,13 @@
             ]
         }
     ],
-    "total_accuracy": 54.3,
+    "total_accuracy": 55.0,
     "tossup_accuracy": 56.0,
-    "non_tossup_accuracy": 54.2,
+    "non_tossup_accuracy": 54.9,
     "total_correct": 144,
-    "total_games": 265,
+    "total_games": 262,
     "tossup_correct": 14,
     "tossup_games": 25,
     "non_tossup_correct": 130,
-    "non_tossup_games": 240
+    "non_tossup_games": 237
 }
