@@ -5,7 +5,7 @@
         "winner": "Windsor Spitfires",
         "odds": {
             "Guelph Storm": "+213",
-            "Windsor Spitfires": "-275"
+            "Windsor Spitfires": "-274"
         },
         "game_time": "6:30 pm"
     },
@@ -14,7 +14,7 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Niagara IceDogs": "+112",
+            "Niagara IceDogs": "+111",
             "Barrie Colts": "-138"
         },
         "game_time": "7:00 pm"
@@ -34,7 +34,7 @@
         "away_team": "Brantford Bulldogs",
         "winner": "Brantford Bulldogs",
         "odds": {
-            "Sudbury Wolves": "+135",
+            "Sudbury Wolves": "+134",
             "Brantford Bulldogs": "-168"
         },
         "game_time": "7:05 pm"
@@ -65,7 +65,7 @@
         "winner": "London Knights",
         "odds": {
             "Soo Greyhounds": "+174",
-            "London Knights": "-221"
+            "London Knights": "-220"
         },
         "game_time": "7:07 pm"
     }
