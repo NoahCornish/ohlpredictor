@@ -1,18 +1,5 @@
 [
     {
-        "date": "2026-02-08",
-        "home_team": "Ottawa 67's",
-        "away_team": "Owen Sound Attack",
-        "predicted_winner": "Owen Sound Attack",
-        "actual_winner": "Ottawa 67's",
-        "home_score": 5,
-        "away_score": 4,
-        "odds": {
-            "Ottawa 67's": "-100",
-            "Owen Sound Attack": "-123"
-        }
-    },
-    {
         "date": "2026-02-11",
         "home_team": "Soo Greyhounds",
         "away_team": "Sudbury Wolves",
@@ -61,7 +48,7 @@
         "away_score": 4,
         "odds": {
             "Ottawa 67's": "-116",
-            "North Bay Battalion": "-106"
+            "North Bay Battalion": "-107"
         }
     },
     {

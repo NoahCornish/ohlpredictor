@@ -4,7 +4,7 @@
         "away_team": "Windsor Spitfires",
         "winner": "Windsor Spitfires",
         "odds": {
-            "Guelph Storm": "+213",
+            "Guelph Storm": "+212",
             "Windsor Spitfires": "-274"
         },
         "game_time": "6:30 pm"
@@ -14,7 +14,7 @@
         "away_team": "Barrie Colts",
         "winner": "Barrie Colts",
         "odds": {
-            "Niagara IceDogs": "+111",
+            "Niagara IceDogs": "+112",
             "Barrie Colts": "-138"
         },
         "game_time": "7:00 pm"
@@ -24,8 +24,8 @@
         "away_team": "Peterborough Petes",
         "winner": "North Bay Battalion",
         "odds": {
-            "North Bay Battalion": "-199",
-            "Peterborough Petes": "+158"
+            "North Bay Battalion": "-200",
+            "Peterborough Petes": "+159"
         },
         "game_time": "7:00 pm"
     },

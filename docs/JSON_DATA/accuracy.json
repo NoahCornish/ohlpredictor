@@ -2602,12 +2602,12 @@
         }
     ],
     "total_accuracy": 54.7,
-    "tossup_accuracy": 56.0,
-    "non_tossup_accuracy": 54.6,
+    "tossup_accuracy": 58.3,
+    "non_tossup_accuracy": 54.3,
     "total_correct": 139,
     "total_games": 254,
     "tossup_correct": 14,
-    "tossup_games": 25,
+    "tossup_games": 24,
     "non_tossup_correct": 125,
-    "non_tossup_games": 229
+    "non_tossup_games": 230
 }
